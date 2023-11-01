@@ -5111,3 +5111,14 @@ Feed error: 504
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 0
 Finish: 2023-11-01 08:06:23.750299
+------------------------------------------------------
+Started: 2023-11-01 09:01:26.704713
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中国将新建五支国家突发急性传染病防控队](https://www.zaobao.com/realtime/china/story20231101-1447149)
+Append: [上海巨鹿路今晚周边交通调整：地铁封站跳停 公交绕改道](https://www.zaobao.com/realtime/china/story20231101-1447168)
+Append: [中国称中美都同意朝实现旧金山元首会晤努力](https://www.zaobao.com/realtime/china/story20231101-1447156)
+Append: [华侨城集团就过山车事故发公告致歉](https://www.zaobao.com/realtime/china/story20231101-1447140)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 4
+Finish: 2023-11-01 09:01:32.310908

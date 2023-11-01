@@ -5147,3 +5147,11 @@ Append: [阿里巴巴据报要求商家双十一提供最低价商品](https://w
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 2
 Finish: 2023-11-01 11:01:37.283157
+------------------------------------------------------
+Started: 2023-11-01 12:01:46.733929
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [台国安局长：大陆通过经济等手段影响台选举走向](https://www.zaobao.com/realtime/china/story20231101-1447145)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 1
+Finish: 2023-11-01 12:01:52.093180

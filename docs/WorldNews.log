@@ -5088,3 +5088,26 @@ Append: [在韩外国人抵押房贷呈增势 中国人居首](https://www.zaoba
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 5
 Finish: 2023-11-01 06:01:20.319672
+------------------------------------------------------
+Started: 2023-11-01 07:52:50.420322
+Existing_entries: 1005
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [郭台铭递交连署书没公布数量 强调会继续奋勇向前](https://www.zaobao.com/realtime/china/story20231101-1447148)
+Append: [民调显示逾六成台湾人不看好蓝白合](https://www.zaobao.com/realtime/china/story20231101-1447129)
+Append: [中共党员领导干部不能投资购买私募股权投资基金](https://www.zaobao.com/realtime/china/story20231101-1447138)
+Append: [香港放宽非本地研究生兼职等限制](https://www.zaobao.com/realtime/china/story20231101-1447123)
+Append: [杭州拟规范直播电商业：不得要求商家签最低价协议](https://www.zaobao.com/realtime/china/story20231101-1447136)
+Append: [中国通报多艘日本船只驶入钓鱼岛周围海域](https://www.zaobao.com/realtime/china/story20231101-1447128)
+Append: [新疆自贸试验区挂牌成立 中国西北沿边地区首个自贸试验区](https://www.zaobao.com/realtime/china/story20231101-1447125)
+Append: [台国防部：37架大陆军机越过海峡中线](https://www.zaobao.com/realtime/china/story20231101-1447122)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 8
+Finish: 2023-11-01 07:52:52.701062
+------------------------------------------------------
+Started: 2023-11-01 08:06:10.942042
+Existing_entries: 1008
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Feed error: 504
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 0
+Finish: 2023-11-01 08:06:23.750299

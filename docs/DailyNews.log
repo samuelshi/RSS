@@ -4383,3 +4383,14 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 1
 Finish: 2023-11-01 10:01:49.843681
+------------------------------------------------------
+Started: 2023-11-01 11:01:24.402194
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Append: [🖼 上海年轻人借万圣节嘲讽社会 在上海市中心的巨鹿路等区域，年轻人穿着各式各样的服装走上街头，庆祝万圣节。活动现场的照片和视频一时间占据了中国社交媒体...](https://t.me/OutsightChina/4877)
+Fetching from https://chinadigitaltimes.net/chinese/feed
+Append: [手紙｜上海狂欢：当“万圣节”成为“万梗节”](https://chinadigitaltimes.net/chinese/701685.html)
+append_entries: 2
+Finish: 2023-11-01 11:01:28.256111

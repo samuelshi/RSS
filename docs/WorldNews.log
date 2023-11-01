@@ -5122,3 +5122,11 @@ Append: [华侨城集团就过山车事故发公告致歉](https://www.zaobao.co
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 4
 Finish: 2023-11-01 09:01:32.310908
+------------------------------------------------------
+Started: 2023-11-01 09:24:25.189912
+Existing_entries: 1004
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [参加疯马秀表演 泰籍女星Lisa微博账号被封](https://www.zaobao.com/realtime/china/story20231101-1447159)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 1
+Finish: 2023-11-01 09:24:26.780939

@@ -5103,3 +5103,11 @@ Append: [台国防部：37架大陆军机越过海峡中线](https://www.zaobao.
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 8
 Finish: 2023-11-01 07:52:52.701062
+------------------------------------------------------
+Started: 2023-11-01 08:06:10.942042
+Existing_entries: 1008
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Feed error: 504
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 0
+Finish: 2023-11-01 08:06:23.750299

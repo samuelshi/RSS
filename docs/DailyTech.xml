@@ -4,18 +4,16 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+
 <item>
 <title>🖼 #RSS #AI #GitHub情报 📩 接读者来稿，他向我们推荐了自己的 RSS 订阅源 AI 总结开源项目 📢 RSS-GPT：用 ChatGPT 总结 RSS 订阅源，并托管在 GitHub ...</title>
 <link>https://t.me/NewlearnerChannel/11938</link>
 <guid>https://t.me/NewlearnerChannel/11938</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://t.me/NewlearnerChannel/11938?q=%23RSS">#RSS</a> <a href="https://t.me/NewlearnerChannel/11938?q=%23AI">#AI</a> <a href="https://t.me/NewlearnerChannel/11938?q=%23GitHub%E6%83%85%E6%8A%A5">#GitHub情报</a><br /><br /><span class="emoji">📩</span> 接读者来稿，他向我们推荐了自己的 RSS 订阅源 AI 总结开源项目<br /><br /><span class="emoji">📢</span> <b>RSS-GPT：用 ChatGPT 总结 RSS 订阅源，并托管在 GitHub 仓库和 Pages 上</b><br /><br /><span class="emoji">🔗</span>:  <a href="https://github.com/yinan-c/RSS-GPT" rel="noopener" target="_blank">GitHub</a> | <a href="https://yinan.me/rss-gpt-manual-zh.html" rel="noopener" target="_blank">Wiki</a><br /><br /><span class="emoji">💡</span> <b>原理</b><br /><br />使用 GitHub Actions 自动运行一个简单的 Python 脚本，调用 OpenAI API 总结订阅源中的文章，然后将新生成的 RSS 订阅源推送到 GitHub Pages。配置简单快速，无需服务器。<br /><br /><span class="emoji">👉</span> <b>Features<br /></b><br />- 使用 AI 生成关键词以及摘要附在原文前面，支持自定义摘要长度，自定义语言。<br />- 聚合多个 RSS 订阅源，去除重复文章，用单一地址订阅。<br />- 为 RSS 源添加基于标题，内容，URL 的关键词过滤器。<br />- 在 GitHub 仓库和 GitHub Pages 上自托管 RSS 订阅源，并在任意客户端中订阅。<br /><br /><span class="emoji">👍</span> 作者在博客写了关于本项目的 <a href="http://yinan.me/rss-gpt.html" rel="noopener" target="_blank">简单介绍</a> 以及 <a href="http://yinan.me/rss-gpt-manual-zh.html" rel="noopener" target="_blank">配置教程</a> ，并分享了几条 RSS-GPT 处理后的订阅源供大家参考订阅。<br /><br /><span class="emoji">👨🏻‍💻</span> <b>作者的话</b><br /><br />RSS 是我主要的信息获取方式，我可以把关注的内容和创造者聚合在一起集中阅读。但如若不加筛选，富含噪音的 RSS 在订阅中堆积会让让人疲惫不堪。每天几百几千条未读产生，如果“强迫症和焦虑症患者”强求 RSS 也 inbox-zero 的话，每天会花费很多的时间执着于清空未读上面。<br /><br />在这种情况下，一个非常有效的方法就是，对 RSS 进行关键词过滤，只保留自己真正感兴趣愿意花时间阅读的内容。而另一方面，在关键词筛选玩完，对 RSS 全文的中文总结也很有意义，这样可以快速了解到这篇文章的主要内容，来决定是否进一步精读。<br /><br />所以我开发了这样一个工具，并尽量在保证 API 和 Actions token 使用的前提，满足这两个需求。目前仅支持 OpenAI API 调用，未来会考虑加上 Azure OpenAI 或自定义 OpenAI 代理地址，或加上更多 AI 模型支持。<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.telegram-cdn.org/file/UEkK6quJ-KVApAfxphSTWibuHBHBFengravAkKQp2DCLZW2-exQ9GbWpjjfjTKgwRh9aTsFV0GRnM1YuXAnivNPSZ_klH9xJfdzQqLph_PhOjwzGjRNiLRmOTFP7F_SExcCLmFkmKqv2pnxqDh6bX6FO6Dbg20Zy7kxwNPizKP03GjJ24bA3Yc5qyjsrEJALgQFGX9GDt0Uv-awpmztHYuvz4g3JgqK76rl_56-zXSGkdqkwPD3ZU9-3c7tY_gsH2z-EsVUm2cHR4nxIZtvC9ly3NpV_-XCe4VOOMxCtgl_H_XYwQEhGJb-YxddpDvfrB0n0fZhTlJYyslbJgrkJTw.jpg" />
 ]]></content:encoded>
 <pubDate>Wed, 01 Nov 2023 07:01:34 GMT</pubDate>
-<pubDate>Wed, 01 Nov 2023 07:01:34 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 #AD #APP #macOS 🎈 Newlearner X 数码荔枝 「双十一」软件年度大促 本次活动全场 9 折起，20 余款软件 6 折起，近 20 款软件降至历史最低价。在此感谢所...</title>
 <link>https://t.me/NewlearnerChannel/11936</link>

@@ -4346,3 +4346,12 @@ Append: [知乎问答｜如何评价今年的上海万圣节?](https://chinadigi
 Append: [【404文库】城市的地得｜上海万圣节：一个城市的治愈](https://chinadigitaltimes.net/chinese/701672.html)
 append_entries: 8
 Finish: 2023-11-01 07:52:49.325366
+------------------------------------------------------
+Started: 2023-11-01 08:06:03.152221
+Existing_entries: 1008
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 0
+Finish: 2023-11-01 08:06:09.893738

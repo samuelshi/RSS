@@ -4373,3 +4373,13 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 0
 Finish: 2023-11-01 09:24:24.164552
+------------------------------------------------------
+Started: 2023-11-01 10:01:45.797622
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Append: [↩️🖼 在日本埼玉县10月31日发生的医院枪击和邮局劫持人质事件中，警方于当晚突入邮局，将嫌犯铃木常雄（现年86岁，原暴力团成员）控制，并以涉嫌违反“人质...](https://t.me/tnews365/28647)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 1
+Finish: 2023-11-01 10:01:49.843681

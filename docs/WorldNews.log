@@ -5130,3 +5130,11 @@ Append: [参加疯马秀表演 泰籍女星Lisa微博账号被封](https://www.z
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-01 09:24:26.780939
+------------------------------------------------------
+Started: 2023-11-01 10:01:51.095695
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [澳门10月博彩收入同比增长400%](https://www.zaobao.com/realtime/china/story20231101-1447155)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 1
+Finish: 2023-11-01 10:01:52.764295

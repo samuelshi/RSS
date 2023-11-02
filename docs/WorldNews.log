@@ -5432,3 +5432,11 @@ Append: [中国担任联合国安理会11月轮值主席](https://www.zaobao.com
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-02 21:02:46
+------------------------------------------------------
+Started: 2023-11-02 22:01:27
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [两股冷空气将影响中国 专家称雾霾天气将减弱消散](https://www.zaobao.com/realtime/china/story20231102-1447398)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 1
+Finish: 2023-11-02 22:01:32

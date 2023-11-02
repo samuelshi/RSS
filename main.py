@@ -287,8 +287,6 @@ config.read('config.ini')
 secs = config.sections()
 # Maxnumber of entries to in a feed.xml file
 max_entries = 1000
-# Change timezone from UTC to local time
-tz = pytz.timezone('Asia/Shanghai')
 
 OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
 U_NAME = os.environ.get('U_NAME')
@@ -325,5 +323,5 @@ with open(readme, 'w') as f:
 # Modify template.html to change the style
 with open(os.path.join(BASE, 'index.html'), 'w') as f:
     template = Template(open('template.html').read())
-    html = template.render(update_time=datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S").astimezone(tz), feeds=feeds)
+    html = template.render(update_time=datetime.datetime.now(pytz.timezone('Asia/Shanghai')).strftime("%Y-%m-%d %H:%M:%S").astimezone(tz), feeds=feeds)
     f.write(html)

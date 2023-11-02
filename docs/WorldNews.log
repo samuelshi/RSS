@@ -5416,3 +5416,11 @@ Append: [台官方公布一名台湾护照持有者已离开加沙地带](https:
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 3
 Finish: 2023-11-02 19:02:52
+------------------------------------------------------
+Started: 2023-11-02 20:01:52
+Existing_entries: 1003
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [下午察：双十一15载 电商降价牌还能“卷”多久？](https://www.zaobao.com/realtime/china/story20231102-1447470)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 1
+Finish: 2023-11-02 20:01:57

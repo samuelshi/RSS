@@ -6,11 +6,11 @@ from jinja2 import Template
 from bs4 import BeautifulSoup
 import re
 import datetime
-#from dateutil.parser import parse
+import pytz
 
 def generate_untitled(entry):
     try: return entry.title
-    except: 
+    except:
         try: return entry.article[:50]
         except: return entry.link
 
@@ -48,10 +48,10 @@ def clean_html(html_content):
 
     for audio in soup.find_all("audio"):
         audio.decompose()
-    
+
     for iframe in soup.find_all("iframe"):
         iframe.decompose()
-    
+
     for input in soup.find_all("input"):
         input.decompose()
 
@@ -227,13 +227,6 @@ def output(sec, language):
                     f.write(f"Filter: [{entry.title}]({entry.link})\n")
                 continue
 
-
-#            # format to Thu, 27 Jul 2023 13:13:42 +0000
-#            if 'updated' in entry:
-#                entry.updated = parse(entry.updated).strftime('%a, %d %b %Y %H:%M:%S %z')
-#            if 'published' in entry:
-#                entry.published = parse(entry.published).strftime('%a, %d %b %Y %H:%M:%S %z')
-
             cnt += 1
             if cnt > max_items:
                 entry.summary = None
@@ -277,7 +270,7 @@ def output(sec, language):
         f.write(f'append_entries: {len(append_entries)}\n')
 
     template = Template(open('template.xml').read())
-    
+
     try:
         rss = template.render(feed=feed, append_entries=append_entries, existing_entries=existing_entries)
         with open(out_dir + '.xml', 'w') as f:
@@ -294,10 +287,12 @@ config.read('config.ini')
 secs = config.sections()
 # Maxnumber of entries to in a feed.xml file
 max_entries = 1000
+# Change timezone from UTC to local time
+tz = pytz.timezone('Asia/Shanghai')
 
 OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
 U_NAME = os.environ.get('U_NAME')
-deployment_url = f'https://{U_NAME}.github.io/RSS-GPT/'
+deployment_url = f'https://{U_NAME}.github.io/RSS/'
 BASE =get_cfg('cfg', 'BASE')
 keyword_length = int(get_cfg('cfg', 'keyword_length'))
 summary_length = int(get_cfg('cfg', 'summary_length'))
@@ -330,5 +325,5 @@ with open(readme, 'w') as f:
 # Modify template.html to change the style
 with open(os.path.join(BASE, 'index.html'), 'w') as f:
     template = Template(open('template.html').read())
-    html = template.render(update_time=datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"), feeds=feeds)
+    html = template.render(update_time=datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S").astimezone(tz), feeds=feeds)
     f.write(html)

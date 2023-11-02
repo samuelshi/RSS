@@ -5397,3 +5397,12 @@ Append: [中国外交部证实中美将举行军控和防扩散磋商](https://w
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 6
 Finish: 2023-11-02 17:01:43
+------------------------------------------------------
+Started: 2023-11-02 18:01:40
+Existing_entries: 1006
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中国促缅甸各方停火 确保中缅边境安全](https://www.zaobao.com/realtime/china/story20231102-1447406)
+Append: [四川国企员工名下263套房？居委会称非个人所有](https://www.zaobao.com/realtime/china/story20231102-1447416)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-02 18:01:50

@@ -4931,3 +4931,14 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 0
 Finish: 2023-11-03 00:01:42
+------------------------------------------------------
+Started: 2023-11-03 01:01:34
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+Append: [环球疯人院｜国外媒体如何纪念他？他将作为自由市场和穷人的拥护者而被铭记](https://chinadigitaltimes.net/chinese/701766.html)
+Append: [每日一语 2023.11.2](https://chinadigitaltimes.net/chinese/701764.html)
+append_entries: 2
+Finish: 2023-11-03 01:01:42

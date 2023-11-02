@@ -5256,3 +5256,13 @@ Append: [北京天安门下半旗悼念李克强](https://www.zaobao.com/realtim
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 4
 Finish: 2023-11-02 01:22:59.026083
+------------------------------------------------------
+Started: 2023-11-02 02:07:57.253451
+Existing_entries: 1004
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [比亚迪新能源乘用车10月销量再创新高](https://www.zaobao.com/realtime/china/story20231102-1447325)
+Append: [美众院委员会寻求禁止政府购买中国无人机](https://www.zaobao.com/realtime/china/story20231102-1447326)
+Append: [梅西11月中国行宣布取消](https://www.zaobao.com/realtime/china/story20231102-1447321)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 3
+Finish: 2023-11-02 02:07:59.608816

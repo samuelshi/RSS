@@ -323,5 +323,5 @@ with open(readme, 'w') as f:
 # Modify template.html to change the style
 with open(os.path.join(BASE, 'index.html'), 'w') as f:
     template = Template(open('template.html').read())
-    html = template.render(update_time=datetime.datetime.now(pytz.timezone('Asia/Shanghai')).strftime("%Y-%m-%d %H:%M:%S").astimezone(tz), feeds=feeds)
+    html = template.render(update_time=datetime.datetime.now(pytz.timezone('Asia/Shanghai')).strftime("%Y-%m-%d %H:%M:%S"), feeds=feeds)
     f.write(html)

@@ -5333,3 +5333,13 @@ Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 0
 Finish: 2023-11-02 14:04:38.483173+08:00
+------------------------------------------------------
+Started: 2023-11-02 14:33:42
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中国央行：因城施策指导城市政府精准实施差别化住房信贷政策](https://www.zaobao.com/realtime/china/story20231102-1447367)
+Append: [中国和哈萨克斯坦互免签证](https://www.zaobao.com/realtime/china/story20231102-1447352)
+Append: [台外长谈习拜会：美方每次都会与台湾沟通](https://www.zaobao.com/realtime/china/story20231102-1447348)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 3
+Finish: 2023-11-02 14:33:44

@@ -177,7 +177,7 @@ def output(sec, language):
     existing_entries = read_entry_from_file(sec)
     with open(log_file, 'a') as f:
         f.write('------------------------------------------------------\n')
-        f.write(f'Started: {datetime.datetime.now(pytz.timezone("Asia/Shanghai"))}\n')
+        f.write(f'Started: {datetime.datetime.now(pytz.timezone("Asia/Shanghai")).strftime("%Y-%m-%d %H:%M:%S")}\n')
         f.write(f'Existing_entries: {len(existing_entries)}\n')
     existing_entries = truncate_entries(existing_entries, max_entries=max_entries)
     # Be careful when the deleted ones are still in the feed, in that case, you will mess up the order of the entries.
@@ -276,7 +276,7 @@ def output(sec, language):
         with open(out_dir + '.xml', 'w') as f:
             f.write(rss)
         with open(log_file, 'a') as f:
-            f.write(f'Finish: {datetime.datetime.now(pytz.timezone("Asia/Shanghai"))}\n')
+            f.write(f'Finish: {datetime.datetime.now(pytz.timezone("Asia/Shanghai")).strftime("%Y-%m-%d %H:%M:%S")}\n')
     except:
         with open (log_file, 'a') as f:
             f.write(f"error when rendering xml, skip {out_dir}\n")

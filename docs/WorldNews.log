@@ -5309,3 +5309,12 @@ Append: [郑州官方辟谣离世女教师生前“加班数石榴”](https://w
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-02 05:01:25.817656
+------------------------------------------------------
+Started: 2023-11-02 05:33:27.784291
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [港金管局称高息环境或持续 提醒民众注意风险](https://www.zaobao.com/realtime/china/story20231102-1447339)
+Append: [柯侯郭同台出席宗教活动前座位多次被调整](https://www.zaobao.com/realtime/china/story20231102-1447350)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-02 05:33:28.858222

@@ -43,8 +43,8 @@ You can check out [here](https://yinan-c.github.io/rss-gpt-manual-en.html) for a
 These feeds on hosted in the [`doc/` subdirectory](https://github.com/yinan-c/RSS-GPT/tree/main/docs) in this repo as well as on my [GitHub Pages](https://yinan-c.github.io/RSS-GPT/). Feel free to subscribe in your favorite RSS reader.
 
 I will consider hosting more feeds in the future. Email me or submit an issue if there is any question using the script or any suggestions.
-- https://rss-hub-red-two.vercel.app/telegram/channel/tnews365, https://rss-hub-red-two.vercel.app/telegram/channel/times001, https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina, https://chinadigitaltimes.net/chinese/feed -> https://samuelshi.github.io/RSS-GPT/DailyNews.xml
-- https://rss-hub-red-two.vercel.app/zaobao/realtime/china, https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews -> https://samuelshi.github.io/RSS-GPT/WorldNews.xml
-- https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel, https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection, https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts -> https://samuelshi.github.io/RSS-GPT/DailyTech.xml
-- https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed -> https://samuelshi.github.io/RSS-GPT/appinn.xml
-- https://nitter.cz/caiziboshi/rss, https://nitter.cz/Pandazhq/rss, https://nitter.cz/whyyoutouzhele/rss, https://nitter.cz/fangshimin/rss, https://nitter.cz/cskun1989/rss, https://nitter.cz/myfxtrader/rss -> https://samuelshi.github.io/RSS-GPT/Twitter.xml
+- https://rss-hub-red-two.vercel.app/telegram/channel/tnews365, https://rss-hub-red-two.vercel.app/telegram/channel/times001, https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina, https://chinadigitaltimes.net/chinese/feed -> https://samuelshi.github.io/RSS/DailyNews.xml
+- https://rss-hub-red-two.vercel.app/zaobao/realtime/china, https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews -> https://samuelshi.github.io/RSS/WorldNews.xml
+- https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel, https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection, https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts -> https://samuelshi.github.io/RSS/DailyTech.xml
+- https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed -> https://samuelshi.github.io/RSS/appinn.xml
+- https://nitter.cz/caiziboshi/rss, https://nitter.cz/Pandazhq/rss, https://nitter.cz/whyyoutouzhele/rss, https://nitter.cz/fangshimin/rss, https://nitter.cz/cskun1989/rss, https://nitter.cz/myfxtrader/rss -> https://samuelshi.github.io/RSS/Twitter.xml

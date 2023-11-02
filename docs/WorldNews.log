@@ -5373,3 +5373,14 @@ Append: [中国军方指菲军舰闯入黄岩岛邻近 菲批无法律依据](ht
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-02 15:13:32
+------------------------------------------------------
+Started: 2023-11-02 16:01:31
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [菲警方通报正寻找六名遭绑架中国公民下落](https://www.zaobao.com/realtime/china/story20231102-1447374)
+Append: [日媒：日本未报名乒乓球新赛事引发中方不满](https://www.zaobao.com/realtime/china/story20231102-1447370)
+Append: [台国安人士：大陆舆论手法从“疑美论”转为“和战抉择论”](https://www.zaobao.com/realtime/china/story20231102-1447385)
+Append: [李克强遗体火化 习近平等到八宝山公墓送别](https://www.zaobao.com/realtime/china/story20231102-1447379)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 4
+Finish: 2023-11-02 16:01:37

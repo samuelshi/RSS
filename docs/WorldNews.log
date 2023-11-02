@@ -5236,3 +5236,12 @@ Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 0
 Finish: 2023-11-01 23:01:44.398956
+------------------------------------------------------
+Started: 2023-11-02 00:02:58.929128
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中国加大对津巴布韦矿业和能源领域投资](https://www.zaobao.com/realtime/china/story20231102-1447303)
+Append: [中国女足战平韩国 无缘巴黎奥运会](https://www.zaobao.com/realtime/china/story20231102-1447302)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-02 00:03:04.773740

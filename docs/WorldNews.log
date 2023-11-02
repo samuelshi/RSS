@@ -5276,3 +5276,12 @@ Append: [李克强遗体今火化 港媒：告别式上午八宝山举行](https
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 3
 Finish: 2023-11-02 03:01:49.799725
+------------------------------------------------------
+Started: 2023-11-02 04:01:36.468369
+Existing_entries: 1003
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [百胜中国创五年来最大跌幅](https://www.zaobao.com/realtime/china/story20231102-1447343)
+Append: [美加军舰驶经台湾海峡](https://www.zaobao.com/realtime/china/story20231102-1447341)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-02 04:01:41.946337

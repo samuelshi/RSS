@@ -1,86 +1,132 @@
 
 <!DOCTYPE html>
-<html lang="zh-CN">
-  <head>
-    <meta charset="UTF-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, shrink-to-fit=no"
-    />    
-  <title>RSS feeds</title>
-  </head>
-  <body>
-    
+<html lang=" zh-CN">
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div id="header-created-at">
-        <span style="font-size: 0.5 em; color: #888;"> {{update_time}} </span>
+<head>
+
+  <!-- google analytics -->
+  
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WCRC1TC2V5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+
+  gtag('config', 'G-WCRC1TC2V5');
+</script>
+  
+
+  <!-- Jekyll SEO plugin -->
+  <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Blog | Personal Website</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="Blog" />
+<meta name="author" content="Samuel Shi" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="This is my personal website" />
+<meta property="og:description" content="This is my personal website" />
+<link rel="canonical" href="https://samuelshi.github.io/blog" />
+<meta property="og:url" content="https://samuelshi.github.io/blog" />
+<meta property="og:site_name" content="Personal Website" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Blog" />
+<meta name="twitter:site" content="@" />
+<meta name="twitter:creator" content="@Samuel Shi" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Samuel Shi"},"description":"This is my personal website","headline":"Blog","url":"https://samuelshi.github.io/blog"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+  <title>Personal Website</title>
+
+  <!-- TailwindCSS and Inter Font-->
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/tailwind.css">
+  <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+
+  <!-- fontawesome -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
+    integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+  
+    <!-- highlight.js -->
+   <link rel="stylesheet"
+    href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.4.0/styles/github-dark-dimmed.min.css">
+  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.4.0/highlight.min.js"></script>
+  <script>hljs.highlightAll();</script>
+  
+  <!-- MathJax -->
+  <script>
+    MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']]
+      },
+    };
+  </script>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+ </head>
+<body class="font-sans mx-auto max-w-prose">
+<div class="pt-12 pb-4">
+  <nav class="flex flex-wrap items-center justify-center px-2 mb-6">
+    <div class="container px-4 mx-auto flex flex-wrap items-center justify-center">
+        <div class="w-full relative flex justify-center">
+            <button type="button" onclick="toggleNavbar('navbar')"
+                class="rounded-md inline-flex items-center justify-center text-gray-500 md:hidden"
+                aria-expanded="false">
+                <span class="sr-only">Open menu</span>
+                <!-- Heroicon name: outline/menu -->
+                <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+                    stroke="currentColor" aria-hidden="true">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+                </svg>
+            </button>
+        </div>
+
+        <div class="flex hidden md:block" id="navbar">
+            <div class="flex flex-col md:flex-row mr-auto w-full">
+                 <!-- don't show Home in menu for Homepage -->
+                <a class="text-sm text-gray-500 hover:text-gray-900 px-3 py-2 lg:py-1 mx-auto uppercase"
+                    href="/">
+                    Home
+                </a>
+                
+
+                <!-- dynamic menu based on navigation info in _config.yml -->
+                
+                     <!-- don't show current page in menu -->
+                    <a class="text-sm text-gray-500 hover:text-gray-900 px-3 py-2 lg:py-1 mx-auto uppercase"
+                        href="/about">
+                        About
+                    </a>
+                    
+                
+                     <!-- don't show current page in menu -->
+                    <a class="text-sm text-gray-500 hover:text-gray-900 px-3 py-2 lg:py-1 mx-auto uppercase"
+                        href="/Blog">
+                        Test
+                    </a>
+                    
+                
+                    
+                
+            </div>
+        </div>
     </div>
-
-    <div id="header-home-link" style="font-size: 0.5 em;">
-        <a href="/index.html">&lt; Home</a>
-        
-    </div>
-</div>
-
-
-    <main>
+</nav>
+    <main class="px-4 pt-4 prose prose-indigo">
 
 
 
-      <h1>RSS feeds processed with <a href="https://github.com/samuelshi/rss">RSS</a></h1>
+      <h1 class="text-center mt-6 mb-6">RSS feeds processed with <a href="https://github.com/samuelshi/rss">RSS</a></h1>
       {% for feed in feeds %}
       <ul>
-      <li><a href="{{feed.url}}">{{feed.url}}</a> -> <a href="{{feed.name}}">{{feed.name}}.xml</a></li>
+      <li class="py-1"><a href="{{feed.url}}">{{feed.url}}</a> -> <a href="{{feed.name}}">{{feed.name}}.xml</a></li>
       </ul>
       {% endfor %}
-
-<style>
-.nav-button {
-  padding: 10px 20px;
-  background-color: #F2F2F2; /* Light grey */
-  border: none;
-  color: black; /* Change text color to black for visibility against transparent background */
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 14px;
-  margin: 4px 2px;
-  cursor: pointer;
-  transition-duration: 0.4s;
-  border-radius: 5px;
-  width: 48%; /* Set the width to approximately half the page */
-  white-space: normal; /* Allow text to wrap onto a new line */
-  box-sizing: border-box; /* Include padding and border in element's total width and height */
-}
-
-
-@media (max-width: 600px) {
-  .nav-button {
-    font-size: 12px;  /* 在小屏幕上减小字体大小 */
-  }
-}
-
-.nav-button a {
-  color: inherit; /* Inherit text color from parent element */
-  text-decoration: none;
-}
-
-.nav-button:hover {
-  background-color: #EAEAEA; /* Dark grey on hover */ 
-}
-
-#prev-button {
-  float: left;
-  text-align: left;
-}
-
-#next-button {
-  float: right;
-  text-align: right;
-}
-</style>
-
 
 
 <br>
@@ -88,23 +134,74 @@
 </main>
     
 
-<div id="updated-at">
+<div>
   <span>Updated: {{update_time}}</span>
 </div>
 
-<div id="footer">
-  <div id="footer-home-link">
-    <a href="/index.html">&lt; Home</a>
-    
+<footer class="relative px-4 pt-4 pb-4">
+  
+  <!-- divider -->
+  <div class="relative my-8">
+    <div class="absolute inset-0 flex items-center" aria-hidden="true">
+      <div class="w-full border-t border-gray-200"></div>
+    </div>
+    <div class="relative flex justify-center ">
+      <span class="bg-white px-2 text-gray-200">
+        <i class="text-xs far fa-square"></i>
+      </span>
+    </div>
   </div>
-  <p id="footer-body">
-    With <a href = "https://github.com/samuelshi/RSS"><img src="/pics/github-mark.png" width="15" height="15" style="vertical-align: text-top;"> samuelshi/RSS</a>
-    <a href="http://creativecommons.org/licenses/by/4.0/"><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" alt="Creative Commons Licence" width="45" style="vertical-align: text-top;" ></a>
-    · Subscribe via <a href="/atom.xml"> RSS <img src="https://wp-assets.rss.com/blog/wp-content/uploads/2019/10/10111557/social_style_3_rss-512-1.png" alt="RSS" width="15" height="15" style="vertical-align: text-top;"></a>
-  </p>
+
+  <!-- footer msg -->
+  <div class="flex flex-wrap items-center justify-center">
+    <div class="text-sm text-gray-300">
+      © <span id="get-current-year"></span>
+      
+      <a href="https://github.com/samuelshi/samuelshi.github.io" class="!no-underline">
+        Powered by Tailpages
+      </a>
+      
+    </div>
+  </div>
+  </div>
+</footer>
 </div>
-
   </body>
+<script>
+  /* Funtion for getting the current year in the footer */
+  (function () {
+    if (document.getElementById("get-current-year")) {
+      document.getElementById(
+        "get-current-year"
+      ).innerHTML = new Date().getFullYear();
+    }
+  })();
 
+  /* Function for opning navbar on mobile */
+  function toggleNavbar(collapseID) {
+      document.getElementById(collapseID).classList.toggle("hidden");
+      document.getElementById(collapseID).classList.toggle("block");
+    }
+    /* Function for dropdowns */
+    function openDropdown(event, dropdownID) {
+      let element = event.target;
+      while (element.nodeName !== "A") {
+        element = element.parentNode;
+      }
+      document.getElementById(dropdownID).classList.toggle("hidden");
+      document.getElementById(dropdownID).classList.toggle("block");
+    }
+
+  /* Function for show/hide table of content */
+  function toggleTOC() {
+    var toc = document.getElementById('toc');
+        if (toc.style.display == "block"){ // if toc hidden, display it 
+            toc.style.display = "none";
+        }
+        else{ // if toc displayed, hidden it
+            toc.style.display = "block";
+        }
+    }
+</script>
   
 </html>

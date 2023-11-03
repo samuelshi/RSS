@@ -5561,3 +5561,14 @@ Append: [民众党称收到国民党非涉民主初选对案](https://www.zaobao
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 2
 Finish: 2023-11-03 13:01:55
+------------------------------------------------------
+Started: 2023-11-03 14:01:40
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中国商务部长王文涛会见美光CEO](https://www.zaobao.com/realtime/china/story20231103-1447627)
+Append: [习近平：中美关系的基础在民间](https://www.zaobao.com/realtime/china/story20231103-1447608)
+Append: [柯文哲强调坚持全民调：为蓝白合一再退让失去自我](https://www.zaobao.com/realtime/china/story20231103-1447623)
+Append: [中国车企再发起价格战 比亚迪最高降价1.8万人民币](https://www.zaobao.com/realtime/china/story20231103-1447607)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 4
+Finish: 2023-11-03 14:01:42

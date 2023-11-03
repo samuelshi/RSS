@@ -5524,3 +5524,11 @@ Append: [中美将举行气候变化会谈](https://www.zaobao.com/realtime/chin
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 4
 Finish: 2023-11-03 09:23:15
+------------------------------------------------------
+Started: 2023-11-03 10:08:38
+Existing_entries: 1004
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [江苏溧阳副市长被实名举报与同事暧昧 纪检机关启动核查](https://www.zaobao.com/realtime/china/story20231103-1447581)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 1
+Finish: 2023-11-03 10:08:43

@@ -5543,3 +5543,12 @@ Append: [美议员推法案 要求评估49名香港官员是否符合制裁标�
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 4
 Finish: 2023-11-03 11:01:45
+------------------------------------------------------
+Started: 2023-11-03 12:01:44
+Existing_entries: 1004
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [湖南一医院解聘全体员工 当地卫健委：正和医院员工沟通协商](https://www.zaobao.com/realtime/china/story20231103-1447610)
+Append: [内蒙古高院原院长胡毅峰被控受贿3754万人民币](https://www.zaobao.com/realtime/china/story20231103-1447604)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-03 12:01:49

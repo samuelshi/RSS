@@ -5504,3 +5504,12 @@ Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 0
 Finish: 2023-11-03 07:01:46
+------------------------------------------------------
+Started: 2023-11-03 08:02:50
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [台外长：萧美琴若当赖清德副手 会有加分作用](https://www.zaobao.com/realtime/china/story20231103-1447556)
+Append: [马斯克：希望中国在人工智能问题上与美英合作](https://www.zaobao.com/realtime/china/story20231103-1447554)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-03 08:02:55

@@ -5630,3 +5630,12 @@ Append: [台外交部感谢日本专机载台侨撤离以色列](https://www.zao
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 2
 Finish: 2023-11-03 20:01:54
+------------------------------------------------------
+Started: 2023-11-03 21:03:15
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [留日港生发表支持港独言论 回港被拘捕并判刑](https://www.zaobao.com/realtime/china/story20231103-1447674)
+Append: [习近平：中国将欧洲视为多极化中重要一极](https://www.zaobao.com/realtime/china/story20231103-1447728)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-03 21:03:20

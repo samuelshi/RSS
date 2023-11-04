@@ -5776,3 +5776,13 @@ Append: [驻中央外办纪检监察组长：外交干部被渗透策反风险�
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 2
 Finish: 2023-11-04 15:01:39
+------------------------------------------------------
+Started: 2023-11-04 16:01:39
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中纪委同日通报三名在职或离职纪检干部被查](https://www.zaobao.com/realtime/china/story20231104-1447871)
+Append: [天主教北京教区主教李山应邀访港五天](https://www.zaobao.com/realtime/china/story20231104-1447850)
+Append: [中美举行首轮海洋事务磋商 同意加强沟通避免误判](https://www.zaobao.com/realtime/china/story20231104-1447864)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 3
+Finish: 2023-11-04 16:01:44

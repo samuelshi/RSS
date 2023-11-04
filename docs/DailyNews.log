@@ -5262,3 +5262,15 @@ Append: [【图说天朝】媒派｜今日全国主要党报头版](https://chin
 Append: [阿亮评论｜在北京，白菜被制度化为了垃圾](https://chinadigitaltimes.net/chinese/701791.html)
 append_entries: 2
 Finish: 2023-11-04 08:02:50
+------------------------------------------------------
+Started: 2023-11-04 09:22:33
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Append: [🖼 巴基斯坦3日发生两起袭击事件，共造成至少19人死亡。 在西北部开伯尔-普什图省德拉伊斯梅尔汗地区，一辆警车经过一处繁忙市场时遭遥控炸弹爆炸袭击，造成至...](https://t.me/tnews365/28679)
+Append: [🖼 美国地质调查局测定，尼泊尔久姆拉以南42公里处北京时间4日2时2分发生5.6级地震，震源深度17.9千米。印度首都新德里亦有震感。 当地官员称，地震已造成至少...](https://t.me/tnews365/28678)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Append: [🎬 Saved by @download_it_bot 贫困率20%，香港底层穷人住什么地方？ 香港有140万贫困人口，他们都住在什么地方呢？住在麦当劳、住在公园、睡在大街上、住在镗...](https://t.me/times001/654925)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 3
+Finish: 2023-11-04 09:22:40

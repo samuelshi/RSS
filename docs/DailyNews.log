@@ -5531,3 +5531,13 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 0
 Finish: 2023-11-05 00:01:31
+------------------------------------------------------
+Started: 2023-11-05 01:01:10
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+Append: [【CDT报告汇·专题】别了，李克强；别了，希望尚存的时代](https://chinadigitaltimes.net/chinese/701653.html)
+append_entries: 1
+Finish: 2023-11-05 01:01:14

@@ -5749,3 +5749,12 @@ Append: [15名蓝营县市长连署 支持朱立伦蓝白整合新方案](https:
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-04 12:01:48
+------------------------------------------------------
+Started: 2023-11-04 13:01:30
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [吉林一煤矿违法转运火化遗体蓄意瞒报 36人被问责](https://www.zaobao.com/realtime/china/story20231104-1447835)
+Append: [中国前10个月发行地方债规模突破8万亿人民币](https://www.zaobao.com/realtime/china/story20231104-1447840)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-04 13:01:36

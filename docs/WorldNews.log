@@ -5786,3 +5786,13 @@ Append: [中美举行首轮海洋事务磋商 同意加强沟通避免误判](ht
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 3
 Finish: 2023-11-04 16:01:44
+------------------------------------------------------
+Started: 2023-11-04 17:01:26
+Existing_entries: 1003
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中国工信部长：加强前瞻性研究 支持地方先行先试](https://www.zaobao.com/realtime/china/story20231104-1447868)
+Append: [中国商务部召开外企圆桌会欢迎各国企业投资](https://www.zaobao.com/realtime/china/story20231104-1447852)
+Append: [中国工商银行原副行长张红力被查](https://www.zaobao.com/realtime/china/story20231104-1447875)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 3
+Finish: 2023-11-04 17:01:31

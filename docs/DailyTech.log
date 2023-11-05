@@ -3129,3 +3129,12 @@ Append: [Discord 将切换到临时文件链接以阻止恶意软件传递 社�
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
 append_entries: 1
 Finish: 2023-11-05 07:01:28
+------------------------------------------------------
+Started: 2023-11-05 08:03:33
+Existing_entries: 267
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
+append_entries: 0
+Finish: 2023-11-05 08:03:37

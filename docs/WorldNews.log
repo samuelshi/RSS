@@ -6017,3 +6017,11 @@ Append: [台中研院院士称大选恐选出“双少数”总统](https://www.
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-05 20:01:48
+------------------------------------------------------
+Started: 2023-11-05 21:01:43
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中国已建立60支国家级公共卫生和医疗应急队伍](https://www.zaobao.com/realtime/china/story20231105-1448020)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 1
+Finish: 2023-11-05 21:01:49

@@ -6033,3 +6033,11 @@ Append: [驻港国安公署：绝不允许美少数政治人物操弄议题祸�
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-05 22:01:35
+------------------------------------------------------
+Started: 2023-11-05 23:01:19
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [陕西省延安至榆林高速铁路开工建设](https://www.zaobao.com/realtime/china/story20231105-1448006)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 1
+Finish: 2023-11-05 23:01:25

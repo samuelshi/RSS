@@ -5909,3 +5909,12 @@ Append: [中美合拍电影展映活动在洛杉矶举行](https://www.zaobao.co
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-05 08:03:33
+------------------------------------------------------
+Started: 2023-11-05 09:26:04
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [广东恩平市发生4.3级地震](https://www.zaobao.com/realtime/china/story20231105-1447964)
+Append: [中共北京市委常委孙梅君任河南省委副书记](https://www.zaobao.com/realtime/china/story20231105-1447962)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-05 09:26:10

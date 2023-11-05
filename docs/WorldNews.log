@@ -5973,3 +5973,12 @@ Append: [广东一家医院推出红包先收后退措施 上缴奖100人民币]
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 2
 Finish: 2023-11-05 15:01:39
+------------------------------------------------------
+Started: 2023-11-05 16:01:47
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [网络主播李佳琦公司：招商选品不存在绿色通道](https://www.zaobao.com/realtime/china/story20231105-1448019)
+Append: [港财政司长：香港全年经济增长将低于年初估算](https://www.zaobao.com/realtime/china/story20231105-1448002)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-05 16:01:53

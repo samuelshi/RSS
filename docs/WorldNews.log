@@ -5936,3 +5936,12 @@ Append: [中美两国举行外交政策磋商](https://www.zaobao.com/realtime/c
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 2
 Finish: 2023-11-05 11:01:55
+------------------------------------------------------
+Started: 2023-11-05 12:01:46
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [地震专家：广东近期发生高烈度地震可能性较低](https://www.zaobao.com/realtime/china/story20231105-1447987)
+Append: [港保安局长：美政治人物恐吓香港如同黑社会](https://www.zaobao.com/realtime/china/story20231105-1447977)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-05 12:01:52

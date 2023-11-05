@@ -5645,3 +5645,14 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 20
 Finish: 2023-11-05 10:11:02
+------------------------------------------------------
+Started: 2023-11-05 11:01:43
+Existing_entries: 1020
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Append: [🖼 习在妇联会谈中强调女性回归家庭 10月30日,中共中央总书记习近平在中南海同全国妇联新一届领导班子成员集体谈话,强调要坚定不移走中国特色社会主义妇女发展...](https://t.me/OutsightChina/4897)
+Fetching from https://chinadigitaltimes.net/chinese/feed
+Append: [【CDT专访】西藏行动中心联合创始人：藏人的抵抗不会停止](https://chinadigitaltimes.net/chinese/701838.html)
+append_entries: 2
+Finish: 2023-11-05 11:01:49

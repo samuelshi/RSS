@@ -3160,3 +3160,12 @@ Append: [Telegram 对发送 Open Message 链接实施处罚 Tginfo 频道的用�
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
 append_entries: 1
 Finish: 2023-11-05 10:11:13
+------------------------------------------------------
+Started: 2023-11-05 11:01:56
+Existing_entries: 271
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
+append_entries: 0
+Finish: 2023-11-05 11:01:59

@@ -5927,3 +5927,12 @@ Append: [中国两医院报告胎儿内脏反位发病率增加四倍 疑与冠�
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 2
 Finish: 2023-11-05 10:11:09
+------------------------------------------------------
+Started: 2023-11-05 11:01:50
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [习近平：期望进博会让中国大市场成为世界共享的大市场](https://www.zaobao.com/realtime/china/story20231105-1447975)
+Append: [中美两国举行外交政策磋商](https://www.zaobao.com/realtime/china/story20231105-1447972)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-05 11:01:55

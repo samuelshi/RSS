@@ -6115,3 +6115,11 @@ Append: [广交会线下出口成交金额较上届增长2.8%](https://www.zaoba
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 3
 Finish: 2023-11-06 09:24:47
+------------------------------------------------------
+Started: 2023-11-06 10:10:47
+Existing_entries: 1003
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [东北降雪量或破历史同期极值 多地停课停航](https://www.zaobao.com/realtime/china/story20231106-1448134)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 1
+Finish: 2023-11-06 10:10:53

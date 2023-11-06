@@ -6241,3 +6241,12 @@ Append: [河北气温断崖式下降 民众直呼“一场雨就入冬”](https
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-06 22:01:49
+------------------------------------------------------
+Started: 2023-11-06 23:01:49
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [黑龙江一体育馆发生坍塌 初步确认三人被困](https://www.zaobao.com/realtime/china/story20231106-1448333)
+Append: [陆军国际学员周在南京启动 意大利等十国12所外军院校参与](https://www.zaobao.com/realtime/china/story20231106-1448225)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-06 23:02:00

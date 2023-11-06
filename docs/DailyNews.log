@@ -6092,3 +6092,16 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 0
 Finish: 2023-11-06 19:01:29
+------------------------------------------------------
+Started: 2023-11-06 20:01:56
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Append: [明家旧地产下水道挖出藏尸，疑残害园区电诈人员罪证曝光！ 缅北战事最新进展:https://t.me/cnbbs001/207869](https://t.me/times001/655352)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+Append: [米米亚娜｜逃离体制](https://chinadigitaltimes.net/chinese/701885.html)
+Append: [知识万象｜河南23岁女教师之死：中小学非教学任务为何大量增加？](https://chinadigitaltimes.net/chinese/701883.html)
+Append: [我是麦杰逊｜天津助学金事件的通报，是在搞笑吗？](https://chinadigitaltimes.net/chinese/701887.html)
+append_entries: 4
+Finish: 2023-11-06 20:02:02

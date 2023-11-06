@@ -6224,3 +6224,12 @@ Append: [台国安局长：目前没看到台海战事一触即发情讯](https:
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-06 20:02:09
+------------------------------------------------------
+Started: 2023-11-06 21:03:45
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [香港举行国际金融领袖投资峰会 多位华尔街大佬出席](https://www.zaobao.com/realtime/china/story20231106-1448211)
+Append: [下午察：小学生戴头盔上学惹议 学校对安全太敏感？](https://www.zaobao.com/realtime/china/story20231106-1448295)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-06 21:03:51

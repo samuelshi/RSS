@@ -6123,3 +6123,13 @@ Append: [东北降雪量或破历史同期极值 多地停课停航](https://www
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-06 10:10:53
+------------------------------------------------------
+Started: 2023-11-06 11:01:26
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中国商务部长：推动合理缩减自贸试验区外商投资负面清单](https://www.zaobao.com/realtime/china/story20231106-1448148)
+Append: [大陆实施出入境新政：台民众赴闽“想来即来”](https://www.zaobao.com/realtime/china/story20231106-1448146)
+Append: [澳总理阿尔巴尼斯今将与习近平会面](https://www.zaobao.com/realtime/china/story20231106-1448142)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 3
+Finish: 2023-11-06 11:01:31

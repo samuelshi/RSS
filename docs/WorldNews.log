@@ -6181,3 +6181,18 @@ Feed error: 504
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 0
 Finish: 2023-11-06 16:02:07
+------------------------------------------------------
+Started: 2023-11-06 17:01:40
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [美光四厂开幕扩大在台投资 蔡英文：肯定台湾安全可靠](https://www.zaobao.com/realtime/china/story20231106-1448236)
+Append: [台外交次长率团出席太平洋岛国论坛](https://www.zaobao.com/realtime/china/story20231106-1448232)
+Append: [中企称近6000万人民币在不知情下被银行划转](https://www.zaobao.com/realtime/china/story20231106-1448208)
+Append: [中国外交部：将为恢复巴勒斯坦和平尽最大努力](https://www.zaobao.com/realtime/china/story20231106-1448222)
+Append: [王毅会见澳外长：每次见面都促进中澳关系向前迈进](https://www.zaobao.com/realtime/china/story20231106-1448220)
+Append: [何立峰任中央金融委员会办公室主任](https://www.zaobao.com/realtime/china/story20231106-1448218)
+Append: [学校称天津助学金事件不存在名额挤占情况 当事人：不认可](https://www.zaobao.com/realtime/china/story20231106-1448206)
+Append: [港政务司长：审查区议会参选人需“听其言观其行”](https://www.zaobao.com/realtime/china/story20231106-1448203)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 8
+Finish: 2023-11-06 17:01:46

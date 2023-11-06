@@ -6105,3 +6105,13 @@ Append: [中美军舰曾迫近太平岛](https://www.zaobao.com/realtime/china/s
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-06 08:03:05
+------------------------------------------------------
+Started: 2023-11-06 09:24:41
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [港教大将在学士课程增设国安必修科](https://www.zaobao.com/realtime/china/story20231106-1448130)
+Append: [分析：若港无法正常审判重大国安案件 不排除交由大陆处理](https://www.zaobao.com/realtime/china/story20231106-1448127)
+Append: [广交会线下出口成交金额较上届增长2.8%](https://www.zaobao.com/realtime/china/story20231106-1448125)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 3
+Finish: 2023-11-06 09:24:47

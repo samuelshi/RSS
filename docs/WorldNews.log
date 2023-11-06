@@ -6097,3 +6097,11 @@ Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 0
 Finish: 2023-11-06 07:01:38
+------------------------------------------------------
+Started: 2023-11-06 08:02:59
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中美军舰曾迫近太平岛](https://www.zaobao.com/realtime/china/story20231106-1448123)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 1
+Finish: 2023-11-06 08:03:05

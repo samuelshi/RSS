@@ -6207,3 +6207,12 @@ Append: [9月赴韩中国游客人数不足疫情前一半](https://www.zaobao.c
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 4
 Finish: 2023-11-06 18:02:02
+------------------------------------------------------
+Started: 2023-11-06 19:01:29
+Existing_entries: 1004
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中国副总理何立峰将访问美国](https://www.zaobao.com/realtime/china/story20231106-1448264)
+Append: [中国北方连续降温 京津冀多地已启动供暖](https://www.zaobao.com/realtime/china/story20231106-1448193)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-06 19:01:35

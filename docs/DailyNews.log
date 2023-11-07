@@ -6503,3 +6503,12 @@ Append: [每日一语 2023.11.7](https://chinadigitaltimes.net/chinese/701941.ht
 Append: [【404文库】每日乐评｜当一个社会开始流行“我们不谈XX”](https://chinadigitaltimes.net/chinese/701937.html)
 append_entries: 2
 Finish: 2023-11-08 04:01:34
+------------------------------------------------------
+Started: 2023-11-08 05:01:14
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 0
+Finish: 2023-11-08 05:01:23

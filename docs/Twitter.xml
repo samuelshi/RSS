@@ -5,19 +5,168 @@
 <link>https://nitter.cz/xiaojingcanxue</link>
 
 <item>
+<title>R to @caiziboshi: 关于如何创建逻辑框架来理清新闻的脉络，识别和梳理新闻事件背后的关系和逻辑， chatgpt给出如下建议，我觉得很好：
+1，确定关键要素：识别新闻事件的五个基本要素——谁、什么、何时、何地、为什么。
+
+2，建立关系：分析这些要素之间的关系，如因果、时间顺序或相互影响。
+
+3，事件时间线：制作时间线，记录事件的发展和相关报道的顺序。
+
+4，背景调查：收集相关历史信息和背景资料，为理解事件提供上下文。
+
+5，逻辑推理：使用逻辑推理技巧，如演绎和归纳推理，从已知事实推导出新的见解。
+
+6，模式识别：检测新闻报道中的模式，比如政治立场、媒体偏见或常见的误导性叙事。
+
+7，数据可视化：使用图表和视觉化工具来展示复杂信息，帮助梳理和展示新闻脉络。
+
+8，持续更新：随着新信息的出现，不断更新和调整你的逻辑框架。</title>
+<link>https://nitter.cz/caiziboshi/status/1721974813005082697</link>
+<guid>https://nitter.cz/caiziboshi/status/1721974813005082697</guid>
+<content:encoded><![CDATA[
+
+<p>关于如何创建逻辑框架来理清新闻的脉络，识别和梳理新闻事件背后的关系和逻辑， chatgpt给出如下建议，我觉得很好：<br />
+1，确定关键要素：识别新闻事件的五个基本要素——谁、什么、何时、何地、为什么。<br />
+<br />
+2，建立关系：分析这些要素之间的关系，如因果、时间顺序或相互影响。<br />
+<br />
+3，事件时间线：制作时间线，记录事件的发展和相关报道的顺序。<br />
+<br />
+4，背景调查：收集相关历史信息和背景资料，为理解事件提供上下文。<br />
+<br />
+5，逻辑推理：使用逻辑推理技巧，如演绎和归纳推理，从已知事实推导出新的见解。<br />
+<br />
+6，模式识别：检测新闻报道中的模式，比如政治立场、媒体偏见或常见的误导性叙事。<br />
+<br />
+7，数据可视化：使用图表和视觉化工具来展示复杂信息，帮助梳理和展示新闻脉络。<br />
+<br />
+8，持续更新：随着新信息的出现，不断更新和调整你的逻辑框架。</p>
+]]></content:encoded>
+<pubDate>Tue, 07 Nov 2023 19:36:02 GMT</pubDate>
+<pubDate>Tue, 07 Nov 2023 19:36:02 GMT</pubDate>
+</item>
+<item>
+<title>R to @caiziboshi: 关于如何设计一个系统来对比和核查新闻来源，chatgpt给出如下建议，我觉得很好：
+1，多源验证：收集多个新闻源报导相同事件的文章，比较它们的信息一致性。
+
+2，事实检查工具：利用现有的事实检查平台，如Snopes或http://FactCheck.org，验证新闻中的声明。
+
+3，时间线分析：建立新闻事件的时间线，以追踪新闻故事的发展和源头。
+
+4，专家网络：建立一个专家网络，可以快速接触到领域内专家，以核实专业领域的信息。
+
+5，算法支持：开发或使用算法，如自然语言处理（NLP）工具，来识别假新闻特征，如偏见性语言或不准确的引用。
+
+6，公众参与：鼓励公众参与验证，通过用户反馈来识别可疑的新闻内容。</title>
+<link>https://nitter.cz/caiziboshi/status/1721974329523503226</link>
+<guid>https://nitter.cz/caiziboshi/status/1721974329523503226</guid>
+<content:encoded><![CDATA[
+
+<p>关于如何设计一个系统来对比和核查新闻来源，chatgpt给出如下建议，我觉得很好：<br />
+1，多源验证：收集多个新闻源报导相同事件的文章，比较它们的信息一致性。<br />
+<br />
+2，事实检查工具：利用现有的事实检查平台，如Snopes或<a href="http://FactCheck.org">FactCheck.org</a>，验证新闻中的声明。<br />
+<br />
+3，时间线分析：建立新闻事件的时间线，以追踪新闻故事的发展和源头。<br />
+<br />
+4，专家网络：建立一个专家网络，可以快速接触到领域内专家，以核实专业领域的信息。<br />
+<br />
+5，算法支持：开发或使用算法，如自然语言处理（NLP）工具，来识别假新闻特征，如偏见性语言或不准确的引用。<br />
+<br />
+6，公众参与：鼓励公众参与验证，通过用户反馈来识别可疑的新闻内容。</p>
+<img src="https://nitter.cz/pic/enc/Y2FyZF9pbWcvMTcxOTk3OTc1OTYxNzA0ODU3Ni9MVkMzVlEwMj9mb3JtYXQ9cG5nJm5hbWU9Mzg2eDIwMg==" />
+]]></content:encoded>
+<pubDate>Tue, 07 Nov 2023 19:34:07 GMT</pubDate>
+<pubDate>Tue, 07 Nov 2023 19:34:07 GMT</pubDate>
+</item>
+<item>
+<title>R to @caiziboshi: chatgpt给我提供以下建议，我觉得很好：
+1，使用OpenAI提供的自定义GPT构建功能，无需编程即可通过提示创建GPT​​。
+2，连接GPT到新闻数据库或知识库，以便导入外部信息，比如新闻网站的API或RSS feeds​​。
+3，利用OpenAI新推出的Assistants API，构建能够检索外部知识的AI助手，以帮助分析和整合新闻内容​​。
+4，为确保内容的真实性，你需要设计一个系统来对比和核查新闻来源，可能需要结合多个数据源和事实检查器。
+5，创建逻辑框架来理清新闻的脉络，识别和梳理新闻事件背后的关系和逻辑。
+6，可以考虑将DALL-E 3 API集成到你的GPT中，为新闻内容添加视觉元素，如相关的图表或图像​​。</title>
+<link>https://nitter.cz/caiziboshi/status/1721973682543714372</link>
+<guid>https://nitter.cz/caiziboshi/status/1721973682543714372</guid>
+<content:encoded><![CDATA[
+
+<p>chatgpt给我提供以下建议，我觉得很好：<br />
+1，使用OpenAI提供的自定义GPT构建功能，无需编程即可通过提示创建GPT​​。<br />
+2，连接GPT到新闻数据库或知识库，以便导入外部信息，比如新闻网站的API或RSS feeds​​。<br />
+3，利用OpenAI新推出的Assistants API，构建能够检索外部知识的AI助手，以帮助分析和整合新闻内容​​。<br />
+4，为确保内容的真实性，你需要设计一个系统来对比和核查新闻来源，可能需要结合多个数据源和事实检查器。<br />
+5，创建逻辑框架来理清新闻的脉络，识别和梳理新闻事件背后的关系和逻辑。<br />
+6，可以考虑将DALL-E 3 API集成到你的GPT中，为新闻内容添加视觉元素，如相关的图表或图像​​。</p>
+]]></content:encoded>
+<pubDate>Tue, 07 Nov 2023 19:31:33 GMT</pubDate>
+<pubDate>Tue, 07 Nov 2023 19:31:33 GMT</pubDate>
+</item>
+<item>
+<title>刚刚看了open ai的新闻发布会，有点小激动，尤其是可以帮助用户创建自己的GPT,这其实是我一直想做的。我想做一个新闻类的GPT,汇总每天世界各地的新闻，核查新闻的真实性，找到新闻的真正源头，梳理新闻的脉络，理清背后的逻辑。这不但能帮助我们更好的理解这个世界，提高我们的认知，并且帮助我们做好生活的每一个决定。</title>
+<link>https://nitter.cz/caiziboshi/status/1721971214686490685</link>
+<guid>https://nitter.cz/caiziboshi/status/1721971214686490685</guid>
+<content:encoded><![CDATA[
+
+<p>刚刚看了open ai的新闻发布会，有点小激动，尤其是可以帮助用户创建自己的GPT,这其实是我一直想做的。我想做一个新闻类的GPT,汇总每天世界各地的新闻，核查新闻的真实性，找到新闻的真正源头，梳理新闻的脉络，理清背后的逻辑。这不但能帮助我们更好的理解这个世界，提高我们的认知，并且帮助我们做好生活的每一个决定。</p>
+<img src="https://nitter.cz/pic/enc/bWVkaWEvRi1XcE9meFhnQUE4MWtVLmpwZw==" />
+]]></content:encoded>
+<pubDate>Tue, 07 Nov 2023 19:21:44 GMT</pubDate>
+<pubDate>Tue, 07 Nov 2023 19:21:44 GMT</pubDate>
+</item>
+<item>
+<title>11月7日，因房子烂尾，许昌北海建业桂园熙望小区业主前往兴业银行排队办理业务，通过瘫痪银行施压。
+“政府（暗示）让我们找兴业银行要钱，实际上国家政策也是这样，并且兴业银行之前也承诺会给钱。于是我们就以瘫痪银行为目的来施压。大家过去给银行增加负担，干扰别的人来银行办业务，是新时代非暴力不合作。”</title>
+<link>https://nitter.cz/whyyoutouzhele/status/1721973661387665528</link>
+<guid>https://nitter.cz/whyyoutouzhele/status/1721973661387665528</guid>
+<content:encoded><![CDATA[
+
+<p>11月7日，因房子烂尾，许昌北海建业桂园熙望小区业主前往兴业银行排队办理业务，通过瘫痪银行施压。<br />
+“政府（暗示）让我们找兴业银行要钱，实际上国家政策也是这样，并且兴业银行之前也承诺会给钱。于是我们就以瘫痪银行为目的来施压。大家过去给银行增加负担，干扰别的人来银行办业务，是新时代非暴力不合作。”</p>
+<img src="https://nitter.cz/pic/enc/ZXh0X3R3X3ZpZGVvX3RodW1iLzE3MjE5NzMwOTI5MDAwNDQ4MDAvcHUvaW1nL1dHUFFRSE9ER3ZaR2pLSXcuanBn" />
+]]></content:encoded>
+<pubDate>Tue, 07 Nov 2023 19:31:28 GMT</pubDate>
+<pubDate>Tue, 07 Nov 2023 19:31:28 GMT</pubDate>
+</item>
+<item>
+<title>以色列官员口误吐真言：“我们不是受害者。”“我们只袭击平民。”</title>
+<link>https://nitter.cz/fangshimin/status/1721977296989630839</link>
+<guid>https://nitter.cz/fangshimin/status/1721977296989630839</guid>
+<content:encoded><![CDATA[
+
+<p>以色列官员口误吐真言：“我们不是受害者。”“我们只袭击平民。”</p>
+<img src="https://nitter.cz/pic/enc/YW1wbGlmeV92aWRlb190aHVtYi8xNzIxOTc3MjMxMTEzODkxODQwL2ltZy9IODYtWU1QNHp1TXI1M3FlLmpwZw==" />
+]]></content:encoded>
+<pubDate>Tue, 07 Nov 2023 19:45:55 GMT</pubDate>
+<pubDate>Tue, 07 Nov 2023 19:45:55 GMT</pubDate>
+</item>
+<item>
+<title>这些满嘴谎言的精神以色列人又在造谣，以为别人都和他们一样屁股决定良心。让他们见识一下现在谴责以色列犯下战争罪行的人权组织以前是怎么谴责哈马斯在加沙侵犯人权的。说“每个反对哈马斯的加沙人都会被称为以色列间谍并遭到杀害”也是造谣。哈马斯在去年处决过2名“以色列间谍”，是5年来加沙第一次判死刑。加沙的政治表达自由度高于中国，有相当多人公开支持法塔赫或反对哈马斯，只不过会遭到报复或有此担心。</title>
+<link>https://nitter.cz/fangshimin/status/1721971326481777070</link>
+<guid>https://nitter.cz/fangshimin/status/1721971326481777070</guid>
+<content:encoded><![CDATA[
+
+<p>这些满嘴谎言的精神以色列人又在造谣，以为别人都和他们一样屁股决定良心。让他们见识一下现在谴责以色列犯下战争罪行的人权组织以前是怎么谴责哈马斯在加沙侵犯人权的。说“每个反对哈马斯的加沙人都会被称为以色列间谍并遭到杀害”也是造谣。哈马斯在去年处决过2名“以色列间谍”，是5年来加沙第一次判死刑。加沙的政治表达自由度高于中国，有相当多人公开支持法塔赫或反对哈马斯，只不过会遭到报复或有此担心。</p>
+<img src="https://nitter.cz/pic/enc/bWVkaWEvRi1XcnE3QWF3QUlJQmhXLmpwZw==" />
+<img src="https://nitter.cz/pic/enc/bWVkaWEvRi1XcnE2X2F3QUUySGt6LmpwZw==" />
+<img src="https://nitter.cz/pic/enc/bWVkaWEvRi1XcnE2LWF3QUVib3daLmpwZw==" />
+<img src="https://nitter.cz/pic/enc/bWVkaWEvRi1XcnE2LWF3QUFKX3Z4LmpwZw==" />
+]]></content:encoded>
+<pubDate>Tue, 07 Nov 2023 19:22:11 GMT</pubDate>
+<pubDate>Tue, 07 Nov 2023 19:22:11 GMT</pubDate>
+</item>
+
+<item>
 <title>按照加州众议员Katie Porter的说法，是哈马斯让加沙居民没食物、没水、没药品和避难所，美国建议人道主义暂时停火是为了减轻哈马斯给加沙人民带来的痛苦。作为法律教授，她当然知道断水、断电、断食品、断药品、轰炸避难所是战争罪，所以不能提是以色列干的。此人自称进步派，对外政策比共和党还共和党</title>
 <link>https://nitter.cz/fangshimin/status/1721964446258741441</link>
 <guid>https://nitter.cz/fangshimin/status/1721964446258741441</guid>
 <content:encoded><![CDATA[
-
 <p>按照加州众议员Katie Porter的说法，是哈马斯让加沙居民没食物、没水、没药品和避难所，美国建议人道主义暂时停火是为了减轻哈马斯给加沙人民带来的痛苦。作为法律教授，她当然知道断水、断电、断食品、断药品、轰炸避难所是战争罪，所以不能提是以色列干的。此人自称进步派，对外政策比共和党还共和党</p>
 <img src="https://nitter.cz/pic/enc/bWVkaWEvRi1XbGlZaGF3QUlxbUkwLmpwZw==" />
 <img src="https://nitter.cz/pic/enc/bWVkaWEvRi1XbGlZamF3QUFOb0dULmpwZw==" />
 ]]></content:encoded>
 <pubDate>Tue, 07 Nov 2023 18:54:51 GMT</pubDate>
-<pubDate>Tue, 07 Nov 2023 18:54:51 GMT</pubDate>
 </item>
-
 <item>
 <title>雷切尔·琼斯少校是美国军队中公开身份的跨性别女性士兵的一个例子。她是美国陆军后勤指挥部网络部门的负责人，曾因社会对跨性别者的污名化和内化的羞耻感而饱受抑郁和自杀念头的困扰。经过治疗，她解开了与跨性别身份相关的负面情绪，并学会了接纳和爱自己。
 
@@ -13561,16 +13710,6 @@ M3 Pro芯片具有12核CPU和18核GPU，M3 Max拥有16核CPU和40核GPU。</p>
 <img src="https://nitter.cz/pic/enc/bWVkaWEvRjl1TTNjZ1dZQUF1elh5LnBuZw==" />
 ]]></content:encoded>
 <pubDate>Mon, 30 Oct 2023 22:42:54 GMT</pubDate>
-</item>
-<item>
-<title>R to @whyyoutouzhele:</title>
-<link>https://nitter.cz/whyyoutouzhele/status/1719115678823710893</link>
-<guid>https://nitter.cz/whyyoutouzhele/status/1719115678823710893</guid>
-<content:encoded><![CDATA[
-<p></p>
-<img src="https://nitter.cz/pic/enc/bWVkaWEvRjl1R2sySFdzQUFLTVBLLnBuZw==" />
-]]></content:encoded>
-<pubDate>Mon, 30 Oct 2023 22:14:52 GMT</pubDate>
 </item>
 </channel>
 </rss>

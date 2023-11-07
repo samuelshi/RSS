@@ -13196,3 +13196,56 @@ Fetching from https://nitter.cz/myfxtrader/rss
 Fetching from https://nitter.cz/xiaojingcanxue/rss
 append_entries: 1
 Finish: 2023-11-08 03:01:49
+------------------------------------------------------
+Started: 2023-11-08 04:01:51
+Existing_entries: 1001
+Fetching from https://nitter.cz/caolei1/rss
+Fetching from https://nitter.cz/caiziboshi/rss
+Append: [R to @caiziboshi: 关于如何创建逻辑框架来理清新闻的脉络，识别和梳理新闻事件背后的关系和逻辑， chatgpt给出如下建议，我觉得很好：
+1，确定关键要素：识别新闻事件的五个基本要素——谁、什么、何时、何地、为什么。
+
+2，建立关系：分析这些要素之间的关系，如因果、时间顺序或相互影响。
+
+3，事件时间线：制作时间线，记录事件的发展和相关报道的顺序。
+
+4，背景调查：收集相关历史信息和背景资料，为理解事件提供上下文。
+
+5，逻辑推理：使用逻辑推理技巧，如演绎和归纳推理，从已知事实推导出新的见解。
+
+6，模式识别：检测新闻报道中的模式，比如政治立场、媒体偏见或常见的误导性叙事。
+
+7，数据可视化：使用图表和视觉化工具来展示复杂信息，帮助梳理和展示新闻脉络。
+
+8，持续更新：随着新信息的出现，不断更新和调整你的逻辑框架。](https://nitter.cz/caiziboshi/status/1721974813005082697)
+Append: [R to @caiziboshi: 关于如何设计一个系统来对比和核查新闻来源，chatgpt给出如下建议，我觉得很好：
+1，多源验证：收集多个新闻源报导相同事件的文章，比较它们的信息一致性。
+
+2，事实检查工具：利用现有的事实检查平台，如Snopes或http://FactCheck.org，验证新闻中的声明。
+
+3，时间线分析：建立新闻事件的时间线，以追踪新闻故事的发展和源头。
+
+4，专家网络：建立一个专家网络，可以快速接触到领域内专家，以核实专业领域的信息。
+
+5，算法支持：开发或使用算法，如自然语言处理（NLP）工具，来识别假新闻特征，如偏见性语言或不准确的引用。
+
+6，公众参与：鼓励公众参与验证，通过用户反馈来识别可疑的新闻内容。](https://nitter.cz/caiziboshi/status/1721974329523503226)
+Append: [R to @caiziboshi: chatgpt给我提供以下建议，我觉得很好：
+1，使用OpenAI提供的自定义GPT构建功能，无需编程即可通过提示创建GPT​​。
+2，连接GPT到新闻数据库或知识库，以便导入外部信息，比如新闻网站的API或RSS feeds​​。
+3，利用OpenAI新推出的Assistants API，构建能够检索外部知识的AI助手，以帮助分析和整合新闻内容​​。
+4，为确保内容的真实性，你需要设计一个系统来对比和核查新闻来源，可能需要结合多个数据源和事实检查器。
+5，创建逻辑框架来理清新闻的脉络，识别和梳理新闻事件背后的关系和逻辑。
+6，可以考虑将DALL-E 3 API集成到你的GPT中，为新闻内容添加视觉元素，如相关的图表或图像​​。](https://nitter.cz/caiziboshi/status/1721973682543714372)
+Append: [刚刚看了open ai的新闻发布会，有点小激动，尤其是可以帮助用户创建自己的GPT,这其实是我一直想做的。我想做一个新闻类的GPT,汇总每天世界各地的新闻，核查新闻的真实性，找到新闻的真正源头，梳理新闻的脉络，理清背后的逻辑。这不但能帮助我们更好的理解这个世界，提高我们的认知，并且帮助我们做好生活的每一个决定。](https://nitter.cz/caiziboshi/status/1721971214686490685)
+Fetching from https://nitter.cz/Pandazhq/rss
+Fetching from https://nitter.cz/whyyoutouzhele/rss
+Append: [11月7日，因房子烂尾，许昌北海建业桂园熙望小区业主前往兴业银行排队办理业务，通过瘫痪银行施压。
+“政府（暗示）让我们找兴业银行要钱，实际上国家政策也是这样，并且兴业银行之前也承诺会给钱。于是我们就以瘫痪银行为目的来施压。大家过去给银行增加负担，干扰别的人来银行办业务，是新时代非暴力不合作。”](https://nitter.cz/whyyoutouzhele/status/1721973661387665528)
+Fetching from https://nitter.cz/fangshimin/rss
+Append: [以色列官员口误吐真言：“我们不是受害者。”“我们只袭击平民。”](https://nitter.cz/fangshimin/status/1721977296989630839)
+Append: [这些满嘴谎言的精神以色列人又在造谣，以为别人都和他们一样屁股决定良心。让他们见识一下现在谴责以色列犯下战争罪行的人权组织以前是怎么谴责哈马斯在加沙侵犯人权的。说“每个反对哈马斯的加沙人都会被称为以色列间谍并遭到杀害”也是造谣。哈马斯在去年处决过2名“以色列间谍”，是5年来加沙第一次判死刑。加沙的政治表达自由度高于中国，有相当多人公开支持法塔赫或反对哈马斯，只不过会遭到报复或有此担心。](https://nitter.cz/fangshimin/status/1721971326481777070)
+Fetching from https://nitter.cz/cskun1989/rss
+Fetching from https://nitter.cz/myfxtrader/rss
+Fetching from https://nitter.cz/xiaojingcanxue/rss
+append_entries: 7
+Finish: 2023-11-08 04:01:59

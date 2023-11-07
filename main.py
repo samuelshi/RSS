@@ -1,7 +1,7 @@
 import feedparser
 import configparser
 import os
-from openai import ChatCompletion
+import openai
 from jinja2 import Template
 from bs4 import BeautifulSoup
 import re
@@ -127,7 +127,7 @@ def gpt_summary(query,model,language):
             {"role": "user", "content": query},
             {"role": "assistant", "content": f"Please summarize this article in {language} language, first extract {keyword_length} keywords, output in the same line, then line break, write a summary containing all the points in {summary_length} words in {language}, output in order by points, and output in the following format '<br><br>Summary:' , <br> is the line break of HTML, 2 must be retained when output, and must be before the word 'Summary:'"}
         ]
-    chat = ChatCompletion.create(
+    chat = openai.ChatCompletion.create(
         model=model,
         api_key=OPENAI_API_KEY,
         messages=messages,

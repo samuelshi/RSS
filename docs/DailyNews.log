@@ -6482,3 +6482,13 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 0
 Finish: 2023-11-08 02:01:42
+------------------------------------------------------
+Started: 2023-11-08 03:01:17
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+Append: [肥湾经济｜大食堂回来了，又能吃饱饭了](https://chinadigitaltimes.net/chinese/701932.html)
+append_entries: 1
+Finish: 2023-11-08 03:01:27

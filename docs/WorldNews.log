@@ -6296,3 +6296,13 @@ Append: [河南足协前主席杨楠被立案调查](https://www.zaobao.com/real
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 2
 Finish: 2023-11-07 12:01:45
+------------------------------------------------------
+Started: 2023-11-07 13:01:46
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [调查显示77%中国消费者今年双11不打算增加支出](https://www.zaobao.com/realtime/china/story20231107-1448406)
+Append: [斗鱼CEO陈少杰据报已失联近三周](https://www.zaobao.com/realtime/china/story20231107-1448420)
+Append: [中国10月出口总额同比降6.4% 降幅扩大](https://www.zaobao.com/realtime/china/story20231107-1448421)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 3
+Finish: 2023-11-07 13:01:51

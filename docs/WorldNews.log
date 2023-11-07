@@ -6327,3 +6327,13 @@ Append: [《取消外国公文书认证要求的公约》在中国生效实施](
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 4
 Finish: 2023-11-07 15:01:27
+------------------------------------------------------
+Started: 2023-11-07 16:01:56
+Existing_entries: 1004
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [赖清德公布竞选总部架构 成员包括苏贞昌等九人](https://www.zaobao.com/realtime/china/story20231107-1448463)
+Append: [日本9月对华水产品出口额同比减少九成](https://www.zaobao.com/realtime/china/story20231107-1448435)
+Append: [中国央行副行长：楼市调整属正常 防范出现过快过急风险](https://www.zaobao.com/realtime/china/story20231107-1448453)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 3
+Finish: 2023-11-07 16:02:01

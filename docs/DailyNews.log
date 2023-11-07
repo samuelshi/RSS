@@ -6331,3 +6331,13 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 0
 Finish: 2023-11-07 16:01:55
+------------------------------------------------------
+Started: 2023-11-07 17:01:32
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Append: [↩️ 台湾通报首例猴痘死亡病例，为台湾籍30多岁男性，未接种猴痘疫苗。 该病例今年8月出现症状，9月11日才就医，后确诊。其就医时身体免疫状况极差，身体有大范...](https://t.me/tnews365/28715)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 1
+Finish: 2023-11-07 17:01:42

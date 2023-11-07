@@ -6390,3 +6390,12 @@ Append: [每日经济新闻｜倒卖出生证明每张赚6万6？湖北襄阳一
 Append: [drpei｜社会病了，孩子输液](https://chinadigitaltimes.net/chinese/701915.html)
 append_entries: 3
 Finish: 2023-11-07 20:01:47
+------------------------------------------------------
+Started: 2023-11-07 21:02:23
+Existing_entries: 1003
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 0
+Finish: 2023-11-07 21:02:27

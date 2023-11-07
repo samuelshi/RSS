@@ -6473,3 +6473,12 @@ Fetching from https://chinadigitaltimes.net/chinese/feed
 Append: [【异闻观止】故园有此声｜《“先人后己”“为人民服务”对重积分学习的帮助》](https://chinadigitaltimes.net/chinese/701930.html)
 append_entries: 2
 Finish: 2023-11-08 01:01:33
+------------------------------------------------------
+Started: 2023-11-08 02:01:38
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 0
+Finish: 2023-11-08 02:01:42

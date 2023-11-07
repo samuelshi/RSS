@@ -5,17 +5,26 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>🖼 #Github 📦 macOS Containers Github | 官网 ✨ Features - 在 Mac 上启动 Mac 容器 - 支持 HomeBrew 安装 - 兼容 Docker 在 Mac 上启动 Mac 虚拟机的我...</title>
+<link>https://t.me/NewlearnerChannel/11965</link>
+<guid>https://t.me/NewlearnerChannel/11965</guid>
+<content:encoded><![CDATA[
+
+<p><a href="https://t.me/NewlearnerChannel/11965?q=%23Github">#Github</a><br /><br /><span class="emoji">📦</span>&nbsp;<b>macOS Containers</b><br /><br /><a href="https://github.com/macOScontainers/homebrew-formula#readme" rel="noopener" target="_blank">Github</a> | <a href="https://macoscontainers.org/" rel="noopener" target="_blank">官网</a><br /><br /><span class="emoji">✨</span> <b>Features</b><br /><br />- 在 Mac 上启动 Mac 容器<br />- 支持 HomeBrew 安装<br />- 兼容 Docker<br /><br />在 Mac 上启动 Mac 虚拟机的我们见过了不少，比如 UTM。但是在 Mac 上启动 Mac 容器倒是第一次见。macOS Containers 还可以打包成 Docker 镜像，分享给其他人一起使用。<br /><br /><span class="emoji">⚙️</span>&nbsp;<b>rund</b><br /><br />macOS Containers 基于 rund。rund 是一个实验性的 containerd Shim，用于在 macOS 上运行 macOS 容器。rund 在九月底发布了第一个预览版本，最新版本为 0..4。<br /><br />rund 由于 macOS 内核 API 的限制，无法提供其他操作系统上可实现的常规容器隔离水平。<br /><br />rund 提供的功能包括：<br /><br />- 通过 chroot (2) 实现文件系统隔离<br />- 使用进程组清理容器进程<br />- 与 OCI 运行时规范兼容<br />- 仅支持宿主网络模式<br />- 绑定挂载<br /><br /><span class="emoji">❓</span><b>为什么 macOS 原生容器很重要？</b><br /><br />最常见的 Docker 也并不是 macOS 原生的。主要原因是 macOS 和 Linux 操作系统之间存在差异。并且 XNU 内核缺少多种隔离原语，这些原语是实现具有与其他平台相当功能的容器支持所必需的。<br /><br />在 macOS 上，Docker 运行在一个虚拟机中，这意味着容器操作比在 Linux 上慢。最明显的差别之一是在共享文件系统上。通过 macOS 中的虚拟机访问大文件或大量文件的性能，将始终不如直接访问来得好。<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn1.cdn-telegram.org/file/KTXJ-hSenit3VuS9KZvqhWY6gMUXZQ1uia12LKtxUVkA8f0KZ4p6bYF1tvMYoR_PRUGPasH6ybxt_E83f8RegFQG7FtIrLK3jaeDsbQvOodLaiGSKZDJ5lFPHAUDjQwzmqUPQk-9UFtEWhQ3d6SGKqlF0KyR9ZGf4GlEfRnGZJk7YpT6c38E206iVsouXzBv8hpHsSWvxcR2FO9NE9NRKTGcxKquJ2GMFfQ4q0bUDskiemZTv72V7pcUPdu7Nv3myl2-5jUqBRTZqqDj-Dt3a8HIzGIc3308ZoX7IAeYPkiHgzDoGoDyOxNAzfXPsW1ZttE9efUY1vep3Bdpp0xcbw.jpg" />
+]]></content:encoded>
+<pubDate>Tue, 07 Nov 2023 04:00:49 GMT</pubDate>
+<pubDate>Tue, 07 Nov 2023 04:00:49 GMT</pubDate>
+</item>
+
+<item>
 <title>OpenAI：ChatGPT 每周活跃用户数已达 1 亿 周一，OpenAI 在旧金山举行该公司首届开发者大会上宣布，ChatGPT 目前每周拥有 1 亿活跃用户。 该公司还推出了 GPT-4 ...</title>
 <link>https://t.me/xhqcankao/6828</link>
 <guid>https://t.me/xhqcankao/6828</guid>
 <content:encoded><![CDATA[
-
 <p><b>OpenAI：ChatGPT 每周活跃用户数已达 1 亿</b><br /><br />周一，OpenAI 在旧金山举行该公司首届开发者大会上宣布，ChatGPT 目前每周拥有 1 亿活跃用户。<br /><br />该公司还推出了 GPT-4 Turbo，GPT-4 Turbo 支持 128k 上下文，输入价格比 GPT-4 便宜了三倍，速率限制翻倍。GPT-4 Turbo 还支持图像输入，集成 DALL・E 3，可自动总结图片内容及带有图片的文档内容。<br /><br />而 GPT-4 Turbo 输入 tokens 价格，是此前 GPT-4 的 1/3，1k tokens 仅需 0.01 美元，输出 tokens 价格为 1k tokens 0.03 美元。将分辨率为 1080×1080 像素的图像，上传至给 GPT-4 Turbo 将花费 0.00765 美元。<br /><br />该公司还推出 DALL-E 3 API，DALL-E 3 API 提供不同的格式和质量选项以及从 1024×1024 到 1792×1024 的分辨率，每个生成图像的起价为 0.04 美元。OpenAI 现在还提供新的文本转语音 API，提供六种预设声音，起价为每输入 1,000 个字符 0.015 美元。<br /><br />在其开发者大会上，OpenAI 宣布了一个新的 API，即 Assistants API，帮助开发者在自家应用中构建自定义 AI 助手。<br /><br />—— <a href="https://techcrunch.com/2023/11/06/openais-chatgpt-now-has-100-million-weekly-active-users/" rel="noopener" target="_blank">Techcrunch</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 07 Nov 2023 02:20:03 GMT</pubDate>
-<pubDate>Tue, 07 Nov 2023 02:20:03 GMT</pubDate>
 </item>
-
 <item>
 <title>2023年11月7日 🌍资讯快读 1、天津滨海新区落户新政发布 https://36kr.com/newsflashes/2506556723472265 2、国家发改委印发《国家碳达峰试点建设方案》 https...</title>
 <link>https://t.me/jike_collection/9312</link>

@@ -3743,3 +3743,15 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/DailyTech
+------------------------------------------------------
+Started: 2023-11-08 07:01:50
+Existing_entries: 313
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection
+Append: [昨天有一个新闻，东莞那边的炒房客爆仓了。 之前罗湖那边学区房炒的巨凶，现在价格降了很多。更要命的是，转不掉，小户型，不实用。有家庭的不会买，单身的那些...](https://t.me/jike_collection/9315)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
+Append: [Microsoft Authenticator 应用将抑制“有风险”的通知 当用户启用多因素身份验证(MFA)后，攻击者可能会恼羞成怒，会反复尝试登录，导致用户因大量通知而产生“MF...](https://t.me/xhqcankao/6840)
+Append: [WhatsApp 负责人表示，这款聊天应用可能会在 “动态” 中引入广告 社交平台 WhatsApp 不打算在主收件箱中显示广告，但仍有可能在“动态”和频道中显示广告。 Wha...](https://t.me/xhqcankao/6839)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
+append_entries: 3
+Finish: 2023-11-08 07:01:52

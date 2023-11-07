@@ -6393,3 +6393,11 @@ Append: [归化球员艾克森落选中国男足世预赛名单](https://www.zao
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-07 22:01:41
+------------------------------------------------------
+Started: 2023-11-07 23:01:27
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [台湾通报首起猴痘死亡病例](https://www.zaobao.com/realtime/china/story20231107-1448476)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 1
+Finish: 2023-11-07 23:01:33

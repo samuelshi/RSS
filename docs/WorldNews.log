@@ -6369,3 +6369,11 @@ Append: [湖北一医院涉嫌贩卖出生证 院长被采取刑事强制措施]
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 3
 Finish: 2023-11-07 19:02:01
+------------------------------------------------------
+Started: 2023-11-07 20:01:48
+Existing_entries: 1003
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [赖清德：下周公布不分区立委名单 隔周公布副手人选](https://www.zaobao.com/realtime/china/story20231107-1448447)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 1
+Finish: 2023-11-07 20:01:53

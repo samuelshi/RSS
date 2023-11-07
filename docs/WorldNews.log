@@ -6316,3 +6316,14 @@ Append: [台中选会发布立委选举公告 候选人11月24日前登记](http
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 3
 Finish: 2023-11-07 14:01:45
+------------------------------------------------------
+Started: 2023-11-07 15:01:22
+Existing_entries: 1003
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [黑龙江体育馆坍塌遇难者为初中生 官方设调查组](https://www.zaobao.com/realtime/china/story20231107-1448442)
+Append: [日防卫省：中国山东舰演训九天进行570次舰载机起降](https://www.zaobao.com/realtime/china/story20231107-1448438)
+Append: [中国副总理何立峰：中央支持香港保持国际化特色](https://www.zaobao.com/realtime/china/story20231107-1448437)
+Append: [《取消外国公文书认证要求的公约》在中国生效实施](https://www.zaobao.com/realtime/china/story20231107-1448418)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 4
+Finish: 2023-11-07 15:01:27

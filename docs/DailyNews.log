@@ -6303,3 +6303,13 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 0
 Finish: 2023-11-07 13:01:45
+------------------------------------------------------
+Started: 2023-11-07 14:01:33
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Append: [↩️ 美国总统拜登6日向以色列总理内塔尼亚胡提出了人道主义暂停的必要性，但没有达成协议。内塔尼亚胡随后受访时称，如果哈马斯不释放人质，加沙就不会有全面停...](https://t.me/tnews365/28714)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 1
+Finish: 2023-11-07 14:01:39

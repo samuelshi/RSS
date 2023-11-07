@@ -6306,3 +6306,13 @@ Append: [中国10月出口总额同比降6.4% 降幅扩大](https://www.zaobao.c
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 3
 Finish: 2023-11-07 13:01:51
+------------------------------------------------------
+Started: 2023-11-07 14:01:40
+Existing_entries: 1003
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [四川国企驻外负责人泄露情报致技术封锁 监六年](https://www.zaobao.com/realtime/china/story20231107-1448433)
+Append: [侯友宜：“国家队”弊案丛生 已成负面代名词](https://www.zaobao.com/realtime/china/story20231107-1448415)
+Append: [台中选会发布立委选举公告 候选人11月24日前登记](https://www.zaobao.com/realtime/china/story20231107-1448413)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 3
+Finish: 2023-11-07 14:01:45

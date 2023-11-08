@@ -6719,3 +6719,14 @@ Fetching from https://chinadigitaltimes.net/chinese/feed
 Append: [城市的地得｜离开媒体，才懂了新闻](https://chinadigitaltimes.net/chinese/701968.html)
 append_entries: 16
 Finish: 2023-11-08 19:01:34
+------------------------------------------------------
+Started: 2023-11-08 20:01:43
+Existing_entries: 1016
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+Append: [孙春龙和平工作室｜贩婴产业链黑幕](https://chinadigitaltimes.net/chinese/701970.html)
+Append: [澎湃人物｜体育馆在雪夜坍塌](https://chinadigitaltimes.net/chinese/701969.html)
+append_entries: 2
+Finish: 2023-11-08 20:01:47

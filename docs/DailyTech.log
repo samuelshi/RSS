@@ -3821,3 +3821,12 @@ Append: [🖼 ChatGPT 和 API 部分中断，疑似被攻击 https://status.open
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
 append_entries: 2
 Finish: 2023-11-08 13:02:04
+------------------------------------------------------
+Started: 2023-11-08 14:01:54
+Existing_entries: 328
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
+append_entries: 0
+Finish: 2023-11-08 14:02:00

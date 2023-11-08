@@ -879,3 +879,9 @@ Append: [📣 #发现频道 【自荐】免费在线AI字幕生成器 - 自动�
 Append: [群晖 QuickConnet 已无法直连，官方回复模板： 非常抱歉给您使用带来了不便。为符合国内使用环境及市场考量，xxx.direct.quickconnect.cn 已关闭公网IP解析服务...](https://t.me/appinnfeed/8812)
 append_entries: 2
 Finish: 2023-11-08 12:01:42
+------------------------------------------------------
+Started: 2023-11-08 13:02:04
+Existing_entries: 59
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+append_entries: 0
+Finish: 2023-11-08 13:02:05

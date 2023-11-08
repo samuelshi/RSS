@@ -6599,3 +6599,14 @@ Feed error: 504
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 0
 Finish: 2023-11-08 22:01:55
+------------------------------------------------------
+Started: 2023-11-08 23:02:04
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [下午察：中美竞争容不下中立媒体？](https://www.zaobao.com/realtime/china/story20231108-1448797)
+Append: [涉违规举债融资 贵州原政协副主席李再勇被双开](https://www.zaobao.com/realtime/china/story20231108-1448705)
+Append: [上海90后月光族在间谍指导下考公务员 泄密被判刑](https://www.zaobao.com/realtime/china/story20231108-1448693)
+Append: [港保安局长再批美制裁法案犹如黑社会做法](https://www.zaobao.com/realtime/china/story20231108-1448682)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 4
+Finish: 2023-11-08 23:02:10

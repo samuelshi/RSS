@@ -891,3 +891,10 @@ Existing_entries: 59
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2023-11-08 14:02:01
+------------------------------------------------------
+Started: 2023-11-08 15:01:53
+Existing_entries: 59
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [🖼 一个老牌的 OCR 工具： https://capture2text.sourceforge.net/](https://t.me/appinnfeed/8814)
+append_entries: 1
+Finish: 2023-11-08 15:01:54

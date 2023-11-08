@@ -6457,3 +6457,12 @@ Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 0
 Finish: 2023-11-08 07:01:49
+------------------------------------------------------
+Started: 2023-11-08 08:11:01
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [全球首个互联网主题大型科技馆在浙江乌镇开馆](https://www.zaobao.com/realtime/china/story20231108-1448617)
+Append: [海南自贸港推进外企及外国人政务服务“一件事一次办”](https://www.zaobao.com/realtime/china/story20231108-1448616)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-08 08:11:06

@@ -6536,3 +6536,13 @@ Append: [中国航发商发正寻求混合所有制改革 未来启动IPO](https
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 2
 Finish: 2023-11-08 15:01:49
+------------------------------------------------------
+Started: 2023-11-08 16:01:45
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [侯友宜回应民众党民调结果：民调参考就好](https://www.zaobao.com/realtime/china/story20231108-1448676)
+Append: [路透：中国官方要求中国平安取得碧桂园控股权](https://www.zaobao.com/realtime/china/story20231108-1448696)
+Append: [中证监主席：管住过度杠杆市场才会行稳致远](https://www.zaobao.com/realtime/china/story20231108-1448669)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 3
+Finish: 2023-11-08 16:01:50

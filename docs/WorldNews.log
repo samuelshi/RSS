@@ -6477,3 +6477,13 @@ Append: [美官员认为中国拟在阿曼设立军事基地](https://www.zaobao
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 4
 Finish: 2023-11-08 09:23:49
+------------------------------------------------------
+Started: 2023-11-08 10:09:05
+Existing_entries: 1004
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中国央行又买黄金 12个月累计增持856万盎司](https://www.zaobao.com/realtime/china/story20231108-1448636)
+Append: [美国再次施压中国提高人民币透明度](https://www.zaobao.com/realtime/china/story20231108-1448635)
+Append: [中共中央深改委会议：推动国有资本向关系国安关键领域集中](https://www.zaobao.com/realtime/china/story20231108-1448628)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 3
+Finish: 2023-11-08 10:09:11

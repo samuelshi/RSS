@@ -6546,3 +6546,13 @@ Append: [中证监主席：管住过度杠杆市场才会行稳致远](https://w
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 3
 Finish: 2023-11-08 16:01:50
+------------------------------------------------------
+Started: 2023-11-08 17:01:45
+Existing_entries: 1003
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中国外交部：中美同意朝实现旧金山元首会晤共同努力](https://www.zaobao.com/realtime/china/story20231108-1448723)
+Append: [碧桂园股价一度大涨18%](https://www.zaobao.com/realtime/china/story20231108-1448725)
+Append: [国民党回应民众党民调：与现实组合有距离](https://www.zaobao.com/realtime/china/story20231108-1448712)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 3
+Finish: 2023-11-08 17:01:54

@@ -6567,3 +6567,11 @@ Append: [香港小学下学年试行加入中国航天等科学内容](https://w
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 4
 Finish: 2023-11-08 18:01:51
+------------------------------------------------------
+Started: 2023-11-08 19:01:36
+Existing_entries: 1004
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中储粮采购60万吨美国大豆](https://www.zaobao.com/realtime/china/story20231108-1448674)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 1
+Finish: 2023-11-08 19:01:41

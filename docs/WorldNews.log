@@ -6497,3 +6497,12 @@ Append: [哈尔滨再号召临街商家单位“自扫门前雪”](https://www.
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 3
 Finish: 2023-11-08 11:01:35
+------------------------------------------------------
+Started: 2023-11-08 12:01:31
+Existing_entries: 1003
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中共政法委书记：坚持和发展新时代“枫桥经验”](https://www.zaobao.com/realtime/china/story20231108-1448650)
+Append: [中国央行行长：全年5%预期目标有望顺利实现](https://www.zaobao.com/realtime/china/story20231108-1448645)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-08 12:01:37

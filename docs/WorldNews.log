@@ -6591,3 +6591,11 @@ Feed error: 504
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 0
 Finish: 2023-11-08 21:02:47
+------------------------------------------------------
+Started: 2023-11-08 22:01:42
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Feed error: 504
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 0
+Finish: 2023-11-08 22:01:55

@@ -5,17 +5,37 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>国内群晖 QC 已停止 IPV4 的直连功能， IPV6 直连也即将下线 近日，有 V2EX 网友发工单询问，得到官方回复。群晖表示，为符合国内使用环境及市场考量，已关闭 Qu...</title>
+<link>https://t.me/xhqcankao/6847</link>
+<guid>https://t.me/xhqcankao/6847</guid>
+<content:encoded><![CDATA[
+
+<p><b>国内群晖 QC 已停止 IPV4 的直连功能， IPV6 直连也即将下线</b><br /><br />近日，有 V2EX 网友发工单询问，得到官方回复。群晖表示，为符合国内使用环境及市场考量，已关闭 QuickConnect 公网 IP 解析服务，IPv6 解析预计也会在之后逐步关闭。<br /><br />通过外网访问 QuickConnect ，默认仅通过 QC 中继服务进行转发连接。<br /><br />群晖对此表示，若 NAS 对应的网络具有公网 IP (包括动态 IP )，建议用户为 NAS 配置 DDNS 并进行端口转发。在使用 DDNS 域名进行连接时不会经过其他中继服务器以确保连接可以更为稳定。<br /><br />—— <a href="https://www.v2ex.com/t/989020" rel="noopener" target="_blank">V2EX</a></p>
+]]></content:encoded>
+<pubDate>Wed, 08 Nov 2023 03:00:55 GMT</pubDate>
+<pubDate>Wed, 08 Nov 2023 03:00:55 GMT</pubDate>
+</item>
+<item>
+<title>美国监管机构希望对 Apple Pay 加强监管 美国消费者金融保护局 (CFPB)今天对苹果等提供数字钱包和支付应用的科技公司提出了新的监管要求。因为这些公司并未受到...</title>
+<link>https://t.me/xhqcankao/6846</link>
+<guid>https://t.me/xhqcankao/6846</guid>
+<content:encoded><![CDATA[
+
+<p><b>美国监管机构希望对 Apple Pay 加强监管</b><br /><br />美国消费者金融保护局 (CFPB)今天对苹果等提供数字钱包和支付应用的科技公司提出了新的监管要求。因为这些公司并未受到与银行相同的“监管审查”。<br /><br />新提议的法规将要求每年处理超过 500 万笔交易的公司遵守与 CFPB 监管的大型银行、信用合作社和其他金融机构相同的规则。<br /><br />CFPB 声称，消费金融市场上对科技公司的投诉越来越多，并认为审查人员应该能够仔细审查科技公司的活动，以确保它们遵守法律。<br /><br />如果最终确定，拟议的法规将使消费者金融保护局对苹果和谷歌等公司提供的金融服务进行更多监督。<br /><br />—— <a href="https://www.macrumors.com/2023/11/07/apple-pay-oversight-cfpb/" rel="noopener" target="_blank">Macrumors</a></p>
+]]></content:encoded>
+<pubDate>Wed, 08 Nov 2023 02:34:16 GMT</pubDate>
+<pubDate>Wed, 08 Nov 2023 02:34:16 GMT</pubDate>
+</item>
+
+<item>
 <title>刨洞安全团队发现新恶意团伙“紫狐”针对 finalshell 的供应链事件 近期，一个名为“紫狐”的恶意团伙通过虚假的 finalshell 官网 www.finalshell[.]org 投放恶...</title>
 <link>https://t.me/xhqcankao/6845</link>
 <guid>https://t.me/xhqcankao/6845</guid>
 <content:encoded><![CDATA[
-
 <p><b>刨洞安全团队发现新恶意团伙“紫狐”针对 finalshell 的供应链事件</b><br /><br />近期，一个名为“紫狐”的恶意团伙通过虚假的 finalshell 官网 www.finalshell[.]org 投放恶意木马病毒。该域名是近期注册的新域名，使用的还是 Let's Encrypt 的免费证书。<br /><br />刨洞安全团队发现了这件事，并发布了公告。众所周知，finalshell 拥有大量的用户。而此虚假官方网站在搜索引擎里排名很高，导致很多用户很容易上当下载。<br /><br />某些 CSDN 的博文还会提到去此恶意网址下载 finalshell，具有极强的诱导性。<br /><br />—— <a href="https://mp.weixin.qq.com/s/rAsN9k5fdI5nf9sJ4kZVTw" rel="noopener" target="_blank">刨洞安全团队</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 08 Nov 2023 01:39:28 GMT</pubDate>
-<pubDate>Wed, 08 Nov 2023 01:39:28 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 #News ☀️ 自留地早报【11.8】 1️⃣ 大疆 官宣将于11月8日21点发布一款行业应用新品，口号为“轻担重任” 2⃣️ 任天堂 公布了截至 2023 年 9 月 30 日的...</title>
 <link>https://t.me/NewlearnerChannel/11971</link>

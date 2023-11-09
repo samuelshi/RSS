@@ -6807,3 +6807,11 @@ Append: [中国经济学者：储蓄率高致消费率低是错误观点](https:
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 2
 Finish: 2023-11-09 22:01:50
+------------------------------------------------------
+Started: 2023-11-09 23:01:38
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [特斯拉中国宣布部分车型涨价](https://www.zaobao.com/realtime/china/story20231109-1448954)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 1
+Finish: 2023-11-09 23:01:43

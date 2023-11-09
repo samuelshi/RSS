@@ -6773,3 +6773,11 @@ Append: [赖清德副手据报已拍板是萧美琴](https://www.zaobao.com/real
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 4
 Finish: 2023-11-09 18:01:48
+------------------------------------------------------
+Started: 2023-11-09 19:01:30
+Existing_entries: 1004
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中国进口商连续两天大批采购美国大豆](https://www.zaobao.com/realtime/china/story20231109-1448915)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 1
+Finish: 2023-11-09 19:01:37

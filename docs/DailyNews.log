@@ -7031,3 +7031,13 @@ Fetching from https://chinadigitaltimes.net/chinese/feed
 Append: [每日一语 2023.11.8](https://chinadigitaltimes.net/chinese/701995.html)
 append_entries: 1
 Finish: 2023-11-09 18:01:38
+------------------------------------------------------
+Started: 2023-11-09 19:01:22
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+Append: [麟阁经略｜河南的舆论形象需要自我救赎](https://chinadigitaltimes.net/chinese/701992.html)
+append_entries: 1
+Finish: 2023-11-09 19:01:29

@@ -6695,3 +6695,12 @@ Append: [中国平安在上交所发公告称没持有碧桂园股份](https://w
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 3
 Finish: 2023-11-09 10:09:09
+------------------------------------------------------
+Started: 2023-11-09 11:01:37
+Existing_entries: 1003
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中国国家统计局：10月份CPI同比下降0.2%](https://www.zaobao.com/realtime/china/story20231109-1448876)
+Append: [思杰所有者成最新一家撤出中国的美国公司](https://www.zaobao.com/realtime/china/story20231109-1448872)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-09 11:01:43

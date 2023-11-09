@@ -6781,3 +6781,12 @@ Append: [中国进口商连续两天大批采购美国大豆](https://www.zaobao
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-09 19:01:37
+------------------------------------------------------
+Started: 2023-11-09 20:01:43
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [下午察：中山二院癌症疑云](https://www.zaobao.com/realtime/china/story20231109-1448999)
+Append: [李家超：7万人才落地香港 比原定目标多一倍](https://www.zaobao.com/realtime/china/story20231109-1448928)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-09 20:01:48

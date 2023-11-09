@@ -6724,3 +6724,12 @@ Append: [日媒：岸田考虑在APEC峰会期间与习近平会面](https://www
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 4
 Finish: 2023-11-09 13:01:42
+------------------------------------------------------
+Started: 2023-11-09 14:01:34
+Existing_entries: 1004
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [台国防部：山东舰沿台海中线航行](https://www.zaobao.com/realtime/china/story20231109-1448901)
+Append: [中国大陆渔船越界捕鱼 台中海巡队押回13人](https://www.zaobao.com/realtime/china/story20231109-1448896)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-09 14:01:39

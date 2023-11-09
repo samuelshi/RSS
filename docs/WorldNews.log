@@ -6733,3 +6733,11 @@ Append: [中国大陆渔船越界捕鱼 台中海巡队押回13人](https://www.
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 2
 Finish: 2023-11-09 14:01:39
+------------------------------------------------------
+Started: 2023-11-09 15:01:55
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [南开大学成立社会学院](https://www.zaobao.com/realtime/china/story20231109-1448906)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 1
+Finish: 2023-11-09 15:02:03

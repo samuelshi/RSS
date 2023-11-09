@@ -6713,3 +6713,14 @@ Append: [旅居华盛顿的大熊猫回中国 美国仅剩一家动物园有大�
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 2
 Finish: 2023-11-09 12:01:53
+------------------------------------------------------
+Started: 2023-11-09 13:01:37
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [今起中美直飞客运航班量将增至每周70班](https://www.zaobao.com/realtime/china/story20231109-1448898)
+Append: [中国官媒：中美气候变化加州会谈达成积极成果](https://www.zaobao.com/realtime/china/story20231109-1448895)
+Append: [台时评人称柯文哲最强副手是郭台铭](https://www.zaobao.com/realtime/china/story20231109-1448894)
+Append: [日媒：岸田考虑在APEC峰会期间与习近平会面](https://www.zaobao.com/realtime/china/story20231109-1448891)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 4
+Finish: 2023-11-09 13:01:42

@@ -6798,3 +6798,12 @@ Append: [台总统选举维安部队成军 国安局长强调安保不分党派]
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-09 21:02:46
+------------------------------------------------------
+Started: 2023-11-09 22:01:44
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [台国防部称大陆火箭飞过台上空](https://www.zaobao.com/realtime/china/story20231109-1449040)
+Append: [中国经济学者：储蓄率高致消费率低是错误观点](https://www.zaobao.com/realtime/china/story20231109-1448947)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-09 22:01:50

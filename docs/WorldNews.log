@@ -6909,3 +6909,13 @@ Append: [英伟达据报将发布三款面向中国市场芯片](https://www.zao
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 2
 Finish: 2023-11-10 11:02:12
+------------------------------------------------------
+Started: 2023-11-10 12:01:38
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [甘霖被免去中国国家反垄断局局长职务](https://www.zaobao.com/realtime/china/story20231110-1449131)
+Append: [中国海警局指菲船只进入仁爱礁邻近海域](https://www.zaobao.com/realtime/china/story20231110-1449126)
+Append: [马英九建议全民调 侯友宜回应“尊重”](https://www.zaobao.com/realtime/china/story20231110-1449125)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 3
+Finish: 2023-11-10 12:01:44

@@ -6939,3 +6939,14 @@ Append: [香港通报猪瘟检测阳性个案 销毁5600多头猪](https://www.z
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 2
 Finish: 2023-11-10 14:01:52
+------------------------------------------------------
+Started: 2023-11-10 15:01:43
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中国央行行长：部分省份债务规模有一定风险](https://www.zaobao.com/realtime/china/story20231110-1449144)
+Append: [中国创业公司在美扩大芯片禁令前抢购AI芯片](https://www.zaobao.com/realtime/china/story20231110-1449148)
+Append: [中国警方对黑龙江屋顶坍塌事故11重点人员采取强制措施](https://www.zaobao.com/realtime/china/story20231110-1449147)
+Append: [香港区选所有399名参选人均符合参选资格](https://www.zaobao.com/realtime/china/story20231110-1449136)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 4
+Finish: 2023-11-10 15:01:48

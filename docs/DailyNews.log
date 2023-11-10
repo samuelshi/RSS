@@ -7519,3 +7519,14 @@ Fetching from https://chinadigitaltimes.net/chinese/feed
 Append: [【404文库】路透财经早报｜独家：百度订购华为AI芯片，不再依赖英伟达](https://chinadigitaltimes.net/chinese/702060.html)
 append_entries: 1
 Finish: 2023-11-11 05:01:45
+------------------------------------------------------
+Started: 2023-11-11 06:01:26
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+Append: [魏春亮说｜那个佳木斯妈妈，放弃多少才能为孩子讨个公道？](https://chinadigitaltimes.net/chinese/702070.html)
+Append: [木蹊说｜佳木斯没有软肋，但有眼泪](https://chinadigitaltimes.net/chinese/702067.html)
+append_entries: 2
+Finish: 2023-11-11 06:01:29

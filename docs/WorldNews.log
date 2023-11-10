@@ -7009,3 +7009,12 @@ Append: [湖北医院涉贩卖出生证事件 已有七人被采取刑事强制�
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-10 21:02:52
+------------------------------------------------------
+Started: 2023-11-10 22:01:24
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [习近平下周赴美与拜登举行中美元首会晤](https://www.zaobao.com/realtime/china/story20231110-1449276)
+Append: [联合国教科文组织首次在华设国际教研所](https://www.zaobao.com/realtime/china/story20231110-1449193)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-10 22:01:29

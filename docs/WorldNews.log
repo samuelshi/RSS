@@ -6900,3 +6900,12 @@ Append: [陆家嘴斥巨资买到毒地索赔 卖方苏钢称已提示污染风�
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-10 10:09:18
+------------------------------------------------------
+Started: 2023-11-10 11:02:06
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中国大陆首个涉台海事纠纷解决中心在厦门成立](https://www.zaobao.com/realtime/china/story20231110-1449117)
+Append: [英伟达据报将发布三款面向中国市场芯片](https://www.zaobao.com/realtime/china/story20231110-1449115)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-10 11:02:12

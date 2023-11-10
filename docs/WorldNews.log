@@ -6963,3 +6963,12 @@ Append: [中国11月初滑雪门票订单量比2019年增长209%](https://www.za
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 6
 Finish: 2023-11-10 16:02:01
+------------------------------------------------------
+Started: 2023-11-10 17:01:30
+Existing_entries: 1006
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [韩国瑜发声支持马英九所提全民调](https://www.zaobao.com/realtime/china/story20231110-1449184)
+Append: [马来西亚副首相法迪拉下周访华](https://www.zaobao.com/realtime/china/story20231110-1449181)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-10 17:01:35

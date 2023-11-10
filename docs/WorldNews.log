@@ -6930,3 +6930,12 @@ Append: [中国涉藏白皮书：所有发展都要赋予维护统一反对分�
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 4
 Finish: 2023-11-10 13:01:30
+------------------------------------------------------
+Started: 2023-11-10 14:01:46
+Existing_entries: 1004
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中国全国工商联原副主席：要明确回答民营经济存在的必要性问题](https://www.zaobao.com/realtime/china/story20231110-1449140)
+Append: [香港通报猪瘟检测阳性个案 销毁5600多头猪](https://www.zaobao.com/realtime/china/story20231110-1449129)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-10 14:01:52

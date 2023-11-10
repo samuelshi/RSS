@@ -6892,3 +6892,11 @@ Append: [中国官媒：中美关系出现止跌企稳势头 但仍面临严峻�
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 6
 Finish: 2023-11-10 09:23:39
+------------------------------------------------------
+Started: 2023-11-10 10:09:13
+Existing_entries: 1006
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [陆家嘴斥巨资买到毒地索赔 卖方苏钢称已提示污染风险](https://www.zaobao.com/realtime/china/story20231110-1449108)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 1
+Finish: 2023-11-10 10:09:18

@@ -7530,3 +7530,13 @@ Append: [魏春亮说｜那个佳木斯妈妈，放弃多少才能为孩子讨�
 Append: [木蹊说｜佳木斯没有软肋，但有眼泪](https://chinadigitaltimes.net/chinese/702067.html)
 append_entries: 2
 Finish: 2023-11-11 06:01:29
+------------------------------------------------------
+Started: 2023-11-11 07:01:31
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+Append: [经济观察报｜5位医学生眼中的实验室](https://chinadigitaltimes.net/chinese/702073.html)
+append_entries: 1
+Finish: 2023-11-11 07:01:35

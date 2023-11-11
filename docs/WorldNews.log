@@ -7172,3 +7172,14 @@ Append: [中国媒体：中美元首旧金山会晤释放三个重磅信号](htt
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 2
 Finish: 2023-11-11 17:01:24
+------------------------------------------------------
+Started: 2023-11-11 18:01:39
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [日本公明党党魁据报本月22日访华](https://www.zaobao.com/realtime/china/story20231111-1449426)
+Append: [碧桂园主席杨惠妍出席内部会议 破除离境传闻](https://www.zaobao.com/realtime/china/story20231111-1449422)
+Append: [日本冲绳县知事玉城丹尼本月底访台](https://www.zaobao.com/realtime/china/story20231111-1449420)
+Append: [港财政司长陈茂波今起赴美出席APEC峰会](https://www.zaobao.com/realtime/china/story20231111-1449381)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 4
+Finish: 2023-11-11 18:01:44

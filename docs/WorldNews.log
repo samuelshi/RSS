@@ -7102,3 +7102,11 @@ Append: [中国工行美子公司据报聘请网安公司启动评估](https://w
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 4
 Finish: 2023-11-11 10:18:11
+------------------------------------------------------
+Started: 2023-11-11 10:26:41
+Existing_entries: 1004
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [广东卫健委主任朱宏主动投案 正接受审查调查](https://www.zaobao.com/realtime/china/story20231111-1449350)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 1
+Finish: 2023-11-11 10:26:46

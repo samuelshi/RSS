@@ -7579,3 +7579,12 @@ Fetching from https://chinadigitaltimes.net/chinese/feed
 Append: [【翻车现场】“中国游戏纪事”？蒙古国海军纪事！](https://chinadigitaltimes.net/chinese/702075.html)
 append_entries: 21
 Finish: 2023-11-11 10:18:04
+------------------------------------------------------
+Started: 2023-11-11 10:26:36
+Existing_entries: 1021
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 0
+Finish: 2023-11-11 10:26:40

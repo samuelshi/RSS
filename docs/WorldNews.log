@@ -7135,3 +7135,12 @@ Append: [中国官媒：华盛顿与英伟达的猫鼠游戏不应持续](https:
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 2
 Finish: 2023-11-11 13:01:37
+------------------------------------------------------
+Started: 2023-11-11 14:01:29
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中国住建部长：认房不认贷等措施起到积极作用](https://www.zaobao.com/realtime/china/story20231111-1449373)
+Append: [中国国防部发短视频 歼-20实弹射击近照曝光](https://www.zaobao.com/realtime/china/story20231111-1449363)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-11 14:01:34

@@ -7126,3 +7126,12 @@ Append: [港律政司长：合理批评不会也不应担心违法风险](https:
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-11 12:01:49
+------------------------------------------------------
+Started: 2023-11-11 13:01:31
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [钟南山：近期将有冠病感染小高峰 建议老年人接种二代疫苗](https://www.zaobao.com/realtime/china/story20231111-1449356)
+Append: [中国官媒：华盛顿与英伟达的猫鼠游戏不应持续](https://www.zaobao.com/realtime/china/story20231111-1449365)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-11 13:01:37

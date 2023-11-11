@@ -7163,3 +7163,12 @@ Append: [港媒：习拜会将宣布禁AI用于无人机和核管控系统](http
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 3
 Finish: 2023-11-11 16:01:37
+------------------------------------------------------
+Started: 2023-11-11 17:01:22
+Existing_entries: 1003
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [港警过去三周破获66起网诈案 金额达6700万港元](https://www.zaobao.com/realtime/china/story20231111-1449414)
+Append: [中国媒体：中美元首旧金山会晤释放三个重磅信号](https://www.zaobao.com/realtime/china/story20231111-1449407)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-11 17:01:24

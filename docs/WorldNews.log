@@ -7082,3 +7082,12 @@ Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 0
 Finish: 2023-11-11 07:01:44
+------------------------------------------------------
+Started: 2023-11-11 08:02:50
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [深圳罗湖法院向宝能董事长姚振华致歉](https://www.zaobao.com/realtime/china/story20231111-1449332)
+Append: [习近平考察北京河北灾后重建 敦促用好国债增发资金](https://www.zaobao.com/realtime/china/story20231111-1449331)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-11 08:02:54

@@ -7359,3 +7359,12 @@ Append: [宋楚瑜：人民给某位先生八年时间却让国民党全盘下�
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 3
 Finish: 2023-11-12 16:01:35
+------------------------------------------------------
+Started: 2023-11-12 17:01:50
+Existing_entries: 1003
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [日媒：因间谍罪在华获刑12年 日籍男子上诉被驳回](https://www.zaobao.com/realtime/china/story20231112-1449555)
+Append: [赖清德批蓝白合只顾权位分配、谁正谁副](https://www.zaobao.com/realtime/china/story20231112-1449541)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-12 17:01:56

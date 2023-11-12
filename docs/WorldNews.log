@@ -7321,3 +7321,12 @@ Append: [朱立伦称蓝白对全民调有共识 内容与规则仍存差异](ht
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-12 12:01:46
+------------------------------------------------------
+Started: 2023-11-12 13:01:18
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [涉缅北武装护诈 明学昌等四人被中国公安机关通缉](https://www.zaobao.com/realtime/china/story20231112-1449520)
+Append: [双11当天中国快递业务量达6.39亿件](https://www.zaobao.com/realtime/china/story20231112-1449516)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-12 13:01:23

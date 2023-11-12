@@ -7288,3 +7288,12 @@ Append: [中国金融监管总局：积极配合化解地方债务风险](https:
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-12 08:03:39
+------------------------------------------------------
+Started: 2023-11-12 09:26:30
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [韩正：中国愿同马来西亚扩大经贸旅游科技等领域合作](https://www.zaobao.com/realtime/china/story20231112-1449503)
+Append: [浙江永嘉民房坍塌致三死](https://www.zaobao.com/realtime/china/story20231112-1449497)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-12 09:26:36

@@ -7313,3 +7313,11 @@ Append: [中国军队本月将与五个东南亚国家举行联合演习](https:
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-12 11:01:37
+------------------------------------------------------
+Started: 2023-11-12 12:01:40
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [朱立伦称蓝白对全民调有共识 内容与规则仍存差异](https://www.zaobao.com/realtime/china/story20231112-1449515)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 1
+Finish: 2023-11-12 12:01:46

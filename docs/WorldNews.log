@@ -7401,3 +7401,12 @@ Append: [香港廉署于区选日将派逾800人驻守各票站](https://www.zao
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-12 21:01:50
+------------------------------------------------------
+Started: 2023-11-12 22:15:40
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中国全国政协举行仪式纪念孙中山诞辰](https://www.zaobao.com/realtime/china/story20231112-1449554)
+Append: [美媒：中国电动汽车公司极氪计划赴美上市](https://www.zaobao.com/realtime/china/story20231112-1449550)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-12 22:15:46

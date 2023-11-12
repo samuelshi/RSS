@@ -7305,3 +7305,11 @@ Append: [美媒：习近平访美期间将与艾奥瓦州“老朋友”共进�
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-12 10:12:02
+------------------------------------------------------
+Started: 2023-11-12 11:01:31
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中国军队本月将与五个东南亚国家举行联合演习](https://www.zaobao.com/realtime/china/story20231112-1449511)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 1
+Finish: 2023-11-12 11:01:37

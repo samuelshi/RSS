@@ -7978,3 +7978,12 @@ Fetching from https://chinadigitaltimes.net/chinese/feed
 Append: [每日一语 2023.11.11](https://chinadigitaltimes.net/chinese/702116.html)
 append_entries: 2
 Finish: 2023-11-12 13:01:17
+------------------------------------------------------
+Started: 2023-11-12 14:01:38
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 0
+Finish: 2023-11-12 14:01:44

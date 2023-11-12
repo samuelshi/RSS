@@ -7330,3 +7330,12 @@ Append: [双11当天中国快递业务量达6.39亿件](https://www.zaobao.com/r
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 2
 Finish: 2023-11-12 13:01:23
+------------------------------------------------------
+Started: 2023-11-12 14:01:45
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [台湾承诺将与太平洋邦交国携手合作促进区域繁荣](https://www.zaobao.com/realtime/china/story20231112-1449525)
+Append: [陈茂波：APEC期间将介绍香港机遇 鼓励美企来港发展](https://www.zaobao.com/realtime/china/story20231112-1449519)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-12 14:01:50

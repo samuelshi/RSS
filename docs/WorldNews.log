@@ -7280,3 +7280,11 @@ Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 0
 Finish: 2023-11-12 07:01:38
+------------------------------------------------------
+Started: 2023-11-12 08:03:34
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中国金融监管总局：积极配合化解地方债务风险](https://www.zaobao.com/realtime/china/story20231112-1449495)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 1
+Finish: 2023-11-12 08:03:39

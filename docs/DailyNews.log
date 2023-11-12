@@ -8132,3 +8132,13 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 0
 Finish: 2023-11-13 00:01:38
+------------------------------------------------------
+Started: 2023-11-13 01:01:15
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+Append: [【CDT百科】一个健康的社会，只能有一种声音吗？](https://chinadigitaltimes.net/chinese/701963.html)
+append_entries: 1
+Finish: 2023-11-13 01:01:22

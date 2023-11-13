@@ -7473,3 +7473,11 @@ Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 0
 Finish: 2023-11-13 07:01:47
+------------------------------------------------------
+Started: 2023-11-13 08:03:09
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中国多地卫健部门督导检查医院出生证管理情况](https://www.zaobao.com/realtime/china/story20231113-1449640)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 1
+Finish: 2023-11-13 08:03:14

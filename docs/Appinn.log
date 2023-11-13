@@ -1619,3 +1619,10 @@ Existing_entries: 85
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2023-11-13 11:01:52
+------------------------------------------------------
+Started: 2023-11-13 12:02:18
+Existing_entries: 85
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [🖼 OpenCat for macOS 已支持生成图片，暂时需要订阅，后面会支持 API](https://t.me/appinnfeed/8846)
+append_entries: 1
+Finish: 2023-11-13 12:02:28

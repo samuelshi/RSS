@@ -5062,3 +5062,14 @@ Append: [苹果公司将禁止摇一摇跳转广告，国内多家头部 App 已
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
 append_entries: 1
 Finish: 2023-11-13 20:02:03
+------------------------------------------------------
+Started: 2023-11-13 21:03:25
+Existing_entries: 424
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel
+Append: [🖼 #News 🎑 自留地晚报 【11.13】 1️⃣ Bloomberg 报道称，苹果内部对 iOS 18 抱有极高期望，将为 iPhone 和 iPad 带来开创性功能更新。 2️⃣ 郭明錤 发...](https://t.me/NewlearnerChannel/12027)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection
+Append: [🖼 微信输入法桌面端终于发了正式版 1.0.0，不再是 Beta。 最大升级是支持了多设备词库同步。有意思的是，词库同步并不是靠微信账号打通，而是在微信输入法里...](https://t.me/jike_collection/9330)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
+append_entries: 2
+Finish: 2023-11-13 21:03:28

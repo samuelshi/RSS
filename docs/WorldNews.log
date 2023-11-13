@@ -7529,3 +7529,13 @@ Append: [柯文哲：要找马英九当见证人](https://www.zaobao.com/realtim
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 2
 Finish: 2023-11-13 13:01:55
+------------------------------------------------------
+Started: 2023-11-13 14:01:57
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中国拟出台电信网络诈骗惩戒办法](https://www.zaobao.com/realtime/china/story20231113-1449672)
+Append: [资生堂下调展望 因中国业务恶化](https://www.zaobao.com/realtime/china/story20231113-1449673)
+Append: [中国发改委：提振民营经济发展信心需要恢复过程](https://www.zaobao.com/realtime/china/story20231113-1449668)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 3
+Finish: 2023-11-13 14:02:02

@@ -7601,3 +7601,12 @@ Append: [中国金融反腐持续深入 今年已有87人通报被查](https://w
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-13 21:03:24
+------------------------------------------------------
+Started: 2023-11-13 22:01:37
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [下午察：中国会重新采购波音飞机吗?](https://www.zaobao.com/realtime/china/story20231113-1449792)
+Append: [呼吸道疾病进入高发季节 专家建议确认病原学后再用药](https://www.zaobao.com/realtime/china/story20231113-1449713)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-13 22:01:43

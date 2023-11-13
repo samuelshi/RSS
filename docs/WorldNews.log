@@ -7610,3 +7610,11 @@ Append: [呼吸道疾病进入高发季节 专家建议确认病原学后再用�
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 2
 Finish: 2023-11-13 22:01:43
+------------------------------------------------------
+Started: 2023-11-13 23:01:33
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [北大否认缅北电诈头目的孙子是北大学生](https://www.zaobao.com/realtime/china/story20231113-1449681)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 1
+Finish: 2023-11-13 23:01:39

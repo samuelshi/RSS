@@ -7618,3 +7618,10 @@ Append: [北大否认缅北电诈头目的孙子是北大学生](https://www.zao
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-13 23:01:39
+------------------------------------------------------
+Started: 2023-11-14 00:01:30
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 0
+Finish: 2023-11-14 00:01:35

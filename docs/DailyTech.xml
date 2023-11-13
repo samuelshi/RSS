@@ -4,6 +4,28 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+<item>
+<title>🖼 #Python潮流周刊 #Newsletter Python 潮流周刊#26：requests3 的现状 🦄文章&amp;教程 1、Kenneth Reitz：迟来的道歉，以及 requests 3 的进展 2、grequests...</title>
+<link>https://t.me/NewlearnerChannel/12026</link>
+<guid>https://t.me/NewlearnerChannel/12026</guid>
+<content:encoded><![CDATA[
+
+<p><a href="https://t.me/NewlearnerChannel/12026?q=%23Python%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A">#Python潮流周刊</a> <a href="https://t.me/NewlearnerChannel/12026?q=%23Newsletter">#Newsletter</a><br /><br /><a href="https://pythoncat.top/posts/2023-11-11-weekly" rel="noopener" target="_blank">Python 潮流周刊#26：requests3 的现状</a><br /><br /><span class="emoji">🦄</span><b>文章&amp;教程</b><br />1、Kenneth Reitz：迟来的道歉，以及 requests 3 的进展<br />2、grequests：异步的 HTTP 请求<br />3、开发一个 Python 编译器和解释器<br />4、使用 Python+ChatGPT 开发一个书籍摘要 AI<br />5、数据库生成的列 ：Django &amp; SQLite<br />6、你能用 Python 的 bisect 模块做到这些事<br />7、为什么说在 Windows 上为 Python 3.12 构建的 SciPy 是一个小奇迹？<br />8、使用 AI 进行网页抓取实验（使用 GPT-4 解析 HTML）<br />9、Django vs Flask：哪个是最好的 Python Web 框架？<br />10、在 Mac 上安装 Python 的正确方法<br />11、用 Python 开发简单的 Android 数据分析应用<br />12、改进 Numpy 的 Python API，为 2.0 版本准备<br /><br /><span class="emoji">🐿</span><b>项目&amp;资源</b><br />1、pyvideotrans：视频的语言翻译，并添加配音<br />2、pyink：Google 内部修改 Black 而成的代码格式化工具<br />3、sqlmodel：Python 中的 SQL 数据库<br />4、wagtail：一个 Django 内容管理系统<br />5、NBA-Machine-Learning-Sports-Betting：使用机器学习的 NBA 比赛预测<br />6、Python_EBook_Free：Python 电子书和资源<br />7、pathway：高吞吐量和低延迟实时数据处理框架<br />8、prefect：一个工作流编排工具，构建数据管道<br />9、VideoCrafter：生成高质量视频模型<br />10、程序员值得看的 42 个学习资源<br />11、networkx：Python 的网络分析库<br />12、PythonFrameworks：Python 的各种框架汇总<br /><br /><span class="emoji">🐢</span><b>播客&amp;视频</b><br />1、core.py：一档新的 Python 播客<br />2、为什么静态类型又流行起来了？<br />3、《Boost your Git DX》作者的两期播客<br /><br /><span class="emoji">👀</span> <a href="https://pythoncat.top/posts/2023-11-11-weekly" rel="noopener" target="_blank">全文</a>    <span class="emoji">👀</span> <a href="https://pythoncat.top/tags/weekly" rel="noopener" target="_blank">合集</a>&nbsp;&nbsp;&nbsp;&nbsp; <span class="emoji">🤝</span><a href="https://github.com/chinesehuazhou/python-weekly" rel="noopener" target="_blank">投稿</a>&nbsp;&nbsp;&nbsp; <span class="emoji">🐱</span><a href="https://t.me/pythontrendingweekly" rel="noopener" target="_blank">频道<br /><br /></a>频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/k0B8-qIfCQntONjfX8r8as3t_Em6n7QGKLfElyYuSni8fHY2OzSGRbAc71Oaz_JsBZUSgoy3O4eDodSsIEEmATOR7Oxmxz_HLYEfAopMnxPiWMdsPn4PWwDDeGMdABwpR79mBLK7MmABjffXkguM3L7rd7eBCCbmron3SBK8kmO2Feqkt4FfWjPMb5moNVsjmFPxm6M7OZLkjAyyeCkYF7KDOhtgP8wwnXbbwNLlfoiAFnN2usOqfYiYbKIPB9FaZB9stg7m2KvGh3b4rwWq2n9bdcFdZuecnFNv11_DJ2ZV6ZbeOG50x-NzDI9OvIYmF9-g4NpKYdBjz-4jR9W28w.jpg" />
+]]></content:encoded>
+<pubDate>Mon, 13 Nov 2023 10:00:06 GMT</pubDate>
+<pubDate>Mon, 13 Nov 2023 10:00:06 GMT</pubDate>
+</item>
+<item>
+<title>尽管大力推动 OpenAI，微软 Bing 搜索市场份额仍逐年下降 在 2023 年初，随着微软与 OpenAI 的合作开始取得成果，微软将由 ChatGPT 支持聊天机器人融入到其几乎...</title>
+<link>https://t.me/xhqcankao/6906</link>
+<guid>https://t.me/xhqcankao/6906</guid>
+<content:encoded><![CDATA[
+
+<p><b>尽管大力推动 OpenAI，微软 Bing 搜索市场份额仍逐年下降</b><br /><br />在 2023 年初，随着微软与 OpenAI 的合作开始取得成果，微软将由 ChatGPT 支持聊天机器人融入到其几乎所有产品中，创造了一系列的热点，引发了大量关注。<br /><br />根据 <a href="https://gs.statcounter.com/search-engine-market-share/all/united-states-of-america" rel="noopener" target="_blank">StatCounter</a> 的最新数据，Bing 在美国的市场份额实际上同比下降了 0.5%，从去年的 7.4% 降至 6.9% 。同时，谷歌的份额增至 88%，较去年的 86.7% 略有提升。然而，微软 Edge 抢走了谷歌 Chrome 浏览器 1% 的份额，尽管它的市场份额略低于 5.5% 。<br /><br />这些统计数据相对较小，可能在误差幅度之内，但到目前为止，OpenAI 的表现似乎还不足以使微软如愿以偿地实现颠覆性突破。<br /><br />—— <a href="https://www.windowscentral.com/microsoft/despite-its-big-openai-push-microsofts-bing-search-market-share-decreases-year-over-year" rel="noopener" target="_blank">WindowsCentral</a></p>
+]]></content:encoded>
+<pubDate>Mon, 13 Nov 2023 09:03:34 GMT</pubDate>
+<pubDate>Mon, 13 Nov 2023 09:03:34 GMT</pubDate>
+</item>
 
 <item>
 <title>🖼 #GitHub情报 #iOS 老司机 iOS 周报 2023-11-13 这周份的 iOS Markdown 周报，适合爱好者和 iOS 开发人员，每周为大家带来最新的 iOS 新闻资讯，开发信息 �...</title>

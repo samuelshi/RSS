@@ -7568,3 +7568,12 @@ Append: [滴滴自2021年以来首次盈利 市场份额不断收复](https://ww
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 3
 Finish: 2023-11-13 17:01:54
+------------------------------------------------------
+Started: 2023-11-13 18:01:34
+Existing_entries: 1003
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中国称支持一切旨在推动以哈冲突降级的努力](https://www.zaobao.com/realtime/china/story20231113-1449719)
+Append: [美对台军售延迟交货 涉8300亿新台币](https://www.zaobao.com/realtime/china/story20231113-1449717)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-13 18:01:39

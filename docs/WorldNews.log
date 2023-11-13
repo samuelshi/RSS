@@ -7481,3 +7481,14 @@ Append: [中国多地卫健部门督导检查医院出生证管理情况](https:
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-13 08:03:14
+------------------------------------------------------
+Started: 2023-11-13 09:24:55
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中国籍男子因贩毒在越南被判死刑](https://www.zaobao.com/realtime/china/story20231113-1449648)
+Append: [西泠印社上周选举 社长一职依旧空缺](https://www.zaobao.com/realtime/china/story20231113-1449647)
+Append: [上海美国商会会长：美企始终认为中国是非常重要的战略市场](https://www.zaobao.com/realtime/china/story20231113-1449645)
+Append: [AIT主席：美国反对任何外来行为者干预台湾选举](https://www.zaobao.com/realtime/china/story20231113-1449642)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 4
+Finish: 2023-11-13 09:25:00

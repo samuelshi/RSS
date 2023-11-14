@@ -7730,3 +7730,12 @@ Append: [中国副代表吁以色列尽快加入《不扩散核武器条约》](
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 2
 Finish: 2023-11-14 13:01:44
+------------------------------------------------------
+Started: 2023-11-14 14:01:48
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [台湾蓝白两党明举行政党协商 柯侯朱马四人出席](https://www.zaobao.com/realtime/china/story20231114-1449869)
+Append: [中国央行称金融风险整体收敛总体可控](https://www.zaobao.com/realtime/china/story20231114-1449848)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-14 14:01:53

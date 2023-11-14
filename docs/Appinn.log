@@ -1757,3 +1757,10 @@ Existing_entries: 97
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2023-11-14 08:03:28
+------------------------------------------------------
+Started: 2023-11-14 09:24:03
+Existing_entries: 97
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [🔁 有个前端加密的需求，之前一直用的 https://github.com/robinmoisson/staticrypt ，但是这个只能整页加密。想找个能够用密码加密的前端组件，用户输入密码...](https://t.me/appinnfeed/8861)
+append_entries: 1
+Finish: 2023-11-14 09:24:03

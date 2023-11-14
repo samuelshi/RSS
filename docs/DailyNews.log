@@ -8859,3 +8859,12 @@ Fetching from https://chinadigitaltimes.net/chinese/feed
 Append: [每日一语 2023.11.14](https://chinadigitaltimes.net/chinese/702231.html)
 append_entries: 1
 Finish: 2023-11-15 05:01:31
+------------------------------------------------------
+Started: 2023-11-15 06:01:23
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 0
+Finish: 2023-11-15 06:01:30

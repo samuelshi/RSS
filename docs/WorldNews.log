@@ -7806,3 +7806,12 @@ Append: [天主教北京教区主教李山访港](https://www.zaobao.com/realtim
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-14 21:02:51
+------------------------------------------------------
+Started: 2023-11-14 22:01:45
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [下午察：缅北电诈家族末日将至？](https://www.zaobao.com/realtime/china/story20231114-1450018)
+Append: [台陆委会批大陆尝试以经济胁迫干扰台湾选举](https://www.zaobao.com/realtime/china/story20231114-1449923)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-14 22:01:51

@@ -4,15 +4,14 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+
 <item>
 <title>🖼 #APPLE #Notes #Web #Blog #Tools #Photos 🍎 使用这两个项目，让你的 Apple 原生应用「在线共享」 不知道大家习惯在 Apple Notes 和 Photos 中记录一些...</title>
 <link>https://t.me/NewlearnerChannel/12030</link>
 <guid>https://t.me/NewlearnerChannel/12030</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://t.me/NewlearnerChannel/12030?q=%23APPLE">#APPLE</a> <a href="https://t.me/NewlearnerChannel/12030?q=%23Notes">#Notes</a> <a href="https://t.me/NewlearnerChannel/12030?q=%23Web">#Web</a> <a href="https://t.me/NewlearnerChannel/12030?q=%23Blog">#Blog</a> <a href="https://t.me/NewlearnerChannel/12030?q=%23Tools">#Tools</a> <a href="https://t.me/NewlearnerChannel/12030?q=%23Photos">#Photos</a><br /><br /><span class="emoji">🍎</span> <b>使用这两个项目，让你的 Apple 原生应用「在线共享」</b><br /><br />不知道大家习惯在 Apple Notes 和 Photos 中记录一些文字、保存一些照片吗？我个人使用频率还是比较高的，我喜欢它们带来的多设备同步的体验。今天介绍的两个项目，可以将它们从本地带到线上<br /><br /><span class="emoji">📝</span> <b>Montaigne</b><br /><br /><span class="emoji">🔗</span>：<a href="https://montaigne.io/" rel="noopener" target="_blank">Web</a> | <a href="https://docs.montaigne.io/" rel="noopener" target="_blank">Wiki</a><br /><br />这是我一直收藏的一个项目，如果没有这个 Telegram 频道，我或许会使用一下。Montaigne 能够帮助用户将自己本地的 Apple Notes 以博客的形式映射到网络<br /><br /><span class="emoji">💡</span> 一共需要四步<br /><br />① 在 iOS 备忘录中创建特定命名的共享文件夹<br />② 按照指引把它和 Montaigne 连接起来<br />③ 在备忘录创建的共享文件夹内添加你想展示出来的内容<br />④ 耐心等 2 到 5 分钟，这些内容会自动同步到博客上<br /><br />我很喜欢 Apple Notes，很多频道推送的草稿或是日常记录都会在里面进行。我非常享受用最简单的工具，表达自己最丰富的文字。如果你也喜欢这样，Montaigne 的文档非常详细，可以试一试<br /><br /><span class="emoji">📷</span> <b>Publish Apple Photos</b><br /><br /><span class="emoji">🔗</span>：<a href="https://public.photos/" rel="noopener" target="_blank">Web</a><br /><br />首先赞扬一句，域名不错。看到名字大家应该知道这个项目是做什么的了，它具体的部署形式和 Montaigne 非常类似，最终可以使得你在 Apple Photos 中共享的照片映射到网络上<br /><br />项目首页有一些不错的 Demo，你也可以进去参观一下<br /><br />* 两个项目均需要注册，如担忧隐私问题，请勿使用<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/Yfl3LZ_klvdCa3S0hlxteWeukELT4j7FYow9-U5TWm1y60RKPDDFjcdWxVQpstdiurORWqHwJPFG_o6tlJ5u6Pt0TPmxYAOn7_dr0el5RGyIWahpUZRX-BV6MVEleej0EwN3eNmMmZbVWzfP8ZYGtnWxEPqPhZRAw_PuME-1S_5xprYleDsTyCGSVCoaCGLdxHgeM50m-JnQj6R-av2dS0_XCfrKfTwVhzI2PMDdTfuoRwDsM0ePYoAYVWKL69O2NQZJ_0wnIfsQ71n5bxvMfqebGcGKPODduC1AfMAHEz_l_hHn6aoqMliq7JStdFm_CxK2gr5jxMQ_NJ0pRAArVQ.jpg" />
 ]]></content:encoded>
-<pubDate>Tue, 14 Nov 2023 07:01:14 GMT</pubDate>
 <pubDate>Tue, 14 Nov 2023 07:01:14 GMT</pubDate>
 </item>
 <item>
@@ -20,10 +19,8 @@
 <link>https://t.me/xhqcankao/6920</link>
 <guid>https://t.me/xhqcankao/6920</guid>
 <content:encoded><![CDATA[
-
 <p><b>李开复旗下 AI 公司 “零一万物” 开源 Yi 大模型被指抄袭 LLaMA</b><br /><br />11 月 14 日消息，创新工场董事长兼 CEO 李开复于<a href="https://t.me/xhqcankao/6815" rel="noopener" target="_blank">今年创办</a>了 AI 大模型创业公司“零一万物”，该公司已推出&nbsp;Yi-34B 和&nbsp;Yi-6B 两个开源大模型，号称对学术研究完全开放，同步开放免费商用申请。<br /><br />然而在&nbsp;Yi-34B 的 Hugging Face 开源主页上，开发者 ehartford 质疑称该模型使用了&nbsp;Meta LLaMA 的架构，只对两个张量（Tensor）名称进行了修改，分别为 input_layernorm 和 post_attention_layernorm。<br /><br />ehartford 表示开源社区肯定会重新发布 Yi 大模型，并重命名张量以符合&nbsp;LLaMA&nbsp;架构。他希望该公司在模型获得大量采用之前考虑将这一更改应用到官方模型中，下方则引来了多方议论。<br /><br />此外，网上今日流传着一张原阿里首席 AI 科学家贾扬清的朋友圈，该内容称“某国内大厂新模型 exactly 就是 LLaMA 的架构，但是为了表示不一样，把代码里面的名学从 LLaMA 改成了他们的名字，然后换了几个变量名”。<br /><br />—— <a href="https://www.ithome.com/0/732/405.htm" rel="noopener" target="_blank">IT之家</a></p>
 ]]></content:encoded>
-<pubDate>Tue, 14 Nov 2023 06:46:01 GMT</pubDate>
 <pubDate>Tue, 14 Nov 2023 06:46:01 GMT</pubDate>
 </item>
 <item>
@@ -31,13 +28,10 @@
 <link>https://t.me/xhqcankao/6919</link>
 <guid>https://t.me/xhqcankao/6919</guid>
 <content:encoded><![CDATA[
-
 <p><b>特朗普的社交平台 Truth Social 自推出以来已亏损 7,300 万美元</b><br /><br />根据周一的一份监管公告，特朗普的社交媒体平台 Truth Social 自近两年前推出以来已亏损 7,300 万美元，引发对该平台生存能力的怀疑。<br /><br />空白支票公司 DWAC 向美国证券交易委员会提交的一份公告首次披露了 Truth Social 的财务细节，该公司正在收购 Truth Social 的母公司。<br /><br />根据该公告，Truth Social 在 2022 年亏损 5,000 万美元，今年上半年又亏损 2,300 万美元。2022 年，该公司的净销售额仅为 140 万美元，2023 年上半年为 230 万美元。<br /><br />根据这份多页文件，Truth Social 母公司的独立会计师已发出警告，称这家公司的财务状况“使人对其持续经营能力产生重大怀疑”，如果该合并没有完成，“管理层非常怀疑是否有足够的资金来偿还到期债务”。<br /><br />—— <a href="https://cn.wsj.com/amp/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84truth-social%E8%87%AA%E6%8E%A8%E5%87%BA%E4%BB%A5%E6%9D%A5%E5%B7%B2%E4%BA%8F%E6%8D%9F7-300%E4%B8%87%E7%BE%8E%E5%85%83-d005cd47" rel="noopener" target="_blank">华尔街日报</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 14 Nov 2023 06:16:00 GMT</pubDate>
-<pubDate>Tue, 14 Nov 2023 06:16:00 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 🎧 iOS 17 改变个性化音频空间设置方式 Apple 在 iOS 16 支持一个新功能「个性化空间音频」，使用 iPhone 上的原深感摄像头创建空间音频个人档案，从而获...</title>
 <link>https://t.me/AppleNuts/1843</link>

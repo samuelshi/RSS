@@ -7789,3 +7789,12 @@ Append: [港行会前召集人：董建华身体应该无大问题](https://www.
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-14 19:01:48
+------------------------------------------------------
+Started: 2023-11-14 20:01:55
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [习近平乘专机离开北京赴旧金山](https://www.zaobao.com/realtime/china/story20231114-1449974)
+Append: [碧桂园董事会主席杨惠妍失去胡润女企业家榜首位置](https://www.zaobao.com/realtime/china/story20231114-1449911)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-14 20:02:00

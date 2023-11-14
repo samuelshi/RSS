@@ -8840,3 +8840,12 @@ Fetching from https://chinadigitaltimes.net/chinese/feed
 Append: [侠隐｜俄罗斯扣押中国飞机，中国银行“自愿和解”](https://chinadigitaltimes.net/chinese/702220.html)
 append_entries: 1
 Finish: 2023-11-15 03:01:19
+------------------------------------------------------
+Started: 2023-11-15 04:01:20
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 0
+Finish: 2023-11-15 04:01:31

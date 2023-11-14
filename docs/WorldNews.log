@@ -7815,3 +7815,11 @@ Append: [台陆委会批大陆尝试以经济胁迫干扰台湾选举](https://w
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 2
 Finish: 2023-11-14 22:01:51
+------------------------------------------------------
+Started: 2023-11-14 23:01:41
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中国城市对外籍人才吸引力 北上广位居前三](https://www.zaobao.com/realtime/china/story20231114-1449932)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 1
+Finish: 2023-11-14 23:01:47

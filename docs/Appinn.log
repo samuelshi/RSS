@@ -1796,3 +1796,11 @@ Existing_entries: 100
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2023-11-14 14:01:59
+------------------------------------------------------
+Started: 2023-11-14 15:01:44
+Existing_entries: 100
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [📣 #发现频道 便捷搜索插件，无需重输关键词一键切换搜索引擎 https://meta.appinn.net/t/topic/49188](https://t.me/appinnfeed/8865)
+Append: [📣 #发现频道 我写了一个小工具，定期归档感兴趣的 Git 仓库 https://meta.appinn.net/t/topic/49189](https://t.me/appinnfeed/8864)
+append_entries: 2
+Finish: 2023-11-14 15:01:44

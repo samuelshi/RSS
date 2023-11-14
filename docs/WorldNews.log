@@ -7739,3 +7739,13 @@ Append: [中国央行称金融风险整体收敛总体可控](https://www.zaobao
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 2
 Finish: 2023-11-14 14:01:53
+------------------------------------------------------
+Started: 2023-11-14 15:01:34
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [港保安局长：香港国安法定罪率维持100%](https://www.zaobao.com/realtime/china/story20231114-1449874)
+Append: [台国安秘书长：中国大陆2027年不具备攻台能力](https://www.zaobao.com/realtime/china/story20231114-1449862)
+Append: [美国发放数百张签证给中国记者入境采访习拜会](https://www.zaobao.com/realtime/china/story20231114-1449872)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 3
+Finish: 2023-11-14 15:01:40

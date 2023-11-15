@@ -7900,3 +7900,12 @@ Append: [中美元首会晤话题登微博热搜榜](https://www.zaobao.com/real
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 4
 Finish: 2023-11-15 09:24:54
+------------------------------------------------------
+Started: 2023-11-15 10:11:49
+Existing_entries: 1004
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [澳大利亚相信中国下月将解除所有贸易壁垒](https://www.zaobao.com/realtime/china/story20231115-1450076)
+Append: [萧美琴现身旧金山酒店 对选举问题三缄其口](https://www.zaobao.com/realtime/china/story20231115-1450075)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-15 10:11:54

@@ -7975,3 +7975,13 @@ Append: [赖清德据报下星期一正式宣布“赖萧配”](https://www.zao
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 6
 Finish: 2023-11-15 16:02:15
+------------------------------------------------------
+Started: 2023-11-15 17:01:40
+Existing_entries: 1006
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [日中CEO峰会在东京举行](https://www.zaobao.com/realtime/china/story20231115-1450148)
+Append: [张迎春已任湖南省常务副省长](https://www.zaobao.com/realtime/china/story20231115-1450151)
+Append: [中国大陆教区人员首次在香港参与特别弥撒](https://www.zaobao.com/realtime/china/story20231115-1450130)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 3
+Finish: 2023-11-15 17:01:46

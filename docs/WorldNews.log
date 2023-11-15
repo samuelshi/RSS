@@ -7985,3 +7985,13 @@ Append: [中国大陆教区人员首次在香港参与特别弥撒](https://www.
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 3
 Finish: 2023-11-15 17:01:46
+------------------------------------------------------
+Started: 2023-11-15 18:01:46
+Existing_entries: 1003
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [美丽岛民调：侯友宜领先柯文哲10个百分点](https://www.zaobao.com/realtime/china/story20231115-1450156)
+Append: [蓝白合达共识 柯文哲自曝心情很不好](https://www.zaobao.com/realtime/china/story20231115-1450164)
+Append: [黑龙江绥化市原副市长王雪峰被双开](https://www.zaobao.com/realtime/china/story20231115-1450159)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 3
+Finish: 2023-11-15 18:01:52

@@ -7930,3 +7930,13 @@ Append: [中国国家统计局强调不会出现通货紧缩](https://www.zaobao
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 4
 Finish: 2023-11-15 12:01:50
+------------------------------------------------------
+Started: 2023-11-15 13:01:38
+Existing_entries: 1004
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [蓝白政党协商共识：民调决定正副总统人选](https://www.zaobao.com/realtime/china/story20231115-1450109)
+Append: [教科文组织国际STEM教育研究所将落户上海徐汇西岸滨江](https://www.zaobao.com/realtime/china/story20231115-1450102)
+Append: [中国国家统计局：将适时发布青年就业数据](https://www.zaobao.com/realtime/china/story20231115-1450096)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 3
+Finish: 2023-11-15 13:01:44

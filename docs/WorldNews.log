@@ -7949,3 +7949,16 @@ Append: [侯友宜承诺无论谁正谁副都携手合作](https://www.zaobao.co
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 2
 Finish: 2023-11-15 14:01:48
+------------------------------------------------------
+Started: 2023-11-15 15:01:30
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [大陆国台办评蓝白合：四个“要”是台湾主流民意](https://www.zaobao.com/realtime/china/story20231115-1450126)
+Append: [大陆国台办：台湾问题是核心利益中的核心](https://www.zaobao.com/realtime/china/story20231115-1450125)
+Append: [中国央行净投放MLF资金6000亿人民币 操作规模创2016年12月以来单月最大](https://www.zaobao.com/realtime/china/story20231115-1450122)
+Append: [中国农行浙江分行原副行长吕晓东被双开](https://www.zaobao.com/realtime/china/story20231115-1450108)
+Append: [赖清德据报下星期一正式宣布“赖萧配”](https://www.zaobao.com/realtime/china/story20231115-1450117)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+Feed error: 504
+append_entries: 5
+error when rendering xml, skip docs/WorldNews

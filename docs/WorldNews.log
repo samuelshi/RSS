@@ -8090,3 +8090,11 @@ Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 0
 Finish: 2023-11-16 06:01:45
+------------------------------------------------------
+Started: 2023-11-16 07:01:38
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [习拜会结束 会晤持续两小时许](https://www.zaobao.com/realtime/china/story20231116-1450281)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 1
+Finish: 2023-11-16 07:01:43

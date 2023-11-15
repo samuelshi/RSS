@@ -7940,3 +7940,12 @@ Append: [中国国家统计局：将适时发布青年就业数据](https://www.
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 3
 Finish: 2023-11-15 13:01:44
+------------------------------------------------------
+Started: 2023-11-15 14:01:43
+Existing_entries: 1003
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [民进党称马办赴北京“领旨”带回全民调方案](https://www.zaobao.com/realtime/china/story20231115-1450101)
+Append: [侯友宜承诺无论谁正谁副都携手合作](https://www.zaobao.com/realtime/china/story20231115-1450114)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-15 14:01:48

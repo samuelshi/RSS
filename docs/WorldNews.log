@@ -8052,3 +8052,11 @@ Append: [柯文哲坦言民众党在蓝白政党协商被突袭](https://www.zao
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 2
 Finish: 2023-11-16 01:01:55
+------------------------------------------------------
+Started: 2023-11-16 02:01:56
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中国官媒证实习拜会旧金山时间15日上午举行](https://www.zaobao.com/realtime/china/story20231116-1450276)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 1
+Finish: 2023-11-16 02:02:01

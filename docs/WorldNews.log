@@ -7889,3 +7889,14 @@ Append: [【视频/图集】旅居旧金山中国人举横幅热情迎接习近�
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-15 08:03:06
+------------------------------------------------------
+Started: 2023-11-15 09:24:49
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [富士康利润实现增长 部分得益于利润率提升](https://www.zaobao.com/realtime/china/story20231115-1450067)
+Append: [河南一中学考试期间发生踩踏事故 致一死五伤](https://www.zaobao.com/realtime/china/story20231115-1450065)
+Append: [中国拟提供至少1万亿人民币低成本资金 支持“三大工程”以稳定房市](https://www.zaobao.com/realtime/china/story20231115-1450062)
+Append: [中美元首会晤话题登微博热搜榜](https://www.zaobao.com/realtime/china/story20231115-1450060)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 4
+Finish: 2023-11-15 09:24:54

@@ -8237,3 +8237,12 @@ Append: [美报告指港国安案成黑盒 港府批污蔑抹黑](https://www.za
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-16 21:03:28
+------------------------------------------------------
+Started: 2023-11-16 22:01:29
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中美商务部长将在APEC峰会期间举行会谈](https://www.zaobao.com/realtime/china/story20231116-1450479)
+Append: [中共湖南省委书记针对一楼盘烂尾十多年进行暗访](https://www.zaobao.com/realtime/china/story20231116-1450350)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-16 22:01:35

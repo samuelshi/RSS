@@ -8212,3 +8212,12 @@ Append: [中日同意设出口管制对话机制](https://www.zaobao.com/realtim
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 2
 Finish: 2023-11-16 18:01:35
+------------------------------------------------------
+Started: 2023-11-16 19:01:23
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [下午察：民企老板跳楼](https://www.zaobao.com/realtime/china/story20231116-1450427)
+Append: [中国国家发改委：最大程度鼓励民企参与PPP](https://www.zaobao.com/realtime/china/story20231116-1450369)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-16 19:01:28

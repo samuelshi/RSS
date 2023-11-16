@@ -8172,3 +8172,12 @@ Append: [美官员：拜登预祝彭丽媛生日快乐](https://www.zaobao.com/r
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 3
 Finish: 2023-11-16 14:01:50
+------------------------------------------------------
+Started: 2023-11-16 15:01:35
+Existing_entries: 1003
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [山西煤业联建楼发生火灾 至少25人遇难](https://www.zaobao.com/realtime/china/story20231116-1450345)
+Append: [赖清德批蓝白合成局为公然分赃权力](https://www.zaobao.com/realtime/china/story20231116-1450342)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-16 15:01:41

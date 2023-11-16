@@ -8098,3 +8098,14 @@ Append: [习拜会结束 会晤持续两小时许](https://www.zaobao.com/realti
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-16 07:01:43
+------------------------------------------------------
+Started: 2023-11-16 08:04:04
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [习近平：中国终将统一也必然统一](https://www.zaobao.com/realtime/china/story20231116-1450287)
+Append: [习拜散步交谈 拜登称会晤进展顺利](https://www.zaobao.com/realtime/china/story20231116-1450286)
+Append: [白宫：美中元首展开坦​​诚和建设性讨论](https://www.zaobao.com/realtime/china/story20231116-1450285)
+Append: [新华社短评：中美两个大国不打交道是不行的](https://www.zaobao.com/realtime/china/story20231116-1450283)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 4
+Finish: 2023-11-16 08:04:09

@@ -8132,3 +8132,12 @@ Append: [美官员：拜登要求习近平尊重台湾选举](https://www.zaobao
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 3
 Finish: 2023-11-16 10:12:56
+------------------------------------------------------
+Started: 2023-11-16 11:01:40
+Existing_entries: 1003
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [拜登：在释放被扣美国公民课题上与习近平未达成协议](https://www.zaobao.com/realtime/china/story20231116-1450307)
+Append: [中美元首同意在发生危机时立即通电话](https://www.zaobao.com/realtime/china/story20231116-1450306)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-16 11:01:46

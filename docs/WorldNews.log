@@ -8122,3 +8122,13 @@ Append: [柯文哲称AIT要求解释大陆是否介入蓝白合](https://www.zao
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 6
 Finish: 2023-11-16 09:25:21
+------------------------------------------------------
+Started: 2023-11-16 10:12:51
+Existing_entries: 1006
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [辉瑞公司CEO证实将参加习近平与企业高管的晚宴](https://www.zaobao.com/realtime/china/story20231116-1450303)
+Append: [【视频】中美元首会晤结束后微笑互道“明天见”](https://www.zaobao.com/realtime/china/story20231116-1450301)
+Append: [美官员：拜登要求习近平尊重台湾选举](https://www.zaobao.com/realtime/china/story20231116-1450298)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 3
+Finish: 2023-11-16 10:12:56

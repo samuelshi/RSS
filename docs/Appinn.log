@@ -2068,3 +2068,10 @@ Existing_entries: 114
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2023-11-16 09:25:26
+------------------------------------------------------
+Started: 2023-11-16 10:13:09
+Existing_entries: 114
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [📣 #发现频道 Treble Info：一个开源小工具，用以检查你的 Android 设备是否符合 GSI 的运行需求 https://meta.appinn.net/t/topic/49258](https://t.me/appinnfeed/8880)
+append_entries: 1
+Finish: 2023-11-16 10:13:10

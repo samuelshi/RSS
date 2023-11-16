@@ -9452,3 +9452,15 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 4
 Finish: 2023-11-16 23:01:45
+------------------------------------------------------
+Started: 2023-11-17 00:01:29
+Existing_entries: 1004
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Append: [↩️ 中国公安部宣布，明国平、明菊兰、明珍珍3人在“缅甸各方”大力配合下被捕，并移交中方。 缅甸驻昆明总领事馆告知中方：缅方11月15日夜组织对明学昌抓捕，...](https://t.me/tnews365/28808)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Append: [明学昌已死、明珍珍、明国平被逮捕,网传白应苍坐直升机准备逃跑时已机毁人亡.缅甸电诈园区即将全面覆灭 更多详情:https://t.me/cnbbs001/207869](https://t.me/times001/657278)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+Append: [【CDT百科】俄爹虐我千百遍，“黄俄孝子”待俄爹如初恋](https://chinadigitaltimes.net/chinese/702187.html)
+append_entries: 3
+Finish: 2023-11-17 00:01:36

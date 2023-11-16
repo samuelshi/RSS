@@ -9347,3 +9347,12 @@ Append: [🖼 ”最具建设性“的拜习会晤 11月15日，习近平和拜�
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 1
 Finish: 2023-11-16 16:01:45
+------------------------------------------------------
+Started: 2023-11-16 17:01:35
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 0
+Finish: 2023-11-16 17:01:39

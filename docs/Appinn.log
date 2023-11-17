@@ -2277,3 +2277,10 @@ Existing_entries: 125
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2023-11-17 18:01:49
+------------------------------------------------------
+Started: 2023-11-17 19:01:35
+Existing_entries: 125
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [📣 #发现频道 老胡的周刊（第115期） https://meta.appinn.net/t/topic/49352](https://t.me/appinnfeed/8892)
+append_entries: 1
+Finish: 2023-11-17 19:01:35

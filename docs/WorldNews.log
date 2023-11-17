@@ -8337,3 +8337,12 @@ Append: [习近平与日本首相岸田文雄会面](https://www.zaobao.com/real
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-17 10:12:06
+------------------------------------------------------
+Started: 2023-11-17 11:01:41
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [习近平：亚太不能也不应该沦为地缘博弈角斗场](https://www.zaobao.com/realtime/china/story20231117-1450556)
+Append: [美国将中国公安部物证鉴定中心从出口管制实体清单移除](https://www.zaobao.com/realtime/china/story20231117-1450547)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-17 11:01:47

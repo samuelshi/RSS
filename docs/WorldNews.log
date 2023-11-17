@@ -8329,3 +8329,11 @@ Append: [张忠谋在APEC峰会期间与布林肯会谈](https://www.zaobao.com/
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 4
 Finish: 2023-11-17 09:25:26
+------------------------------------------------------
+Started: 2023-11-17 10:12:01
+Existing_entries: 1004
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [习近平与日本首相岸田文雄会面](https://www.zaobao.com/realtime/china/story20231117-1450542)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 1
+Finish: 2023-11-17 10:12:06

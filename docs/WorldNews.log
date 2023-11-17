@@ -8354,3 +8354,13 @@ Append: [台民调：柯侯配与侯柯配对阵民进党时差别不大](https:
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-17 12:01:41
+------------------------------------------------------
+Started: 2023-11-17 13:01:42
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [香港慈善机构过去一年接疑似虐童案升逾一成](https://www.zaobao.com/realtime/china/story20231117-1450562)
+Append: [韩国将向中国移交25位中国人民志愿军遗骸](https://www.zaobao.com/realtime/china/story20231117-1450563)
+Append: [中墨元首同意打击非法贩毒活动](https://www.zaobao.com/realtime/china/story20231117-1450572)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 3
+Finish: 2023-11-17 13:01:47

@@ -8346,3 +8346,11 @@ Append: [美国将中国公安部物证鉴定中心从出口管制实体清单�
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 2
 Finish: 2023-11-17 11:01:47
+------------------------------------------------------
+Started: 2023-11-17 12:01:36
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [台民调：柯侯配与侯柯配对阵民进党时差别不大](https://www.zaobao.com/realtime/china/story20231117-1450557)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 1
+Finish: 2023-11-17 12:01:41

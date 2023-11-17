@@ -8419,3 +8419,12 @@ Append: [调查：逾五成台湾上班族称任职于幸福企业](https://www.
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-17 19:01:31
+------------------------------------------------------
+Started: 2023-11-17 20:01:57
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中国国务院安委会挂牌督办山西吕梁火灾事故](https://www.zaobao.com/realtime/china/story20231117-1450671)
+Append: [成都女交换生举牌征婚盼留台湾](https://www.zaobao.com/realtime/china/story20231117-1450607)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-17 20:02:03

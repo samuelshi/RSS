@@ -8374,3 +8374,13 @@ Append: [中国72/144小时过境免签政策适用国家扩展至54国](https:/
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 3
 Finish: 2023-11-17 14:01:59
+------------------------------------------------------
+Started: 2023-11-17 15:01:40
+Existing_entries: 1003
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中美商务部长会面 明年将举行商贸工作组副部级对话会议](https://www.zaobao.com/realtime/china/story20231117-1450592)
+Append: [中韩元首在亚太经合组织峰会场上短暂交流](https://www.zaobao.com/realtime/china/story20231117-1450589)
+Append: [恒大地产被执行总金额逾560亿人民币](https://www.zaobao.com/realtime/china/story20231117-1450588)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 3
+Finish: 2023-11-17 15:01:46

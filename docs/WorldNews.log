@@ -8591,3 +8591,12 @@ Append: [中国前10个月实际使用外资同比下滑9.4%](https://www.zaobao
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 2
 Finish: 2023-11-18 16:01:30
+------------------------------------------------------
+Started: 2023-11-18 17:01:24
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [香港警务处明起启用抖音 期望说好警察故事](https://www.zaobao.com/realtime/china/story20231118-1450812)
+Append: [中国财政部将提前下达2024年部分新增地方债务额度](https://www.zaobao.com/realtime/china/story20231118-1450795)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-18 17:01:29

@@ -8518,3 +8518,12 @@ Append: [澳总理：已邀请中国总理李强明年访澳](https://www.zaobao
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 2
 Finish: 2023-11-18 08:06:23
+------------------------------------------------------
+Started: 2023-11-18 09:24:36
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [游盈隆：柯文哲的眼泪说明大势已去](https://www.zaobao.com/realtime/china/story20231118-1450753)
+Append: [习近平：中国发展根本目的是过上好日子不是取代谁](https://www.zaobao.com/realtime/china/story20231118-1450752)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-18 09:24:42

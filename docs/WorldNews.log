@@ -8536,3 +8536,12 @@ Append: [台媒：蓝白合传破局 柯文哲：再给我一点时间](https://
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 2
 Finish: 2023-11-18 10:10:49
+------------------------------------------------------
+Started: 2023-11-18 11:01:35
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [李家超：绝不接受“黑暴”死灰复燃](https://www.zaobao.com/realtime/china/story20231118-1450766)
+Append: [蓝白合卡关 两党对民调误差范围存在分歧](https://www.zaobao.com/realtime/china/story20231118-1450764)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-18 11:01:41

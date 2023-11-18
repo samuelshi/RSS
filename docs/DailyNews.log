@@ -10147,3 +10147,12 @@ Fetching from https://chinadigitaltimes.net/chinese/feed
 Append: [【CDT百科】人民日报为什么称大翻译运动是“小偷小摸式的无耻行径”？](https://chinadigitaltimes.net/chinese/702365.html)
 append_entries: 1
 Finish: 2023-11-19 02:01:38
+------------------------------------------------------
+Started: 2023-11-19 03:01:10
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 0
+Finish: 2023-11-19 03:01:17

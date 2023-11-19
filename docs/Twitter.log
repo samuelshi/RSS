@@ -20746,3 +20746,21 @@ Fetching from https://nitter.cz/myfxtrader/rss
 Fetching from https://nitter.cz/xiaojingcanxue/rss
 append_entries: 0
 Finish: 2023-11-19 17:01:51
+------------------------------------------------------
+Started: 2023-11-19 18:01:51
+Existing_entries: 1000
+Fetching from https://nitter.cz/caolei1/rss
+Fetching from https://nitter.cz/caiziboshi/rss
+Feed error: 429
+Fetching from https://nitter.cz/Pandazhq/rss
+Feed error: 429
+Fetching from https://nitter.cz/whyyoutouzhele/rss
+Feed error: 429
+Fetching from https://nitter.cz/fangshimin/rss
+Feed error: 429
+Fetching from https://nitter.cz/cskun1989/rss
+Fetching from https://nitter.cz/myfxtrader/rss
+Fetching from https://nitter.cz/xiaojingcanxue/rss
+Feed error: 429
+append_entries: 0
+error when rendering xml, skip docs/Twitter

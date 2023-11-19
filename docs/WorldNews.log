@@ -8738,3 +8738,13 @@ Append: [中国多地高校进行学风检查 督促学生上课坐前排](https
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-19 11:01:38
+------------------------------------------------------
+Started: 2023-11-19 12:01:34
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [习近平与泰首相聊足球 称中国男足赢泰国有侥幸成分](https://www.zaobao.com/realtime/china/story20231119-1450915)
+Append: [中国人口第一大县安徽临泉50所幼儿园停办](https://www.zaobao.com/realtime/china/story20231119-1450914)
+Append: [柯文哲竞选总干事：拒让民调专家签字 担忧等于签卖身契](https://www.zaobao.com/realtime/china/story20231119-1450910)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 3
+Finish: 2023-11-19 12:01:40

@@ -8821,3 +8821,11 @@ Append: [鄱阳湖水位持续下降 已不足1000平方公里](https://www.zaob
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 2
 Finish: 2023-11-19 20:01:48
+------------------------------------------------------
+Started: 2023-11-19 21:01:59
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [赖清德明公布副手萧美琴 后天登记](https://www.zaobao.com/realtime/china/story20231119-1450942)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 1
+Finish: 2023-11-19 21:02:06

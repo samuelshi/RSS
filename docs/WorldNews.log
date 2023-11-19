@@ -8704,3 +8704,11 @@ Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 0
 Finish: 2023-11-19 07:01:41
+------------------------------------------------------
+Started: 2023-11-19 08:03:28
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中国渔船在日本鹿儿岛附近海域倾覆五人失踪](https://www.zaobao.com/realtime/china/story20231119-1450888)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 1
+Finish: 2023-11-19 08:03:33

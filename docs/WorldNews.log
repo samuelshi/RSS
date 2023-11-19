@@ -8748,3 +8748,12 @@ Append: [柯文哲竞选总干事：拒让民调专家签字 担忧等于签卖�
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 3
 Finish: 2023-11-19 12:01:40
+------------------------------------------------------
+Started: 2023-11-19 13:01:20
+Existing_entries: 1003
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [台国防部：九架大陆军机逾越台海中线](https://www.zaobao.com/realtime/china/story20231119-1450917)
+Append: [中国天舟七号货运飞船将于明年初发射](https://www.zaobao.com/realtime/china/story20231119-1450907)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-19 13:01:26

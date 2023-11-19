@@ -8804,3 +8804,11 @@ Append: [柯文哲：继续用民众党总统候选人身份拼战到底](https:
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 4
 Finish: 2023-11-19 18:01:46
+------------------------------------------------------
+Started: 2023-11-19 19:01:22
+Existing_entries: 1004
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [专家料香港下月将踏入冠病高峰期](https://www.zaobao.com/realtime/china/story20231119-1450926)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 1
+Finish: 2023-11-19 19:01:28

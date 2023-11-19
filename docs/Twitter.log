@@ -20764,3 +20764,24 @@ Fetching from https://nitter.cz/xiaojingcanxue/rss
 Feed error: 429
 append_entries: 0
 error when rendering xml, skip docs/Twitter
+------------------------------------------------------
+Started: 2023-11-19 19:01:38
+Existing_entries: 1000
+Fetching from https://nitter.cz/caolei1/rss
+Feed error: 429
+Fetching from https://nitter.cz/caiziboshi/rss
+Feed error: 429
+Fetching from https://nitter.cz/Pandazhq/rss
+Feed error: 429
+Fetching from https://nitter.cz/whyyoutouzhele/rss
+Append: [网友投稿
+学考研政治有点崩溃的间隙，来投稿一个普通大学生四年的思想变化。](https://nitter.cz/whyyoutouzhele/status/1726192076365414408)
+Append: [R to @whyyoutouzhele: 后续，招聘方宣布暂缓报名](https://nitter.cz/whyyoutouzhele/status/1726188128468193296)
+Fetching from https://nitter.cz/fangshimin/rss
+Fetching from https://nitter.cz/cskun1989/rss
+Fetching from https://nitter.cz/myfxtrader/rss
+Feed error: 429
+Fetching from https://nitter.cz/xiaojingcanxue/rss
+Feed error: 429
+append_entries: 2
+error when rendering xml, skip docs/Twitter

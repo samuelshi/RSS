@@ -10299,3 +10299,16 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 0
 Finish: 2023-11-19 13:01:19
+------------------------------------------------------
+Started: 2023-11-19 14:01:17
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Append: [OpenAI内乱，详细内容：https://t.me/cnbbs001/8788](https://t.me/times001/657676)
+Append: [🖼 想做教育家的Klaus（基本会回fo）: 在法国的中国留学生因支持哈马斯涉嫌“颂扬恐怖主义”被逮捕并遣返出境，被迫放弃学业，三年禁止入境。 https://twitter...](https://t.me/times001/657675)
+Append: [🖼 摊牌了](https://t.me/times001/657674)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+Append: [行山者Allen｜独裁者的最后人生](https://chinadigitaltimes.net/chinese/702375.html)
+append_entries: 4
+Finish: 2023-11-19 14:01:23

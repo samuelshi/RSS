@@ -8757,3 +8757,12 @@ Append: [中国天舟七号货运飞船将于明年初发射](https://www.zaobao
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 2
 Finish: 2023-11-19 13:01:26
+------------------------------------------------------
+Started: 2023-11-19 14:01:23
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [港财政司长：APEC与会代表普遍认为全球经济明年增长将比今年缓慢](https://www.zaobao.com/realtime/china/story20231119-1450918)
+Append: [韩国瑜领军 国民党中常会通过不分区立委提名名单](https://www.zaobao.com/realtime/china/story20231119-1450913)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-19 14:01:29

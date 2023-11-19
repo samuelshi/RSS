@@ -8812,3 +8812,12 @@ Append: [专家料香港下月将踏入冠病高峰期](https://www.zaobao.com/r
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-19 19:01:28
+------------------------------------------------------
+Started: 2023-11-19 20:01:42
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [万事达公司获批进入中国市场](https://www.zaobao.com/realtime/china/story20231119-1450983)
+Append: [鄱阳湖水位持续下降 已不足1000平方公里](https://www.zaobao.com/realtime/china/story20231119-1450929)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-19 20:01:48

@@ -9010,3 +9010,12 @@ Append: [王毅：停火已不是外交辞令 而是加沙民众生死存亡的�
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 2
 Finish: 2023-11-20 18:01:58
+------------------------------------------------------
+Started: 2023-11-20 19:01:36
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [下午察：柯文哲和郭台铭将联手出击？](https://www.zaobao.com/realtime/china/story20231120-1451211)
+Append: [中国称为部分国家公民离缅避战提供出入境便利](https://www.zaobao.com/realtime/china/story20231120-1451175)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-20 19:01:42

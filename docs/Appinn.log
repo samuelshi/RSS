@@ -2703,3 +2703,11 @@ Append: [📣 #发现频道 Jianchang512/clone-voice 一个简单的中英文音
 Append: [🖼 这个小红书图片视频下载工具，测试失败... https://github.com/JoeanAmier/XHS_Downloader 有成功的么？](https://t.me/appinnfeed/8903)
 append_entries: 2
 Finish: 2023-11-20 15:01:55
+------------------------------------------------------
+Started: 2023-11-20 16:01:59
+Existing_entries: 137
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [📣 #发现频道 【开发者自荐】8K Markdown - Markdown在线笔记书签工具 https://meta.appinn.net/t/topic/49452](https://t.me/appinnfeed/8906)
+Append: [💧 #小众软件 开源视频转码器 HandBrake 1.7.0 发布 https://www.appinn.com/handbrake-1-7-0/ Tags: #业界消息](https://t.me/appinnfeed/8905)
+append_entries: 2
+Finish: 2023-11-20 16:02:00

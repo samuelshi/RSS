@@ -9063,3 +9063,10 @@ Append: [中国国防部指澳方言论与事实完全不符](https://www.zaobao
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-21 00:01:57
+------------------------------------------------------
+Started: 2023-11-21 01:01:28
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 0
+Finish: 2023-11-21 01:01:33

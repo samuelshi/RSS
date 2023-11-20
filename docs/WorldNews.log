@@ -8910,3 +8910,14 @@ Append: [中国中央气象台预报本周寒潮天气将影响中国大部份�
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-20 08:03:11
+------------------------------------------------------
+Started: 2023-11-20 09:25:34
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [乌拉圭总统今起访华](https://www.zaobao.com/realtime/china/story20231120-1451073)
+Append: [中国10月进口日本水产品同比减少99.3%](https://www.zaobao.com/realtime/china/story20231120-1451068)
+Append: [中国初婚人数去年降9% 多年来首次低于1100万人](https://www.zaobao.com/realtime/china/story20231120-1451066)
+Append: [社媒出现疑卖狗肉贴文 港警怀疑有人借此骗钱](https://www.zaobao.com/realtime/china/story20231120-1451065)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 4
+Finish: 2023-11-20 09:25:39

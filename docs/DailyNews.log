@@ -10509,3 +10509,12 @@ Fetching from https://chinadigitaltimes.net/chinese/feed
 Append: [【404文库】“为什么要删贴？为什么消灭提出问题的人？”（外二篇）](https://chinadigitaltimes.net/chinese/702400.html)
 append_entries: 1
 Finish: 2023-11-20 07:01:34
+------------------------------------------------------
+Started: 2023-11-20 08:03:00
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 0
+Finish: 2023-11-20 08:03:05

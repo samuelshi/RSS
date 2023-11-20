@@ -8902,3 +8902,11 @@ Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 0
 Finish: 2023-11-20 07:01:41
+------------------------------------------------------
+Started: 2023-11-20 08:03:06
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中国中央气象台预报本周寒潮天气将影响中国大部份地区](https://www.zaobao.com/realtime/china/story20231120-1451060)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 1
+Finish: 2023-11-20 08:03:11

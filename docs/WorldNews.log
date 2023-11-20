@@ -9001,3 +9001,12 @@ Append: [民调误差率谈不拢 国民党称民众党想推翻原有共识](ht
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 4
 Finish: 2023-11-20 17:01:51
+------------------------------------------------------
+Started: 2023-11-20 18:01:52
+Existing_entries: 1004
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [美议员称F-16战斗机对台交货安排延期可能性高](https://www.zaobao.com/realtime/china/story20231120-1451161)
+Append: [王毅：停火已不是外交辞令 而是加沙民众生死存亡的关键](https://www.zaobao.com/realtime/china/story20231120-1451170)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-20 18:01:58

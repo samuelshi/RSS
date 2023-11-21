@@ -5,16 +5,57 @@
 <link>https://nitter.cz/xiaojingcanxue</link>
 
 <item>
+<title>YouTube上替中国人做的视频刷流量、评论的，应该也是这么干的。</title>
+<link>https://nitter.cz/fangshimin/status/1726864031070515200</link>
+<guid>https://nitter.cz/fangshimin/status/1726864031070515200</guid>
+<content:encoded><![CDATA[
+
+<p>YouTube上替中国人做的视频刷流量、评论的，应该也是这么干的。</p>
+<img src="https://nitter.cz/pic/enc/YW1wbGlmeV92aWRlb190aHVtYi8xNzI2ODYzOTIxMDQ1NDYzMDQwL2ltZy81bElPdDgtbU1wT0xVWmNHLmpwZw==" />
+]]></content:encoded>
+<pubDate>Tue, 21 Nov 2023 07:24:03 GMT</pubDate>
+<pubDate>Tue, 21 Nov 2023 07:24:03 GMT</pubDate>
+</item>
+<item>
+<title>RT by @xiaojingcanxue: #AI开源项目推荐#：Video-LLaVA
+
+北京大学的多模态图像视频识别
+
+论文摘要：
+大型视觉-语言模型（LVLM）在视觉与语言理解的各种任务中表现出色。传统方法通常将图像和视频分别编码到不同的特征空间，再作为输入提供给大语言模型（LLM）。但由于图像和视频在投影前未能实现统一的词元化，导致大语言模型难以从多个较差的投影层中学习多模态交互。在本研究中，我们尝试将视觉信息融入语言特征空间，以推动基础大语言模型向更统一的大型视觉-语言模型发展。因此，我们创建了一个简单而强大的大型视觉-语言模型基线，名为 Video-LLaVA，它通过学习混合的图像和视频数据集来实现相互增强。Video-LLaVA 在包含 5 个图像问答数据集和 4 个图像基准工具包的 9 个主要图像基准测试中取得显著成效。另外，我们的 Video-LLaVA 在 MSRVTT、MSVD、TGIF 和 ActivityNet 四个基准测试中，分别比 Video-ChatGPT 高出 5.8%、9.9%、18.6% 和 10.1%。更重要的是，广泛的实验表明 Video-LLaVA 通过统一的视觉表示，促进了图像和视频的相互提升，其性能超越了专门针对图像或视频设计的模型。
+
+在线测试地址：https://replicate.com/nateraw/video-llava
+项目地址：http://github.com/PKU-YuanGroup/Video-LLaVA
+论文：https://arxiv.org/pdf/2311.10122.pdf</title>
+<link>https://nitter.cz/dotey/status/1726853628005118273</link>
+<guid>https://nitter.cz/dotey/status/1726853628005118273</guid>
+<content:encoded><![CDATA[
+
+<p>#AI开源项目推荐#：Video-LLaVA<br />
+<br />
+北京大学的多模态图像视频识别<br />
+<br />
+论文摘要：<br />
+大型视觉-语言模型（LVLM）在视觉与语言理解的各种任务中表现出色。传统方法通常将图像和视频分别编码到不同的特征空间，再作为输入提供给大语言模型（LLM）。但由于图像和视频在投影前未能实现统一的词元化，导致大语言模型难以从多个较差的投影层中学习多模态交互。在本研究中，我们尝试将视觉信息融入语言特征空间，以推动基础大语言模型向更统一的大型视觉-语言模型发展。因此，我们创建了一个简单而强大的大型视觉-语言模型基线，名为 Video-LLaVA，它通过学习混合的图像和视频数据集来实现相互增强。Video-LLaVA 在包含 5 个图像问答数据集和 4 个图像基准工具包的 9 个主要图像基准测试中取得显著成效。另外，我们的 Video-LLaVA 在 MSRVTT、MSVD、TGIF 和 ActivityNet 四个基准测试中，分别比 Video-ChatGPT 高出 5.8%、9.9%、18.6% 和 10.1%。更重要的是，广泛的实验表明 Video-LLaVA 通过统一的视觉表示，促进了图像和视频的相互提升，其性能超越了专门针对图像或视频设计的模型。<br />
+<br />
+在线测试地址：<a href="https://replicate.com/nateraw/video-llava">replicate.com/nateraw/video-…</a><br />
+项目地址：<a href="http://github.com/PKU-YuanGroup/Video-LLaVA">github.com/PKU-YuanGroup/Vid…</a><br />
+论文：<a href="https://arxiv.org/pdf/2311.10122.pdf">arxiv.org/pdf/2311.10122.pdf</a></p>
+<p><a href="https://nitter.cz/jesselaunz/status/1726850138776453379#m">nitter.cz/jesselaunz/status/1726850138776453379#m</a></p>
+]]></content:encoded>
+<pubDate>Tue, 21 Nov 2023 06:42:42 GMT</pubDate>
+<pubDate>Tue, 21 Nov 2023 06:42:42 GMT</pubDate>
+</item>
+
+<item>
 <title>德国议会正讨论两个法案，一个法案规定不承认以色列属于犯罪，要受到惩罚；一个法案规定要成为德国公民，必须承认以色列，移民不承认以色列将被剥夺公民，而且至少判刑一年。所以在德国连不承认以色列的言论自由和思想自由都没有？以色列是德国的太上皇？德国还好意思自称是民主自由国家？</title>
 <link>https://nitter.cz/fangshimin/status/1726855969899266558</link>
 <guid>https://nitter.cz/fangshimin/status/1726855969899266558</guid>
 <content:encoded><![CDATA[
-
 <p>德国议会正讨论两个法案，一个法案规定不承认以色列属于犯罪，要受到惩罚；一个法案规定要成为德国公民，必须承认以色列，移民不承认以色列将被剥夺公民，而且至少判刑一年。所以在德国连不承认以色列的言论自由和思想自由都没有？以色列是德国的太上皇？德国还好意思自称是民主自由国家？</p>
 <img src="https://nitter.cz/pic/enc/bWVkaWEvRl9jR1dlWGE0QUFOaGZQLmpwZw==" />
 <img src="https://nitter.cz/pic/enc/bWVkaWEvRl9jR1dlVWFrQUF2eTJELmpwZw==" />
 ]]></content:encoded>
-<pubDate>Tue, 21 Nov 2023 06:52:01 GMT</pubDate>
 <pubDate>Tue, 21 Nov 2023 06:52:01 GMT</pubDate>
 </item>
 <item>
@@ -22,12 +63,10 @@
 <link>https://nitter.cz/fangshimin/status/1726847975744561408</link>
 <guid>https://nitter.cz/fangshimin/status/1726847975744561408</guid>
 <content:encoded><![CDATA[
-
 <p>渥太华大学预防医学项目四年级住院医葛义鹏因为质疑以色列关于加沙浸礼会医院被炸的说法和为“从河到海”“解放巴勒斯坦”口号辩护，被该校一名犹太人教授发文指控他是反犹主义，被学校停职。已有6万多人签名声援他，要求校方将他复职。加拿大大学比美国大学还没有言论自由。<a href="https://www.change.org/p/reinstate-dr-yipeng-ge-and-launch-inquiry-into-uottawa-faculty-of-medicine">change.org/p/reinstate-dr-yi…</a></p>
 <img src="https://nitter.cz/pic/enc/bWVkaWEvRl9iOTRxSGFJQUFYaUlQLmpwZw==" />
 <img src="https://nitter.cz/pic/enc/bWVkaWEvRl9iOTRxR2FvQUFOdlZaLmpwZw==" />
 ]]></content:encoded>
-<pubDate>Tue, 21 Nov 2023 06:20:15 GMT</pubDate>
 <pubDate>Tue, 21 Nov 2023 06:20:15 GMT</pubDate>
 </item>
 <item>
@@ -38,16 +77,13 @@ https://www.bloomberg.com/news/articles/2023-11-21/india-closer-to-agreement-wit
 <link>https://nitter.cz/myfxtrader/status/1726853944872522202</link>
 <guid>https://nitter.cz/myfxtrader/status/1726853944872522202</guid>
 <content:encoded><![CDATA[
-
 <p>彭博社：印度正接近与特斯拉达成一项协议，该协议将允许特斯拉从明年开始向印度输入特斯拉汽车，并在两年内在印度建立工厂。<br />
 一位消息人士表示，印度总理莫迪的家乡古吉拉特邦，以及马哈拉施特拉邦和泰米尔纳德邦都在考虑之中，因为它们已经拥有完善的电动汽车和出口生态系统。<br />
 特斯拉将寻求在印度生产部分电池以降低成本。<br />
 <a href="https://www.bloomberg.com/news/articles/2023-11-21/india-closer-to-agreement-with-tesla-to-import-evs-set-up-plant">bloomberg.com/news/articles/…</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 21 Nov 2023 06:43:58 GMT</pubDate>
-<pubDate>Tue, 21 Nov 2023 06:43:58 GMT</pubDate>
 </item>
-
 <item>
 <title>最近Haley的选举人气上来一些，最近在她的一场竞选活动上，她看到一个小女孩带着一顶写着支持她标语的帽子，于是说：“我喜欢你的帽子”，结果这个小女孩说：“谢谢你，不过这顶帽子是你的工作人员给我的”
 
@@ -14214,48 +14250,6 @@ ION Trading全球衍生品自动化处理中断；<br />
 <img src="https://nitter.cz/pic/enc/YW1wbGlmeV92aWRlb190aHVtYi8xNzI0MjIzOTkwMTc1MzM4NDk2L2ltZy80dFBrZi1jZGFucFoyQ0IyLmpwZw==" />
 ]]></content:encoded>
 <pubDate>Tue, 14 Nov 2023 00:33:54 GMT</pubDate>
-</item>
-<item>
-<title>#观察 2016年因脱欧风波退出政坛的前英国首相卡梅伦，意外重返政坛，被首相苏纳克任命为外交大臣。苏纳克采用了非常规手段，授予卡梅伦男爵的贵族身份，跳过民选议员的环节，直接进入上议院获得担任外相的资格（被排除再通过民选议员担任党魁和首相的可能性）。
-卡梅伦在首相任期内，英中两国关系曾进入“黄金时代”，两国贸易增至百亿美元的水平，让中国国企加入英国核电站项目，允许华为加入英国5G网络，推动在伦敦设立了人民币离岸交易中心，支持中国加入亚投行。虽然首相苏纳克宣布“黄金时代”已经结束，但此番在英媒眼中“非同寻常的转折”会如何影响英国对华及中东关系策略，仍值得留意。</title>
-<link>https://nitter.cz/myfxtrader/status/1724232243986698627</link>
-<guid>https://nitter.cz/myfxtrader/status/1724232243986698627</guid>
-<content:encoded><![CDATA[
-<p><a href="https://nitter.cz/search?q=%23观察">#观察</a> 2016年因脱欧风波退出政坛的前英国首相卡梅伦，意外重返政坛，被首相苏纳克任命为外交大臣。苏纳克采用了非常规手段，授予卡梅伦男爵的贵族身份，跳过民选议员的环节，直接进入上议院获得担任外相的资格（被排除再通过民选议员担任党魁和首相的可能性）。<br />
-卡梅伦在首相任期内，英中两国关系曾进入“黄金时代”，两国贸易增至百亿美元的水平，让中国国企加入英国核电站项目，允许华为加入英国5G网络，推动在伦敦设立了人民币离岸交易中心，支持中国加入亚投行。虽然首相苏纳克宣布“黄金时代”已经结束，但此番在英媒眼中“非同寻常的转折”会如何影响英国对华及中东关系策略，仍值得留意。</p>
-<img src="https://nitter.cz/pic/enc/bWVkaWEvRi0ydjFBeGFBQUFmS2VWLmpwZw==" />
-]]></content:encoded>
-<pubDate>Tue, 14 Nov 2023 01:06:16 GMT</pubDate>
-</item>
-<item>
-<title>司马南：“我是力促中美关系友好”！
-
-再次证明没恒产就没恒心这个道理确实是正确的。
-
-司马南美国的小房子是恒产呀！</title>
-<link>https://nitter.cz/caiziboshi/status/1724206879717335473</link>
-<guid>https://nitter.cz/caiziboshi/status/1724206879717335473</guid>
-<content:encoded><![CDATA[
-<p>司马南：“我是力促中美关系友好”！<br />
-<br />
-再次证明没恒产就没恒心这个道理确实是正确的。<br />
-<br />
-司马南美国的小房子是恒产呀！</p>
-<img src="https://nitter.cz/pic/enc/bWVkaWEvRi0yZEJLRlc0QUFzMkduLmpwZw==" />
-]]></content:encoded>
-<pubDate>Mon, 13 Nov 2023 23:25:28 GMT</pubDate>
-</item>
-<item>
-<title>土摩托认为为了彻底消灭哈马斯，就要不惜一切代价，声称这是“更高级的人道主义”。其实这是典型的“只要目的正当，可以不择手段”思维。方舟子时评：没有人性的“不惜一切代价”
-https://youtu.be/nbEWB_yW4P8</title>
-<link>https://nitter.cz/fangshimin/status/1724212928973615479</link>
-<guid>https://nitter.cz/fangshimin/status/1724212928973615479</guid>
-<content:encoded><![CDATA[
-<p>土摩托认为为了彻底消灭哈马斯，就要不惜一切代价，声称这是“更高级的人道主义”。其实这是典型的“只要目的正当，可以不择手段”思维。方舟子时评：没有人性的“不惜一切代价”<br />
-<a href="https://youtu.be/nbEWB_yW4P8">youtu.be/nbEWB_yW4P8</a></p>
-<img src="https://nitter.cz/pic/enc/Y2FyZF9pbWcvMTcyMzY5MDAyNTk3ODgzOTA0MC8wam1QOWZINz9mb3JtYXQ9anBnJm5hbWU9MTIwMHg2Mjc=" />
-]]></content:encoded>
-<pubDate>Mon, 13 Nov 2023 23:49:31 GMT</pubDate>
 </item>
 </channel>
 </rss>

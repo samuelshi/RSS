@@ -22085,3 +22085,27 @@ https://www.bloomberg.com/news/articles/2023-11-21/india-closer-to-agreement-wit
 Fetching from https://nitter.cz/xiaojingcanxue/rss
 append_entries: 3
 Finish: 2023-11-21 15:01:58
+------------------------------------------------------
+Started: 2023-11-21 16:01:57
+Existing_entries: 1003
+Fetching from https://nitter.cz/caolei1/rss
+Fetching from https://nitter.cz/caiziboshi/rss
+Fetching from https://nitter.cz/Pandazhq/rss
+Fetching from https://nitter.cz/whyyoutouzhele/rss
+Fetching from https://nitter.cz/fangshimin/rss
+Append: [YouTube上替中国人做的视频刷流量、评论的，应该也是这么干的。](https://nitter.cz/fangshimin/status/1726864031070515200)
+Fetching from https://nitter.cz/cskun1989/rss
+Fetching from https://nitter.cz/myfxtrader/rss
+Fetching from https://nitter.cz/xiaojingcanxue/rss
+Append: [RT by @xiaojingcanxue: #AI开源项目推荐#：Video-LLaVA
+
+北京大学的多模态图像视频识别
+
+论文摘要：
+大型视觉-语言模型（LVLM）在视觉与语言理解的各种任务中表现出色。传统方法通常将图像和视频分别编码到不同的特征空间，再作为输入提供给大语言模型（LLM）。但由于图像和视频在投影前未能实现统一的词元化，导致大语言模型难以从多个较差的投影层中学习多模态交互。在本研究中，我们尝试将视觉信息融入语言特征空间，以推动基础大语言模型向更统一的大型视觉-语言模型发展。因此，我们创建了一个简单而强大的大型视觉-语言模型基线，名为 Video-LLaVA，它通过学习混合的图像和视频数据集来实现相互增强。Video-LLaVA 在包含 5 个图像问答数据集和 4 个图像基准工具包的 9 个主要图像基准测试中取得显著成效。另外，我们的 Video-LLaVA 在 MSRVTT、MSVD、TGIF 和 ActivityNet 四个基准测试中，分别比 Video-ChatGPT 高出 5.8%、9.9%、18.6% 和 10.1%。更重要的是，广泛的实验表明 Video-LLaVA 通过统一的视觉表示，促进了图像和视频的相互提升，其性能超越了专门针对图像或视频设计的模型。
+
+在线测试地址：https://replicate.com/nateraw/video-llava
+项目地址：http://github.com/PKU-YuanGroup/Video-LLaVA
+论文：https://arxiv.org/pdf/2311.10122.pdf](https://nitter.cz/dotey/status/1726853628005118273)
+append_entries: 2
+Finish: 2023-11-21 16:02:04

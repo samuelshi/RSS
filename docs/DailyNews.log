@@ -10882,3 +10882,14 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 1
 Finish: 2023-11-21 09:26:30
+------------------------------------------------------
+Started: 2023-11-21 10:13:32
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Append: [#文字](https://t.me/times001/657914)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Append: [🖼 亮亮丽君维权事件 在抖音拥有33.9万粉丝的博主“亮亮丽君夫妇”发布视频称，他们在去郑州融创城售楼部索要公司销售之前承诺购房后返还的2万多元时，遭到售...](https://t.me/OutsightChina/4969)
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 2
+Finish: 2023-11-21 10:13:42

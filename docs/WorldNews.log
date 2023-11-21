@@ -9262,3 +9262,13 @@ Append: [四川眉山发现距今20万年旧石器时代遗址](https://www.zaob
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 1
 Finish: 2023-11-21 22:01:37
+------------------------------------------------------
+Started: 2023-11-21 23:01:48
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [习近平吁推动以哈冲突停火止战 实现持久和平](https://www.zaobao.com/realtime/china/story20231121-1451502)
+Append: [下午察：中国夹在缅北冲突带](https://www.zaobao.com/realtime/china/story20231121-1451496)
+Append: [中央生态环保督察：严禁一刀切和滥问责](https://www.zaobao.com/realtime/china/story20231121-1451403)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 3
+Finish: 2023-11-21 23:01:54

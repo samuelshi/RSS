@@ -44,7 +44,7 @@ These feeds on hosted in the [`doc/` subdirectory](https://github.com/yinan-c/RS
 
 I will consider hosting more feeds in the future. Email me or submit an issue if there is any question using the script or any suggestions.
 - https://rss-hub-red-two.vercel.app/telegram/channel/tnews365, https://rss-hub-red-two.vercel.app/telegram/channel/times001, https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina, https://chinadigitaltimes.net/chinese/feed -> https://samuelshi.github.io/RSS/DailyNews.xml
-- https://rss-hub-red-two.vercel.app/zaobao/realtime/china, https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews -> https://samuelshi.github.io/RSS/WorldNews.xml
+- https://rss-hub-red-two.vercel.app/zaobao/realtime/china, https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews, https://www.buzzing.cc/feed.xml -> https://samuelshi.github.io/RSS/WorldNews.xml
 - https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel, https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection, https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao, https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts -> https://samuelshi.github.io/RSS/DailyTech.xml
 - https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed -> https://samuelshi.github.io/RSS/Appinn.xml
 - https://nitter.cz/caolei1/rss, https://nitter.cz/caiziboshi/rss, https://nitter.cz/Pandazhq/rss, https://nitter.cz/whyyoutouzhele/rss, https://nitter.cz/fangshimin/rss, https://nitter.cz/cskun1989/rss, https://nitter.cz/myfxtrader/rss, https://nitter.cz/xiaojingcanxue/rss -> https://samuelshi.github.io/RSS/Twitter.xml

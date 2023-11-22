@@ -9328,3 +9328,12 @@ Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
 append_entries: 0
 Finish: 2023-11-22 07:02:08
+------------------------------------------------------
+Started: 2023-11-22 08:03:18
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/zaobao/realtime/china
+Append: [中国南方电网对澳门供电累计突破700亿千瓦时](https://www.zaobao.com/realtime/china/story20231122-1451526)
+Append: [习近平：不公正解决巴勒斯坦问题中东就没有持久和平稳定](https://www.zaobao.com/realtime/china/story20231122-1451525)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/freetwnews
+append_entries: 2
+Finish: 2023-11-22 08:03:23

@@ -12159,3 +12159,12 @@ Fetching from https://chinadigitaltimes.net/chinese/feed
 Append: [【CDT报告汇】VoxChina最新论文：金融业国有化导致中国贫富悬殊巨大（外三篇）](https://chinadigitaltimes.net/chinese/702568.html)
 append_entries: 5
 Finish: 2023-11-24 23:01:32
+------------------------------------------------------
+Started: 2023-11-25 00:01:38
+Existing_entries: 1005
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 0
+Finish: 2023-11-25 00:01:42

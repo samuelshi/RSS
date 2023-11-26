@@ -12835,3 +12835,12 @@ Append: [林中的维吉尔｜他们的认知，配不配他们的苦难](https:
 Append: [端传媒｜被困在白纸的人（节选）](https://chinadigitaltimes.net/chinese/702623.html)
 append_entries: 2
 Finish: 2023-11-27 03:01:18
+------------------------------------------------------
+Started: 2023-11-27 04:01:28
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 0
+Finish: 2023-11-27 04:01:32

@@ -5,6 +5,164 @@
 <link>https://nitter.cz/xiaojingcanxue</link>
 
 <item>
+<title>如果真想了解巴以冲突的历史，推荐看这四本英文著作。其中牛津大学出的《加沙历史》一书是前一段时间我在一个读者留言里知道的，在亚马逊下订单之后居然过了近一个月才寄到。刚查了一下，貌似重印了，几天就能寄到。</title>
+<link>https://nitter.cz/fangshimin/status/1728637221618823265</link>
+<guid>https://nitter.cz/fangshimin/status/1728637221618823265</guid>
+<content:encoded><![CDATA[
+
+<p>如果真想了解巴以冲突的历史，推荐看这四本英文著作。其中牛津大学出的《加沙历史》一书是前一段时间我在一个读者留言里知道的，在亚马逊下订单之后居然过了近一个月才寄到。刚查了一下，貌似重印了，几天就能寄到。</p>
+<img src="https://nitter.cz/pic/enc/bWVkaWEvRl8xYVk0LWJVQUFKd2VWLmpwZw==" />
+]]></content:encoded>
+<pubDate>Sun, 26 Nov 2023 04:50:04 GMT</pubDate>
+<pubDate>Sun, 26 Nov 2023 04:50:04 GMT</pubDate>
+</item>
+<item>
+<title>在朋友圈看到有人晒书，这是一个保守派拉比写的为以色列做宣传的。中国可能只有这种书才会出版和有市场。这可以解释为什么中国文化人会再次偏离世界知识分子的主流一致力挺以色列，因为他们只能看到和接受这种宣传品以及张平、殷罡、秦晖的胡言乱语还自以为高明。英文关于巴以问题的著作大部分是支持巴勒斯坦的，中国不翻译出版罢了（大概也没市场）。</title>
+<link>https://nitter.cz/fangshimin/status/1728628615875797141</link>
+<guid>https://nitter.cz/fangshimin/status/1728628615875797141</guid>
+<content:encoded><![CDATA[
+
+<p>在朋友圈看到有人晒书，这是一个保守派拉比写的为以色列做宣传的。中国可能只有这种书才会出版和有市场。这可以解释为什么中国文化人会再次偏离世界知识分子的主流一致力挺以色列，因为他们只能看到和接受这种宣传品以及张平、殷罡、秦晖的胡言乱语还自以为高明。英文关于巴以问题的著作大部分是支持巴勒斯坦的，中国不翻译出版罢了（大概也没市场）。</p>
+<img src="https://nitter.cz/pic/enc/bWVkaWEvRl8xU2tIZGE0QUFKYTVWLmpwZw==" />
+]]></content:encoded>
+<pubDate>Sun, 26 Nov 2023 04:15:53 GMT</pubDate>
+<pubDate>Sun, 26 Nov 2023 04:15:53 GMT</pubDate>
+</item>
+<item>
+<title>RT by @xiaojingcanxue: 开贴写一下我如何让 github copilot 完成我日常 50% 左右的工作
+
+只代表我日常的使用方式，欢迎大家贡献自己的使用技巧，持续更新</title>
+<link>https://nitter.cz/real_kai42/status/1728280569640018107</link>
+<guid>https://nitter.cz/real_kai42/status/1728280569640018107</guid>
+<content:encoded><![CDATA[
+
+<p>开贴写一下我如何让 github copilot 完成我日常 50% 左右的工作<br />
+<br />
+只代表我日常的使用方式，欢迎大家贡献自己的使用技巧，持续更新</p>
+]]></content:encoded>
+<pubDate>Sat, 25 Nov 2023 05:12:52 GMT</pubDate>
+<pubDate>Sat, 25 Nov 2023 05:12:52 GMT</pubDate>
+</item>
+<item>
+<title>RT by @xiaojingcanxue: 转译：在我投身人工智能领域的十年里，我从未见过有这么多人对一个算法如此富有想象。仅凭一个名字，没有任何论文、数据或产品。那么，让我们来揭开 Q* 幻想的神秘面纱，这可能是一段颇长的探索。
+
+首先，要理解搜索与学习这两大 AI 技术的强大结合，我们得回溯到 2016 年，重新审视 AlphaGo 这一 AI 历史上的辉煌成就。它主要由四大要素构成：
+
+1. 策略神经网络（Policy NN，学习部分）：它的任务是选择好的行动，通过估计每个行动带来胜利的可能性。
+
+2. 价值神经网络（Value NN，学习部分）：这部分负责评估棋盘   状况，并预测围棋中任何合法位置的胜负。
+
+3. 蒙特卡洛树搜索（MCTS，搜索部分）：它代表着“Monte Carlo Tree Search”。这个过程利用策略神经网络模拟出从当前位置开始的多种可能的移动序列，然后综合这些模拟的结果来决定最有希望的行动。它是一个“慢思考”环节，与大语言模型（LLM）快速采样 Token 的方式形成对比。
+
+4. 真实信号：这是推动整个系统运作的动力源泉。在围棋中，这个信号非常简单，就是一个二元标签“谁获胜”，由固定的游戏规则决定。可以将其视为维持学习进程的能量源泉。
+
+那么，这些组件是如何相互协作的呢？
+
+AlphaGo 通过自我对弈不断进步，即它与自己之前的版本进行对弈。在这个过程中，策略神经网络和价值神经网络通过迭代不断优化：随着策略在选择动作方面变得更加高效，价值神经网络从中获取更优质的数据进行学习，并反过来为策略提供更精准的反馈。更强的策略也帮助蒙特卡洛树搜索探索出更优的策略。
+
+这样形成了一个巧妙的“永动机”。通过这种方式，AlphaGo 自我提升能力，并在 2016 年以 4-1 的成绩击败了人类世界冠军李世石。仅仅模仿人类的数据，AI 是无法达到超人类水平的。
+
+-----
+
+现在，让我们来探讨 Q* 的构成。它的四大组件是什么？
+
+1. 策略神经网络：这将是 OAI 最强大的内部大语言模型（GPT），负责实际执行解决数学问题的思维过程。
+
+2. 价值神经网络：另一个 GPT，用于评估每个中间推理步骤的正确性概率。
+OAI 在 2023 年 5 月发布了一篇名为《Let's Verify Step by Step》的论文，由 Ilya Sutskever（
+@ilyasut）、John Schulman（@johnschulman2）和 Jan Leike（@janleike）等大牌共同撰写：https://arxiv.org/abs/2305.20050
+
+虽然它没有 DALL-E 或 Whisper 那么出名，但为我们提供了不少线索。
+
+这篇论文提出了“过程监督奖励模型”（PRM），它对思考链中的每一步提供反馈。相比之下，“结果监督奖励模型”（ORM）只在最终对整体输出作出判断。
+
+ORM 是强化学习从人类反馈（RLHF）中原始奖励模型的表达，但它太过粗略，无法适当评估长回应的各个子部分。换言之，ORM 不适合分配信用。在强化学习文献中，我们将 ORM 称为“稀疏奖励”（仅在最终给出），而 PRM 则是“密集奖励”，能够平滑地引导大语言模型朝我们期望的行为发展。
+
+3. 搜索：与 AlphaGo 的离散状态和动作不同，大语言模型操作的是“所有合理字符串”的更复杂空间。因此，我们需要新的搜索方法。
+
+在思考链（CoT）的基础上，研究社区已经发展了一些非线性 CoT：
+- 思考树（Tree of Thought）：实际上是将 CoT 与树搜索结合起来：https://arxiv.org/abs/2305.10601
+@ShunyuYao12
+
+- 思考图（Graph of Thought）：正如你所猜测的。将树变成图，就能得到一个更复杂的搜索操作符：https://arxiv.org/abs/2308.09687
+
+4. 真实信号：有几种可能性：
+(a) 每个数学问题都伴随着一个已知答案。OAI 可能已经收集了大量来自现有数学考试或竞赛的语料。
+(b) ORM 本身可以作为真实信号，但这样可能会被利用，从而“失去能量”维持学习。
+(c) 形式验证系统，如 Lean 定理证明器，可以将数学问题转化为编码问题，提供编译器反馈：https://lean-lang.org
+
+就像 AlphaGo 一样，策略大语言模型和价值大语言模型可以通过迭代相互促进改进，也可以在可能的情况下从人类专家的注释中学习。更优秀的策略大语言模型将帮助思考树搜索探索出更佳策略，反过来为下一轮迭代收集更好的数据。
+
+Demis Hassabis（@demishassabis）曾提到 DeepMind 的 Gemini 将使用“AlphaGo 风格的算法”来加强推理能力。即便 Q* 不是我们想象中的那样，谷歌肯定会用自己的方式紧随其后。如果我能想到这些，他们肯定也能。
+
+需要指出的是，我所描述的仅仅是关于推理的部分。并没有说 Q* 在写诗、讲笑话 Grok（@grok）或角色扮演方面会更有创造力。提升创造力本质上是人类的事情，因此我相信自然数据仍会胜过合成数据。
+
+非常欢迎大家的想法或反馈！</title>
+<link>https://nitter.cz/dotey/status/1728112182875869212</link>
+<guid>https://nitter.cz/dotey/status/1728112182875869212</guid>
+<content:encoded><![CDATA[
+
+<p>转译：在我投身人工智能领域的十年里，我从未见过有这么多人对一个算法如此富有想象。仅凭一个名字，没有任何论文、数据或产品。那么，让我们来揭开 Q* 幻想的神秘面纱，这可能是一段颇长的探索。<br />
+<br />
+首先，要理解搜索与学习这两大 AI 技术的强大结合，我们得回溯到 2016 年，重新审视 AlphaGo 这一 AI 历史上的辉煌成就。它主要由四大要素构成：<br />
+<br />
+1. 策略神经网络（Policy NN，学习部分）：它的任务是选择好的行动，通过估计每个行动带来胜利的可能性。<br />
+<br />
+2. 价值神经网络（Value NN，学习部分）：这部分负责评估棋盘   状况，并预测围棋中任何合法位置的胜负。<br />
+<br />
+3. 蒙特卡洛树搜索（MCTS，搜索部分）：它代表着“Monte Carlo Tree Search”。这个过程利用策略神经网络模拟出从当前位置开始的多种可能的移动序列，然后综合这些模拟的结果来决定最有希望的行动。它是一个“慢思考”环节，与大语言模型（LLM）快速采样 Token 的方式形成对比。<br />
+<br />
+4. 真实信号：这是推动整个系统运作的动力源泉。在围棋中，这个信号非常简单，就是一个二元标签“谁获胜”，由固定的游戏规则决定。可以将其视为维持学习进程的能量源泉。<br />
+<br />
+那么，这些组件是如何相互协作的呢？<br />
+<br />
+AlphaGo 通过自我对弈不断进步，即它与自己之前的版本进行对弈。在这个过程中，策略神经网络和价值神经网络通过迭代不断优化：随着策略在选择动作方面变得更加高效，价值神经网络从中获取更优质的数据进行学习，并反过来为策略提供更精准的反馈。更强的策略也帮助蒙特卡洛树搜索探索出更优的策略。<br />
+<br />
+这样形成了一个巧妙的“永动机”。通过这种方式，AlphaGo 自我提升能力，并在 2016 年以 4-1 的成绩击败了人类世界冠军李世石。仅仅模仿人类的数据，AI 是无法达到超人类水平的。<br />
+<br />
+-----<br />
+<br />
+现在，让我们来探讨 Q* 的构成。它的四大组件是什么？<br />
+<br />
+1. 策略神经网络：这将是 OAI 最强大的内部大语言模型（GPT），负责实际执行解决数学问题的思维过程。<br />
+<br />
+2. 价值神经网络：另一个 GPT，用于评估每个中间推理步骤的正确性概率。<br />
+OAI 在 2023 年 5 月发布了一篇名为《Let's Verify Step by Step》的论文，由 Ilya Sutskever（<br />
+<a href="https://nitter.cz/ilyasut" title="Ilya Sutskever">@ilyasut</a>）、John Schulman（<a href="https://nitter.cz/johnschulman2" title="John Schulman">@johnschulman2</a>）和 Jan Leike（<a href="https://nitter.cz/janleike" title="Jan Leike">@janleike</a>）等大牌共同撰写：<a href="https://arxiv.org/abs/2305.20050">arxiv.org/abs/2305.20050</a><br />
+<br />
+虽然它没有 DALL-E 或 Whisper 那么出名，但为我们提供了不少线索。<br />
+<br />
+这篇论文提出了“过程监督奖励模型”（PRM），它对思考链中的每一步提供反馈。相比之下，“结果监督奖励模型”（ORM）只在最终对整体输出作出判断。<br />
+<br />
+ORM 是强化学习从人类反馈（RLHF）中原始奖励模型的表达，但它太过粗略，无法适当评估长回应的各个子部分。换言之，ORM 不适合分配信用。在强化学习文献中，我们将 ORM 称为“稀疏奖励”（仅在最终给出），而 PRM 则是“密集奖励”，能够平滑地引导大语言模型朝我们期望的行为发展。<br />
+<br />
+3. 搜索：与 AlphaGo 的离散状态和动作不同，大语言模型操作的是“所有合理字符串”的更复杂空间。因此，我们需要新的搜索方法。<br />
+<br />
+在思考链（CoT）的基础上，研究社区已经发展了一些非线性 CoT：<br />
+- 思考树（Tree of Thought）：实际上是将 CoT 与树搜索结合起来：<a href="https://arxiv.org/abs/2305.10601">arxiv.org/abs/2305.10601</a><br />
+<a href="https://nitter.cz/ShunyuYao12" title="Shunyu Yao">@ShunyuYao12</a><br />
+<br />
+- 思考图（Graph of Thought）：正如你所猜测的。将树变成图，就能得到一个更复杂的搜索操作符：<a href="https://arxiv.org/abs/2308.09687">arxiv.org/abs/2308.09687</a><br />
+<br />
+4. 真实信号：有几种可能性：<br />
+(a) 每个数学问题都伴随着一个已知答案。OAI 可能已经收集了大量来自现有数学考试或竞赛的语料。<br />
+(b) ORM 本身可以作为真实信号，但这样可能会被利用，从而“失去能量”维持学习。<br />
+(c) 形式验证系统，如 Lean 定理证明器，可以将数学问题转化为编码问题，提供编译器反馈：<a href="https://lean-lang.org">lean-lang.org</a><br />
+<br />
+就像 AlphaGo 一样，策略大语言模型和价值大语言模型可以通过迭代相互促进改进，也可以在可能的情况下从人类专家的注释中学习。更优秀的策略大语言模型将帮助思考树搜索探索出更佳策略，反过来为下一轮迭代收集更好的数据。<br />
+<br />
+Demis Hassabis（<a href="https://nitter.cz/demishassabis" title="Demis Hassabis">@demishassabis</a>）曾提到 DeepMind 的 Gemini 将使用“AlphaGo 风格的算法”来加强推理能力。即便 Q* 不是我们想象中的那样，谷歌肯定会用自己的方式紧随其后。如果我能想到这些，他们肯定也能。<br />
+<br />
+需要指出的是，我所描述的仅仅是关于推理的部分。并没有说 Q* 在写诗、讲笑话 Grok（<a href="https://nitter.cz/grok" title="Grok">@grok</a>）或角色扮演方面会更有创造力。提升创造力本质上是人类的事情，因此我相信自然数据仍会胜过合成数据。<br />
+<br />
+非常欢迎大家的想法或反馈！</p>
+<p><a href="https://nitter.cz/DrJimFan/status/1728100123862004105#m">nitter.cz/DrJimFan/status/1728100123862004105#m</a></p>
+]]></content:encoded>
+<pubDate>Fri, 24 Nov 2023 18:03:45 GMT</pubDate>
+<pubDate>Fri, 24 Nov 2023 18:03:45 GMT</pubDate>
+</item>
+
+<item>
 <title>时装设计师企业家汤米·希尔费格提到了吉吉·哈迪德可能在美国和中东和平中扮演推进和平的角色。
 
 TMZ报道称，汤米·希尔费格暗示吉吉·哈迪德可能是促进中东和平的关键人物。他将她比作亨利·基辛格的“更火辣版本”​​。
@@ -17,7 +175,6 @@ Gigi在instagram 发文说：
 <link>https://nitter.cz/caiziboshi/status/1728618330943279314</link>
 <guid>https://nitter.cz/caiziboshi/status/1728618330943279314</guid>
 <content:encoded><![CDATA[
-
 <p>时装设计师企业家汤米·希尔费格提到了吉吉·哈迪德可能在美国和中东和平中扮演推进和平的角色。<br />
 <br />
 TMZ报道称，汤米·希尔费格暗示吉吉·哈迪德可能是促进中东和平的关键人物。他将她比作亨利·基辛格的“更火辣版本”​​。<br />
@@ -33,7 +190,6 @@ Gigi在instagram 发文说：<br />
 <img src="https://nitter.cz/pic/enc/bWVkaWEvRl8xSk1pLWE4QUF4U2JRLmpwZw==" />
 ]]></content:encoded>
 <pubDate>Sun, 26 Nov 2023 03:35:00 GMT</pubDate>
-<pubDate>Sun, 26 Nov 2023 03:35:00 GMT</pubDate>
 </item>
 <item>
 <title>8名大屠杀幸存者举着被哈马斯绑架的8个儿童。
@@ -44,7 +200,6 @@ Gigi在instagram 发文说：<br />
 <link>https://nitter.cz/caiziboshi/status/1728614652383490312</link>
 <guid>https://nitter.cz/caiziboshi/status/1728614652383490312</guid>
 <content:encoded><![CDATA[
-
 <p>8名大屠杀幸存者举着被哈马斯绑架的8个儿童。<br />
 <br />
 这个活动于2023年11月1日在犹太遗产博物馆：大屠杀活生生的纪念馆举行。大屠杀幸存者托比·莱维和200多名其他幸存者参加了“希望的形象”这一照片项目，每位幸存者在照片中举着一张哈马斯在加沙拘留的240多名人质之一的海报​​。<br />
@@ -52,7 +207,6 @@ Gigi在instagram 发文说：<br />
 莱维提到，10月7日哈马斯对以色列的袭击以及自那以后全球反犹太主义的激增让她想起了自己童年的经历​​。同样，另一位大屠杀幸存者费伊·马尔金表示，自10月7日袭击以来，她感受到了“极大的痛苦”，并强调以色列力量的重要性​​。</p>
 <img src="https://nitter.cz/pic/enc/bWVkaWEvRl8xRjJkUGJjQUFEbEVrLmpwZw==" />
 ]]></content:encoded>
-<pubDate>Sun, 26 Nov 2023 03:20:23 GMT</pubDate>
 <pubDate>Sun, 26 Nov 2023 03:20:23 GMT</pubDate>
 </item>
 <item>
@@ -62,7 +216,6 @@ Gigi在instagram 发文说：<br />
 <link>https://nitter.cz/caiziboshi/status/1728610375632036219</link>
 <guid>https://nitter.cz/caiziboshi/status/1728610375632036219</guid>
 <content:encoded><![CDATA[
-
 <p>美驻华使馆的新闻发言人曾蕾秋到旧金山出差一礼拜，上周末返回北京。日前在微博分享了她的APEC见闻吧！ <br />
 <br />
 我个人认为，她整个vlog就是为了展现这两秒的APEC大合影。</p>
@@ -70,7 +223,6 @@ Gigi在instagram 发文说：<br />
 <img src="https://nitter.cz/pic/enc/bWVkaWEvRl8xQjlKbWIwQUFfdDA5LmpwZw==" />
 <img src="https://nitter.cz/pic/enc/bWVkaWEvRl8xQjlKcWJvQUFlVVhwLmpwZw==" />
 ]]></content:encoded>
-<pubDate>Sun, 26 Nov 2023 03:03:24 GMT</pubDate>
 <pubDate>Sun, 26 Nov 2023 03:03:24 GMT</pubDate>
 </item>
 <item>
@@ -87,7 +239,6 @@ Gigi在instagram 发文说：<br />
 <link>https://nitter.cz/caiziboshi/status/1728607604027650374</link>
 <guid>https://nitter.cz/caiziboshi/status/1728607604027650374</guid>
 <content:encoded><![CDATA[
-
 <p>2个月大的婴儿绝对不建议吃牛肉，尤其是看上去最多5成熟的战俘牛排，这个妈妈不知道是真无知还是赚流量。<br />
 <br />
 从医学角度来看，婴儿在这个年龄的消化系统还未完全发育，他们主要依赖母乳或婴儿配方奶粉作为营养来源。以下是几个主要原因：<br />
@@ -101,19 +252,16 @@ Gigi在instagram 发文说：<br />
 <img src="https://nitter.cz/pic/enc/YW1wbGlmeV92aWRlb190aHVtYi8xNzI4NjA3NTA1NzA0NzY3NDg4L2ltZy9TYmtJVFY4cWY2eFlPUm9oLmpwZw==" />
 ]]></content:encoded>
 <pubDate>Sun, 26 Nov 2023 02:52:23 GMT</pubDate>
-<pubDate>Sun, 26 Nov 2023 02:52:23 GMT</pubDate>
 </item>
 <item>
 <title>因为比利时、西班牙首相都谴责以色列不遵守国际法，杀死太多平民特别是小孩，以色列反过来说过比利时、西班牙支持恐怖主义。既然如此，以色列怎么还不跟比利时、西班牙断交？</title>
 <link>https://nitter.cz/fangshimin/status/1728619037167645015</link>
 <guid>https://nitter.cz/fangshimin/status/1728619037167645015</guid>
 <content:encoded><![CDATA[
-
 <p>因为比利时、西班牙首相都谴责以色列不遵守国际法，杀死太多平民特别是小孩，以色列反过来说过比利时、西班牙支持恐怖主义。既然如此，以色列怎么还不跟比利时、西班牙断交？</p>
 <img src="https://nitter.cz/pic/enc/bWVkaWEvRl8xSjJqbmFNQUFhcGpWLmpwZw==" />
 <img src="https://nitter.cz/pic/enc/bWVkaWEvRl8xSjJqb2E4QUFoNGc5LmpwZw==" />
 ]]></content:encoded>
-<pubDate>Sun, 26 Nov 2023 03:37:49 GMT</pubDate>
 <pubDate>Sun, 26 Nov 2023 03:37:49 GMT</pubDate>
 </item>
 <item>
@@ -121,7 +269,6 @@ Gigi在instagram 发文说：<br />
 <link>https://nitter.cz/fangshimin/status/1728610225736097949</link>
 <guid>https://nitter.cz/fangshimin/status/1728610225736097949</guid>
 <content:encoded><![CDATA[
-
 <p>在大角羊沙漠所见野花：扇叶皱垫草(Fanleaf crinklemat)、亚利桑那鲁冰花(Arizona lupine)、艾默里石雏菊(Emory’s rock daisy)、流苏苋菜(fringed amaranth)。</p>
 <img src="https://nitter.cz/pic/enc/bWVkaWEvRl8xQjFVTGF3QUFnT2JyLmpwZw==" />
 <img src="https://nitter.cz/pic/enc/bWVkaWEvRl8xQjFVTGFjQUF2MVZELmpwZw==" />
@@ -129,9 +276,7 @@ Gigi在instagram 发文说：<br />
 <img src="https://nitter.cz/pic/enc/bWVkaWEvRl8xQjFVSWFzQUF4STdYLmpwZw==" />
 ]]></content:encoded>
 <pubDate>Sun, 26 Nov 2023 03:02:48 GMT</pubDate>
-<pubDate>Sun, 26 Nov 2023 03:02:48 GMT</pubDate>
 </item>
-
 <item>
 <title>发表新文章《搞笑的全民抓间谍活动》https://open.substack.com/pub/fangshimin/p/9a5?r=2y2z33&amp;utm_medium=ios&amp;utm_campaign=post</title>
 <link>https://nitter.cz/fangshimin/status/1728603135349055729</link>
@@ -14080,66 +14225,6 @@ From：<a href="https://nitter.cz/womp3D" title="Womp">@womp3D</a></p>
 <img src="https://nitter.cz/pic/enc/bWVkaWEvRl9GUkVkSWF3QUFnNHVFLmpwZw==" />
 ]]></content:encoded>
 <pubDate>Thu, 16 Nov 2023 20:27:55 GMT</pubDate>
-</item>
-<item>
-<title>到深圳租不起房，找了一个角落自己哭了一会儿。有个阿姨看见了，找来了两个警察，以为是来安慰我的，结果警察让我别在这里哭。</title>
-<link>https://nitter.cz/xiaojingcanxue/status/1725248973571854825</link>
-<guid>https://nitter.cz/xiaojingcanxue/status/1725248973571854825</guid>
-<content:encoded><![CDATA[
-<p>到深圳租不起房，找了一个角落自己哭了一会儿。有个阿姨看见了，找来了两个警察，以为是来安慰我的，结果警察让我别在这里哭。</p>
-<img src="https://nitter.cz/pic/enc/bWVkaWEvRl9GUWtHMGJJQUFtSm00LmpwZw==" />
-]]></content:encoded>
-<pubDate>Thu, 16 Nov 2023 20:26:23 GMT</pubDate>
-</item>
-<item>
-<title>野村证券：中国大约有2000万套没有完工的预售楼。</title>
-<link>https://nitter.cz/xiaojingcanxue/status/1725248666695524398</link>
-<guid>https://nitter.cz/xiaojingcanxue/status/1725248666695524398</guid>
-<content:encoded><![CDATA[
-<p>野村证券：中国大约有2000万套没有完工的预售楼。</p>
-<img src="https://nitter.cz/pic/enc/bWVkaWEvRl9GUWVIbmJnQUFPdGNmLmpwZw==" />
-]]></content:encoded>
-<pubDate>Thu, 16 Nov 2023 20:25:10 GMT</pubDate>
-</item>
-<item>
-<title>六神磊磊：峨眉上下谁反魔教反得最厉害？</title>
-<link>https://nitter.cz/xiaojingcanxue/status/1725248330010337380</link>
-<guid>https://nitter.cz/xiaojingcanxue/status/1725248330010337380</guid>
-<content:encoded><![CDATA[
-<p>六神磊磊：峨眉上下谁反魔教反得最厉害？</p>
-<img src="https://nitter.cz/pic/enc/bWVkaWEvRl9GUUYwc2EwQUFwME9oLmpwZw==" />
-]]></content:encoded>
-<pubDate>Thu, 16 Nov 2023 20:23:50 GMT</pubDate>
-</item>
-<item>
-<title>黑石集团抛售11个中国物流园，总价超百亿。</title>
-<link>https://nitter.cz/xiaojingcanxue/status/1725248138888540171</link>
-<guid>https://nitter.cz/xiaojingcanxue/status/1725248138888540171</guid>
-<content:encoded><![CDATA[
-<p>黑石集团抛售11个中国物流园，总价超百亿。</p>
-<img src="https://nitter.cz/pic/enc/bWVkaWEvRl9GUF9CTGJnQUF6UmFsLmpwZw==" />
-]]></content:encoded>
-<pubDate>Thu, 16 Nov 2023 20:23:04 GMT</pubDate>
-</item>
-<item>
-<title>现在大部分媒体对灾难都那么报，因为很典型，列出来给大家看：第一段是讲领导/政府投入救灾。第二段是讲死亡受伤人数（通常缩水过，尤其是伤者，只列住院的重伤）以及它们情绪稳定，医院全力救治。第三段从网上摘抄一些事故方的公开信息填充。</title>
-<link>https://nitter.cz/xiaojingcanxue/status/1725247914593882438</link>
-<guid>https://nitter.cz/xiaojingcanxue/status/1725247914593882438</guid>
-<content:encoded><![CDATA[
-<p>现在大部分媒体对灾难都那么报，因为很典型，列出来给大家看：第一段是讲领导/政府投入救灾。第二段是讲死亡受伤人数（通常缩水过，尤其是伤者，只列住院的重伤）以及它们情绪稳定，医院全力救治。第三段从网上摘抄一些事故方的公开信息填充。</p>
-<img src="https://nitter.cz/pic/enc/bWVkaWEvRl9GUGF0Y2FRQUFQc04zLmpwZw==" />
-]]></content:encoded>
-<pubDate>Thu, 16 Nov 2023 20:22:11 GMT</pubDate>
-</item>
-<item>
-<title>迷惑行为。</title>
-<link>https://nitter.cz/xiaojingcanxue/status/1725247292608061682</link>
-<guid>https://nitter.cz/xiaojingcanxue/status/1725247292608061682</guid>
-<content:encoded><![CDATA[
-<p>迷惑行为。</p>
-<img src="https://nitter.cz/pic/enc/bWVkaWEvRl9GUFFDMGFRQUVQcl9DLmpwZw==" />
-]]></content:encoded>
-<pubDate>Thu, 16 Nov 2023 20:19:42 GMT</pubDate>
 </item>
 </channel>
 </rss>

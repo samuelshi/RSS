@@ -12882,3 +12882,15 @@ Fetching from https://chinadigitaltimes.net/chinese/feed
 Append: [【404文库】“它们在践踏这片土地上最宝贵的归属感和信心”（外二篇）](https://chinadigitaltimes.net/chinese/702629.html)
 append_entries: 1
 Finish: 2023-11-27 08:03:31
+------------------------------------------------------
+Started: 2023-11-27 09:25:13
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Append: [#文字](https://t.me/times001/659050)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Append: [🖼 成群儿童边输液边做作业引热议 据中媒报道，近日中国多地呼吸道疾病高发，大量儿童染病无法上课，有班级甚至因太多人生病停课。 然而，中媒报道有家长反映...](https://t.me/OutsightChina/4997)
+Fetching from https://chinadigitaltimes.net/chinese/feed
+Append: [【中国哭墙】让人心寒的从来都不是发生了什么，而是事情发生后如何处理（10月28日-11月26日，2023年）](https://chinadigitaltimes.net/chinese/702082.html)
+append_entries: 3
+Finish: 2023-11-27 09:25:20

@@ -5,17 +5,26 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>🖼 #Python潮流周刊 第 28 期：两种线程池、四种优化程序的方法 🦄文章&amp;教程 1、四种优化程序的方法 2、两种线程池，以及为什么需要这两种线程池？ 3、是时...</title>
+<link>https://t.me/NewlearnerChannel/12097</link>
+<guid>https://t.me/NewlearnerChannel/12097</guid>
+<content:encoded><![CDATA[
+
+<p><a href="https://t.me/NewlearnerChannel/12097?q=%23Python%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A">#Python潮流周刊</a> <br /><br /><a href="https://pythoncat.top/posts/2023-11-25-weekly" rel="noopener" target="_blank">第 28 期：两种线程池、四种优化程序的方法</a><br /><br /><span class="emoji">🦄</span><b>文章&amp;教程</b><br />1、四种优化程序的方法<br />2、两种线程池，以及为什么需要这两种线程池？<br />3、是时候改变了：datetime.utcnow() 现已被弃用<br />4、Python Web 应用的线上部署<br />5、Python GIL 作出的不断变化的“保证”<br />6、使用 pip-compile 和 pip-tools 作 Django 的依赖项管理<br />7、Python 程序的 bug 分类<br />8、有多少 Python 核心开发者使用类型提示？<br />9、记一次用 Python 的 ast 模块将 Flask 项目转为 Quart 的尝试<br />10、Python NumPy 库的可视化解释<br />11、用组合还是继承？我有不同看法<br />12、选择正确的数据仪表板工具：Streamlit 和 Shiny 的独特优势<br /><br /><span class="emoji">🐿</span><b>项目&amp;资源</b><br />1、screenshot-to-code：利用截图生成 HTML/Tailwind/JS 代码<br />2、sqlalchemy_data_model_visualizer：将SQLalchemy数据模型转换为漂亮的SVG图表<br />3、aiconfig：配置驱动的 AI 应用开发框架<br />4、PyNest：基于 FastAPI 构建的框架，遵循 NestJS 的模块化架构<br />5、StyleTTS2：近乎人类水平的文本转语音库<br />6、pyjokes：程序员的一句话笑话（笑话即服务） <br />7、gTTS：用于与 Google 的文本转语音 API 交互<br />8、chatfairy：极简的网页版聊天室，只依赖 Flask<br />9、streamlit-shadcn-ui：在 streamlit 中使用 shadcn-ui 组件<br />10、video-subtitle-remover：用 AI 去除图片/视频的硬字幕/水印<br />11、flowty-realtime-lcm-canvas：使用 LCM 和 gradio 库的草图到图像演示<br />12、pyephem：科学级的天文学计算库<br /><br /><span class="emoji">👀</span> <a href="https://pythoncat.top/posts/2023-11-25-weekly" rel="noopener" target="_blank">全文</a>&nbsp;&nbsp;&nbsp; <span class="emoji">👀</span> <a href="https://pythoncat.top/tags/weekly" rel="noopener" target="_blank">合集</a>&nbsp;&nbsp;&nbsp;&nbsp; <span class="emoji">🤝</span><a href="https://github.com/chinesehuazhou/python-weekly" rel="noopener" target="_blank">投稿</a>&nbsp;&nbsp;&nbsp; <span class="emoji">🐱</span><a href="https://t.me/pythontrendingweekly" rel="noopener" target="_blank">频道</a><br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/nBk9xjSJPyxjJZ6V0DZ9fZPLptwuEo0IvHFQcdPVS39Su6mwHtxD72wuUheEFB-d0XvE-WjFY3hF6a_BxTJ5pnIIPhSeOPBOZ5tcT5zXU--HnpJrWCdfg39dn9qkf4Euw6-9eE3tssIMPoWRAJ4f32v5hNZy61Rw7RsGLj7DOeSHTPc4FaqsJLo9gXkZO9X3slkfIz8RjUmTcnQnqxDxFDTYAlvQISPQUSsBz-1Kh6zo_oUV46wh36JaJie6P3mtZTv2iYY9wkQoIr9Ao09K_DkLIcG4VWRXm3UfR2h3Wt0gmj7Xv4mQstUm6uf-W-xi-0mSWHhNLYO--r76lhDRsw.jpg" />
+]]></content:encoded>
+<pubDate>Mon, 27 Nov 2023 10:01:30 GMT</pubDate>
+<pubDate>Mon, 27 Nov 2023 10:01:30 GMT</pubDate>
+</item>
+
+<item>
 <title>日本 LINE 逾40万条数据可能外泄！疑因母公司遭网络攻击。 日本科技公司 LINE 雅虎 (LY Corporation) 的服务器近日遭受网络攻击，据悉可能导致通讯软件 LINE 的...</title>
 <link>https://t.me/xhqcankao/7077</link>
 <guid>https://t.me/xhqcankao/7077</guid>
 <content:encoded><![CDATA[
-
 <p><b>日本 LINE 逾40万条数据可能外泄！疑因母公司遭网络攻击。</b><br /><br />日本科技公司 LINE 雅虎 (LY Corporation) 的服务器近日遭受网络攻击，据悉可能导致通讯软件 LINE 的用户资料等逾 40 万条个人信息可能外泄，但称可识别特定用户的信息并未外泄。<br /><br />根据 LINE 雅虎公司的消息，可能外泄的信息包括无法辨别特定用户的性别、年龄层、LINE 贴图的购买记录等，以及 LINE 雅虎公司的交易对象、员工电子邮件等资料。<br /><br />目前尚未确认用户的银行账户、信用卡等是否外泄，或者外泄信息是否遭到恶意使用等损害案例。<br /><br />—— <a href="https://www.chinatimes.com/realtimenews/20231127002733-260408" rel="noopener" target="_blank">中时新闻网</a>、<a href="https://www.asahi.com/sp/articles/ASRCW46N1RCWULFA00S.html" rel="noopener" target="_blank">日本朝日新聞</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 27 Nov 2023 08:30:21 GMT</pubDate>
-<pubDate>Mon, 27 Nov 2023 08:30:21 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 #GitHub情报 #iOS 老司机 iOS 周报 2023-11-27 这周份的 iOS Markdown 周报，适合爱好者和 iOS 开发人员，每周为大家带来最新的 iOS 新闻资讯，开发信息 �...</title>
 <link>https://t.me/NewlearnerChannel/12096</link>

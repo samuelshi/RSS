@@ -13128,3 +13128,15 @@ Fetching from https://chinadigitaltimes.net/chinese/feed
 Append: [每日一语 2023.11.26](https://chinadigitaltimes.net/chinese/702647.html)
 append_entries: 1
 Finish: 2023-11-28 00:01:36
+------------------------------------------------------
+Started: 2023-11-28 01:01:30
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Append: [↩️🖼 卡塔尔外交部发言人称，以色列和哈马斯已达成协议，将临时停火协议延长2天。哈马斯称，延长停火协议的条件与此前相同。 （半岛电视台）](https://t.me/tnews365/28883)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Append: [🖼 每周的订阅邮件中，我们会附上值得大家阅读的 #推荐文章。以下是 本周邮件 中的推荐阅读列表： * 端传媒｜白纸落地之后 * 纽约时报中文网 | 抵抗婚育，中国...](https://t.me/OutsightChina/5001)
+Fetching from https://chinadigitaltimes.net/chinese/feed
+Append: [【图说天朝】美食博主王刚三次恶意蛋炒饭“侮辱英烈”？](https://chinadigitaltimes.net/chinese/702659.html)
+append_entries: 3
+Finish: 2023-11-28 01:01:42

@@ -5,14 +5,24 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>🖼 有 V2EX 的网友称，在微信内编辑图片会上传并审查原图。在 iOS 微信中编辑（打码）了一张图片并发送。几秒后原图中的地址收到了一个广东IP的访问。使用 DNS...</title>
+<link>https://t.me/xhqcankao/7096</link>
+<guid>https://t.me/xhqcankao/7096</guid>
+<content:encoded><![CDATA[
+
+<p></p><div class="tgme_widget_message_text js-message_text" dir="auto">有 <a href="https://www.v2ex.com/t/995953" rel="noopener" target="_blank">V2EX</a> 的网友称，在微信内编辑图片会上传并审查原图。在 iOS 微信中编辑（打码）了一张图片并发送。几秒后原图中的地址收到了一个广东IP的访问。使用 DNSlog 复现成功，但似乎没有 log4j 漏洞。</div><p></p><img src="https://cdn5.cdn-telegram.org/file/emmlM7WxT32icDuh59TIOwHra3chEX0ik8gef386PyLQcIMS8D7lG_PlVWaV2UGp0qVTmoACnywoLoP1hJlst33l2iogIzgvgit87riSzC1f4GwC_dkGuKvpXklLOXydcAQP7PTuEoD7akcYgTteSGkrN8p0zyQD5CKxt7caxwxuBydK83ScHquC9WsErIJsgdA2LtqtQquus_dy3cy1XBNLNjEHGzL3UpV9BjmwSAhh7uO_sedun3qiZFiLkDTs7yK7TEdxHIg72qqt129QXNrLQyBtdrzKPVVAlqGcwSr2k5vy7VL6rJdnD4X4leOFPn-QdbnlyCP3_CHtqRvH2g.jpg" /><img src="https://cdn5.cdn-telegram.org/file/VanA3J68-jcZ-r0osRE1XBQmooblb84iBso6s7rJVksP_bigYSGxD1vAh6KOSWEWymmLRuL4fl8dYPQqdmwcmYTucjC4fAoMs_OZDsGif3NsN3SX3IEDdjvGeUjR2X2b3f6WUOWrwkoovYYZ_DEDx-J8cqDNjOHnzaZ_FtI-I_rCMuKQmum5Z8wL69rEZ0LT25ybbKbg-hVHWbO-FTVvd-Ezfj8QdzAeAVt9ryTg8R2-DkIq7h5cik6xCVv-4zOIHSLPYHrnnUKDLaw77-r45jflgbQHkd5danTt15tM-d269_PxKQNO9rjBLDV97LvrwT7-GY5lziDS0ADFDVhgjA.jpg" /><img src="https://cdn5.cdn-telegram.org/file/kryCkZot6XEvz0m3AuDlZhSb1iyqSnqlGqb5o1_hvAqrcSMgG__53J5IzKOdr1M6mFV7gT0Qe3nXNSlMkWe1jrzX7mk4pUkFv0w3yzTxYSr39EGbmZjSd52htxitVZU4h00EUwutDROp7Webwwv34QtUFBSGIn9jgShtSwtIphxj_nsshFuLnJYLAtCVUPxqTnA1Yc3uVILkw4eOdpYF6L3P_uK_SgtcKEtxckrnUgHVQqGxBvD_Z7_jarXhbMeOMk9B7USeFThfOzJQ_SQNYh8nbub3ZIWylxqKplglfsgEJHYPquWFPoWEQ5zEr8YG-JEactYENGQkEuLg4auyTA.jpg" />
+]]></content:encoded>
+<pubDate>Tue, 28 Nov 2023 10:53:17 GMT</pubDate>
+<pubDate>Tue, 28 Nov 2023 10:53:17 GMT</pubDate>
+</item>
+
+<item>
 <title>🖼 #Blog #APPLE #Design 🍎 The secret formula for Apple's rounded corners 🔗：Blog 老朋友 Arun Venkatesan 近期又更新了一些有趣的文章，其中一篇是...</title>
 <link>https://t.me/NewlearnerChannel/12104</link>
 <guid>https://t.me/NewlearnerChannel/12104</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://t.me/NewlearnerChannel/12104?q=%23Blog">#Blog</a> <a href="https://t.me/NewlearnerChannel/12104?q=%23APPLE">#APPLE</a> <a href="https://t.me/NewlearnerChannel/12104?q=%23Design">#Design</a><br /><br /><span class="emoji">🍎</span> <b>The secret formula for Apple's rounded corners</b><br /><br /><span class="emoji">🔗</span>：<a href="https://arun.is/blog/apple-rounded-corners/" rel="noopener" target="_blank">Blog</a><br /><br />老朋友 Arun Venkatesan 近期又更新了一些有趣的文章，其中一篇是讲述「Apple 和圆角设计」的，分享给大家<br /><br /><span class="emoji">📝</span> <b>文章概述</b><br /><br />- 果处是圆角<br />- 与人亲密，设计愈圆<br />- 定义并测量圆角<br />- 果中的圆角计算结果<br /><br />不可否认的是，Apple 和「圆角」有着许多年的不解之缘。在今天，无论在 iPhone、Mac、Apple Watch、iPad，甚至是 Apple Store，都能看到圆角设计的存在<br /><br />文章从心理学和 Naoto Fukasawa 设计无印良品的哲学出发，解释了 Apple 为什么要设计成矩形圆角：让人更平静愉悦、让物品离人更近、让使用体验更好<br /><br />Arun Venkatesan 还设计了一个圆度计算方法：圆度即使用百分比呈现圆弧所在圆的直径除以圆弧所在矩形的较短边得到的值。通过这种办法，AirPods 获得了第一名，Apple Watch、iPhone 紧随其后，而桌面设备均靠后。这基本能够反映出「与人亲密，设计愈圆」这一设计哲学<br /><br /><span class="emoji">🧑‍💻</span> 看完之后还是很开心，有人用这样一套理论和计算，解释了为什么 Apple 的某些设计因素让人很「愉悦舒适」。这也是我越来越关注设计内容的原因<br /><br /><span class="emoji">📘</span> 关联阅读：<a href="https://arun.is/blog/apple-shot-on-iphone-evolution/" rel="noopener" target="_blank">What does “Shot on iPhone” mean anymore?</a><br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/X_2ms9I2qbz0sc4KnVFH05BH-7KLQqlwsTGAhAq_Z9WxEf4Z9L-h7IoVDbrHsFodIxA6ZbloGMQnynDZpFt8SP6wh_CBdFhf6dvtkSe-zBS9UIvJRMGV8G6lodPwdEPeVH4zg7lfdZCIOfdBr0G-i1mkDnWU-wu0z6_nF2v-ZsIeAiKAEOiefBQ1y_Wn8UItY_2l72ZTKECg06SMaA030WEJ9AxEGm0XsGP0_SWD0Dmj0asBtlbymsWbWxiQpDiKNsu491xJuwS2VioUFjXbg9kJG0BcO7hb3EdKzkgdNvx3qId8SC8dHk0dkShoSZWJjg9w95H-Pjbe3g56zT0iyA.jpg" />
 ]]></content:encoded>
-<pubDate>Tue, 28 Nov 2023 10:01:23 GMT</pubDate>
 <pubDate>Tue, 28 Nov 2023 10:01:23 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +30,10 @@
 <link>https://t.me/xhqcankao/7095</link>
 <guid>https://t.me/xhqcankao/7095</guid>
 <content:encoded><![CDATA[
-
 <p><b>东芝开发出不使用钴的新型电池，5分钟充电80%</b><br /><br />东芝11月28日发布消息称，开发出了不含稀有金属钴的锂离子电池。使用特殊的正极材料，抑制了导致电池膨胀的气体的产生。力争2028年投入实用。预计将应用于小型电动工具等，如果大型化取得进展，还将推广到纯电动汽车 (EV) 等。<br /><br />锂离子电池由正极材料、负极材料和电解液构成。正极材料一般包含钴和镍等。稀有金属开采和精炼过程中的水质污染被视为问题，而且其埋藏地区分布不均，在供应链的稳定方面也存在课题。<br /><br />东芝此次开发出了不含钴的正极材料。一般如果减少使用稀有金属，正极的表面会产生气体，但东芝改良了表面的性质，抑制了气体的产生。据悉这款新型电池可在5分钟内充电80%。<br /><br />—— <a href="https://cn.nikkei.com/industry/itelectric-appliance/54163-2023-11-28-14-51-48.html" rel="noopener" target="_blank">日经中文网</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 28 Nov 2023 09:25:26 GMT</pubDate>
-<pubDate>Tue, 28 Nov 2023 09:25:26 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 #GitHub情报 HelloGitHub：面向入门爱好者的开源项目月刊，今日更新第 92 期 🔗: 官网 | Github | 投稿 这是一个面向编程新手、热爱编程、对开源社区感兴...</title>
 <link>https://t.me/NewlearnerChannel/12103</link>

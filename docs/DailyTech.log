@@ -8784,3 +8784,14 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
 Feed error: 504
 append_entries: 1
 error when rendering xml, skip docs/DailyTech
+------------------------------------------------------
+Started: 2023-11-29 15:01:28
+Existing_entries: 722
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel
+Append: [🖼 #APP #iPhone #iOS #Android #exping 📱exping 路线2.0上线！创作无界限，自由绘制你的专属路线！ 🔗：download.expingworld.com 路线从1.0到2.0，从小...](https://t.me/NewlearnerChannel/12109)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
+Append: [日本宇宙航空研究开发机构服务器可能遭受未经授权的访问攻击 日本政府周三表示，日本宇宙航空研究开发机构的网络服务器可能遭到未经授权的访问攻击，并补充说该...](https://t.me/xhqcankao/7112)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
+append_entries: 2
+Finish: 2023-11-29 15:01:32

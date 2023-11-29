@@ -13521,3 +13521,14 @@ Fetching from https://chinadigitaltimes.net/chinese/feed
 Append: [晚点LatePost｜“最后一代” 汽车发动机工程师](https://chinadigitaltimes.net/chinese/702712.html)
 append_entries: 1
 Finish: 2023-11-29 07:01:23
+------------------------------------------------------
+Started: 2023-11-29 08:03:04
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Append: [🖼 中国开通1.2T超高速网络 中国本月13日宣布开通“全球首条“1.2T超高速主干网络，布建总长3000多公里。中媒强调软硬件产品均为中国自主研发，技术领先全球。...](https://t.me/OutsightChina/5007)
+Fetching from https://chinadigitaltimes.net/chinese/feed
+Append: [竹不倒｜11人遇难，这么大的事故连个热搜和头条都没有？](https://chinadigitaltimes.net/chinese/702714.html)
+append_entries: 2
+Finish: 2023-11-29 08:03:08

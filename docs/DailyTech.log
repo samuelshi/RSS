@@ -8805,3 +8805,12 @@ Append: [滴滴向所有用户补偿 10 元无门槛打车通用券 滴滴出行
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
 append_entries: 1
 Finish: 2023-11-29 16:02:06
+------------------------------------------------------
+Started: 2023-11-29 17:01:43
+Existing_entries: 725
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
+append_entries: 0
+Finish: 2023-11-29 17:01:48

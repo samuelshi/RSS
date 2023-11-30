@@ -4,18 +4,16 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>https://meta.appinn.net/t/topic/49804</title>
 <link>https://t.me/appinnfeed/8969</link>
 <guid>https://t.me/appinnfeed/8969</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://meta.appinn.net/t/topic/49804" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/49804</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/49804">Minio Server 折腾笔记</a></b><br /><p>很久很久以前，有一个已经不存在的 Appinn.Me HOST 项目，托管着一些静态网站，这么多年过去，可能就剩下两个了：   https://maruko.appinn.me/ https://mcool.appinn.me/  前几天在迁移服务器，之后会立省 72 刀/年。但我小看迁移的魔法了。  这台服务器的构架很简单，就是 Nginx 在前台，后台是 Minio 提供文件传输服务。  Nginx 的迁移很容易，直接拿过去就行了，坑在 Minio…   https://min.io/  这货不知道啥时候从…</p><img src="https://cdn4.cdn-telegram.org/file/W2KRyei_8rBvhg8lZbN5UcBrzYcnxd67_Mwz9MCIBKPH3RsL48JbEJrgKGVGt5tDx5F3KFoNr53pC3adyheFSAuMiRNuVsuH1-ayfT7pgpwGAvkAfC9ekwLM7KlB5fKqklsf6Qy3UPV9AGQLCr4TwOHOkE-YLsX9385xxtx0rCGL6LDeJzoB9Gfl7pF5QFWT8gxcQxMcMFPM2YPUf09LyfUHClnyn4eaE537M4omAceRi5QgH6zCMGK7ilsrL1mXQ9hFr4ImbQ9MAhjMbQREwci3u1ErV8lj4YVRhET0WuPgaaaLCkE7bmPKqXZEWooyceR6ohT96_wlCu0kun69KA.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Thu, 30 Nov 2023 04:52:18 GMT</pubDate>
-<pubDate>Thu, 30 Nov 2023 04:52:18 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 🤔</title>
 <link>https://t.me/appinnfeed/8968</link>

@@ -4196,3 +4196,10 @@ Existing_entries: 196
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2023-11-30 12:01:47
+------------------------------------------------------
+Started: 2023-11-30 13:02:01
+Existing_entries: 196
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [https://meta.appinn.net/t/topic/49804](https://t.me/appinnfeed/8969)
+append_entries: 1
+Finish: 2023-11-30 13:02:01

@@ -4223,3 +4223,10 @@ Existing_entries: 199
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2023-11-30 16:02:07
+------------------------------------------------------
+Started: 2023-11-30 17:01:55
+Existing_entries: 199
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [📣 #发现频道 我用AHK写了个非线性的游戏存档管理器 https://meta.appinn.net/t/topic/49821](https://t.me/appinnfeed/8972)
+append_entries: 1
+Finish: 2023-11-30 17:01:55

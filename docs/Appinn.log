@@ -4381,3 +4381,10 @@ Existing_entries: 207
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2023-12-01 17:01:54
+------------------------------------------------------
+Started: 2023-12-01 18:01:55
+Existing_entries: 207
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [📣 #发现频道 [开发者自荐]tgbot-upnp 将telegram视频通过upnp协议投屏至其他设备的小工具 https://meta.appinn.net/t/topic/49861](https://t.me/appinnfeed/8980)
+append_entries: 1
+Finish: 2023-12-01 18:01:55

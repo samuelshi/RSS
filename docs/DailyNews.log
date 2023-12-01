@@ -14450,3 +14450,14 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 20
 Finish: 2023-12-01 22:01:19
+------------------------------------------------------
+Started: 2023-12-01 23:01:30
+Existing_entries: 1020
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Append: [↩️ 12月1日的国务院常务会议研究“加快内外贸一体化发展”要求推进内外贸产品同线同标同质。对标国际先进水平，加快调整完善国内相关规则、规制、管理、标准等...](https://t.me/tnews365/28908)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Feed error: 504
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 1
+Finish: 2023-12-01 23:01:48

@@ -14740,3 +14740,12 @@ Fetching from https://chinadigitaltimes.net/chinese/feed
 Append: [老萧杂说｜昔有《为了六十一个阶级弟兄》，今该有《为了阿里遇险的上海平民女》](https://chinadigitaltimes.net/chinese/702804.html)
 append_entries: 6
 Finish: 2023-12-02 20:01:44
+------------------------------------------------------
+Started: 2023-12-02 21:01:33
+Existing_entries: 1006
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 0
+Finish: 2023-12-02 21:01:37

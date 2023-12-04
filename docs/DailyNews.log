@@ -15196,3 +15196,15 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 1
 Finish: 2023-12-04 08:03:36
+------------------------------------------------------
+Started: 2023-12-04 09:25:34
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Append: [↩️ 胡塞武装3日袭击了红海的3艘商船。 美国中央司令部称，美国“卡尼”号驱逐舰发现一枚从也门胡塞武装控制地区向悬挂巴哈马国旗的货船“团结探索”号发射弹道...](https://t.me/tnews365/28927)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Append: [🖼 《南华早报》记者在京失踪 据外媒报道，香港最大的英文报纸《南华早报》的一名女记者陈敏莉近日前往前中国出差后失踪，她的朋友担心她可能会正受到中国当局...](https://t.me/OutsightChina/5028)
+Fetching from https://chinadigitaltimes.net/chinese/feed
+Append: [每日一语 2023.12.3](https://chinadigitaltimes.net/chinese/702876.html)
+append_entries: 3
+Finish: 2023-12-04 09:25:37

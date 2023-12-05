@@ -15679,3 +15679,13 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 0
 Finish: 2023-12-05 17:01:52
+------------------------------------------------------
+Started: 2023-12-05 18:01:37
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Append: [↩️ 台湾，中选会12月5日完成对总统副总统候选人资格审查，没有出现候选人具有外国国籍、或回复归化取得中华民国国籍等情况，三组候选人全部具备参选资格。 早...](https://t.me/tnews365/28937)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 1
+Finish: 2023-12-05 18:01:47

@@ -10121,3 +10121,15 @@ Append: [Apple Music 用户在“添加播放列表歌曲”设置中遇到错�
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
 append_entries: 2
 Finish: 2023-12-05 08:03:35
+------------------------------------------------------
+Started: 2023-12-05 09:25:57
+Existing_entries: 813
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel
+Append: [🖼 #News ☀️ 自留地早报【12.5】 1️⃣ Mozilla ：为基于 Debian 的 Linux 发行版（如 Ubuntu）提供 Firefox 开发者版及 Beta 通道的 .deb 包构建 2⃣️ 华...](https://t.me/NewlearnerChannel/12144)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection
+Append: [2023年12月5日 🌍资讯快读 1、国家新闻出版署发布11月国产网络游戏审批信息，共87款游戏获批 https://www.jiemian.com/article/10489024.html 2、2023年贺岁档...](https://t.me/jike_collection/9373)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
+Append: [🎬 YouTube 应用会实时更新部分用户的视频观看次数和点赞数 YouTube 似乎正在面向部分用户测试一项新的调整，该调整可以在你观看视频时显示几乎实时更新的观看...](https://t.me/xhqcankao/7175)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
+append_entries: 3
+Finish: 2023-12-05 09:26:06

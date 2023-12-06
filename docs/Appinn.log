@@ -5108,3 +5108,10 @@ Append: [📣 #发现频道 【自荐】小地瓜——小红书图片视频下�
 Append: [📣 #发现频道 迷兔AI - 集成各种对话/数字人/绘图模型APP https://meta.appinn.net/t/topic/50068](https://t.me/appinnfeed/9003)
 append_entries: 2
 Finish: 2023-12-06 14:02:10
+------------------------------------------------------
+Started: 2023-12-06 15:01:52
+Existing_entries: 232
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [📣 #发现频道 【自荐Tkinter布局助手】适用于python的可视化界面设计利器 https://meta.appinn.net/t/topic/50072](https://t.me/appinnfeed/9005)
+append_entries: 1
+Finish: 2023-12-06 15:01:53

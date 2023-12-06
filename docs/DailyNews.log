@@ -16118,3 +16118,12 @@ Fetching from https://chinadigitaltimes.net/chinese/feed
 Append: [冷箫推荐｜吴敬琏：中国经济社会矛盾几乎到了临界点](https://chinadigitaltimes.net/chinese/702954.html)
 append_entries: 7
 Finish: 2023-12-06 23:01:41
+------------------------------------------------------
+Started: 2023-12-07 00:01:47
+Existing_entries: 1007
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 0
+Finish: 2023-12-07 00:01:59

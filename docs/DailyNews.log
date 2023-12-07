@@ -16358,3 +16358,12 @@ Append: [🖼 喜茶联名”佛喜茶”遭下架 11月28日，喜茶和景德�
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 2
 Finish: 2023-12-07 16:01:43
+------------------------------------------------------
+Started: 2023-12-07 17:01:23
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 0
+Finish: 2023-12-07 17:01:29

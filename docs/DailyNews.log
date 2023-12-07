@@ -16347,3 +16347,14 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 0
 Finish: 2023-12-07 15:01:26
+------------------------------------------------------
+Started: 2023-12-07 16:01:36
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Append: [↩️ 习近平定于12月12至13日对越南国事访问。中国外交部发言人7日宣布该消息。 （新华社）](https://t.me/tnews365/28959)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Append: [🖼 喜茶联名”佛喜茶”遭下架 11月28日，喜茶和景德镇中国陶瓷博物馆联名推出“佛喜茶拿铁”及周边，因包含宗教元素被深圳市民族宗教事务局约谈。12月3日，相...](https://t.me/OutsightChina/5043)
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 2
+Finish: 2023-12-07 16:01:43

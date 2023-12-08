@@ -16865,3 +16865,12 @@ Fetching from https://chinadigitaltimes.net/chinese/feed
 Append: [【404文库】基本常识｜上海媒体辟谣总是很积极，可惜姿势水平一直不太行](https://chinadigitaltimes.net/chinese/703017.html)
 append_entries: 1
 Finish: 2023-12-09 06:01:26
+------------------------------------------------------
+Started: 2023-12-09 07:01:20
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 0
+Finish: 2023-12-09 07:01:26

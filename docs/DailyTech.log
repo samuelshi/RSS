@@ -11106,3 +11106,15 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
 Feed error: 504
 append_entries: 1
 error when rendering xml, skip docs/DailyTech
+------------------------------------------------------
+Started: 2023-12-09 12:01:46
+Existing_entries: 904
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel
+Append: [🖼 #News #Economics #Finance 💡《一飞周报》每周带你关注科技导向金融市场与周围的价值信息 本周内容（174th）：Notion 📈 市场 ⁃ FOMC 前瞻 ⁃ 标普指...](https://t.me/NewlearnerChannel/12164)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
+Append: [美国批准全球首个基因编辑药物，标志着一种前所未有的新型药物问世 美国批准了世界上第一种采用 Crispr 技术（一种基因编辑技术）的药物，这是一项获得诺贝尔奖...](https://t.me/xhqcankao/7236)
+Append: [↩️ 简讯：影子图书馆 Z-Library 的官方 Telegram 频道 @zlibrary_official 被封禁](https://t.me/xhqcankao/7235)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
+append_entries: 3
+Finish: 2023-12-09 12:01:50

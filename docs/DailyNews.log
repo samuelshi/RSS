@@ -16883,3 +16883,13 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 0
 Finish: 2023-12-09 08:03:02
+------------------------------------------------------
+Started: 2023-12-09 09:24:28
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+Append: [【404媒体】建议股民不要入市 中国知名财经学者刘纪鹏被“禁止关注”](https://chinadigitaltimes.net/chinese/703020.html)
+append_entries: 1
+Finish: 2023-12-09 09:24:34

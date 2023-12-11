@@ -17539,3 +17539,15 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 0
 Finish: 2023-12-11 07:01:32
+------------------------------------------------------
+Started: 2023-12-11 08:03:25
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+Append: [理想国imaginist｜那颗叫做高耀洁的小行星](https://chinadigitaltimes.net/chinese/703101.html)
+Append: [张3丰的世界｜悼念高耀洁医生：一个河南人必须感谢您](https://chinadigitaltimes.net/chinese/703098.html)
+Append: [【重温】高耀洁 | 93岁的我，一生都在逃难](https://chinadigitaltimes.net/chinese/662663.html)
+append_entries: 3
+Finish: 2023-12-11 08:03:29

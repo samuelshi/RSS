@@ -36715,3 +36715,63 @@ Fetching from https://nitter.cz/xiaojingcanxue/rss
 Append: [裁判文书也要“内循环”了？](https://nitter.cz/xiaojingcanxue/status/1735053699733709283)
 append_entries: 4
 Finish: 2023-12-14 06:02:17
+------------------------------------------------------
+Started: 2023-12-14 07:01:51
+Existing_entries: 1004
+Fetching from https://nitter.cz/caolei1/rss
+Fetching from https://nitter.cz/caiziboshi/rss
+Fetching from https://nitter.cz/Pandazhq/rss
+Fetching from https://nitter.cz/whyyoutouzhele/rss
+Append: [12月13日，台州网友反映体制内，党员和学校被强制要求参加“台州利民保”](https://nitter.cz/whyyoutouzhele/status/1735054638821351562)
+Fetching from https://nitter.cz/fangshimin/rss
+Append: [要成为博学的人，不仅要有先天的条件，还要后天的努力。扎实的基础知识、广泛的阅读都必不可少。方舟子讲文史：怎样成为一个博学的人
+https://youtu.be/hUYCbnkzJb8](https://nitter.cz/fangshimin/status/1735064888652026009)
+Append: [公然剽窃的“言论自由”？](https://nitter.cz/fangshimin/status/1735059080547610976)
+Fetching from https://nitter.cz/cskun1989/rss
+Fetching from https://nitter.cz/myfxtrader/rss
+Fetching from https://nitter.cz/xiaojingcanxue/rss
+Append: [缅北三大家族被通缉，果敢“老领导”白所成演不下去了。](https://nitter.cz/xiaojingcanxue/status/1735071544504983859)
+Append: [RT by @xiaojingcanxue: 今天 Google 的 Gemini Pro 通过 Gemini API 上线，并且提供了 API 访问，同时还有一个开发者的利好：目前 Gemini Pro 可免费使用！
+
+Gemini API 地址：http://ai.google.dev https://ai.google.dev
+
+有关 Gemini Pro 的一些细节：
+
+- 在专业的基准测试中，Gemini Pro 的表现超越了其他同类模型。
+- 当前版本配备了 32K 文本上下文窗口，未来将推出拥有更广阔上下文窗口的版本。
+- 目前，Gemini Pro 可免费使用（存在一定使用限制），并且其定价将十分 有竞争力。
+- 它具备丰富的功能，包括函数调用、数据嵌入、语义检索、自定义知识嵌入以及聊天功能。
+- 它支持 全球超过 180 个国家和地区 的 38 种语言。
+- 在今日发布的版本中，Gemini Pro 可处理文本输入并生成文本输出。我们还推出了一个专门的 Gemini Pro 视觉多模态终端，能够处理图像和文本输入，输出文本。
+- Gemini Pro 提供了多种 SDK，以便开发者在不同平台上构建应用，包括 Python、Android (Kotlin)、Node.js、Swift 和 JavaScript。
+
+Gemini Pro 提供了易于使用的 SDK，助力开发者在任何平台上快速构建应用。
+
+另外 Google 还提供了一个免费的在线开发工具 Google AI Studio，你可以用它快速构建 Gemini 应用。
+
+Google AI Studio ：https://makersuite.google.com/
+
+最后是 Gemini Pro 定价策略，
+
+Gemini Pro
+
+INPUT
+$0.00025 / 1K characters
+$0.0025 / image
+
+OUTPUT
+$0.0005 / 1K characters
+
+对比一下 GPT-3.5 价格：
+gpt-3.5-turbo-1106
+INPUT
+$0.0010 / 1K tokens
+OUTPUT
+$0.0020 / 1K tokens
+
+但两者的计算单位不一样， Google 是按字符，OpenAI 是按 Token，如果是中文那 Google 便宜不少，如果是英文两者价格差不多。
+
+更多详细内容可以参考其官方博客：https://blog.google/technology/ai/gemini-api-developers-cloud/
+如果你更喜欢中文版本可以参考我的翻译：https://baoyu.io/translations/google/gemini-api-developers-cloud](https://nitter.cz/dotey/status/1735064009974431884)
+append_entries: 5
+Finish: 2023-12-14 07:02:16

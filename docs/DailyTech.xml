@@ -5,17 +5,37 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>OPENAI 的非营利部门去年的收入仅为 45,000 美元，希望维持免税地位 OPENAI 被私人投资者估值为 860 亿美元，其中部分原因是 ChatGPT 的受欢迎程度。但如果你正...</title>
+<link>https://t.me/xhqcankao/7286</link>
+<guid>https://t.me/xhqcankao/7286</guid>
+<content:encoded><![CDATA[
+
+<p><b>OPENAI 的非营利部门去年的收入仅为 45,000 美元，希望维持免税地位</b><br /><br />OPENAI 被私人投资者估值为 860 亿美元，其中部分原因是 ChatGPT 的受欢迎程度。但如果你正在寻找这家人工智能初创公司的收入数据，你会发现最新的官方数据是去年的 44,485 美元。<br /><br />这是非营利性母公司向国税局提交的 990 表格中的数据，希望维持免税地位的组织必须填写该表格。OpenAI 与 CNBC 分享了该文件，PlainSite 网站上周也发布了该文件。<br /><br />联邦标准不要求非营利组织提交经过审计的财务报表中的数据。在其所在的加利福尼亚州，OpenAI 能够避免提交 2022 年经审计财务报告，是因为该基金会声明的收入低于 200 万美元的申报门槛。OpenAI 上次向该州提交的报告是 2017 年，当时的收入为 3320 万美元，是该基金会报告的 2022 年收入的 700 多倍。<br /><br />—— <a href="https://www.cnbc.com/2023/12/12/openai-nonprofit-arm-45000-in-2022-revenue-company-worth-billions.html" rel="noopener" target="_blank">消费者新闻与商业频道</a> (CNBC)</p>
+]]></content:encoded>
+<pubDate>Wed, 13 Dec 2023 03:36:59 GMT</pubDate>
+<pubDate>Wed, 13 Dec 2023 03:36:59 GMT</pubDate>
+</item>
+<item>
+<title>VMware 停止永久许可证的销售 改为订阅制 在过去的两年里，VMware 一直致力于简化其产品组合，并从永久模式过渡到订阅模式，目前已达到了一个新的里程碑，其产品...</title>
+<link>https://t.me/xhqcankao/7285</link>
+<guid>https://t.me/xhqcankao/7285</guid>
+<content:encoded><![CDATA[
+
+<p><b>VMware 停止永久许可证的销售 改为订阅制</b><br /><br />在过去的两年里，VMware 一直致力于简化其产品组合，并从永久模式过渡到订阅模式，目前已达到了一个新的里程碑，其产品组合得到极大简化。<br /><br />完成所有 VMware by Broadcom 解决方案向订阅许可证的过渡，从 12 月 11 日开始停止永久许可证的销售、永久产品的支持和订阅 (SnS) 续订以及混合购买计划 / 订阅购买计划(HPP / SPP) 积分。<br /><br />此外，VMware 还推出了自带订阅许可证选项，为运行 VMware Cloud Foundation 的经过 VMware 验证的混合云端点提供许可证可移植性。<br /><br />—— <a href="https://news.vmware.com/company/vmware-by-broadcom-business-transformation" rel="noopener" target="_blank">VMware 新闻稿（详细请看）</a><br /><br />—— <a href="https://t.me/xhqcankao/7285?comment=451258" rel="noopener" target="_blank">受新策略影响的产品名单</a></p>
+]]></content:encoded>
+<pubDate>Wed, 13 Dec 2023 03:03:45 GMT</pubDate>
+<pubDate>Wed, 13 Dec 2023 03:03:45 GMT</pubDate>
+</item>
+
+<item>
 <title>🖼 🫴📱 iOS 17.3 的 丢失设备保护 功能 在今日凌晨 Apple 发布的 iOS 17.3 beta 1 操作系统中，新增一项 丢失设备保护 的测试功能。 Apple 假定你的设备...</title>
 <link>https://t.me/AppleNuts/1860</link>
 <guid>https://t.me/AppleNuts/1860</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">🫴</span><span class="emoji">📱</span> <b>iOS 17.3 的 丢失设备保护 功能</b><br /><br />在今日凌晨 Apple 发布的 iOS 17.3 beta 1 操作系统中，新增一项 丢失设备保护 的测试功能。<br /><br />Apple 假定你的设备丢失已经丢失，而且锁屏密码也已经泄露的情况下，这项功能允许为设备添加一层额外的保护。<br /><br />因为用户手机有很多敏感信息，例如 iCloud 钥匙串保存了用户绝大多数的网站密码或通行密钥。如果在得知你锁屏密码的前提下，盗窃者可以登陆并盗取你的更多信息。<br /><br /><span class="emoji">🤔</span>  <b>如何工作</b><br />当用户开启这项功能后，当设备在非常用地点时（目前推测是根据 iPhone 记录的常用地点和通讯录名片中的家庭/工作地点）<br /><br />盗窃者在尝试访问你的 iCloud 钥匙串、关闭丢失模式、访问保存的支付方式等操作时，必须通过 Face ID 或 Touch ID 去验证用户身份，仅凭借密码无法访问。<br /><br />当盗窃者在进行敏感操作时，例如直接修改 Apple ID 密码，会触发 1 小时安全延迟。在安全延迟的期间，盗窃者的操作不会立即生效。<br /><br /><span class="emoji">😹</span> <b>有用吗？</b><br />个人感觉有用，但是可能难以防止信息泄露。<br /><br /><b>1. 多数信息已经泄露</b><br /><br />当盗窃者知道你的锁屏密码时，你的绝大多数信息已经被泄露了。不管是通话记录，还是聊天信息。<br /><br />如果你不使用 iCloud 钥匙串管理密码，而是使用备忘录，那可能最重要的这道防御也无效了。<br /><br /><b>2. 能访问你的锁屏密码意味着可以查看通讯录地址</b><br /><br />盗窃者可以根据地址去你家附近转悠，然后通过这种方式绕过这项保护功能。<br /><br /><b>3. 我对你的个人信息不感兴趣，我只想拆零件卖，反正就是不还你。</b><br /><br />综上所述，个人感觉最佳防御手段依然是使用 iCloud 备份设备数据，一旦失窃可以直接远程开启丢失模式 + 抹掉数据。<br /><br />如果你所在的国家地区支持 AppleCare+ 失窃险那就更好了。</p><img src="https://cdn5.cdn-telegram.org/file/CY5XCUjcGFAzVwN69M1B8oeUgCjbxMWVul5oX7-ouM0mb4IXjfrybTZapLbpdimDWHxvsHKSNTLBnzZCP__aGmHFCK5CzRYAIy6VzyTeHn6sJGJKH3_I8mW4plq2VDGfnL9Kjb36R2jrtiHS0u6KG563F0zMpiNLv1Wjhj_lfNkZ2tIL-R6UguXVK7A5K4bG603QmmLYNa4pQjl4A4eymCzjPA84Mbn23QJsSOOY5Po8hDbrsMXAqW2VxZZBoNuHzEvKc314a_Ts5kcN-CPt9QmQMfWBHjCaxj8l41OwH-ibqR0IUm6_QiA5vDcdjTpSJM-QcUZXJwhJ6j1vHVXEBA.jpg" />
 ]]></content:encoded>
 <pubDate>Wed, 13 Dec 2023 02:39:41 GMT</pubDate>
-<pubDate>Wed, 13 Dec 2023 02:39:41 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 我们说“95后”的时候，感觉是个挺细分的人群，轻飘飘的，但其实95后有1亿人，比越南人口都多。 #无用但有趣的冷知识</title>
 <link>https://t.me/jike_collection/9392</link>

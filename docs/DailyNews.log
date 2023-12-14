@@ -18725,3 +18725,13 @@ Fetching from https://chinadigitaltimes.net/chinese/feed
 Append: [真实故事计划Pro｜一家五口，都做了外卖骑手](https://chinadigitaltimes.net/chinese/703186.html)
 append_entries: 1
 Finish: 2023-12-14 17:01:33
+------------------------------------------------------
+Started: 2023-12-14 18:01:42
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Append: [🖼 中越共建命运共同体？ 12月12日，习近平访问越南，这是紧随美国总统拜登访问越南的三个月后，评论指中方是为了确保越南不会倾向美国。 外媒对于中方此次访...](https://t.me/OutsightChina/5073)
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 1
+Finish: 2023-12-14 18:01:48

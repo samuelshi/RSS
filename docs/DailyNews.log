@@ -19232,3 +19232,15 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 0
 Finish: 2023-12-16 00:01:40
+------------------------------------------------------
+Started: 2023-12-16 01:01:37
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Append: [↩️ 中国外交部发言人毛宁14日证实，日前，在中方斡旋和促推下，缅军方和果敢、德昂、若开军在中国境内举行了和谈，就临时停火和保持对话等事项达成协议。目前...](https://t.me/tnews365/29040)
+Append: [↩️ 委内瑞拉总统马杜罗与圭亚那总统伊尔凡·阿里14日举行会面。双方承诺不会使用威胁或武力，但未就两国领土争端达成一致。 圭亚那认为争端应由国际法院解决，...](https://t.me/tnews365/29039)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Feed error: 504
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 2
+Finish: 2023-12-16 01:01:52

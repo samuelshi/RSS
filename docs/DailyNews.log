@@ -19482,3 +19482,13 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 0
 Finish: 2023-12-16 17:01:35
+------------------------------------------------------
+Started: 2023-12-16 18:01:33
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Append: [🖼 字节跳动被曝使用ChatGPT训练自家AI，被OpenAI封禁 据外媒 The Verge报道，中国科技公司字节跳动一直在秘密使用OpenAI的AI语言大模型ChatGPT来训练自己开发...](https://t.me/OutsightChina/5083)
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 1
+Finish: 2023-12-16 18:01:38

@@ -19373,3 +19373,13 @@ Fetching from https://chinadigitaltimes.net/chinese/feed
 Append: [【CDT报告汇】“亲中反美”的英文“大外宣”视频浏览量高达上亿人次（外二篇）](https://chinadigitaltimes.net/chinese/703249.html)
 append_entries: 13
 Finish: 2023-12-16 11:01:39
+------------------------------------------------------
+Started: 2023-12-16 12:01:29
+Existing_entries: 1013
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Feed error: 504
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 0
+Finish: 2023-12-16 12:01:45

@@ -6820,3 +6820,10 @@ Existing_entries: 293
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2023-12-18 01:01:45
+------------------------------------------------------
+Started: 2023-12-18 02:01:54
+Existing_entries: 293
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [❓ #问题求助 如何将一个没有最小化功能的应用最小化到任务栏而不是托盘里？ https://meta.appinn.net/t/topic/50465](https://t.me/appinnfeed/9067)
+append_entries: 1
+Finish: 2023-12-18 02:02:01

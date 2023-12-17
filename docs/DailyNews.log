@@ -19820,3 +19820,13 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 0
 Finish: 2023-12-17 17:01:53
+------------------------------------------------------
+Started: 2023-12-17 18:01:38
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+Append: [亮见｜北京地铁断掉后，打工人情绪稳定](https://chinadigitaltimes.net/chinese/703327.html)
+append_entries: 1
+Finish: 2023-12-17 18:01:42

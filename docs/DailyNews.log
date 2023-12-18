@@ -20006,3 +20006,13 @@ Append: [🖼 微博要求博主不要唱衰经济 据外媒报道，中国社�
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 1
 Finish: 2023-12-18 09:25:41
+------------------------------------------------------
+Started: 2023-12-18 10:12:30
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Append: [↩️ 韩国联合参谋本部18日表示，朝军当天上午8时24分许在平壤一带向东部海域发射一枚疑似远程弹道导弹。军方在加强警戒的同时，还将同美日就“朝鲜弹道导弹”相...](https://t.me/tnews365/29048)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 1
+Finish: 2023-12-18 10:12:34

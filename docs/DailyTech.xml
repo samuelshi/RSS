@@ -5,17 +5,26 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>越来越多的中国企业将芯片封装订单交给马来西亚 路透社引述消息人士报道，越来越多的中国半导体设计公司正在寻求马来西亚公司组装其部分高端芯片，以防美国扩大...</title>
+<link>https://t.me/xhqcankao/7342</link>
+<guid>https://t.me/xhqcankao/7342</guid>
+<content:encoded><![CDATA[
+
+<p><b>越来越多的中国企业将芯片封装订单交给马来西亚</b><br /><br />路透社引述消息人士报道，越来越多的中国半导体设计公司正在寻求马来西亚公司组装其部分高端芯片，以防美国扩大对中国芯片产业的制裁，此举将能分散风险。<br /><br />据三位知情人士透露，这些公司正在要求马来西亚芯片封装公司组装一种称为图形处理器 (GPU) 的芯片。知情人士表示，这些要求仅涉及组装 (这不违反任何美国限制)，因为不涉及芯片晶圆的制造。两位知情人士补充说，其中一些合同已经达成。<br /><br />—— <a href="https://www.reuters.com/technology/chinese-firms-look-malaysia-assembly-high-end-chips-sources-say-2023-12-17/" rel="noopener" target="_blank">路透社</a></p>
+]]></content:encoded>
+<pubDate>Mon, 18 Dec 2023 06:36:22 GMT</pubDate>
+<pubDate>Mon, 18 Dec 2023 06:36:22 GMT</pubDate>
+</item>
+
+<item>
 <title>工信部“一证通查 2.0”增加小米商城、微博、哔哩哔哩、滴滴、58同城应用账号查询 工信部“一证通查 2.0”新功能升级，除了可以一键查询原有的支付宝、QQ、淘宝...</title>
 <link>https://t.me/xhqcankao/7341</link>
 <guid>https://t.me/xhqcankao/7341</guid>
 <content:encoded><![CDATA[
-
 <p><b>工信部“一证通查 2.0”增加小米商城、微博、哔哩哔哩、滴滴、58同城应用账号查询</b><br /><br />工信部“一证通查 2.0”新功能升级，除了可以一键查询原有的支付宝、QQ、淘宝、闲鱼、钉钉、百度、快手、抖音、京东、美团、微信11个互联网应用账号注册情况外，现在用户还可以查询滴滴、微博、哔哩哔哩、小米商城、58同城 5 个互联网应用的账号注册情况。<br /><br />同时，此次升级还新增互联网账号解绑/投诉“一键跳转办理”服务。用户可在“互联网账号查询解绑与投诉”页面中点击对应 App 图标直接进入解绑或投诉界面。<br /><br />—— <a href="https://mp.weixin.qq.com/s/1AjCQuhfPydzaXBmdD9LnQ" rel="noopener" target="_blank">工信部反诈专班</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 18 Dec 2023 05:42:33 GMT</pubDate>
-<pubDate>Mon, 18 Dec 2023 05:42:33 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 #潮流周刊 #Newsletter 🩴 潮流周刊（第157期） - 引力剧场 🍭技术相关 1. 计算机教育中缺失的一课 2. 深度学习论文精读视频合集 3. Netflix 是如何动...</title>
 <link>https://t.me/NewlearnerChannel/12205</link>
@@ -9130,15 +9139,6 @@
 <p><a href="https://t.me/NewlearnerChannel/11822?q=%23macOS">#macOS</a> <a href="https://t.me/NewlearnerChannel/11822?q=%23Linux">#Linux</a><br /><br /><span class="emoji">💻</span> <b>Virtualisation on Apple Silicon：小众的 Apple Silicon 虚拟化工具</b><br /><br /><span class="emoji">🔗</span>：<a href="https://eclecticlight.co/virtualisation-on-apple-silicon/" rel="noopener" target="_blank">Web</a><br /><br />The Eclectic Light Company 一直是我很喜欢的 macOS 网站，用一句话总结就是：没有感情，全是技术<br /><br />他们率先研究和分析 Apple Silicon 带来的深层次变化，对 macOS 安装、文件系统、内核逻辑、刁钻问题的解决方法都颇有建树<br /><br />今天和大家分享的是一些网站自制的、小众的 Apple Silicon 虚拟化工具，它们分别是：<br /><br /><span class="emoji">1️⃣</span> <a href="https://eclecticlight.co/2022/07/14/introducing-viable-to-virtualise-macos-on-apple-silicon-macs/" rel="noopener" target="_blank">Viable</a><br /><br />这是该网站长期折腾虚拟化后，自己开发的一款软件。只需 macOS IPSW 文件，即可在 macOS 上运行最多两个 macOS 虚拟机<br /><br /><span class="emoji">2️⃣</span> <a href="https://eclecticlight.co/2023/08/17/run-a-macos-vm-on-apple-silicon-from-a-double-click-with-vimy/" rel="noopener" target="_blank">Vimy</a><br /><br />Vimy 是非常轻量级的 macOS 虚拟机程序，占用资源极少。支持 .bundle、.vimi 的虚拟机文件格式<br /><br /><span class="emoji">3️⃣</span> <a href="https://eclecticlight.co/2022/12/09/liviable-now-shares-folders-in-linux-vms-and-should-support-rosetta-2/" rel="noopener" target="_blank">Liviable</a><br /><br />Liviable 是面向 Linux 的虚拟机软件，通过对应 ISO 即可安装对应发行版系统。它还可以与宿主系统 macOS 进行文件共享，并可通过 Rosetta 2 在虚拟机中运行 Intel 二进制文件<br /><br />官方推荐了一些 Linux 发行版系统，并提供了下载方式，大家可根据需求自行选择<br /><br /><span class="emoji">👀</span> 当然，小众不代表好用。如果你追求开源，可以使用 UTM；如果你追求一定的美观性和易用性，那么可以考虑 Parallels Desktop 或者 VMware。这些软件的用法我们此前在频道多少都有涉及<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.telegram-cdn.org/file/XD0_B63jQobCaKgVs48HR7vfrzCxlRVdW3v952UbgLgy_ig50L7SBKj2VRcFkvDG3L8dBdkV1Xykj34YFohDX-y6dkKdSAjuoDKtR8tAPfovMfCIq9ixdvCLNvQLC_gh0f5HHSxJrDDaELVThYAkJNgQcbTMrgcQmzcAXMFv6gywqR_UdBGHXI0VhZibl9jM_IvW35d-JqGYShsoCh8_quQ5kOs6qRyHw-4ddeGQKSNQ5utdAQWCYN6EtPfIcKkcJiiWtHthweV54UxZ-GrhIEOZta_zZJ5jCYJrFD1OqQ2nnU1bQ72_wubmsaGj97ayc28IOcNUFZ7U6ljIGziOdA.jpg" />
 ]]></content:encoded>
 <pubDate>Thu, 12 Oct 2023 07:01:48 GMT</pubDate>
-</item>
-<item>
-<title>🖼 #GitHub情报 #Blog #Markdown ✏️ Elog：开放式跨平台博客解决方案 🔗：GitHub | Wiki 👉 Features - 写作平台支持语雀 / Notion / FlowUs/ 飞书云文...</title>
-<link>https://t.me/NewlearnerChannel/11821</link>
-<guid>https://t.me/NewlearnerChannel/11821</guid>
-<content:encoded><![CDATA[
-<p><a href="https://t.me/NewlearnerChannel/11821?q=%23GitHub%E6%83%85%E6%8A%A5">#GitHub情报</a> <a href="https://t.me/NewlearnerChannel/11821?q=%23Blog">#Blog</a> <a href="https://t.me/NewlearnerChannel/11821?q=%23Markdown">#Markdown</a><br /><br /><span class="emoji">✏️</span> <b>Elog：开放式跨平台博客解决方案</b><br /><br /><span class="emoji">🔗</span>：<a href="https://github.com/LetTTGACO/elog" rel="noopener" target="_blank">GitHub</a> | <a href="https://elog.1874.cool/" rel="noopener" target="_blank">Wiki</a><br /><br /><span class="emoji">👉</span> <b>Features</b><br /><br />- 写作平台支持语雀 / Notion / FlowUs/ 飞书云文档<br />- 支持所有通过渲染本地 Markdown 文档生成静态站点的博客平台<br />- 博客平台支持 Confluence / WordPress 站点<br />- 图床平台支持存放到本地或上传到阿里云 / 腾讯云 / GitHub / 七牛云 / 又拍云<br />- 支持生成 Front Matter Markdown / 支持代码高亮的 HTML / 适用于 Confluence 的Wiki<br />- 支持自定义文档处理适配器<br />- 图床平台支持通过拓展点注入密钥<br /><br /><span class="emoji">❓</span> 除了博客加载慢的问题（也就是我自己的问题）外，我不再更新的重要一点就是写作体验十分糟糕。古腾堡之前的编辑器就不算太好用，可以和 Telegraph 一较高下，古腾堡后我彻底佛系<br /><br /><span class="emoji">💡</span> 后来开始使用 Notion，我非常满意的一点就是它的编写体验。它不仅支持所见即所得，模块化的设计也让我感觉条理清晰、写作舒畅。之前我认为，平台其实不重要，自己写作的内容才最关键，但仔细一想写作体验也是影响很大的一环<br /><br /><span class="emoji">🧑‍💻</span> 今天介绍的开源项目 Elog 就是为了解决传统个人博客写作体验差的问题，你可以在自己喜爱的平台尽情写作，然后交给它上传并生成于博客。如果你想追求不错的写作体验，并发布在个人博客，可以试试这款项目<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.telegram-cdn.org/file/sXXnBEfULgXBcFytMfWJqlaH5nvTjIP2pyok9Pg2_BDihlkD3WX9JfEmW6isynCPLX7wAG0renGPgGjK9tUZiNpFpB182nsBgB-x9O4p3cbUXqtCKEz1wcP4AKsQjIWutxZ0n3z1SREgFsxJzwWrMv4jOQV2lNrhP3ui6ed8eu99VJUnSiYI9DD6RwDwlnn4c2_cOI0PJOViBl84B1i54nJzoleFsuo2HIvGeMMmQhPgy-xO25LxMPN0431bdvzJn5PhkVC7KT4B-yx0u-nb3hIY9mB_SYsiXNFXj55y_pPwR9429yXw1R4Kby-aZ4hlv7iyOd_0jLiTtnqI8rm-zg.jpg" />
-]]></content:encoded>
-<pubDate>Thu, 12 Oct 2023 04:11:43 GMT</pubDate>
 </item>
 </channel>
 </rss>

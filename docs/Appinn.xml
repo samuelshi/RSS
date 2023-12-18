@@ -4,6 +4,17 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>🔁 新增官方模块：HTTP Download Optimization 一些软件更新系统采用了 HTTP 切片下载的方法。由于切片非常小且 Surge 需要对每个HTTP请求执行规则确定和其他...</title>
+<link>https://t.me/appinnfeed/9070</link>
+<guid>https://t.me/appinnfeed/9070</guid>
+<content:encoded><![CDATA[
+
+<p>Forwarded From <b><a href="https://t.me/SurgeTestFlightFeed/87">Surge TestFlight Feed</a></b></p><p><b>新增官方模块：HTTP Download Optimization</b><br />一些软件更新系统采用了 HTTP 切片下载的方法。由于切片非常小且 Surge 需要对每个HTTP请求执行规则确定和其他处理，当HTTP请求数量非常大时，这可能会导致显著的性能影响。启用此选项后，相关请求将被视为 raw TCP，以避免HTTP引擎的开销。<br />目前可对：Steam, Windows Update, Microsoft Store, Xbox 等下载服务生效，将持续更新。</p>
+]]></content:encoded>
+<pubDate>Mon, 18 Dec 2023 06:37:43 GMT</pubDate>
+<pubDate>Mon, 18 Dec 2023 06:37:43 GMT</pubDate>
+</item>
 
 <item>
 <title>💧 #小众软件 Latest – 开源、免费，Mac 软件管理器，可检查 Mac 绝大多数软件更新 https://www.appinn.com/max-codes-latest/ Tags: #macOS, #软件管理器</title>

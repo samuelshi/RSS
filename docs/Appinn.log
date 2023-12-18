@@ -6901,3 +6901,10 @@ Existing_entries: 296
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2023-12-18 14:02:01
+------------------------------------------------------
+Started: 2023-12-18 15:01:48
+Existing_entries: 296
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [🔁 新增官方模块：HTTP Download Optimization 一些软件更新系统采用了 HTTP 切片下载的方法。由于切片非常小且 Surge 需要对每个HTTP请求执行规则确定和其他...](https://t.me/appinnfeed/9070)
+append_entries: 1
+Finish: 2023-12-18 15:01:49

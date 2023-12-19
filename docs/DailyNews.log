@@ -20440,3 +20440,14 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 3
 Finish: 2023-12-19 14:01:46
+------------------------------------------------------
+Started: 2023-12-19 15:01:28
+Existing_entries: 1003
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Append: [日本央行19日召开货币政策会议，全会一致决定维持将利率控制在极低水平的现行大规模货币宽松政策。央行判断日本经济虽正持续温和复苏，但有必要关注工资和物价稳...](https://t.me/tnews365/29075)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+Append: [【CDT周报】第150期：禁止唱衰中国经济本身就是在唱衰中国经济](https://chinadigitaltimes.net/chinese/703362.html)
+append_entries: 2
+Finish: 2023-12-19 15:01:34

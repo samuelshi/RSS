@@ -13751,3 +13751,13 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/DailyTech
+------------------------------------------------------
+Started: 2023-12-20 18:01:36
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
+Append: [华为麒麟 9000S 芯片明显落后于三年前台积电生产的麒麟 9000 新的华为海思麒麟 9000S 处理器，在通用 CPU 工作负载方面可以跟上甚至超越前代处理器，但在能效和...](https://t.me/xhqcankao/7377)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
+append_entries: 1
+Finish: 2023-12-20 18:01:40

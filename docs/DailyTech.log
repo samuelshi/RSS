@@ -13741,3 +13741,13 @@ Append: [涉碰撞测试数据造假 丰田子公司大发汽车将停止全部�
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
 append_entries: 2
 Finish: 2023-12-20 16:01:48
+------------------------------------------------------
+Started: 2023-12-20 17:01:42
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/DailyTech

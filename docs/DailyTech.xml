@@ -5,17 +5,37 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>美国上诉法院裁定没收“丝绸之路”约7万个比特币 美国上诉法院在周三最终做出裁决，正式确认对暗网交易市场“丝绸之路”（Silk Road）相关的 69,370 枚比特币和...</title>
+<link>https://t.me/xhqcankao/7394</link>
+<guid>https://t.me/xhqcankao/7394</guid>
+<content:encoded><![CDATA[
+
+<p><b>美国上诉法院裁定没收“丝绸之路”约7万个比特币</b><br /><br />美国上诉法院在周三最终做出裁决，正式确认对暗网交易市场“丝绸之路”（Silk Road）相关的 69,370 枚比特币和其他加密货币予以充公。<br /><br />该裁决最初是在八月份做出的，根据美国第九巡回上诉地方法院的一份<a href="https://storage.courtlistener.com/recap/gov.uscourts.cand.368440/gov.uscourts.cand.368440.147.0.pdf" rel="noopener" target="_blank">文件</a>，该判决现已生效。周三的文件中列出了丝绸之路创始人 Ross Ulbricht 作为被告，两名索赔人和美国政府作为原告。<br /><br />根据最初的起诉状，这些加密货币是一个名为“Individual X“的黑客移交给美国政府的，这些加密货币是“Individual X”侵入丝绸之路后窃取的。<br /><br />—— <a href="https://www.theblock.co/post/268743/u-s-appeals-court-finalizes-mandate-for-forfeiture-of-silk-road-bitcoin" rel="noopener" target="_blank">THE BLOCK</a></p>
+]]></content:encoded>
+<pubDate>Thu, 21 Dec 2023 08:49:01 GMT</pubDate>
+<pubDate>Thu, 21 Dec 2023 08:49:01 GMT</pubDate>
+</item>
+<item>
+<title>丰田因安全气囊问题在美召回约100万辆汽车 丰田汽车20日宣布在美国召回约100万辆汽车，原因是存在传感器故障导致副驾驶座安全气囊无法按设计的方式展开的可能性...</title>
+<link>https://t.me/xhqcankao/7393</link>
+<guid>https://t.me/xhqcankao/7393</guid>
+<content:encoded><![CDATA[
+
+<p><b>丰田因安全气囊问题在美召回约100万辆汽车</b><br /><br />丰田汽车20日宣布在美国召回约100万辆汽车，原因是存在传感器故障导致副驾驶座安全气囊无法按设计的方式展开的可能性。并表示将在明年2月中旬前通知车主。<br /><br />涉及车辆是2020至2022年的车型，包括轿车“凯美瑞”、SUV“RAV4”等丰田品牌的6个车型以及高档车品牌雷克萨斯“ES”和“RX”这2个车型。据丰田介绍，副驾驶座的乘员检测系统制造存在缺陷，电路可能出现了短路。因此，存在碰撞时安全气囊无法展开而受伤的隐患。<br /><br />—— <a href="https://china.kyodonews.net/news/2023/12/8194a42be2de-100.html" rel="noopener" target="_blank">共同社</a></p>
+]]></content:encoded>
+<pubDate>Thu, 21 Dec 2023 08:19:45 GMT</pubDate>
+<pubDate>Thu, 21 Dec 2023 08:19:45 GMT</pubDate>
+</item>
+
+<item>
 <title>🖼 #APPLE #Blog #碎碎念 📩 接读者来稿，他向我们分享了有关 Apple 隐私的一些发现和提醒 🔐 Apple allows applications to track user locations withou...</title>
 <link>https://t.me/NewlearnerChannel/12223</link>
 <guid>https://t.me/NewlearnerChannel/12223</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://t.me/NewlearnerChannel/12223?q=%23APPLE">#APPLE</a> <a href="https://t.me/NewlearnerChannel/12223?q=%23Blog">#Blog</a> <a href="https://t.me/NewlearnerChannel/12223?q=%23%E7%A2%8E%E7%A2%8E%E5%BF%B5">#碎碎念</a><br /><br /><span class="emoji">📩</span> 接读者来稿，他向我们分享了有关 Apple 隐私的一些发现和提醒<br /><br /><span class="emoji">🔐</span> <b>Apple allows applications to track user locations without authorization</b><br /><br /><span class="emoji">🔗</span>：<a href="https://wingu.se/2023/11/30/only-apple-can-do-allow-apps-tracking-users-location-without-consensus.html" rel="noopener" target="_blank">Blog</a><br /><br /><span class="emoji">📝</span> <b>关联阅读</b><br /><br />- HotspotHelper API 的示例代码<br />- 隐私困境<br />- 世界范围的影响：微信和支付宝<br />- 苹果的「回应」<br /><br /><span class="emoji">👀</span> 自 2015 年 iOS 9 推出以来，苹果已经包含了一个名为「HotspotHelper」的 API 调用，使开发人员能够请求其应用程序协助系统连接到 WiFi 接入点的能力，进一步展示了可用于位置跟踪的数据的潜力<br /><br /><span class="emoji">🧑‍💻</span> 这一点让作者感到非常担忧，他向 Apple 反馈了这个问题，并提出了可能会被某些应用滥用以获取用户位置隐私的担忧。然而根据作者的说法，他并没有看到 Apple 后续的进一步回应和行动<br /><br /><span class="emoji">🍎</span> 非常喜欢作者发现问题并向官方反馈的精神，这和我之前向 Telegram 提出 Bug 的行为是一样的，但并不总像我一样获得良好的官方回馈。<b>由于本人在这方面并不专业，邀请开发相关的频道读者朋友一起探讨这个问题，如果确实存在这样的隐私滥用可能，恳请更多的开发者能够向 Apple 官方继续反馈此问题</b><br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/Oz8u8OFccGrUo4M4afB9pNUOIgDnH1Dts762f67fz9kUWBGm9LpOt5IEg7ezBlndRk8OtuYN2UTlieu2xV6gzou8dLD_e_7ZnMoxrEneM7MYWG27fe2I3TbhjWZSBpONgkNNbSWfNdmhBsKWxwtdigDNpfWMEoZk1vUa8d6z7JWus7xHui_YoPsfbaNuculQjkvvfYbd_SoE4SOWlqvn2SvRrxlPUXoNfAl3PVscTuFVVMbxUDkuSFmcLWbC8dDklulOIfWBLa9bVBgITIHS2v2Q6ZPc9eiwca9EsTLXkdGoKKAYJ7Nn1ZJB1Tqvjcp4JS0D2UHSt22zSoPMP6P4Lg.jpg" />
 ]]></content:encoded>
 <pubDate>Thu, 21 Dec 2023 07:02:52 GMT</pubDate>
-<pubDate>Thu, 21 Dec 2023 07:02:52 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 用户报告指出 X 在全球范围内遭遇中断 根据用户的报告，埃隆·马斯克的社交媒体平台 X（以前称为 Twitter）在全球范围内遭遇中断，导致用户无法查看推文。...</title>
 <link>https://t.me/xhqcankao/7392</link>
@@ -9130,15 +9150,6 @@
 <p><a href="https://t.me/NewlearnerChannel/11874?q=%23Python%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A">#Python潮流周刊</a> <a href="https://t.me/NewlearnerChannel/11874?q=%23Newsletter">#Newsletter</a> <br /><br /><a href="https://pythoncat.top/posts/2023-10-22-weekly" rel="noopener" target="_blank">Python 潮流周刊#23：35 个容易上手的 Python 小项目<br /><br /></a><b><span class="emoji">🦄</span>文章&amp;教程<br /></b>1、20 个令人兴奋的 Python 项目创意<br />2、Python 3.11 vs Python 3.12 之性能测试<br />3、当我遇见了 Guido van Rossum<br />4、通过阅读代码学习：Python 标准库设计决策解释<br />5、使用 Stripe、Vue.js 和 Flask 开发收款功能<br />6、使用 Python 调用 Rust 的三种方法<br />7、如何开发 FastAPI 的中间件？<br />8、Django 项目实现无密码身份验证<br />9、在发布 Python 项目前，建议用上这 4 个工具<br />10、我们必须聊聊 Flask<br />11、基于 ProPainter 技术去除图片以及视频水印<br />12、Google Sheets 也能用 Python 了<br /><br /><b><span class="emoji">🐿</span>项目&amp;资源<br /></b>1、一个 Python 知识问答网站<br />2、CardStock：跨平台的 GUI 构建工具<br />3、python-package-template：标准化的 Python package模板<br />4、pipeless：一个计算机视觉框架<br />5、RealtimeSTT：强大、高效、低延迟的语音转文本库<br />6、Chrome-GPT：可控制 Chrome 的 AutoGPT 代理<br />7、ZenNotes：Windows 记事本，支持翻译和TTS<br />8、kr8s：用于 Kubernetes 的客户端库<br />9、swirl-search：用 AI 同时搜索多个数据源<br />10、sentry：面向开发者的错误跟踪和性能监控平台<br />11、15 个 Python 小项目<br />12、ssh-audit：SSH 服务器和客户端安全审计<br /><br /><b><span class="emoji">🐢</span>播客&amp;视频<br /></b>1、哥本哈根 2023 Django Day 演讲视频<br />2、Talk Python To Me #434：用 Python 构建移动 APP<br /><br /><span class="emoji">👀</span> <a href="https://pythoncat.top/posts/2023-10-22-weekly" rel="noopener" target="_blank">阅读全文<br /><br /></a><span class="emoji">👀</span> <a href="https://pythoncat.top/tags/weekly" rel="noopener" target="_blank">合集</a>&nbsp;&nbsp;&nbsp;&nbsp; <span class="emoji">🤝</span><a href="https://github.com/chinesehuazhou/python-weekly" rel="noopener" target="_blank">投稿</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="emoji">🐱</span><a href="https://t.me/pythontrendingweekly" rel="noopener" target="_blank">频道<br /><br /></a>频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.telegram-cdn.org/file/MT_qBWSbemrqnYwauSHd25TeNTlCBY_fItpAaA3Xr6IQV54Kq5OZr3uQLen7WvrdRKGpRIEZ2u1PjyaVIFKALvczyja8Ov4T53_tQuAGPVx6v2u02FrTMfq9C_C0tih6d7YJxAsOWnDdPvvoQuPpFsp-Y7IHDP7u1f_QEIi_aL-bWDSbK3lZ2c6bMahOMyFHzofy2JHBTIWEMvJ6PNbEUAycvB91T_yILAD_yHum0K0n5zwL-eYFVeztumaM6ZXrvAPU8y-0EpHmatc2fba4GiCooED8kwbpQWyvyYE83Ze1HSgsJrKtwxvcT_6VrGSfHtD2JSgOZ5_aFsU7ISh69g.jpg" />
 ]]></content:encoded>
 <pubDate>Mon, 23 Oct 2023 10:00:00 GMT</pubDate>
-</item>
-<item>
-<title>🖼 #GitHub情报 #iOS 老司机 iOS 周报 2023-10-23 这周份的 iOS Markdown 周报，适合爱好者和 iOS 开发人员，每周为大家带来最新的 iOS 新闻资讯，开发信息 �...</title>
-<link>https://t.me/NewlearnerChannel/11873</link>
-<guid>https://t.me/NewlearnerChannel/11873</guid>
-<content:encoded><![CDATA[
-<p><a href="https://t.me/NewlearnerChannel/11873?q=%23GitHub%E6%83%85%E6%8A%A5">#GitHub情报</a> <a href="https://t.me/NewlearnerChannel/11873?q=%23iOS">#iOS</a> <br /><br /><a href="https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23264" rel="noopener" target="_blank">老司机 iOS 周报 2023-10-23</a><br /><br />这周份的 iOS Markdown 周报，适合爱好者和 iOS 开发人员，每周为大家带来最新的 iOS 新闻资讯，开发信息<br /><br /><span class="emoji">📘</span> 本期简介：<br /><br /><span class="emoji">🌟</span> <span class="emoji">🐎</span> <a href="https://mp.weixin.qq.com/s/rZzpXrU3T_0gbKhpM0M4dA" rel="noopener" target="_blank">云音乐如何「搭」出新首页</a><br /><span class="emoji">🌟</span> <span class="emoji">🐢</span> <a href="https://paul-samuels.com/blog/2023/09/29/swift-parameter-packs/" rel="noopener" target="_blank">Swift Parameter Packs</a><br /><span class="emoji">🐕</span> <a href="https://developer.apple.com/forums/thread/730947?answerId=758061022#758061022" rel="noopener" target="_blank">Xcode 15以下版本调试 iOS 17 设备</a><br /><span class="emoji">🐎</span> <a href="https://augmentedcode.io/2023/10/02/changes-to-url-string-parsing-in-ios-17/" rel="noopener" target="_blank">Changes to URL string parsing in iOS 17</a><br /><span class="emoji">🐎</span> <a href="https://forums.swift.org/t/a-new-approach-to-testing-in-swift/67425" rel="noopener" target="_blank">A New Approach to Testing in Swift</a><br /><span class="emoji">🐎</span> <a href="https://mp.weixin.qq.com/s/5s11skxtI5FHVTa3ZuqQ7g" rel="noopener" target="_blank">Android 和 iOS 渲染架构差异对比，孰胜孰负？</a><br /><span class="emoji">🐕</span> <a href="https://github.com/Kyle-Ye/SwiftUIViewDebug#swiftuiviewdebug" rel="noopener" target="_blank">SwiftUIViewDebug</a><br /><br /><span class="emoji">📝</span> 13 的开发者周报 #206: <a href="https://www.ethanhuang13.com/p/206" rel="noopener" target="_blank">匹克球、價值 Apple Pencil，與 $129 的線</a><br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.telegram-cdn.org/file/V8vnrgZmt0yz_HgQkC0QC-g-GVv7uNzAVLFZdv0_PAIVSWtD5PtdJ_v-cU7jjbEDPa0YDrKxN1KCYvfIqVDfBVIctPjWDnyD8SAxhhnl3GdTf7WeAn-I_6sh8L9Lu0FEb76LHCC6MFCue0DGesxxcrb8IQiiec3DR0Biu-0IALUS7qGivK-W6HZP3DSDp_9GltVhThwBTXIfolspjO6qU6lInPVz8whCmPgD6qtOkuY9ZzuTisYhKlqoMaOZWRuWbXba393fBH_T2rdNOwuJ2zupkNnV21kkAqqPfQFdOUmZQPD0udpL4Kgnb_DKQZFGWL66T6teiFQXReRrAE-f2Q.jpg" />
-]]></content:encoded>
-<pubDate>Mon, 23 Oct 2023 07:01:13 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -7472,3 +7472,10 @@ Existing_entries: 333
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2023-12-22 07:01:48
+------------------------------------------------------
+Started: 2023-12-22 08:03:24
+Existing_entries: 333
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [❓ #问题求助 是否支持可以显示图像sha256编码的查看器？ https://meta.appinn.net/t/topic/50635](https://t.me/appinnfeed/9107)
+append_entries: 1
+Finish: 2023-12-22 08:03:25

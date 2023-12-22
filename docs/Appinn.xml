@@ -4,6 +4,17 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>❓ #问题求助 能不能请大佬帮忙 完善了下这个AHK 脚本 按键映射图 https://meta.appinn.net/t/topic/50679</title>
+<link>https://t.me/appinnfeed/9121</link>
+<guid>https://t.me/appinnfeed/9121</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9121?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />能不能请大佬帮忙 完善了下这个AHK 脚本 按键映射图<br /><br /><a href="https://meta.appinn.net/t/topic/50679" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/50679</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/50679">能不能请大佬帮忙 完善了下这个AHK 脚本 按键映射图</a></b><br /><p>之前在网上看到这个   快捷键映射图  但是编辑起来太麻烦了  熬夜 和GPT 较量     总算是弄出来了一个  点击界面就可以快速输入 按键映射内容的界面  但是 不美观  能不能请大佬帮忙完善下  #SingleInstance, Force  ; 初始化存储备注的关联数组 notes := Object()  ; 配置文件路径 ConfigFilePath := A_ScriptDir . "\notes.ini"  ; 从配置文件中读取备注 Loop, Read, %ConfigFilePath%…</p><img src="https://cdn4.cdn-telegram.org/file/CrCEYwZOKSo0Yt2TJmZGobzl-AFurM7qkXdY9urWwyk_2wDORFuXQIpARj0WBRSNp4AFO5nZ83B8-gizRIO9G_FGsNx2xNodj_UkDGmYIqOfuY60KhpoijQnGRi1aduSv6AhStUrGNSyE_jP2A8krGslfSuT_HeAl1TWTeG2myovXLXMmbMQnIbvDiF-n6PWQM2Nrdd77ozGOTy3CK-xey5-2Z1McdpN0wICe7AUem3MxQ6VJggn6t-Rx2kX_F7AfowXDOT1LveFip8VvmWxuMGETMFTowFGA-sa_l_Bl3oJV9sgx5LnY_n_C7CUWqbATZNYQTbWAOszF507Zrk5nA.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Fri, 22 Dec 2023 21:56:00 GMT</pubDate>
+<pubDate>Fri, 22 Dec 2023 21:56:00 GMT</pubDate>
+</item>
 
 <item>
 <title>❓ #问题求助 B站有一些公开课或电台节目有cc字幕，有没有办法能让字幕独立于浏览器页面悬浮在屏幕上？ https://meta.appinn.net/t/topic/50426</title>

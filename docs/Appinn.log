@@ -7698,3 +7698,10 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2023-12-23 18:02:03
+Existing_entries: 354
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [❓ #问题求助 有啥软件能把小图片拼接成大图，效果就像这样 https://meta.appinn.net/t/topic/50691](https://t.me/appinnfeed/9128)
+append_entries: 1
+Finish: 2023-12-23 18:02:04

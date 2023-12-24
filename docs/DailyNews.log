@@ -22237,3 +22237,13 @@ Fetching from https://chinadigitaltimes.net/chinese/feed
 Append: [每日一语 2023.12.22](https://chinadigitaltimes.net/chinese/703533.html)
 append_entries: 2
 Finish: 2023-12-24 16:01:35
+------------------------------------------------------
+Started: 2023-12-24 17:01:34
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Append: [伊朗就俄罗斯关于争议岛屿的声明召见俄罗斯临时代办。 阿拉伯-俄罗斯合作论坛20日在摩洛哥举行。论坛发表联合声明，呼吁和平解决伊朗和阿联酋之间关于大通布岛、...](https://t.me/tnews365/29104)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 1
+Finish: 2023-12-24 17:01:40

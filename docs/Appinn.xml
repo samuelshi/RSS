@@ -4,6 +4,17 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>❓ #问题求助 【求助】一个尝试，使用WSL的Linux运行docker挂载Windows磁盘，从而一个主机使用Windows和NAS https://meta.appinn.net/t/topic/50716</title>
+<link>https://t.me/appinnfeed/9132</link>
+<guid>https://t.me/appinnfeed/9132</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9132?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />【求助】一个尝试，使用WSL的Linux运行docker挂载Windows磁盘，从而一个主机使用Windows和NAS<br /><br /><a href="https://meta.appinn.net/t/topic/50716" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/50716</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/50716">【求助】一个尝试，使用WSL的Linux运行docker挂载Windows磁盘，从而一个主机使用Windows和NAS</a></b><br /><p>RTRT，进行了如标题所示的测试，结果WSL的终端可以正常读取的文件名，到了docker中挂载后，中文目录和文件名变成了？？，导致emby中无法正常识别。  有没有大佬知道是什么情况呢？</p><img src="https://cdn4.cdn-telegram.org/file/QmZnmNuEnyXePrHw44Mwt13lIiqaKuoUXI3zrCAs8EkHAoomymXsezpwKuwkH-f5xdtaBstxGydmjBf7qVYULgjPPh1SVaVV31UukWUTFvl9EQGfI8AOOTs-MXxe-dsrd9jtERRwQx4QOnEoQw9bZHh2fqJWcJSzEEZgDIwJ-1lZ5xpTa7k9WOp1shwP0JyfhyKR-rqzoFdHZjN3p1wMrCeIzpl0tL2GXpCi73TGd2eYOA_hi54COGxtxebFPava0oB03xqr-xcuwIPyg8U7h1DUo7e4qf6jgFG2aTcOaZwS7Z2phy6CGlNSHTdbikYoWjDvTy8_QDLOLNjQZkGfTw.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Sun, 24 Dec 2023 12:52:01 GMT</pubDate>
+<pubDate>Sun, 24 Dec 2023 12:52:01 GMT</pubDate>
+</item>
 
 <item>
 <title>💧 #小众软件 Mainonly – 小书签：只显示网页上选中的区域，适合使用《沉浸式翻译》 https://www.appinn.com/selected-mainonly/ Tags: #Chrome, #Firefox, #...</title>

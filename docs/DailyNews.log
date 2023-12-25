@@ -22752,3 +22752,13 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 0
 Finish: 2023-12-26 05:01:39
+------------------------------------------------------
+Started: 2023-12-26 06:01:30
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+Append: [【CDT网语】裁判文书网前途未卜，低迷经济要靠国安拯救（2023年12月）](https://chinadigitaltimes.net/chinese/703602.html)
+append_entries: 1
+Finish: 2023-12-26 06:01:34

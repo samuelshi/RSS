@@ -8048,3 +8048,10 @@ Existing_entries: 374
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2023-12-25 23:02:09
+------------------------------------------------------
+Started: 2023-12-26 00:01:45
+Existing_entries: 374
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/Appinn

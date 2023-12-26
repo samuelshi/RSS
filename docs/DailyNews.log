@@ -23065,3 +23065,12 @@ Fetching from https://chinadigitaltimes.net/chinese/feed
 Append: [【404文库】秃笔的老萧｜重温“实事求是” ，这一嗓子喊出共同心声](https://chinadigitaltimes.net/chinese/703628.html)
 append_entries: 1
 Finish: 2023-12-27 02:01:38
+------------------------------------------------------
+Started: 2023-12-27 03:01:20
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 0
+Finish: 2023-12-27 03:01:26

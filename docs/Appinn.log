@@ -8301,3 +8301,10 @@ Append: [💧 #小众软件 饭碗警告 – 将邮件/WebHook 转发至电话�
 Append: [❓ #问题求助 有没有什么软件能够把油管、b站收藏量大的视频都整理出来？ https://meta.appinn.net/t/topic/50811](https://t.me/appinnfeed/9158)
 append_entries: 2
 Finish: 2023-12-27 15:01:54
+------------------------------------------------------
+Started: 2023-12-27 16:01:49
+Existing_entries: 386
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [📣 #发现频道 「Todo计划」专注清单+萌宠养成，专注力与效率的双重提升神器！ https://meta.appinn.net/t/topic/50813](https://t.me/appinnfeed/9160)
+append_entries: 1
+Finish: 2023-12-27 16:01:50

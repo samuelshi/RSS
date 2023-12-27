@@ -15324,3 +15324,12 @@ Append: [Windows 11 放宽了应用程序中的微软帐户自动登录功能，
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
 append_entries: 1
 Finish: 2023-12-27 11:01:57
+------------------------------------------------------
+Started: 2023-12-27 12:01:55
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
+append_entries: 0
+Finish: 2023-12-27 12:01:59

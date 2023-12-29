@@ -8690,3 +8690,9 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2023-12-30 06:01:59
+Existing_entries: 402
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+append_entries: 0
+Finish: 2023-12-30 06:01:59

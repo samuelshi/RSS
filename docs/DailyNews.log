@@ -23770,3 +23770,16 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 0
 Finish: 2023-12-29 08:03:00
+------------------------------------------------------
+Started: 2023-12-29 09:18:03
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Append: [↩️ 美国缅因州州务卿贝洛斯28日根据宪法第十四修正案第三款禁止前总统特朗普参加该州的总统初选。贝洛斯是首个单方面采取行动的选举官员，该州也成为第二个禁...](https://t.me/tnews365/29134)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+Append: [每日一语 2023.12.28](https://chinadigitaltimes.net/chinese/703697.html)
+Append: [冷杉RECORD｜在万圣，寻找书店活下去的理由](https://chinadigitaltimes.net/chinese/703693.html)
+Append: [旧闻评论｜新年献词喜迎大众铁拳](https://chinadigitaltimes.net/chinese/703692.html)
+append_entries: 4
+Finish: 2023-12-29 09:18:11

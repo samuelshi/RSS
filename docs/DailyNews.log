@@ -24124,3 +24124,14 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 0
 Finish: 2023-12-30 07:01:24
+------------------------------------------------------
+Started: 2023-12-30 08:02:45
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Append: [墨西哥北部索诺拉州29日发生一起枪击事件，造成6人死亡，另有26人受伤。 根据检方公告，当天凌晨，一群武装分子冲入该州卡赫梅市一处街头聚会地点，开枪打死当地...](https://t.me/tnews365/29150)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+Append: [老萧杂说｜新年献词，又想骗我泪流满面](https://chinadigitaltimes.net/chinese/703712.html)
+append_entries: 2
+Finish: 2023-12-30 08:02:51

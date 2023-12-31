@@ -24696,3 +24696,14 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 1
 Finish: 2024-01-01 00:01:38
+------------------------------------------------------
+Started: 2024-01-01 01:01:24
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Append: [《告全国家长书》 今朝吾体归故土 他朝君体也相同 寿衣棺材准备好 孩子还是你穿自己选？](https://t.me/times001/666232)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Feed error: 504
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 1
+Finish: 2024-01-01 01:01:40

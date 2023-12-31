@@ -24707,3 +24707,19 @@ Feed error: 504
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 1
 Finish: 2024-01-01 01:01:40
+------------------------------------------------------
+Started: 2024-01-01 02:01:28
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Append: [2024年，晚安. 早安](https://t.me/times001/666234)
+Append: [新時代非暴力不合作運動 穿壽衣上學 隨身攜帶溪錢幫自己開路 賣走假中陽宅改買陰宅 設定好延時遺書每天不輸入密碼就會自動發送所有親戚朋友 珍惜生命，切勿自殺 ...](https://t.me/times001/666233)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+Append: [工劳小报｜富士康工人反抗一周年纪念与访谈](https://chinadigitaltimes.net/chinese/703761.html)
+Append: [每日一语 2023.12.31](https://chinadigitaltimes.net/chinese/703759.html)
+Append: [城市的地得｜成都商报和成都的30年](https://chinadigitaltimes.net/chinese/703757.html)
+Append: [【CDT月度视频】十二月之声（2023）——向《四月之声》致敬](https://chinadigitaltimes.net/chinese/703736.html)
+Append: [C计划｜2023年朋友圈撕裂报告](https://chinadigitaltimes.net/chinese/703754.html)
+append_entries: 7
+Finish: 2024-01-01 02:01:35

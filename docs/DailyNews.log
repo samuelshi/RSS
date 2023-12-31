@@ -24723,3 +24723,12 @@ Append: [【CDT月度视频】十二月之声（2023）——向《四月之声�
 Append: [C计划｜2023年朋友圈撕裂报告](https://chinadigitaltimes.net/chinese/703754.html)
 append_entries: 7
 Finish: 2024-01-01 02:01:35
+------------------------------------------------------
+Started: 2024-01-01 03:01:20
+Existing_entries: 1007
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+append_entries: 0
+Finish: 2024-01-01 03:01:26

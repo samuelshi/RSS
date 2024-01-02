@@ -9203,3 +9203,10 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-01-02 15:01:45
+Existing_entries: 428
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [❓ #问题求助 从照片重建物体三维结构图工具 https://meta.appinn.net/t/topic/51023](https://t.me/appinnfeed/9202)
+append_entries: 1
+Finish: 2024-01-02 15:01:45

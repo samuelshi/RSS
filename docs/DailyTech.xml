@@ -4,15 +4,14 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+
 <item>
 <title>黑客自称获得了81.5亿中国电商购物历史数据并在线销售 1 月 3 日消息，有黑客在臭名昭著的数据泄露论坛 BreachForums 上兜售中国电商数据，该黑客自称这些数据高...</title>
 <link>https://t.me/xhqcankao/7526</link>
 <guid>https://t.me/xhqcankao/7526</guid>
 <content:encoded><![CDATA[
-
 <p><b>黑客自称获得了81.5亿中国电商购物历史数据并在线销售</b><br /><br />1 月 3 日消息，有黑客在臭名昭著的数据泄露论坛 BreachForums 上兜售中国电商数据，该黑客自称这些数据高达81.5亿条。字段包括：平台、ID、电话号码、姓名、地址、购物详情、价格、订单日期。<br /><br />该黑客称，这些数据格式为CSV，大小为1.8TB，压缩后有600GB。<br /><br />黑客提供了1万条样本供验证，目前无法证实这些数据的真实性。受频道准则限制，我们不会直接提供这些泄露数据样本。</p>
 ]]></content:encoded>
-<pubDate>Wed, 03 Jan 2024 08:50:31 GMT</pubDate>
 <pubDate>Wed, 03 Jan 2024 08:50:31 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +19,10 @@
 <link>https://t.me/xhqcankao/7525</link>
 <guid>https://t.me/xhqcankao/7525</guid>
 <content:encoded><![CDATA[
-
 <p><b>网信办自新数据安全法出台以来仅批准了约 25% 的数据出境申请</b><br /><br />中国自新数据安全法实施以来，仅批准了大约四分之一的数据出口申请，这对于正在努力应对经济放缓和华盛顿与北京之间紧张关系的企业构成了打击。<br /><br />中国的网络监管机构——国家互联网信息办公室（CAC）尚未批准来自本地和国际企业的数千项请求，这些请求涉及从个人信用历史到在线销售记录等数据，目前在任和前任的CAC官员表示。<br /><br />根据一名现任CAC官员、一名前CAC官员和一家中国电商公司的数据安全主管的说法，仅有大约四分之一的所有申请得到批准。目前尚不清楚总共提交了多少申请。CAC在5月停止发布批准数据，也未回应置评请求。<br /><br />—— <a href="https://www.ft.com/content/d38b46be-7184-468f-b0ea-1f143fcf1164" rel="noopener" target="_blank">金融时报</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 03 Jan 2024 08:25:55 GMT</pubDate>
-<pubDate>Wed, 03 Jan 2024 08:25:55 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 #Games #News 🎯 2023 年度拾遗 &amp; 12 月新作盘点过 Markon Review | sspai 📝 栏目简介： 从作者个人角度出发，挑选一些新发售的游戏作品/内容做简要介...</title>
 <link>https://t.me/NewlearnerChannel/12264</link>
@@ -9120,24 +9116,6 @@
 <p><b>国内群晖 QC 已停止 IPV4 的直连功能， IPV6 直连也即将下线</b><br /><br />近日，有 V2EX 网友发工单询问，得到官方回复。群晖表示，为符合国内使用环境及市场考量，已关闭 QuickConnect 公网 IP 解析服务，IPv6 解析预计也会在之后逐步关闭。<br /><br />通过外网访问 QuickConnect ，默认仅通过 QC 中继服务进行转发连接。<br /><br />群晖对此表示，若 NAS 对应的网络具有公网 IP (包括动态 IP )，建议用户为 NAS 配置 DDNS 并进行端口转发。在使用 DDNS 域名进行连接时不会经过其他中继服务器以确保连接可以更为稳定。<br /><br />—— <a href="https://www.v2ex.com/t/989020" rel="noopener" target="_blank">V2EX</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 08 Nov 2023 03:00:55 GMT</pubDate>
-</item>
-<item>
-<title>美国监管机构希望对 Apple Pay 加强监管 美国消费者金融保护局 (CFPB)今天对苹果等提供数字钱包和支付应用的科技公司提出了新的监管要求。因为这些公司并未受到...</title>
-<link>https://t.me/xhqcankao/6846</link>
-<guid>https://t.me/xhqcankao/6846</guid>
-<content:encoded><![CDATA[
-<p><b>美国监管机构希望对 Apple Pay 加强监管</b><br /><br />美国消费者金融保护局 (CFPB)今天对苹果等提供数字钱包和支付应用的科技公司提出了新的监管要求。因为这些公司并未受到与银行相同的“监管审查”。<br /><br />新提议的法规将要求每年处理超过 500 万笔交易的公司遵守与 CFPB 监管的大型银行、信用合作社和其他金融机构相同的规则。<br /><br />CFPB 声称，消费金融市场上对科技公司的投诉越来越多，并认为审查人员应该能够仔细审查科技公司的活动，以确保它们遵守法律。<br /><br />如果最终确定，拟议的法规将使消费者金融保护局对苹果和谷歌等公司提供的金融服务进行更多监督。<br /><br />—— <a href="https://www.macrumors.com/2023/11/07/apple-pay-oversight-cfpb/" rel="noopener" target="_blank">Macrumors</a></p>
-]]></content:encoded>
-<pubDate>Wed, 08 Nov 2023 02:34:16 GMT</pubDate>
-</item>
-<item>
-<title>刨洞安全团队发现新恶意团伙“紫狐”针对 finalshell 的供应链事件 近期，一个名为“紫狐”的恶意团伙通过虚假的 finalshell 官网 www.finalshell[.]org 投放恶...</title>
-<link>https://t.me/xhqcankao/6845</link>
-<guid>https://t.me/xhqcankao/6845</guid>
-<content:encoded><![CDATA[
-<p><b>刨洞安全团队发现新恶意团伙“紫狐”针对 finalshell 的供应链事件</b><br /><br />近期，一个名为“紫狐”的恶意团伙通过虚假的 finalshell 官网 www.finalshell[.]org 投放恶意木马病毒。该域名是近期注册的新域名，使用的还是 Let's Encrypt 的免费证书。<br /><br />刨洞安全团队发现了这件事，并发布了公告。众所周知，finalshell 拥有大量的用户。而此虚假官方网站在搜索引擎里排名很高，导致很多用户很容易上当下载。<br /><br />某些 CSDN 的博文还会提到去此恶意网址下载 finalshell，具有极强的诱导性。<br /><br />—— <a href="https://mp.weixin.qq.com/s/rAsN9k5fdI5nf9sJ4kZVTw" rel="noopener" target="_blank">刨洞安全团队</a></p>
-]]></content:encoded>
-<pubDate>Wed, 08 Nov 2023 01:39:28 GMT</pubDate>
 </item>
 </channel>
 </rss>

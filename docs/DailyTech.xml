@@ -4,18 +4,16 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+
 <item>
 <title>🖼 #News 🌃 自留地晚报【1.4】 1️⃣ 苹果 因导致设备死机撤回刚发布的 iOS 17.3 Beta 2 2️⃣ 苹果 修复 Apple Music 仅“添加到播放列表”功能 Bug 3️⃣...</title>
 <link>https://t.me/NewlearnerChannel/12270</link>
 <guid>https://t.me/NewlearnerChannel/12270</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://t.me/NewlearnerChannel/12270?q=%23News">#News</a><br /><br /><span class="emoji">🌃</span> 自留地晚报【1.4】<br /><br /><span class="emoji">1️⃣</span> <a href="https://www.macrumors.com/2024/01/03/ios-17-3-beta-2-bricking-some-iphones/" rel="noopener" target="_blank">苹果</a> 因导致设备死机撤回刚发布的 iOS 17.3 Beta 2 <br /><br /><span class="emoji">2️⃣</span> <a href="https://www.macrumors.com/2024/01/03/apple-music-playlist-bug-fixed/" rel="noopener" target="_blank">苹果</a> 修复 Apple Music 仅“添加到播放列表”功能 Bug<br /><br /><span class="emoji">3️⃣</span> <a href="https://www.amd.com/en/corporate/events/ces.html" rel="noopener" target="_blank">AMD</a> 将在北京时间 1 月 8 日 23:00 举行&nbsp;CES 2024 发布会<br /><br /><span class="emoji">4️⃣</span> <a href="https://www.anandtech.com/show/21204/vesa-updates-adaptive-sync-display-spec-to-11a-adds-dualmode-and-overclocked-gaming-monitors" rel="noopener" target="_blank">VESA</a> 发布 Adaptive-Sync 1.1a 标准，适配“双模式”游戏显示器<br /><br /><span class="emoji">5️⃣</span> <a href="https://9to5google.com/2024/01/03/android-14-january-pixel-update/" rel="noopener" target="_blank">谷歌</a> 将在 1 月 14 日为 Pixel 设计 推送安全补丁<br /><br /><span class="emoji">6️⃣</span> <a href="https://9to5google.com/2024/01/03/nothing-os-update-improves-glyph-music-sync/" rel="noopener" target="_blank">Nothing</a> Phone（2）更新后背板 LED 支持音乐同步功能<br /><br /><span class="emoji">7️⃣</span> <a href="https://news.xbox.com/en-us/2024/01/03/new-game-pass-games-for-january-2024/" rel="noopener" target="_blank">微软</a> 更新 XGP 游戏 1 月内容，推出刺客信条：英灵殿、生化危机 2：重制版等游戏<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn1.cdn-telegram.org/file/npt4qWJYeJ6fUSPggJfIEhRCgqOx6HuyWQ6XW7g0ArgNYQD86SjCoa4xxEJevjWerXxf9yTauqSbLu3pUGncFPD-Gp1K25hpzhVkPVCXkeUKNA4UfhKyVAxOxlPvM5C1vXwvFCz3ZUuf1UV8czO55NvyYkrxq4ET20zbmyJhzYvykpxnzora2QiXjAdiPvzQW0IzavT_fb1od86mcVJxzIz_qXx57zrpTsnW6YaX-r3d7rmYG8-saqRBdsY7_Ou_IOZLIlPBYqbk38xDsMe5aBrvMVl6t4ZzhsH6DUW2IaZt9Z5eT9EqOUulvlLhTVsW-0v5MAfdT1fyRyU_I0QNrg.jpg" />
 ]]></content:encoded>
 <pubDate>Thu, 04 Jan 2024 13:02:16 GMT</pubDate>
-<pubDate>Thu, 04 Jan 2024 13:02:16 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 Google Play 商店准备展示人工智能生成的应用和游戏常见问题解答 但在新的 Play 商店版本 39.1 中，谷歌准备展示人工智能生成的应用和游戏常见问题解答。常...</title>
 <link>https://t.me/xhqcankao/7547</link>
@@ -9122,15 +9120,6 @@
 <p><a href="https://t.me/NewlearnerChannel/11977?q=%23Tools">#Tools</a> <a href="https://t.me/NewlearnerChannel/11977?q=%23GitHub%E6%83%85%E6%8A%A5">#GitHub情报</a> <a href="https://t.me/NewlearnerChannel/11977?q=%23Web">#Web</a><br /><br /><span class="emoji">🗾</span> <b>Protomaps：开源的可自托管网页地图工具</b><br /><br /><span class="emoji">🔗</span>：<a href="https://protomaps.com/" rel="noopener" target="_blank">Web</a> | <a href="https://github.com/protomaps" rel="noopener" target="_blank">GitHub</a> | <a href="https://docs.protomaps.com/" rel="noopener" target="_blank">Wiki</a><br /><br /><span class="emoji">👉</span> <b>Features</b><br /><br />- 开源世界地图，采用 PMTiles 格式<br />- 可托管至 CDN，支持 AWS Cloudfront 和 Cloudflare 等服务<br />- 支持与 Leaflet 等前端地图渲染库集成<br />- 自定义属于自己的地图，并展示在前端页面<br /><br /><span class="emoji">👀</span> 第一眼看到 Protomaps 这个项目的时候，我就确定已经在几个人的博客中看到了它的集成。作为一个开源地图项目，Protomaps 足够自由，玩法也足够多<br /><br /><span class="emoji">💡</span> Protomaps 通过切片的方式将地图数据保存在 CDN 上，然后通过 HTTP Range 请求来访问。Wiki 虽然还没有完全完善，但指导新手入门没有什么问题<br /><br /><span class="emoji">🎧</span> 除了偏严肃的地图相关展示外，你也可以将它放进自己的博客，展示自己到过的地点<br /><br /><span class="emoji">📘</span> 关联阅读：<br /><br /><span class="emoji">1️⃣</span> <a href="https://protomaps.com/blog/new-way-to-make-maps/" rel="noopener" target="_blank">A new way to make maps with OpenStreetMap</a><br /><span class="emoji">2️⃣</span> <a href="https://t.me/NewlearnerChannel/8038" rel="noopener" target="_blank">city-roads：在线展示手绘风格城市地图</a><br /><span class="emoji">3️⃣</span> <a href="https://t.me/NewlearnerChannel/6935" rel="noopener" target="_blank">Running Page：打造个人跑步主页</a><br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/KZM7-lgLtXrRAw-zdhbQ1G_LBsKsEc0MemMbU8-SjVYMRjMOBN___H40YenDOx_pwMiAeyiQKzla1RsWAo_odnZT4jUPW5IZaHJIOmiP0xUv9JQgk8kAKVYJ9W6CMWgP7CqJ2v-cb0a7Rd4W9Y312SXnaiweIcXf6hGzzBWnfYcvrSgrPiu2p2ZuCuDbSH4WZb2BCVtGSxgQC51D0hkMVIV455137suYXqn4Ja5X61HakrJnKU7CIkEVtLV4lNKrgIEjjmmu3ZS3OSnKpzYQTC7RqGiDF9nlyBmZ7r-IOXZTBFUhLarNIZhlxbqf7pCm8dW_MWcbtqryhRBZBsiZ-A.jpg" />
 ]]></content:encoded>
 <pubDate>Thu, 09 Nov 2023 04:02:58 GMT</pubDate>
-</item>
-<item>
-<title>“字节收购Pico花了近90亿元——而彼时Pico的估值不过30亿元，在2022年最激进的一年，字节又给Pico砸了100亿。” 在过去那么多年，来得相对容易的钱，总也要在一...</title>
-<link>https://t.me/jike_collection/9319</link>
-<guid>https://t.me/jike_collection/9319</guid>
-<content:encoded><![CDATA[
-<p>“字节收购Pico花了近90亿元——而彼时Pico的估值不过30亿元，在2022年最激进的一年，字节又给Pico砸了100亿。”<br />在过去那么多年，来得相对容易的钱，总也要在一些事情上失去一些。管理好预期值很重要，尤其是管理好金主的预期值。 <a href="https://mp.weixin.qq.com/s/80ML9xO3uJ9mfvImvu5EhQ" rel="noopener" target="_blank">https://mp.weixin.qq.com/s/80ML9xO3uJ9mfvImvu5EhQ</a> <a href="https://t.me/jike_collection/9319?q=%23%E7%A7%91%E6%8A%80%E5%9C%88%E5%A4%A7%E5%B0%8F%E4%BA%8B">#科技圈大小事</a></p><blockquote><b>Weixin Official Accounts Platform</b><br /><b><a href="https://mp.weixin.qq.com/s/80ML9xO3uJ9mfvImvu5EhQ">Pico撤退，字节VR为何大力没有出奇迹｜深氪</a></b><br /><p>2023年，大厂们的VR业务集体熄火。VR的发展之缓慢，难以匹配他们的野心和行动风格。</p><img src="https://cdn4.cdn-telegram.org/file/k0EuJcH6JCQwDNSaNjR9pNHcH95hT0Lxi_iJdS0jMP2UbvLUOmJNwXPjdkSERrMBedBqnheCHOYPZiYWqlLO2iLscZoxKHFc2GQ885ULWl6URH_oLqQTZdihvRvjIEC-FVoVSpCaC0D06yNB-2hPzElSF7B4FqMPlo1TTUlJoh15a0OF8AdJ_rY9smyMvFLVxIN4lVp7KcLdSqmWwBog-1cwG0GwyqT6diMzOpidTMjxV8KyKr_1BNaFTWQWrigJtIyWHRH9Xizg6-EkSZ_wnJ02meE12eE_4ikKhL-lVI9sgOkfwVV-BZFerZmRuFZZ0aI2f6IRhnU6mZu1_k78CA.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Thu, 09 Nov 2023 03:09:16 GMT</pubDate>
 </item>
 </channel>
 </rss>

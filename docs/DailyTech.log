@@ -17678,3 +17678,14 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
 Feed error: 504
 append_entries: 1
 error when rendering xml, skip docs/DailyTech
+------------------------------------------------------
+Started: 2024-01-06 14:01:40
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
+Append: [OpenAI正与数十家出版商洽谈内容许可 OpenAI 表示，正在与数十家出版商洽谈达成文章授权协议，以获取内容来训练其人工智能模型。“我们正在与许多出版商进行多次...](https://t.me/xhqcankao/7569)
+Append: [台积电熊本工厂厂房竣工 拟2月举行开厂仪式 台积电 5 日表示，在熊本县菊阳町建设的日本首家工厂的厂房于 2023 年底竣工。已开始搬入生产设备，将推进启动生产线...](https://t.me/xhqcankao/7568)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
+append_entries: 2
+Finish: 2024-01-06 14:01:43

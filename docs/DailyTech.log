@@ -17667,3 +17667,14 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
 append_entries: 1
 Finish: 2024-01-06 12:02:15
+------------------------------------------------------
+Started: 2024-01-06 13:01:46
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
+Append: [台积电熊本工厂厂房竣工 拟2月举行开厂仪式 台积电 5 日表示，在熊本县菊阳町建设的日本首家工厂的厂房于 2023 年底竣工。已开始搬入生产设备，将推进启动生产线...](https://t.me/xhqcankao/7568)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
+Feed error: 504
+append_entries: 1
+error when rendering xml, skip docs/DailyTech

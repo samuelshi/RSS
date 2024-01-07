@@ -9983,3 +9983,10 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-01-07 17:01:36
+Existing_entries: 475
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [💧 #小众软件 2024年了，PowerToys「裁剪和锁定」功能有平替了吗？ https://www.appinn.com/powertoys-crop-and-lock-alternative/ Tags: #问答, #PowerToys, ...](https://t.me/appinnfeed/9250)
+append_entries: 1
+Finish: 2024-01-07 17:01:37

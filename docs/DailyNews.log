@@ -27108,3 +27108,15 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 13
 Finish: 2024-01-08 11:01:43
+------------------------------------------------------
+Started: 2024-01-08 12:01:40
+Existing_entries: 1013
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Append: [↩️🖼 深圳市公布欢乐谷“10•27”过山车事故调查报告： 事故列车在发射过程中故障报警，触发自动制动（即制动板抬升）。因1#涡流制动板后螺栓已疲劳断裂，导...](https://t.me/tnews365/29257)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Feed error: 504
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+Append: [七秒一｜急需下架的是平遥县文旅局本身](https://chinadigitaltimes.net/chinese/703911.html)
+append_entries: 2
+Finish: 2024-01-08 12:01:57

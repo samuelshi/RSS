@@ -4,15 +4,14 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+
 <item>
 <title>🖼 #潮流周刊 #Newsletter 🩴 潮流周刊（第160期） - 爱吃炒饭 🍭技术相关 1. AI 和数据科学的学习路线图 2. GPT-4 技术报告 3. Today’s top trending pa...</title>
 <link>https://t.me/NewlearnerChannel/12285</link>
 <guid>https://t.me/NewlearnerChannel/12285</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://t.me/NewlearnerChannel/12285?q=%23%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A">#潮流周刊</a> <a href="https://t.me/NewlearnerChannel/12285?q=%23Newsletter">#Newsletter</a><br /><br /><span class="emoji">🩴</span> <a href="https://weekly.tw93.fun/posts/160-%E7%88%B1%E5%90%83%E7%82%92%E9%A5%AD" rel="noopener" target="_blank">潮流周刊（第160期） - 爱吃炒饭</a><a href="https://weekly.tw93.fun/posts/152-%E8%B5%9B%E5%8D%9A%E7%BA%A2%E6%A1%A5" rel="noopener" target="_blank"><br /><br /></a><span class="emoji">🍭</span><b>技术相关<br /></b>1. AI 和数据科学的学习路线图<br />2. GPT-4 技术报告<br />3. Today’s top trending papers in Computer Science<br /><br /><span class="emoji">🤖</span><b> 潮流工具<br /></b>1. SVGL：Logo SVG 收集网站<br />2. iPhone 的效果的代码实现<br /><br /><span class="emoji">🐳</span><b> 随便看看<br /></b>1. 电影推荐：年会不能停<br />2. 生活技巧：一个好用的西药膏药泽普思<br />3. 随笔：其实我挺不喜欢前端娱乐圈这种氛围<br /><br /><span class="emoji">🏂</span><b> 封面图<br /></b>封面图来源于在外吃饭拍的炒饭图，我发现炒饭能够很好衡量一个餐馆水平和追求的方式，是否粒粒分明、鸡蛋葱花搭配合理、端出来还有锅气，做好了简直属于人间美食。<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/e8nvADHEf_MRblkfXx94vFOEryF7y0U2U-FK-IYPOZNRUzYSc_OKpySqCL2Qkpdm_wzEkj6uHq7KDwW8ulP-ScxsVSYhOvt8A9H6Ui83iRinLgWfio-IWU30TTQQ6uugukVWKEvRd3Ka-L8q0F_BQqorq80yaMjYy1QNyXxjt9e1lo9G7g1b-fJM9edomzNFgkoR0RLCNYpbiskKBfTdUX_NToqpIY0GUhWOEke9eF3Rc1VLdYDKqxAZrio3zeDaHsYDNbulSZ5Q9eohVFnI1X3zHd7iRt4S17RuYQ5Q7PXq7wT_oMwbZI_dOTbLi5ii5II_vDya5IEKjz5-Mr0F1Q.jpg" />
 ]]></content:encoded>
-<pubDate>Mon, 08 Jan 2024 04:01:14 GMT</pubDate>
 <pubDate>Mon, 08 Jan 2024 04:01:14 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +19,10 @@
 <link>https://t.me/xhqcankao/7593</link>
 <guid>https://t.me/xhqcankao/7593</guid>
 <content:encoded><![CDATA[
-
 <p><b>Linux Kernel 6.7 正式发布</b><br /><br />Linus Torvalds 宣布正式推出 Linux Kernel 6.7，引入了多项新功能和改进。据称此版本拥有超过 1.7 万个非合并提交，以及 1000 多个合并提交，是迄今为止 Linux 最大的内核版本之一。主要变化：已合并实验性的 Bcachefs 文件系统；默认启用 Intel Meteor Lake 图形支持，同时还引入了针对 Intel Xe₂ Lunar Lake 图形的支持等。<br /><br />—— <a href="https://lore.kernel.org/lkml/CAHk-=widprp4XoHUcsDe7e16YZjLYJWra-dK0hE1MnfPMf6C3Q@mail.gmail.com/" rel="noopener" target="_blank">kernel.org</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 08 Jan 2024 03:50:55 GMT</pubDate>
-<pubDate>Mon, 08 Jan 2024 03:50:55 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 #News ☀️ 自留地早报【1.8】 1️⃣ Reuters ：欧盟竞争专员下周会见库克，重点讨论欧洲竞争政策和数字监管问题 2⃣️ 苹果 Vision Pro 头显 调节机制专利...</title>
 <link>https://t.me/NewlearnerChannel/12284</link>
@@ -9124,24 +9120,6 @@
 <p><b>Mozilla 推出 Fakespot Chat AI 模型：可检测电商平台产品、鉴别虚假评论</b><br /><br />11 月 13 日消息，当下许多企业竞相推出自己的 AI 产品，这些产品主要用于日常聊天、代码生成等场景，不过 Mozilla 剑走偏锋，旗下首款 AI 模型 Fakespot Chat，是用于检测电商平台产品信息、鉴别虚假评论的工具。<br /><br />据悉，Mozilla 今年初收购了一家利用 AI 和机器学习识别虚假和欺骗性产品评论的初创公司 Fakespot，在此之后推出了 Fakespot Chat 模型，号称能够在电商平台为消费者提供一系列帮助，包括“评估商品、回答产品问题、检测虚假评论”等功能。<br /><br />Mozilla 介绍称，Fakespot Chat 模型旨在提高消费者网购过程的“可信度”，整个 AI 模型据称是在各种电商平台以“数十亿项数据”训练而成的。<br /><br />IT之家发现，Fakespot Chat 目前已经上线，用户可以向这款 AI 工具询问一系列产品信息，聊天会话中的信息会被保存以供改善体验。<br /><br />—— <a href="https://www.ithome.com/0/732/060.htm" rel="noopener" target="_blank">IT之家</a> 、<a href="https://techcrunch.com/2023/11/08/fakespot-chat-mozillas-first-llm-lets-online-shoppers-research-products-via-an-ai-chatbot/" rel="noopener" target="_blank">TechCrunch</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 13 Nov 2023 02:22:45 GMT</pubDate>
-</item>
-<item>
-<title>🖼 #News ☀️ 自留地早报【11.13】 1️⃣ MacRumors ：苹果第二代 Vision Pro 头显曝光，代号 Alaska，整体外观和初代 Vision Pro 相似，最快 2025 年发布 2...</title>
-<link>https://t.me/NewlearnerChannel/12023</link>
-<guid>https://t.me/NewlearnerChannel/12023</guid>
-<content:encoded><![CDATA[
-<p><a href="https://t.me/NewlearnerChannel/12023?q=%23News">#News</a><br /><br /><span class="emoji">☀️</span> 自留地早报【11.13】<br /><br /><span class="emoji">1️⃣</span> <a href="https://www.macrumors.com/2023/11/10/project-alaska-second-generation-vision-pro/" rel="noopener" target="_blank">MacRumors</a> ：苹果第二代 Vision Pro 头显曝光，代号 Alaska，整体外观和初代 Vision Pro 相似，最快 2025 年发布<br /><br /><span class="emoji">2⃣️</span> <a href="https://videocardz.com/newz/amd-sets-advancing-ai-event-for-december-6th" rel="noopener" target="_blank">Videocardz</a> ：AMD 宣布将于北京时间 12 月 7 日凌晨 2 点举办一场专门针对 AI 名为“Advancing AI”的特别活动<br /><br /><span class="emoji">3⃣️</span> <a href="https://9to5mac.com/2023/11/10/ios-17-2-sideload-apps/" rel="noopener" target="_blank">9to5Mac</a> ：深挖苹果 iOS 17.2 代码发现新 API，可在 iPhone 上侧载应用程序<br /><br /><span class="emoji">4⃣️</span> <a href="https://9to5mac.com/2023/11/10/spatial-video-vision-pro-review/" rel="noopener" target="_blank">9to5Mac</a> ：苹果公司在 iOS 17.2 Beta 2 更新中，向 iPhone 15 Pro 和 iPhone 15 Pro Max 两款机型，解锁了拍摄空间视频的能力<br /><br /><span class="emoji">5⃣️</span> <a href="https://www.ifixit.com/News/86128/how-apple-made-the-space-black-macbook-pro-darker-than-ever" rel="noopener" target="_blank">iFixit</a> 拆解苹果 M3 MacBook Pro，揭开“太空黑”不太沾指纹的秘密<br /><br /><span class="emoji">6⃣️</span> <a href="https://www.globaltimes.cn/page/202311/1301669.shtml" rel="noopener" target="_blank">GlobalTimes</a> ：中国最大闪存芯片制造商长江存储在美起诉美光专利侵权，涉 8 项专利<br /><br /><span class="emoji">7⃣️</span> <a href="https://www.gcores.com/articles/173645" rel="noopener" target="_blank">2023年金摇杆奖获奖名单出炉，《博德之门3》获得终极年度游戏奖</a><br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn1.cdn-telegram.org/file/CGrkkqWH1n-qdSqWMC5wgfYd0Vz0EhfDJHLup12mbdT_CevfEHCHrUIfH782ekRmA6HTu9tv-lbTZgved8xgMKXoSotPilID9C30DofFqg-UE5-ae0ddUQht_Gj5Cu6v62crcHjgd-ghtTcQ866KfbJAykAMy3oQjPbfVv3IfrfL3WCxskzaO6nbVxWWu8gGT0Ktmijv1G9rhwPYccLLw7SscWZYziEDJ8-Nl5HJdZYWF3VC7hxK5qPaQWYBNCfh1VNkAh2vXqwhEQEenQUKaB5qLMBASb6OXVqzDI58FAXzu3xT3SeTlhX2d_pb7FklDwbdeFhfogKFWCYBmPiD8A.jpg" />
-]]></content:encoded>
-<pubDate>Mon, 13 Nov 2023 01:00:06 GMT</pubDate>
-</item>
-<item>
-<title>2023年11月13日 🌍资讯快读 1、吉林各地雪场陆续开板 将发放3000万元冰雪消费券 https://36kr.com/newsflashes/2515404613619717 2、公安机关公开通缉缅北果敢...</title>
-<link>https://t.me/jike_collection/9329</link>
-<guid>https://t.me/jike_collection/9329</guid>
-<content:encoded><![CDATA[
-<p>2023年11月13日<br /><span class="emoji">🌍</span>资讯快读<br />1、吉林各地雪场陆续开板 将发放3000万元冰雪消费券<br /><a href="https://36kr.com/newsflashes/2515404613619717" rel="noopener" target="_blank">https://36kr.com/newsflashes/2515404613619717</a><br />2、公安机关公开通缉缅北果敢自治区电信网络诈骗犯罪集团重要头目<br /><a href="https://www.jiemian.com/article/10377962.html" rel="noopener" target="_blank">https://www.jiemian.com/article/10377962.html</a><br />3、2023天猫双11全面增长<br /><a href="https://www.pingwest.com/w/290081" rel="noopener" target="_blank">https://www.pingwest.com/w/290081</a><br />4、巴勒斯坦方面称加沙地带网络和通信服务将于16日完全停止<br /><a href="https://www.jiemian.com/article/10378821.html" rel="noopener" target="_blank">https://www.jiemian.com/article/10378821.html</a><br /><br /><span class="emoji">👬</span>即刻镇小报<br />1、关于GPTs的一些思考<br /><a href="https://m.okjike.com/originalPosts/654fc656dc2460410cb6bb83" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/654fc656dc2460410cb6bb83</a><br />2、网站推荐：notefolio，韩国设计师作品展示和社区<br /><a href="https://m.okjike.com/originalPosts/654fcf2bde31fdaa4ea7958e" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/654fcf2bde31fdaa4ea7958e</a><br />3、Satya Nadella经营微软之道<br /><a href="https://m.okjike.com/originalPosts/655094e4b754c3dc3c50b1db" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/655094e4b754c3dc3c50b1db</a><br />4、动画推荐：「拾荒者统治」<br /><a href="https://m.okjike.com/originalPosts/6550265ddc2460410cbb62c7" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/6550265ddc2460410cbb62c7</a><br /><br />今日即刻镇小报内容来自 @歸藏 @龙爪槐守望者 @张无常Hayes_Zhang @少楠Plidezus ，感谢以上即友的创作与分享。 <a href="https://t.me/jike_collection/9329?q=%23%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88">#一觉醒来发生了什么</a></p><blockquote><b>36Kr</b><br /><b><a href="https://36kr.com/newsflashes/2515404613619717">吉林各地雪场陆续开板 将发放3000万元冰雪消费券-36氪</a></b><br /><p>在接连降雪之后，吉林各地的滑雪场迎来了新雪季，陆续“开板”。在吉林白山，多家雪场正在加紧造雪，准备开门迎客。为迎接新雪季，长白山机场也对冬季航班进行调整，调整后将比夏秋航季航班增加12.83%。此外，吉林省今年将发放3000万元冰雪消费券，针对团组游客还设立总额1000万元的冰雪交通补贴，降低游客出游成本，吸引更多游客到吉林感受今年的冰雪季。（e公司）</p><img src="https://cdn4.cdn-telegram.org/file/RjlTccXY4qDoMAW1aoKPQHB7d3qxUkSvQomcP7A_VHaHeG46-7tmFYBEAFZNuG53gBiNKQSSY9yz-2iSBIo_hXoEz2hpKcgZSjvF3LR-Km59RbOvISfqpx0QZ-VxjKXs_Cj40B_OwJGC76X-2X2Tr6F9m7h4bOz6665nsWbzWqEQV4NNHaelPEEaLblo6IOPZlGcqjNMLrq-tPrzLjZQ-n4XQDKkR9_iITRtCfbV8MDH-2iQflXcyRDhNfZ9O0_do95-tfWrpqD3T2Alm7DRRlHDbrdVUBQ1XEVBJyXPi9MBPyUtuM9lBJlox6j6b9V2h6a7btHt7hPWHkBGplZRDg.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Mon, 13 Nov 2023 00:08:15 GMT</pubDate>
 </item>
 </channel>
 </rss>

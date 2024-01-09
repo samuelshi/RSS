@@ -4,15 +4,14 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+
 <item>
 <title>🖼 #News 🌌 自留地晚报 【1.9】 1️⃣ 苹果公司 近日面向多家媒体和嘉宾发出邀请函，表示将于美国当地时间 2 月 2 日星期五上午 8 点在 Apple Store 举办活...</title>
 <link>https://t.me/NewlearnerChannel/12293</link>
 <guid>https://t.me/NewlearnerChannel/12293</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://t.me/NewlearnerChannel/12293?q=%23News">#News</a><br /><br /><span class="emoji">🌌</span> 自留地晚报 【1.9】<br /><br /><span class="emoji">1️⃣</span> <a href="https://x.com/markgurman/status/1744430444668756017" rel="noopener" target="_blank">苹果公司</a> 近日面向多家媒体和嘉宾发出邀请函，表示将于美国当地时间 2 月 2 日星期五上午 8 点在 Apple Store 举办活动，现场演示 Vision Pro 头显。<br /><br /><span class="emoji">2️⃣</span> <a href="https://nvidianews.nvidia.com/news/geforce-rtx-40-super-series" rel="noopener" target="_blank">英伟达</a> 今日凌晨正式发布了&nbsp;RTX 40 SUPER 系列显卡，具体规格和价格与此前曝光的一致，RTX 4080 SUPER 加量又减价，RTX 4070 Ti SUPER 加量不加价。<br /><br /><span class="emoji">3️⃣</span> <a href="https://ir.amd.com/news-events/press-releases/detail/1176/amd-unveils-amd-radeon-rx-7600-xt-graphics-card" rel="noopener" target="_blank">AMD</a> 正式发布了 Radeon RX 7600 XT 16GB 显卡，该显卡搭载了 16GB 显存和 RDNA 3 图形核心，售价为 329 美元，约 2356 元人民币，旨在挑战 NVIDIA GeForce RTX 4060。<br /><br /><span class="emoji">4️⃣</span> <a href="https://www.tomshardware.com/pc-components/cpus/intel-announces-arrow-lake-and-lunar-lake-will-arrive-in-2024-with-3-times-more-gpu-and-ai-acceleration-performance" rel="noopener" target="_blank">Tomshardware</a> 报道称，英特尔宣布 Arrow Lake 和 Lunar Lake 今年发布，后者拥有 Meteor Lake 三倍 GPU 和 AI 加速性能。<br /><br /><span class="emoji">5️⃣</span> <a href="https://www.anandtech.com/show/21209/amd-announces-new-zen-3-chips-with-2-new-apus-and-the-ryzen-7-5700x3d" rel="noopener" target="_blank">Anandtech</a> 报道称，AMD 发布四款 Zen 3 桌面处理器，R7 5700X3D 加速频率 4.1 GHz，售价为 249 美元，约 1783 元人民币。<br /><br /><span class="emoji">6️⃣</span> <a href="https://www.theverge.com/2024/1/8/24024989/sennheiser-momentum-4-sport-accentum-plus-price-release-date-features-heart-rate" rel="noopener" target="_blank">TheVerge</a> 报道称，森海塞尔推出Momentum Sport TWS 运动耳机和 Momentum True Wireless 4 TWS 耳机，前者可实时监测用户心率及体温信息，售价&nbsp;329.95 美元，约 2362 元人民币，后者配备蓝牙 5.4、ANC 降噪，售价为 299 美元，约 2148 元人民币。<br /><br /><span class="emoji">7️⃣</span> 雷蛇灵刃 <a href="https://weibo.com/1926539024/NB0MqrTzu" rel="noopener" target="_blank">14</a> 和 <a href="https://weibo.com/1926539024/NB0N0EMk4" rel="noopener" target="_blank">16</a> 游戏本发布，搭载 AMD 锐龙 9 8945HS、酷睿 i9-14900HX 处理器。<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/CYjozJ7vLzVMuqRySssvkXhefsQN-ic_bwzG6Jdkszg3FBOt37BVX6FvM5uFs4A4XTj4Yw_q8I9PqlYoNU0WgbmWMyS2CT1dPpR2z0D0JInAm_Hcltz7a9QAlxKJTa2Ze3ES8MnU-edYjXnoy40EbNRxgmLFBNfe2_5exkErtpXoPJMCzvFh-0Jnnmgs_pl4TExOdmL41l1D4J7TGamDNGSpAzqkT_p4zgfCOZQWK3AQKpjcUgnfXK-qb7X1OtC6_uEZSqCRIZXCw-9odaV_hpqyOPmXxrme6VhjYISu7Feoxh6QHX1snksQc3U8Ek4yaHdeojJHmEiD43IYOAtPXg.jpg" />
 ]]></content:encoded>
-<pubDate>Tue, 09 Jan 2024 13:01:01 GMT</pubDate>
 <pubDate>Tue, 09 Jan 2024 13:01:01 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +19,10 @@
 <link>https://t.me/xhqcankao/7622</link>
 <guid>https://t.me/xhqcankao/7622</guid>
 <content:encoded><![CDATA[
-
 <p><b>Firefox 浏览器访问谷歌搜索主页出现问题</b><br /><br />网友发现使用 Android 端的 FireFox Mobile 浏览器访问谷歌搜索主页时白屏：<br /><br /></p><pre>curl -H "User-Agent: Mozilla/5.0 (Android 10; Mobile; rv:123.0) Gecko/123.0 Firefox/123.0" https://www.google.com<br /></pre><a href="https://github.com/webcompat/web-bugs/issues/131916" rel="noopener" target="_blank">https://github.com/webcompat/web-bugs/issues/131916</a><p></p>
 ]]></content:encoded>
 <pubDate>Tue, 09 Jan 2024 12:14:33 GMT</pubDate>
-<pubDate>Tue, 09 Jan 2024 12:14:33 GMT</pubDate>
 </item>
-
 <item>
 <title>苹果《Apple Music 古典乐》应用即将上线大陆、台湾等地区 苹果专门为古典音乐乐迷设计的独立应用《Apple Music 古典乐》即将于1月24日在大陆与台湾等地区上线本...</title>
 <link>https://t.me/xhqcankao/7621</link>
@@ -9136,24 +9132,6 @@
 <p><b>YouTube 将在使用人工智能的视频上显示标签</b><br /><br />YouTube 将要求创作者在上传视频时开始标记人工智能生成内容，这些标签将出现在视频说明中。此更新将在接下来的几个月内推出。<br /><br />这在内容讨论敏感话题（例如选举、持续冲突和公共卫生危机或公职人员）的情况下尤其重要。一贯选择不披露此信息的创作者可能会受到内容删除、取消收益或其他处罚。<br /><br />YouTube 还将为创作者、观众和艺术家提供新选择，将可以使用隐私请求流程来请求删除人工智能生成的包含他们面部或声音的扭曲视频。除此之外还为音乐合作伙伴提供了请求删除人工智能翻唱的功能。YouTube 在评估这些请求时会考虑多种因素。<br /><br />—— <a href="https://blog.youtube/inside-youtube/our-approach-to-responsible-ai-innovation/" rel="noopener" target="_blank">YouTube</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 14 Nov 2023 22:30:20 GMT</pubDate>
-</item>
-<item>
-<title>亚马逊已经开始在部分产品上用自研的“Vega OS”系统取代 Android 上周，有报道称亚马逊正在悄悄开发自己的操作系统，该操作系统将取代其 Fire TV 设备上的 Andr...</title>
-<link>https://t.me/xhqcankao/6928</link>
-<guid>https://t.me/xhqcankao/6928</guid>
-<content:encoded><![CDATA[
-<p><b>亚马逊已经开始在部分产品上用自研的“Vega OS”系统取代 Android</b><br /><br />上周，有报道称亚马逊正在悄悄开发自己的操作系统，该操作系统将取代其 Fire TV 设备上的 Android，然后扩展到其他产品，包括该公司的 Echo Show 智能显示屏以及 Fire 平板。<br /><br />据 ZatzNotFunny 报道，Echo Show 5第三代目前正在运行一个新的操作系统，如产品设置菜单中的“OS 1.1”标记所示。虽然这并不严格确认使用了新的“Vega OS”，但这是最有可能的答案，至少证实不再使用 Fire OS。之前，设置中直接提到了Fire OS，在几年前其版本号也超过了 v6.5。<br /><br />该报道进一步指出，亚马逊已对 Echo 设备的开源声明进行了更改，并且这款最新一代的 Echo Show 5 不兼容Netflix，这可能表明亚马逊的新操作系统尚未达到 Netflix 的最低支持要求。<br /><br />—— <a href="https://zatznotfunny.com/2023-11/amazon-vega-os/" rel="noopener" target="_blank">ZatzNotFunny</a>、<a href="https://9to5google.com/2023/11/14/amazon-android-echo-show-replaced/" rel="noopener" target="_blank">9to5google</a>、<a href="https://www.theverge.com/2023/11/14/23954333/amazon-ditching-android-fire-tv-echo-show" rel="noopener" target="_blank">TheVerge</a></p>
-]]></content:encoded>
-<pubDate>Tue, 14 Nov 2023 22:01:16 GMT</pubDate>
-</item>
-<item>
-<title>Android 上的 WhatsApp 备份很快将计入您的 Google 帐户云存储空间 谷歌和 WhatsApp 今天宣布了一项变更，在接下来的几个月里，如果你使用 Android 设备且选择备...</title>
-<link>https://t.me/xhqcankao/6927</link>
-<guid>https://t.me/xhqcankao/6927</guid>
-<content:encoded><![CDATA[
-<p><b>Android 上的 WhatsApp 备份很快将计入您的 Google 帐户云存储空间</b><br /><br />谷歌和 WhatsApp 今天宣布了一项变更，在接下来的几个月里，如果你使用 Android 设备且选择备份 WhatsApp 对话，你的备份将开始计入你的 Google 帐号云存储空间限制。<br /><br />这与 2018 年情况相反，当时 WhatsApp 与谷歌达成协议，备份不再计入 Google 云端硬盘存储空间。<br /><br />此项变更将从 2023 年 12 月开始面向测试版用户推出，并在 2024 年上半年逐步面向所有 Android 版 WhatsApp 用户推出。变更发生前会提前 30 天在 WhatsApp 设置 &gt; 对话 &gt; 对话备份中通过横幅通知。<br /><br />—— <a href="https://faq.whatsapp.com/1498366720959422" rel="noopener" target="_blank">WhatsApp</a>、<a href="https://support.google.com/android/thread/243899327?hl=en" rel="noopener" target="_blank">谷歌</a></p>
-]]></content:encoded>
-<pubDate>Tue, 14 Nov 2023 20:30:28 GMT</pubDate>
 </item>
 </channel>
 </rss>

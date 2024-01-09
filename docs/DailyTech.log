@@ -18467,3 +18467,14 @@ Append: [苹果《Apple Music 古典乐》应用即将上线大陆、台湾等�
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
 append_entries: 1
 Finish: 2024-01-09 20:02:05
+------------------------------------------------------
+Started: 2024-01-09 21:05:19
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel
+Append: [🖼 #News 🌌 自留地晚报 【1.9】 1️⃣ 苹果公司 近日面向多家媒体和嘉宾发出邀请函，表示将于美国当地时间 2 月 2 日星期五上午 8 点在 Apple Store 举办活...](https://t.me/NewlearnerChannel/12293)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
+Append: [Firefox 浏览器访问谷歌搜索主页出现问题 网友发现使用 Android 端的 FireFox Mobile 浏览器访问谷歌搜索主页时白屏： curl -H "User-Agent: Mozilla/5.0 (Andro...](https://t.me/xhqcankao/7622)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
+append_entries: 2
+Finish: 2024-01-09 21:05:24

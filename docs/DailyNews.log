@@ -27727,3 +27727,14 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 0
 Finish: 2024-01-10 06:01:55
+------------------------------------------------------
+Started: 2024-01-10 07:01:35
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+Append: [【网络民议】知乎问答｜如何看待北京尼欧克斯科技女高管宣称“我就是违法解除(合同)”？](https://chinadigitaltimes.net/chinese/703989.html)
+Append: [大河报｜“被女高管违法开除”员工：并非能力不足，被逼签道歉函才给赔偿](https://chinadigitaltimes.net/chinese/703990.html)
+append_entries: 2
+Finish: 2024-01-10 07:01:48

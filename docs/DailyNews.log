@@ -28047,3 +28047,13 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 0
 Finish: 2024-01-11 04:01:52
+------------------------------------------------------
+Started: 2024-01-11 05:01:45
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+Append: [【网络民议】北京女高管违法辞退员工：“我现在就是违法了，你管得着吗”](https://chinadigitaltimes.net/chinese/703986.html)
+append_entries: 1
+Finish: 2024-01-11 05:01:51

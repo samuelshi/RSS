@@ -5,17 +5,26 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>🖼 #News 🌌 自留地晚报 【1.10】 1️⃣ MacRumors 报道称，Xcode 15.2 更新代码显示，Apple Vision Pro 头显可配备 16GB 统一内存 2️⃣ Google 宣布，其将...</title>
+<link>https://t.me/NewlearnerChannel/12298</link>
+<guid>https://t.me/NewlearnerChannel/12298</guid>
+<content:encoded><![CDATA[
+
+<p><a href="https://t.me/NewlearnerChannel/12298?q=%23News">#News</a><br /><br /><span class="emoji">🌌</span> 自留地晚报 【1.10】<br /><br /><span class="emoji">1️⃣</span> <a href="https://www.macrumors.com/2024/01/09/apple-vision-pro-how-much-ram-and-storage/" rel="noopener" target="_blank">MacRumors</a> 报道称，Xcode 15.2 更新代码显示，Apple Vision Pro 头显可配备 16GB 统一内存<br /><br /><span class="emoji">2️⃣</span> <a href="https://blog.google/products/android/ces-2024-android-updates/" rel="noopener" target="_blank">Google</a> 宣布，其将与三星合作开发全新 Quick Share 功能，取代 2020 年推出的 Google Nearby Share 功能<br /><br /><span class="emoji">3️⃣</span> <a href="https://www.theverge.com/2024/1/9/24031220/asus-zenbook-duo-dual-oled-screen-laptop-vivobook-pro-tuf-gaming" rel="noopener" target="_blank">The Verge</a> 报道称，华硕新款 Zenbook DUO 双屏笔记本拥有 2 块 14 英寸屏幕，配备英特尔酷睿 Ultra 9 处理器、32GB RAM + 2TB 存储空间<br /><br /><span class="emoji">4️⃣</span> <a href="https://appleinsider.com/articles/24/01/09/future-airdrop-could-use-light-for-incredibly-fast-and-secure-data-transfers" rel="noopener" target="_blank">AppleInsider</a> 报道称，AirDrop 新专利获批，显示 Apple 正考虑使用 Li-Fi 方式传输数据<br /><br /><span class="emoji">5️⃣</span> <a href="https://9to5google.com/2024/01/08/tcl-50-series-2024-android-phones/" rel="noopener" target="_blank">9to5Google</a> 报道称，TCL 在 CES 2024 上推出 7 款智能手机，包括两款 Nxtpaper 类纸屏机型<br /><br /><span class="emoji">6️⃣</span> <a href="https://www.cnet.com/tech/mobile/anker-just-released-a-bunch-of-qi2-charging-accessories-youre-probably-going-to-want/" rel="noopener" target="_blank">CNET</a> 报道称，Anker 推出六款 MagGo 系列 Qi2 无线充电外设，包含充电支架、移动电源等设备<br /><br /><span class="emoji">7️⃣</span> <a href="https://news.xbox.com/en-us/2024/01/09/xbox-developer-direct-2024/" rel="noopener" target="_blank">Xbox</a> 官宣，将于 1 月 19 日凌晨举行新一期 Xbox 开发者直面会，届时官方将会带来诸多游戏的全新动向<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/Kw0T-f7BJ1azp95WHJHaAfKgW4jp4i_mXQlppgMHyHF3gcd-54Z2MBa9HQVh38oQKAe48NjDR94OLKvbogDP53UHZM6x4c2SH4KCc5tXKysFmuXu2dEN3_AjAFRMyUrM94DSe-2bnXU7aU55GNC9n0A5N_FSkwgXgixp7qGMWB2g1O0OGjr0uZVnuWaSLC1ctpHsDNA_osQg4PjQWmZU-iWjGkJfLK6ERP8dZHHrq99sJrXNrwPA5lTcwNGCxdD8Ww6_r7bmxiTWN0RwYOaYT_EYt8cqLtsvn3c4beIWBuA5EyxMSywkcw-lL0h_RnaRv7Qre4aTIPVlGvffqWaKmQ.jpg" />
+]]></content:encoded>
+<pubDate>Wed, 10 Jan 2024 13:02:19 GMT</pubDate>
+<pubDate>Wed, 10 Jan 2024 13:02:19 GMT</pubDate>
+</item>
+
+<item>
 <title>Linux 6.8 网络优化可将大量并发连接下的 TCP 性能提高约 40% 据 Phoronix 报道，Linux 6.8 内核对核心网络代码进行了一些关键改进，在遇到大量并发网络连接时，...</title>
 <link>https://t.me/xhqcankao/7634</link>
 <guid>https://t.me/xhqcankao/7634</guid>
 <content:encoded><![CDATA[
-
 <p><b>Linux 6.8 网络优化可将大量并发连接下的 TCP 性能提高约 40%</b><br /><br />据 Phoronix 报道，Linux 6.8 内核对核心网络代码进行了一些关键改进，在遇到大量并发网络连接时，可将 TCP 性能可提高约40%。首先，对核心网络结构进行了分析和重组。这项工作的重点是优化缓存行消耗并添加保护措施以确保未来的更改不会倒退。反过来，这种核心网络结构的优化使大量并发连接的 TCP 性能提高了40%或更多。<br /><br />目前，网络堆栈中的大量变量结构是按时间顺序、逻辑顺序组织的，有时还按缓存行访问进行组织。新的补丁系列尝试重新组织核心网络堆栈变量，以最大限度地减少数据传输阶段的缓存行消耗。具体来说，来自谷歌的开发人员研究了 TCP/IP 堆栈和 TCP 中的快速路径定义。<br /><br />—— <a href="https://www.phoronix.com/news/Linux-6.8-Networking" rel="noopener" target="_blank">Phoronix</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 10 Jan 2024 06:54:50 GMT</pubDate>
-<pubDate>Wed, 10 Jan 2024 06:54:50 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 #Blog 🧐#83 探索 Nintendo Switch 游戏字体大小 🔗: Blog 📝 文章概述 在交互设计不为人知的角落，Nintendo Switch 掌机玩家一直饱受「有障碍设计」...</title>
 <link>https://t.me/NewlearnerChannel/12297</link>
@@ -9134,19 +9143,6 @@
 <p><b>索尼 PlayStation 5 用户可以免费获得六个月的 Apple Music</b><br /><br />苹果和索尼合作向 PlayStation 5 用户提供一项新优惠，免费提供六个月的 Apple Music 订阅服务。<br /><br />只要你拥有 PlayStation 5，新客户就可以免费获得六个月的 Apple Music，符合资格的老订阅者则可以免费获得五个月的订阅服务。<br /><br />要兑换此优惠，请在 PlayStation 5 上下载并启动 Apple Music 应用。使用你的 Apple ID 登录，屏幕上应显示免费月份优惠供你接受。该优惠于今日开始，截至 2024 年 11 月 15 日。<br /><br />—— <a href="https://9to5mac.com/2023/11/15/free-apple-music-for-playstation-gamers/" rel="noopener" target="_blank">9to5mac</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 15 Nov 2023 22:37:35 GMT</pubDate>
-</item>
-<item>
-<title>↩️ 通用汽车车主抱怨 iPhone 15 更新至 iOS 17.1 后车载无线充电无法使用 苹果 iOS 17.1.1 更新修复了宝马的车载无线充电损坏 iPhone 15 系列 NFC 的问题。但...</title>
-<link>https://t.me/xhqcankao/6941</link>
-<guid>https://t.me/xhqcankao/6941</guid>
-<content:encoded><![CDATA[
-<div class="rsshub-quote"><blockquote>
-                                    <p><a href="https://t.me/xhqcankao/6842"><b>风向旗参考快讯</b>:</a></p>
-                                    
-                                    <p>苹果 iOS 17.1.1 发布，修复了宝马的车载无线充电损坏 iPhone 15 系列 NFC 的问题。  苹果刚刚发布了 iOS 17.1.1，它修复了最近出现的几个值得注意的错误。  部分用户报告说，如果他们尝试使用宝马的车载无线充电功能为 iPhone 15 充电，手机 NFC 功能将会损坏，这次更新修复了这个问题。  iOS 17.1.1 更新还修复了另一个错误，在天气锁屏小部件上，雪的图标有时会显示为文件夹图标或空白。  —— TheVerge</p>
-                                </blockquote></div><p><b>通用汽车车主抱怨 iPhone 15 更新至 iOS 17.1 后车载无线充电无法使用</b><br /><br />苹果 iOS 17.1.1 更新修复了宝马的车载无线充电损坏 iPhone 15 系列 NFC 的问题。但同时导致无法使用通用汽车车载无线充电。<br /><br />据<a href="https://discussions.apple.com/thread/255233412" rel="noopener" target="_blank">苹果论坛</a>和 <a href="https://www.reddit.com/r/BoltEV/comments/178mqp9/iphone_15_max_pro_wireless_charging_doesnt_work/" rel="noopener" target="_blank">Reddit</a> 上的通用汽车用户反馈，无线充电在 iPhone 15 中不起作用。目前还不清楚这个问题有多普遍。已知该错误发生在雪佛兰 Bolt、雪佛兰 Silverado 和 GMC Sierra 上。<br /><br />与宝马不同，这里出现的故障是无法充电。而 NFC 芯片正常工作。上周的 iOS 17.1.1 系统并没有解决他们的无线充电问题。苹果尚未对此事发表评论。<br /><br />—— <a href="http://iphones.ru/" rel="noopener" target="_blank">iphones.ru</a></p>
-]]></content:encoded>
-<pubDate>Wed, 15 Nov 2023 21:56:29 GMT</pubDate>
 </item>
 </channel>
 </rss>

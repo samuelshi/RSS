@@ -27738,3 +27738,15 @@ Append: [【网络民议】知乎问答｜如何看待北京尼欧克斯科技�
 Append: [大河报｜“被女高管违法开除”员工：并非能力不足，被逼签道歉函才给赔偿](https://chinadigitaltimes.net/chinese/703990.html)
 append_entries: 2
 Finish: 2024-01-10 07:01:48
+------------------------------------------------------
+Started: 2024-01-10 08:03:38
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Feed error: 504
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+Append: [四环青年｜老师逼学生发毒誓“不学习死全家”，别说是为了孩子好](https://chinadigitaltimes.net/chinese/703996.html)
+Append: [维舟｜“南方小土豆”到底有没有歧视？](https://chinadigitaltimes.net/chinese/703994.html)
+append_entries: 2
+Finish: 2024-01-10 08:03:55

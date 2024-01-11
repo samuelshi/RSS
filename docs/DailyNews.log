@@ -28215,3 +28215,14 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 0
 Finish: 2024-01-11 16:01:55
+------------------------------------------------------
+Started: 2024-01-11 17:01:36
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Append: [国铁宣布取消“开车前48小时内不予向后改签乘车日期”限制，相应核收“改签费”，自1月15日起施行。 开车前48–24小时，如需改签至原日期以后，核收5%票价（原车...](https://t.me/tnews365/29313)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+Append: [每日一语 2024.1.10](https://chinadigitaltimes.net/chinese/704018.html)
+append_entries: 2
+Finish: 2024-01-11 17:01:42

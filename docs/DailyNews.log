@@ -28419,3 +28419,15 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
 Fetching from https://chinadigitaltimes.net/chinese/feed
 append_entries: 0
 Finish: 2024-01-12 09:26:04
+------------------------------------------------------
+Started: 2024-01-12 10:12:57
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/tnews365
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/times001
+Append: [#ALERT 內地去年12月居民消費價格指數跌0.3%，連續三個月通縮，工業品出廠價格指數跌2.7%，跌幅較預期大。 (1/11/17:38)](https://t.me/times001/668275)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/OutsightChina
+Fetching from https://chinadigitaltimes.net/chinese/feed
+Append: [冰川思享号｜南方小土豆：如何面对一个“无意冒犯的冒犯”](https://chinadigitaltimes.net/chinese/704048.html)
+Append: [衣者褚｜那些喊冤的女人们](https://chinadigitaltimes.net/chinese/704046.html)
+append_entries: 3
+Finish: 2024-01-12 10:13:03

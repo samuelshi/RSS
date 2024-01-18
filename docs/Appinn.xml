@@ -4,18 +4,16 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>❓ #问题求助 AutoHotkey的COM对象类库写法求教 https://meta.appinn.net/t/topic/51786</title>
 <link>https://t.me/appinnfeed/9351</link>
 <guid>https://t.me/appinnfeed/9351</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9351?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />AutoHotkey的COM对象类库写法求教<br /><br /><a href="https://meta.appinn.net/t/topic/51786" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/51786</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/51786">AutoHotkey的COM对象类库写法求教</a></b><br /><p>自己想写一个大漠插件的AHK库，一个是学习，一个是方便自己使用，但是对于类的相关东西确实完全不懂，求教一下大神。这个是我写的乱七八糟的类，报错都看不懂。类在创建的时候要创建大漠对象，然后再调用类里面的方法。  class dmObj{     __New(){         this.dm := ComObject("dm.dmsoft")     }      reg(){      }          MoveTo(){         this.dm.MoveTo()     } }  dmsoft…</p><img src="https://cdn4.cdn-telegram.org/file/ZL2NTczl-65Ya0Pl_0uUZp4P1BS94Hhw8lELqyG6EYRG-eNlD9hA0Sf6eyxvjkqzsBB3T_1l2Vud0qV3L3wZyL5e2XuLXo3tjbQILJ0DHvyDccU1WN3_PNcaBqdcRg0tWxnrXtRR1wSmtCyz5erbM2aNQz5OXsDS3zeJjkPDLqf520LGu78JAeHUTpBNhkCYgrXbBKIhm2Q_Lq1eoS4xTTPoYIdpl9HiwyxGu2S5qHZY9PzOkOF1IJX2b51TPATkTbrXSrAL_I6HumvUVoTaiGpKiT_eAIe1SUom2m1M9iiYHP4bIX0QBGRNfaf4hcvZrT1LgYAsZd56i9jzjTNM5Q.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Thu, 18 Jan 2024 14:56:01 GMT</pubDate>
-<pubDate>Thu, 18 Jan 2024 14:56:01 GMT</pubDate>
 </item>
-
 <item>
 <title>💧 #小众软件 最离谱的敲木鱼：没有最扯，只有更扯｜真的可以敲木鱼了 https://www.appinn.com/wooden-fish/ Tags: #在线应用, #趣味软件, #当时我就震惊, #搞...</title>
 <link>https://t.me/appinnfeed/9350</link>

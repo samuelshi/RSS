@@ -20358,3 +20358,12 @@ Append: [Plex 即将推出电影和电视节目商店 Plex 是一套媒体播放
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
 append_entries: 1
 Finish: 2024-01-19 10:13:18
+------------------------------------------------------
+Started: 2024-01-19 11:01:45
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
+append_entries: 0
+Finish: 2024-01-19 11:02:01

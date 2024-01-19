@@ -20430,3 +20430,13 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/DailyTech
+------------------------------------------------------
+Started: 2024-01-19 18:01:42
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
+Append: [Twitter/X 正在向 Android 用户推出语音和视频通话 1月19日消息，马斯克旗下社交平台 X 正在向其 Android 客户端推出直接从应用拨打语音和视频通话的功能。一名...](https://t.me/xhqcankao/7762)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
+append_entries: 1
+Finish: 2024-01-19 18:01:52

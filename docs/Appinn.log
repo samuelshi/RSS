@@ -11572,3 +11572,12 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-01-19 18:01:53
+Existing_entries: 580
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [❓ #问题求助 求一款目录对比的工具 https://meta.appinn.net/t/topic/51821](https://t.me/appinnfeed/9359)
+Append: [🖼 总感觉怪怪的](https://t.me/appinnfeed/9358)
+Append: [❓ #问题求助 Evernote/印象笔记在2024年终归还是"倒闭"了，求替代品。 https://meta.appinn.net/t/topic/51816](https://t.me/appinnfeed/9357)
+append_entries: 3
+Finish: 2024-01-19 18:01:54

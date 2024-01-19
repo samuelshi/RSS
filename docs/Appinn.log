@@ -11621,3 +11621,11 @@ Append: [📣 #发现频道 支持私有化部署的在线甘特图 https://meta
 Append: [❓ #问题求助 求一个支持 Android 且支持本地回显 SSH 客户端 https://meta.appinn.net/t/topic/51830](https://t.me/appinnfeed/9362)
 append_entries: 2
 Finish: 2024-01-20 00:01:47
+------------------------------------------------------
+Started: 2024-01-20 01:01:46
+Existing_entries: 587
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [❓ #问题求助 局域网大文件如何传输快？ https://meta.appinn.net/t/topic/51834](https://t.me/appinnfeed/9365)
+Append: [❓ #问题求助 [使用讨论][沉浸式翻译插件]哪个翻译引擎最好用？(英译中 日译中) https://meta.appinn.net/t/topic/51833](https://t.me/appinnfeed/9364)
+append_entries: 2
+Finish: 2024-01-20 01:01:47

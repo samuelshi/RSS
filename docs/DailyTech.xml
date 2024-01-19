@@ -5,17 +5,26 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>微软称其高管电子邮件遭俄罗斯情报组织黑客攻击 微软在周五的监管文件中表示，俄罗斯黑客组织获得了微软高管的一些电子邮件帐户的访问权限。微软在一篇博文中表...</title>
+<link>https://t.me/xhqcankao/7771</link>
+<guid>https://t.me/xhqcankao/7771</guid>
+<content:encoded><![CDATA[
+
+<p><b>微软称其高管电子邮件遭俄罗斯情报组织黑客攻击</b><br /><br />微软在周五的监管文件中表示，俄罗斯黑客组织获得了微软高管的一些电子邮件帐户的访问权限。微软在一篇博文中表示：“微软安全团队于2024年1月12日检测到对我们企业系统的民族国家攻击，并立即启动了响应流程。”微软已将威胁行为者确定为 Midnight Blizzard。并补充说，黑客能够访问“极小比例的微软公司电子邮件帐户”，包括属于其高级领导团队成员以及网络安全和法律部门员工的帐户。目前没有证据表明黑客能够访问客户环境、生产系统、源代码或人工智能系统。<br /><br />—— <a href="https://edition.cnn.com/2024/01/19/tech/microsoft-russian-hacking-executives/index.html" rel="noopener" target="_blank">美国有线电视新闻网</a>、<a href="https://msrc.microsoft.com/blog/2024/01/microsoft-actions-following-attack-by-nation-state-actor-midnight-blizzard/" rel="noopener" target="_blank">微软博客</a></p>
+]]></content:encoded>
+<pubDate>Fri, 19 Jan 2024 22:52:29 GMT</pubDate>
+<pubDate>Fri, 19 Jan 2024 22:52:29 GMT</pubDate>
+</item>
+
+<item>
 <title>日本登月探测器成功着陆月球表面 当地时间20日凌晨2时15分左右，日本宇宙航空研究开发机构（JAXA）在新闻发布会上宣布，小型登月探测器SLIM成功着陆月球表面。这...</title>
 <link>https://t.me/xhqcankao/7770</link>
 <guid>https://t.me/xhqcankao/7770</guid>
 <content:encoded><![CDATA[
-
 <p><b>日本登月探测器成功着陆月球表面</b><br /><br />当地时间20日凌晨2时15分左右，日本宇宙航空研究开发机构（JAXA）在新闻发布会上宣布，小型登月探测器SLIM成功着陆月球表面。这是日本探测器首次在月球表面成功着陆。<br /><br />不过，日本宇宙航空研究开发机构称，SLIM的太阳能电池处于无法发电状态。2023年9月，SLIM从鹿儿岛县种子岛宇宙中心搭乘一枚H2A火箭升空。<br /><br />—— <a href="https://m.thepaper.cn/detail/26074828" rel="noopener" target="_blank">澎湃新闻</a>、<a href="https://www.forbes.com/sites/roberthart/2024/01/19/japans-moon-sniper-makes-historic-moon-landing-heres-how-to-watch/" rel="noopener" target="_blank">福布斯</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 19 Jan 2024 21:57:51 GMT</pubDate>
-<pubDate>Fri, 19 Jan 2024 21:57:51 GMT</pubDate>
 </item>
-
 <item>
 <title>↩️ 网易回应大规模裁员传闻：系正常业务调整和人员流动 1月19日消息，针对网传“网易1月开启大规模裁员”等消息，网易内部人士回应《科创板日报》记者称，消息...</title>
 <link>https://t.me/xhqcankao/7769</link>
@@ -9118,15 +9127,6 @@ Tue, 16 Jan 2024 01:33:20 GMT
 <p><b>不屏蔽 YouTube 的广告，而是加快它们的播放速度</b><br /><br />这段时间 YouTube 对广告拦截插件的宣战导致很多插件失效。现在有开发者想到了另一种解决方法，不是把广告屏蔽掉，而是把广告的播放速度加快。<br /><br />开发者在 <a href="https://old.reddit.com/r/webdev/comments/181vbmk/youtube_is_now_blocking_ad_blockers_so_i_just/" rel="noopener" target="_blank">Reddit</a> 上发布了该<a href="https://chrome.google.com/webstore/detail/ad-speedup-skip-video-ads/pcjlckhhhmlefmobnnoolakplfppdchi" rel="noopener" target="_blank">插件</a>的介绍，在演示视频中，它确实大大加快了广告的播放速度。该插件不会阻止广告出现，而是以极快的速度播放广告，以最大程度地减少广告的干扰。<br /><br />该扩展可以自动识别正在播放的广告并将其播放速度提高 16 倍。这会将 30 秒的广告缩短为一两秒。默认情况下，该扩展会进一步将广告静音，在未来的版本中还会自动点击“跳过”按钮。<br /><br />这种加速 YouTube 广告播放的方法并不是这位开发者首创，前几天我就在 <a href="https://news.ycombinator.com/item?id=38327017" rel="noopener" target="_blank">Hacker News</a> 论坛上就已经看到了类似的方法，开发者还将代码托管到了 <a href="https://github.com/rkk3/ad-accelerator" rel="noopener" target="_blank">Github</a> 上，该插件与上面的类似，通过加速播放 YouTube 的广告来减少对用户的干扰。注意，两个插件不要同时安装。<br /><br />—— 1、<a href="https://chrome.google.com/webstore/detail/ad-speedup-skip-video-ads/pcjlckhhhmlefmobnnoolakplfppdchi" rel="noopener" target="_blank">Chrome 应用商店</a>    2、<a href="https://chrome.google.com/webstore/detail/ad-accelerator/gpboiedfklodfhngobidfjecdpmccehg" rel="noopener" target="_blank">Chrome 应用商店</a></p>
 ]]></content:encoded>
 <pubDate>Sat, 25 Nov 2023 21:41:03 GMT</pubDate>
-</item>
-<item>
-<title>OpenAI前董事会因对AI“末世论”的担忧开除阿尔特曼，结果是“AI加速主义”的全面胜利 在过去的一周里，OpenAI的董事会经历了五天内四位首席执行官的更替。它指...</title>
-<link>https://t.me/xhqcankao/7067</link>
-<guid>https://t.me/xhqcankao/7067</guid>
-<content:encoded><![CDATA[
-<p><b>OpenAI前董事会因对AI“末世论”的担忧开除阿尔特曼，结果是“AI加速主义”的全面胜利</b><br /><br />在过去的一周里，OpenAI的董事会经历了五天内四位首席执行官的更替。它指责最初的首席执行官Sam Altman撒谎，但后来收回了指控，并拒绝透露具体原因。<br /><br />据我们所知，OpenAI内部的根本冲突是过去一年来很多人指出并取笑的。OpenAI的目标是尝试构建一种近似于人类智能的机器版本（所谓的“AGI”或通用人工智能）。其前提是这在几年而非几十年内是可能的，并且可能非常有益，但也可能非常危险，不仅仅是对于民主或社会等平凡事物，而且对于人类本身也是如此。<br /><br />你可能会花费生命中的几个星期观看机器学习科学家争论这个问题，最终的结论只能是他们也不知道。ChatGPT可能在五年内发展到《终结者》那个程度，或者在五十年内，或者可能根本不会。<br /><br />这意味着关于人工智能风险的大多数谈话都变成了对比喻的追逐（它就像核武器，或者一颗陨石，或者确切地说，阿波罗计划）。没有正确答案。<br /><br />不幸的是对于"末日论者"，过去一周的事件加速了一切。现在辞职的董事会成员之一被引述说，关闭OpenAI将符合该组织的使命（宁可安全也不要冒险）。但那些在OpenAI的应用程序编程接口上构建的数百家公司正在寻找替代方案，既来自其商业竞争对手，也来自那些不受任何人控制的不断增长的开源项目浪潮。人工智能现在将更快地发展，更分散，更难控制。失败的政变通常会加速他们试图阻止的事物。<br /><br />事实上，对"末日论者"的常见批评是，他们认为一个强大的软件和一些卓越的工程师能够改变世界的想法只是另一种天真而简单化的技术乌托邦主义——它未能理解权力、复杂性和人类系统的真实本质。董事会上的"末日论者"正好证明了这一点——他们不知道权力是如何运作的<br /><br />—— <a href="https://www.ft.com/content/a2c29506-4a38-47a3-8775-beb5e488c169" rel="noopener" target="_blank">金融时报</a></p>
-]]></content:encoded>
-<pubDate>Sat, 25 Nov 2023 11:10:32 GMT</pubDate>
 </item>
 </channel>
 </rss>

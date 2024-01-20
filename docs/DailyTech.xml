@@ -4,12 +4,12 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+
 <item>
 <title>↩️ 感谢群友 @desolated 给出 iOS TikTok 移除限制的可能原因。 并不是 TikTok 主动想移除限制，而是因为 Apple 废除了 CTCarrier 的 API。在 Xcode 使用 iOS ...</title>
 <link>https://t.me/AppleNuts/1882</link>
 <guid>https://t.me/AppleNuts/1882</guid>
 <content:encoded><![CDATA[
-
 <div class="rsshub-quote"><blockquote>
                                     <p><a href="https://t.me/AppleNuts/1881"><b> Apple Nuts</b>:</a></p>
                                     <p><small><span class="emoji">🎵</span> TikTok 在最新版本(33.0.0)中移除 SIM 卡检测  如果你依然无法使用，可能是你的节点 IP 问题。  如果你是新用户，请留意你当前的 IP，后续切换区域需要在新 IP 登录 30 天。  https://apps.apple.com/us/app/tiktok/id835599320</small></p>
@@ -17,20 +17,16 @@
                                 </blockquote></div><p>感谢群友 <a href="https://t.me/desolated" target="_blank">@desolated</a> 给出 iOS TikTok 移除限制的可能原因。<br /><br />并不是 TikTok 主动想移除限制，而是因为 Apple 废除了 CTCarrier 的 API。在 Xcode 使用 iOS 16.4 或更新版本 SDK 编译，调用该 API 会返回固定字符串，失去检测运营商功能。<br /><br />因此这一变动可能不适用于 Android 机型的 TikTok.<br /><br />CTCarrier, a deprecated API, returns static values for apps that are built with the iOS 16.4 SDK or later. (76283818)<br /><br /><a href="https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_4-release-notes" rel="noopener" target="_blank">https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_4-release-notes</a></p>
 ]]></content:encoded>
 <pubDate>Sat, 20 Jan 2024 11:58:57 GMT</pubDate>
-<pubDate>Sat, 20 Jan 2024 11:58:57 GMT</pubDate>
 </item>
 <item>
 <title>🖼 🎵 TikTok 在最新版本(33.0.0)中移除 SIM 卡检测 如果你依然无法使用，可能是你的节点 IP 问题。 如果你是新用户，请留意你当前的 IP，后续切换区域需要...</title>
 <link>https://t.me/AppleNuts/1881</link>
 <guid>https://t.me/AppleNuts/1881</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">🎵</span> TikTok 在最新版本(33.0.0)中移除 SIM 卡检测<br /><br />如果你依然无法使用，可能是你的节点 IP 问题。<br /><br />如果你是新用户，请留意你当前的 IP，后续切换区域需要在新 IP 登录 30 天。<br /><br /><a href="https://apps.apple.com/us/app/tiktok/id835599320" rel="noopener" target="_blank">https://apps.apple.com/us/app/tiktok/id835599320</a></p><img src="https://cdn5.cdn-telegram.org/file/rkcRxw9fLUCMoMNe8zbQ5TFZ3Mj6y40_4XDD6BfCOCKixSD_xm9Xt_3av-SGnVm5qHFHKmVmPgWLxKbTrIa4xHFJg0rQaVBXfCFa59wa3VUsdxWB9pYpE7qLMyzaDff3HYqnCK7soYsQ1jZ9P6N7izZGnBTP4GHy9Axe5lG0B0Gw96Fo-iS3-FQBqucJBcrbrJfvmzmILArXntBXHwGMs_yeIIdtxdn5QgjVPQSan4Q7eehTDFeHdOTKyINIa8YVG3EUxlxEPEdUjsVxiqMvTItuiKFjRIyZuS09ayUJgQvKLhy8-pTIh_tKuRysfy6GzJqeMyKqWJhsSVQ7tsNtFw.jpg" />
 ]]></content:encoded>
 <pubDate>Sat, 20 Jan 2024 11:33:35 GMT</pubDate>
-<pubDate>Sat, 20 Jan 2024 11:33:35 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 #News #CyberClip ✂️ CyberClip #49 如何提出好问题 🔗 博客 | 竹白 ↪️ CyberClip 是一份臻选互联网上有价值内容的赛博剪报，两周一期，涵盖新奇趣闻...</title>
 <link>https://t.me/NewlearnerChannel/12342</link>
@@ -9124,24 +9120,6 @@ Tue, 16 Jan 2024 01:33:20 GMT
 <p><a href="https://t.me/NewlearnerChannel/12096?q=%23GitHub%E6%83%85%E6%8A%A5">#GitHub情报</a> <a href="https://t.me/NewlearnerChannel/12096?q=%23iOS">#iOS</a> <br /><br /><a href="https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23269" rel="noopener" target="_blank">老司机 iOS 周报 2023-11-27</a><br /><br />这周份的 iOS Markdown 周报，适合爱好者和 iOS 开发人员，每周为大家带来最新的 iOS 新闻资讯，开发信息<br /><br /><span class="emoji">📘</span> 本期简介：<br /><br /><span class="emoji">🐢</span> <a href="https://mp.weixin.qq.com/s/vbkhjPNboqK1oDy_J5pzeA" rel="noopener" target="_blank">Flutter 3.16 + Dart 3.2 发布</a><br /><span class="emoji">🐎</span> <a href="https://damian.fyi/swift/2023/11/13/swift-strings-look-identical-but-aren&amp;amp#39;t.html" rel="noopener" target="_blank">Swift strings look identical but aren't</a><br /><span class="emoji">🌟</span> <span class="emoji">🐢</span> <a href="https://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html" rel="noopener" target="_blank">What Every C Programmer Should Know About Undefined Behavior #1/3</a> <a href="https://blog.llvm.org/2011/05/what-every-c-programmer-should-know_14.html" rel="noopener" target="_blank">#2/3</a> <a href="https://blog.llvm.org/2011/05/what-every-c-programmer-should-know_21.html" rel="noopener" target="_blank">#3/3</a><br /><span class="emoji">🐕</span> <a href="https://www.avanderlee.com/swiftui/debugging-swiftui-views/" rel="noopener" target="_blank">Debugging SwiftUI views: what caused that change?</a><br /><span class="emoji">🐎</span> <a href="https://useyourloaf.com/blog/custom-traits-and-swiftui/" rel="noopener" target="_blank">Custom Traits and SwiftUI</a><br /><span class="emoji">🐎</span> <a href="https://blog.swiftpackageindex.com/posts/revealing-and-explaining-package-scores" rel="noopener" target="_blank">Revealing and explaining package scores</a><br /><br /><span class="emoji">📝</span> 13 的开发者周报 #211：<a href="https://www.ethanhuang13.com/p/211" rel="noopener" target="_blank">好，買了，破費</a><br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/s7Oh-GLjy2UgjwreFfi-EqYY_DukJLKozi8nhfN7Bgs0trzoSAsJffy9ynNdLOyuuv9nk9n68kto_l-FPhz3vwe481uPv7-A3QoEPBvx5rFnW7MB0Vj33P2T1rONgyZPtAP-lnBme6hOmBm-ZLTkPUYE-tyXww9yhq6FJ108RjOnXnAXqTFxz6931mkV1s4E9DbVRBALFljwa9w9PhI9Q4SKVep5kbwgTvaLzQ6U-8P6HD_RxTriEqMXFaC4dGzJyiWB4azqdPA4LcMWU_gnKiqYevXcJFqVQ563W8UDARz4JUobcdWaWheu6-1XzmZY4WF9w9u5FAroRWmGUyh4Hg.jpg" />
 ]]></content:encoded>
 <pubDate>Mon, 27 Nov 2023 07:02:06 GMT</pubDate>
-</item>
-<item>
-<title>美英等国发布人工智能系统开发联合指南，要求使AI“通过设计变得安全” 路透华盛顿11月27日 - 美国、英国和其他十几个国家周日公布了美国高级官员所说的第一份关...</title>
-<link>https://t.me/xhqcankao/7076</link>
-<guid>https://t.me/xhqcankao/7076</guid>
-<content:encoded><![CDATA[
-<p><b>美英等国发布人工智能系统开发联合指南，要求使AI“通过设计变得安全”</b><br /><br />路透华盛顿11月27日 - 美国、英国和其他十几个国家周日公布了美国高级官员所说的第一份关于如何保护人工智能免受流氓行为者侵害的详细国际协议，敦促企业创建“设计安全”的人工智能系统。<br /><br />在周日公布的一份长达 20 页的文件中，18 个国家一致认为，设计和使用人工智能的公司需要以确保客户和广大公众免受滥用的方式开发和部署人工智能。<br /><br />该协议不具有约束力，主要包含一般性建议，例如监控人工智能系统是否被滥用、保护数据免遭篡改以及审查软件供应商。<br /><br />除美国和英国外，签署新指南的 18 个国家还包括德国、意大利、捷克共和国、爱沙尼亚、波兰、澳大利亚、智利、以色列、尼日利亚和新加坡。<br /><br />—— <a href="https://www.reuters.com/technology/us-britain-other-countries-ink-agreement-make-ai-secure-by-design-2023-11-27/" rel="noopener" target="_blank">路透社</a></p>
-]]></content:encoded>
-<pubDate>Mon, 27 Nov 2023 06:45:09 GMT</pubDate>
-</item>
-<item>
-<title>DMIT 推出便宜 GIA 机型 36.9美元/年 DMIT 今天推出了名为 PVM.LAX.Pro.WEE 的机型。 配置为 1 vCPU，1 GB内存，10G SSD 存储，450 GB 月流量，500Mbps 带宽。 ...</title>
-<link>https://t.me/xhqcankao/7075</link>
-<guid>https://t.me/xhqcankao/7075</guid>
-<content:encoded><![CDATA[
-<p><b>DMIT 推出便宜 GIA 机型 36.9美元/年</b><br /><br />DMIT 今天推出了名为 PVM.LAX.Pro.WEE 的机型。<br /><br />配置为 1 vCPU，1 GB内存，10G SSD 存储，450 GB 月流量，500Mbps 带宽。<br /><br />这是一个 Pro 机型，具有 GIA 线路，而价格则为 $36.9/年，显著低于同类型机器。<br /><br />购买链接：<br /><a href="https://www.dmit.io/aff.php?aff=2035&amp;pid=183" rel="noopener" target="_blank">https://www.dmit.io/aff.php?aff=2035&amp;pid=183</a></p>
-]]></content:encoded>
-<pubDate>Mon, 27 Nov 2023 05:27:44 GMT</pubDate>
 </item>
 </channel>
 </rss>

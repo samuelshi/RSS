@@ -4,6 +4,32 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+<item>
+<title>↩️ 感谢群友 @desolated 给出 iOS TikTok 移除限制的可能原因。 并不是 TikTok 主动想移除限制，而是因为 Apple 废除了 CTCarrier 的 API。在 Xcode 使用 iOS ...</title>
+<link>https://t.me/AppleNuts/1882</link>
+<guid>https://t.me/AppleNuts/1882</guid>
+<content:encoded><![CDATA[
+
+<div class="rsshub-quote"><blockquote>
+                                    <p><a href="https://t.me/AppleNuts/1881"><b> Apple Nuts</b>:</a></p>
+                                    <p><small><span class="emoji">🎵</span> TikTok 在最新版本(33.0.0)中移除 SIM 卡检测  如果你依然无法使用，可能是你的节点 IP 问题。  如果你是新用户，请留意你当前的 IP，后续切换区域需要在新 IP 登录 30 天。  https://apps.apple.com/us/app/tiktok/id835599320</small></p>
+                                    
+                                </blockquote></div><p>感谢群友 <a href="https://t.me/desolated" target="_blank">@desolated</a> 给出 iOS TikTok 移除限制的可能原因。<br /><br />并不是 TikTok 主动想移除限制，而是因为 Apple 废除了 CTCarrier 的 API。在 Xcode 使用 iOS 16.4 或更新版本 SDK 编译，调用该 API 会返回固定字符串，失去检测运营商功能。<br /><br />因此这一变动可能不适用于 Android 机型的 TikTok.<br /><br />CTCarrier, a deprecated API, returns static values for apps that are built with the iOS 16.4 SDK or later. (76283818)<br /><br /><a href="https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_4-release-notes" rel="noopener" target="_blank">https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_4-release-notes</a></p>
+]]></content:encoded>
+<pubDate>Sat, 20 Jan 2024 11:58:57 GMT</pubDate>
+<pubDate>Sat, 20 Jan 2024 11:58:57 GMT</pubDate>
+</item>
+<item>
+<title>🖼 🎵 TikTok 在最新版本(33.0.0)中移除 SIM 卡检测 如果你依然无法使用，可能是你的节点 IP 问题。 如果你是新用户，请留意你当前的 IP，后续切换区域需要...</title>
+<link>https://t.me/AppleNuts/1881</link>
+<guid>https://t.me/AppleNuts/1881</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">🎵</span> TikTok 在最新版本(33.0.0)中移除 SIM 卡检测<br /><br />如果你依然无法使用，可能是你的节点 IP 问题。<br /><br />如果你是新用户，请留意你当前的 IP，后续切换区域需要在新 IP 登录 30 天。<br /><br /><a href="https://apps.apple.com/us/app/tiktok/id835599320" rel="noopener" target="_blank">https://apps.apple.com/us/app/tiktok/id835599320</a></p><img src="https://cdn5.cdn-telegram.org/file/rkcRxw9fLUCMoMNe8zbQ5TFZ3Mj6y40_4XDD6BfCOCKixSD_xm9Xt_3av-SGnVm5qHFHKmVmPgWLxKbTrIa4xHFJg0rQaVBXfCFa59wa3VUsdxWB9pYpE7qLMyzaDff3HYqnCK7soYsQ1jZ9P6N7izZGnBTP4GHy9Axe5lG0B0Gw96Fo-iS3-FQBqucJBcrbrJfvmzmILArXntBXHwGMs_yeIIdtxdn5QgjVPQSan4Q7eehTDFeHdOTKyINIa8YVG3EUxlxEPEdUjsVxiqMvTItuiKFjRIyZuS09ayUJgQvKLhy8-pTIh_tKuRysfy6GzJqeMyKqWJhsSVQ7tsNtFw.jpg" />
+]]></content:encoded>
+<pubDate>Sat, 20 Jan 2024 11:33:35 GMT</pubDate>
+<pubDate>Sat, 20 Jan 2024 11:33:35 GMT</pubDate>
+</item>
 
 <item>
 <title>🖼 #News #CyberClip ✂️ CyberClip #49 如何提出好问题 🔗 博客 | 竹白 ↪️ CyberClip 是一份臻选互联网上有价值内容的赛博剪报，两周一期，涵盖新奇趣闻...</title>

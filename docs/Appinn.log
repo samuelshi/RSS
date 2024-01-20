@@ -11715,3 +11715,10 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-01-20 16:01:44
+Existing_entries: 590
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [💧 #小众软件 片假名终结者 – 在网页中的日语外来语上方标注英文原词[油猴脚本] https://www.appinn.com/katakana-terminator/ Tags: #Chrome, #Firefox, #外...](https://t.me/appinnfeed/9367)
+append_entries: 1
+Finish: 2024-01-20 16:01:45

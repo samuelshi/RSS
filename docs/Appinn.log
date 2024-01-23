@@ -12217,3 +12217,10 @@ Append: [🖼 转不回去的 Toncoin(Safe) 🙈](https://t.me/appinnfeed/9399)
 Append: [🖼 差点被诈骗。然后给我转了一堆用 TON 发行的 token，我还转不回去，因为我已经没有 TON 了…](https://t.me/appinnfeed/9398)
 append_entries: 3
 Finish: 2024-01-23 21:03:26
+------------------------------------------------------
+Started: 2024-01-23 22:01:25
+Existing_entries: 624
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [❓ #问题求助 TC 设置为默认文件管理器后，Explorer 还会在几秒后打开 https://meta.appinn.net/t/topic/51995](https://t.me/appinnfeed/9401)
+append_entries: 1
+Finish: 2024-01-23 22:01:26

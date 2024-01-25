@@ -21776,3 +21776,16 @@ Append: [TikTok 正在测试30分钟的视频上传功能 TikTok 被发现正在
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
 append_entries: 1
 Finish: 2024-01-25 08:03:27
+------------------------------------------------------
+Started: 2024-01-25 09:26:37
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel
+Append: [🖼 News ☀️ 自留地早报【1.25】 1⃣️ WSJ ：消息称苹果将在欧洲调整 App Store 政策，侧载应用也要收费和审核 2⃣️ Financial Times ：苹果通过收购多家 A...](https://t.me/NewlearnerChannel/12367)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection
+Append: [2024年1月25日 🌍资讯快读 1、个人养老金制度将推进全面实施 https://www.jiemian.com/article/10722135.html 2、江西新余一楼房发生火灾，已造成25人遇难 htt...](https://t.me/jike_collection/9488)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
+Append: [Netflix 悄悄提高了在新加坡的价格 1月25日消息，新加坡的 Netflix 用户已开始为流媒体服务支付更高的费用。该国用户现在每月需要为 Netflix 的基本套餐支付 13....](https://t.me/xhqcankao/7845)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
+Feed error: 504
+append_entries: 3
+error when rendering xml, skip docs/DailyTech

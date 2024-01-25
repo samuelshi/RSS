@@ -5,17 +5,26 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>TikTok 正在测试30分钟的视频上传功能 TikTok 被发现正在与部分用户测试上传30分钟视频的功能。这标志着该公司已经放弃了流行的短视频格式。社交媒体顾问马特·...</title>
+<link>https://t.me/xhqcankao/7844</link>
+<guid>https://t.me/xhqcankao/7844</guid>
+<content:encoded><![CDATA[
+
+<p><b>TikTok 正在测试30分钟的视频上传功能</b><br /><br />TikTok 被发现正在与部分用户测试上传30分钟视频的功能。这标志着该公司已经放弃了流行的短视频格式。社交媒体顾问马特·纳瓦拉在英国的 iOS 测试版应用中发现了这个新选项。并表示，他听说部分安卓用户也在 TikTok 的测试版中看到了这个选项。<br /><br />该公司最初因其短视频格式而受欢迎，但后来逐渐开始接受长视频。如果新的上传限制广泛推行，TikTok 将比最初的15秒视频时长限制大有改观。几个月前，TikTok 官方就证实在测试15分钟的视频上传限制。<br /><br />,—— <a href="https://techcrunch.com/2024/01/24/tiktok-testing-30-minute-uploads-inch-into-youtubes-territory/" rel="noopener" target="_blank">Techcrunch</a></p>
+]]></content:encoded>
+<pubDate>Wed, 24 Jan 2024 23:11:08 GMT</pubDate>
+<pubDate>Wed, 24 Jan 2024 23:11:08 GMT</pubDate>
+</item>
+
+<item>
 <title>部分用户在更新最新安卓版 YouTube 后应用不断崩溃 在过去的几周内，对于部分用户来说，安卓上的 YouTube 应用陷入了崩溃的循环。打开 YouTube 应用并选择视频时...</title>
 <link>https://t.me/xhqcankao/7843</link>
 <guid>https://t.me/xhqcankao/7843</guid>
 <content:encoded><![CDATA[
-
 <p><b>部分用户在更新最新安卓版 YouTube 后应用不断崩溃</b><br /><br />在过去的几周内，对于部分用户来说，安卓上的 YouTube 应用陷入了崩溃的循环。打开 YouTube 应用并选择视频时，视频会加载，但介绍、评论和相关视频永远不会加载。几秒钟后，应用就会崩溃，当尝试重新打开时，循环就会重复。该问题似乎并未影响所有用户，但不少人都遇到了该问题。目前，解决办法似乎是卸载 YouTube 应用的更新或安装最新的测试版。用户反馈大约在一周前开始，但在过去几天似乎已经平静下来。如果仍然遇到该问题，或者问题已经解决，请在下面发表评论。<br /><br />—— <a href="https://9to5google.com/2024/01/24/youtube-android-crashing-issue/" rel="noopener" target="_blank">9to5google</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 24 Jan 2024 22:16:40 GMT</pubDate>
-<pubDate>Wed, 24 Jan 2024 22:16:40 GMT</pubDate>
 </item>
-
 <item>
 <title>苹果计划在欧洲对App Store以外的下载收取新的费用 据《华尔街日报》报道，苹果公司计划在开始允许在其应用商店外下载第三方软件时增加新的费用和限制，该计划是...</title>
 <link>https://t.me/xhqcankao/7842</link>
@@ -9138,15 +9147,6 @@ Tue, 16 Jan 2024 01:33:20 GMT
 <p><b>Steam将停止支持 macOS 10.13 和 10.14 系统</b><br /><br />自2024年2月15日起，Steam将正式停止支持 macOS 10.13 (High Sierra) 和 10.14 (Mojave) 操作系统。在此日期之后，不再向这些操作系统的现有 Steam 客户端，推送包括安全更新在内的任何类型更新。<br /><br />不幸的是，macOS 10.14 是支持在 macOS 上运行 32 位游戏的最后一个版本。苹果选择在 macOS 10.15（2019 年发布）中放弃对 32 位应用程序的支持，并且由于许多开发人员尚未更新他们的游戏到 64 位，因此可能会导致某些游戏无法有效运行。<br /><br />—— <a href="https://help.steampowered.com/en/faqs/view/743F-2E0E-C9A5-C375" rel="noopener" target="_blank">Steam</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 01 Dec 2023 11:38:52 GMT</pubDate>
-</item>
-<item>
-<title>Gmail中部署的新矢量算法将大幅度提高垃圾和钓鱼邮件的识别率 Google最近在 Google Colab 上开源了一个名为 RETVec 的新型多语言文本矢量化器，这个矢量化器已经...</title>
-<link>https://t.me/xhqcankao/7140</link>
-<guid>https://t.me/xhqcankao/7140</guid>
-<content:encoded><![CDATA[
-<p><b>Gmail中部署的新矢量算法将大幅度提高垃圾和钓鱼邮件的识别率</b><br /><br />Google最近在 Google Colab 上开源了一个名为 RETVec 的新型多语言文本矢量化器，这个矢量化器已经部署在 Gmail 上，用来提升垃圾邮件和钓鱼邮件的识别率，同时降低误报率。<br /><br />为什么要训练这样一种模型呢？因为 Gmail 每天收发的邮件都在千万级别，如果包含各类垃圾邮件的话可能有几十亿，而垃圾邮件制造者会对Google的检测系统进行规避，例如使用同形字。<br /><br />根据Google自己的统计，将 RETVec 应用到 Gmail 后，垃圾邮件检测率比基准提高 38%、误报率降低 19.4%、张量处理单元 (TPU) 使用率降低了 83%。<br /><br />—— <a href="https://m.cnbeta.com.tw/view/1401207.htm" rel="noopener" target="_blank">cnBeta</a></p>
-]]></content:encoded>
-<pubDate>Fri, 01 Dec 2023 10:26:43 GMT</pubDate>
 </item>
 </channel>
 </rss>

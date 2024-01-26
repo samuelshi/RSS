@@ -22048,3 +22048,14 @@ Append: [马斯克身价因特斯拉股价暴跌减少约180亿美元 特斯拉�
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
 append_entries: 2
 Finish: 2024-01-26 10:08:20
+------------------------------------------------------
+Started: 2024-01-26 11:01:39
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
+Append: [因业务调整，中国移动和家亲相册服务正式停服下线 中国移动发布公告，因业务调整，中国移动和家亲、家庭云出品的和家亲相册 (和家相册) 服务已于1月25日0时起正...](https://t.me/xhqcankao/7867)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
+Feed error: 504
+append_entries: 1
+error when rendering xml, skip docs/DailyTech

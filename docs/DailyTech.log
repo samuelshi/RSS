@@ -22059,3 +22059,14 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
 Feed error: 504
 append_entries: 1
 error when rendering xml, skip docs/DailyTech
+------------------------------------------------------
+Started: 2024-01-26 12:01:48
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
+Append: [本田与通用共同研发的氢燃料电池系统启动量产 本田公司25日透露，在与美国汽车巨头通用汽车 (GM) 设立的合资公司的工厂，已启动双方共同研发的氢燃料电池系统的...](https://t.me/xhqcankao/7868)
+Append: [因业务调整，中国移动和家亲相册服务正式停服下线 中国移动发布公告，因业务调整，中国移动和家亲、家庭云出品的和家亲相册 (和家相册) 服务已于1月25日0时起正...](https://t.me/xhqcankao/7867)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
+append_entries: 2
+Finish: 2024-01-26 12:01:52

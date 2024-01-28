@@ -22490,3 +22490,12 @@ Append: [由于大量虚假不雅照片，社交平台 X 似乎阻止了对歌�
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
 append_entries: 1
 Finish: 2024-01-28 07:01:42
+------------------------------------------------------
+Started: 2024-01-28 08:03:32
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
+append_entries: 0
+Finish: 2024-01-28 08:03:36

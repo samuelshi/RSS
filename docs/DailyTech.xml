@@ -4,15 +4,14 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+
 <item>
 <title>🖼 #Python潮流周刊 🐬🐬🐬 第 37 期 🐬🐬🐬 🦄文章&amp;教程 ① Python 装饰器的 3 个真实案例 ② 这不是面试建议：Python 不用堆和树实现按优先级...</title>
 <link>https://t.me/NewlearnerChannel/12384</link>
 <guid>https://t.me/NewlearnerChannel/12384</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://t.me/NewlearnerChannel/12384?q=%23Python%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A">#Python潮流周刊</a> <br /><br /><span class="emoji">🐬</span><span class="emoji">🐬</span><span class="emoji">🐬</span>&nbsp; <a href="https://pythoncat.top/posts/2024-01-27-weekly" rel="noopener" target="_blank">第 37 期</a>&nbsp; <span class="emoji">🐬</span><span class="emoji">🐬</span><span class="emoji">🐬</span><br /><br /><span class="emoji">🦄</span>文章&amp;教程 <br /><br />① Python 装饰器的 3 个真实案例<br />② 这不是面试建议：Python 不用堆和树实现按优先级过期的 LRU 缓存<br />③ Python dict() 和 {} 的性能分析<br />④ 增强 Markdown 语言以实现出色的 Python 图形界面<br />⑤ 7 个 Python 内存优化技巧<br />⑥ Python 中的垃圾回收：你需要知道的事情<br />⑦ Postgres 与 DynamoDB：该选择哪个数据库？<br />⑧ 使用 Streamlit 在 Python 中创建仪表板<br />⑨ <a href="http://scrapscript.py/" rel="noopener" target="_blank">scrapscript.py</a> 编程语言的实现过程<br />⑩ Python Cryptography 已支持 X.509<br />⑪ 我对动态类型感到失望<br />⑫ Python “令人失望”的超能力<br /><br /><span class="emoji">🐿️</span>项目&amp;资源 <br /><br />① core：可用于生产的 AI 助手框架<br />② van-gonography：将任意类型的文件隐藏在一张图像中<br />③ mpmath：任意精度的浮点数运算<br />④ sqlite-worker：在多线程应用中轻松管理 SQLite<br />⑤ granian：用于 Python 程序的 Rust HTTP server<br />⑥ fasthx：FastAPI + HTMX 开发框架<br />⑦ ml-engineering：机器学习工程开源书籍<br />⑧ sglang：专为大型语言模型设计的结构化生成语言<br />⑨ chatgpt<i>telegram</i>bot：ChatGPT Telegram 机器人，无限制用 GPT-4<br />⑩ HuixiangDou：基于 LLM 的领域知识助手<br />⑪ ComfyUI-InstantID：ComfyUI 的 InstantID 的非官方实现<br />⑫ ComfyUI-PhotoMaker-ZHO：ComfyUI 的 PhotoMaker 的非官方实现<br /><br /><span class="emoji">👀</span><a href="https://pythoncat.top/posts/2024-01-27-weekly" rel="noopener" target="_blank">阅读全文</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="emoji">🤝</span><a href="https://github.com/chinesehuazhou/python-weekly" rel="noopener" target="_blank">欢迎投稿</a><br /><br /><span class="emoji">🐱</span>频道 <a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/dPHi9Uwxo0naleN88YqfaT4rOyMtx6a8akuDo2Dai5D_VWAFYwiapaZAFyg5JGr1t8cmvvONzporuQ5z5GBgatKN9YEnlIMJwWAnw2WxhCj6CYWw0qfdU4PekSVwH1Jrm0dAG4_-jsLhWDgc3wNjgfL47uLpUYyy27U1UlCeYctvyLz5XzrIy5f42kU1bUnuCuiD2IAs2ap9oc5r4kKcMbS6XAGmQQdzkWIQ7o_XEWZSfLWSaPcQEtqraIfvFfiX8ErprDpG7mLrQX6qnwht_sLoERYsIPu59vC9MHNffcfhClw1qX0KhhX_6ITd-KjSVmVOkro1IGgH77YVfMk8vQ.jpg" />
 ]]></content:encoded>
-<pubDate>Mon, 29 Jan 2024 10:01:12 GMT</pubDate>
 <pubDate>Mon, 29 Jan 2024 10:01:12 GMT</pubDate>
 </item>
 <item>
@@ -20,10 +19,8 @@
 <link>https://t.me/xhqcankao/7907</link>
 <guid>https://t.me/xhqcankao/7907</guid>
 <content:encoded><![CDATA[
-
 <p><b>社交平台 X 计划在奥斯汀建立内容审核总部<br /></b><br />据彭博社1月27日报道，X表示将在德克萨斯州奥斯汀设立新的信任和安全办公室，雇用100名全职员工。该计划是在首席执行官琳达·亚卡里诺定于1月31日在参议院司法委员会就X对儿童性剥削事件的节制问题举行听证会的几天前出台的。该团队将主要关注CSE。该公司的业务运营负责人乔·贝纳罗克告诉彭博社，该团队还将协助执行其他审核规定，如禁止仇恨言论的规定。X在奥斯汀发布的一份内容审核招聘启事称，审核员将调查"垃圾邮件和欺诈"等问题，并提供客户支持。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-01-27/musk-s-x-pledges-100-person-office-in-texas-to-police-content?srnd=premium&amp;amp;sref=ExbtjcSG" rel="noopener" target="_blank">彭博社</a>、<a href="https://www.theverge.com/2024/1/27/24053003/x-content-moderation-office-child-sexual-exploitation" rel="noopener" target="_blank">TheVerge</a></p>
 ]]></content:encoded>
-<pubDate>Mon, 29 Jan 2024 09:50:38 GMT</pubDate>
 <pubDate>Mon, 29 Jan 2024 09:50:38 GMT</pubDate>
 </item>
 <item>
@@ -31,13 +28,10 @@
 <link>https://t.me/xhqcankao/7906</link>
 <guid>https://t.me/xhqcankao/7906</guid>
 <content:encoded><![CDATA[
-
 <p><b>过去六个月中国已批准了 40 多个大型语言模型</b><br /><br />路透香港1月29日 - 据中国媒体报道，自当局开始审批程序以来的前六个月，中国已批准了40多个人工智能 (AI) 模型供公众使用，中国努力在人工智能发展方面赶上美国。<br /><br />据《证券时报》报道，上周，中国监管机构批准了总共14个大型语言模型 (LLM) 供公众使用。这是中国批准的第四批，其中包括小米公司、第四范式和新壹科技等公司。<br /><br />去年8月，北京开始要求科技公司获得监管批准，以向公众开放它们的LLM。这凸显了中国在发展AI技术的同时，努力将其纳入监管和控制之下的做法。<br /><br />中国监管机构随后在11月和12月分别批准了两批，然后在本月批准了另一批。尽管政府并未公开批准的公司名单以供公众查询，但《证券时报》在周日表示已经有40多个AI模型获得了批准。<br /><br />—— <a href="https://www.reuters.com/technology/china-approves-over-40-ai-models-public-use-past-six-months-2024-01-29/" rel="noopener" target="_blank">路透社</a> ，<a href="https://www.stcn.com/article/detail/1106421.html" rel="noopener" target="_blank">证券时报</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 29 Jan 2024 09:14:58 GMT</pubDate>
-<pubDate>Mon, 29 Jan 2024 09:14:58 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 开户中银香港有什么好处？怎么开户？ 首先，开户中银香港有以下好处： 1. 使用中国银行汇款到中银香港或通过中银快汇汇回大陆成本低，速度快，有时甚至能够...</title>
 <link>https://t.me/jike_collection/9502</link>
@@ -9150,33 +9144,6 @@ Tue, 16 Jan 2024 01:33:20 GMT
 <p><b>谷歌修复了由桌面版应用导致的 Google Drive 文件丢失问题</b><br /><br />谷歌针对导致部分用户桌面版云端硬盘上的文件消失的同步问题提供了解决方案。谷歌已经发布了一份恢复文件<a href="https://support.google.com/drive/answer/14286582?sjid=8199341837463411967-NA&amp;amp;visit_id=638374915792943017-976340002&amp;amp;p=DFDSyncIssue&amp;amp;rd=1#zippy=%2Crecover-files-from-backup-from-the-drive-for-desktop-app%2Cadditional-troubleshooting-options-for-data-recovery%2Cadvanced-recover-files-from-backup-using-the-command-line-interface" rel="noopener" target="_blank">的步骤列表。</a><br /><br />下载最新桌面版本 Google Drive 后，谷歌表示要运行该应用的恢复工具。为此，请单击菜单栏或系统托盘中的 Drive 图标。在那里，按住 Shift 键，单击“设置”，然后选择“从备份恢复”。<br /><br />恢复过程完成后，谷歌会将所有恢复的文件放入一个名为“Google Drive Recovery”的新文件夹中。如果你遇到任何问题，谷歌表示你可以通过桌面版云端硬盘应用提交反馈。<br /><br />—— <a href="https://www.theverge.com/2023/12/6/23991183/google-drive-lost-files-desktop-fix" rel="noopener" target="_blank">Theverge</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 06 Dec 2023 22:40:20 GMT</pubDate>
-</item>
-<item>
-<title>谷歌推出最新的大型语言模型 Gemini 1.0 谷歌发布最新的大型语言模型 Gemini，谷歌 CEO 皮查伊在 6 月份的 I/O 开发者大会上首次透露了该模型，现在正式向公众推...</title>
-<link>https://t.me/xhqcankao/7204</link>
-<guid>https://t.me/xhqcankao/7204</guid>
-<content:encoded><![CDATA[
-<p><b>谷歌推出最新的大型语言模型 Gemini 1.0<br /></b><br />谷歌发布最新的大型语言模型 Gemini，谷歌 CEO 皮查伊在 6 月份的 I/O 开发者大会上首次透露了该模型，现在正式向公众推出。<br /><br />谷歌针对不同场景发布了三种不同尺寸的版本。例如 Google 的人工智能聊天机器人 Bard 现在由可扩展的 Gemini Pro 提供支持。<br /><br />Gemini Nano 是轻量版本，旨在 Android 设备上本地离线运行，Pixel 8 Pro 成为首款搭载此模型的设备。<br /><br />Gemini Ultra，它是谷歌迄今为止创建的最强大的 LLM，适用于高度复杂的任务。似乎主要是为数据中心和企业应用设计的。<br /><br />—— <a href="https://blog.google/technology/ai/google-gemini-ai/#introducing-gemini" rel="noopener" target="_blank">谷歌博客</a></p>
-]]></content:encoded>
-<pubDate>Wed, 06 Dec 2023 15:31:02 GMT</pubDate>
-</item>
-<item>
-<title>美国参议员警告称：有外国政府通过苹果和谷歌的消息推送服务来监视用户 美国参议员周三警告称，未名身份的政府正在通过应用程序的推送服务来监视智能手机用户。 ...</title>
-<link>https://t.me/xhqcankao/7203</link>
-<guid>https://t.me/xhqcankao/7203</guid>
-<content:encoded><![CDATA[
-<p><b>美国参议员警告称：有外国政府通过苹果和谷歌的消息推送服务来监视用户</b><br /><br />美国参议员周三警告称，未名身份的政府正在通过应用程序的推送服务来监视智能手机用户。<br /><br />参议员罗恩·怀登在给美国司法部的一封信中表示，外国官员要求谷歌和苹果提供数据。尽管细节很少，但这封信列出了政府追踪智能手机的另一条途径。<br /><br />各种应用都依靠推送通知来提醒智能手机用户接收消息、突发新闻和其他更新。用户通常没有意识到是，几乎所有此类通知都通过谷歌和苹果的服务器传输。<br /><br />怀登的信中引用了一条“线报”作为监视信息的来源。他的工作人员没有详细说明这个线报，但一位知情人士证实，外国和美国政府机构一直在要求苹果和谷歌提供与推送通知相关的元数据，例如帮助将匿名消息应用的用户与特定的苹果或谷歌帐户联系起来。<br /><br />消息人士拒绝透露参与提出请求的外国政府的身份，但称他们是与美国结盟的民主国家。<br /><br />——<a href="https://www.reuters.com/technology/cybersecurity/governments-spying-apple-google-users-through-push-notifications-us-senator-2023-12-06/" rel="noopener" target="_blank"> 路透社</a></p>
-]]></content:encoded>
-<pubDate>Wed, 06 Dec 2023 14:34:37 GMT</pubDate>
-</item>
-<item>
-<title>苹果 iMessage 将获得欧盟互操作性法规的宽限期 欧盟的《数字市场法案》(DMA) 规定将于 2024 年对科技巨头产生影响，该规定将要求大型信息应用与其他服务实现互...</title>
-<link>https://t.me/xhqcankao/7202</link>
-<guid>https://t.me/xhqcankao/7202</guid>
-<content:encoded><![CDATA[
-<p><b>苹果 iMessage 将获得欧盟互操作性法规的宽限期<br /></b><br />欧盟的《数字市场法案》(DMA) 规定将于 2024 年对科技巨头产生影响，该规定将要求大型信息应用与其他服务实现互操作。<br /><br />然而，据彭博社报道，苹果公司的即时通信软件 iMessage 可能不必遵守这一规定，因为欧盟初步推断该服务在企业用户中不够流行。<br /><br />虽然最终决定尚未确定，但彭博社引述知情人士报道称，欧盟暂时不会要求苹果公司使 iMessage 具有互操作性。这意味着它不一定需要与 Messenger 或 WhatsApp 等其他服务配合使用。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2023-12-06/apple-imessage-set-to-avoid-eu-s-digital-dominance-crackdown" rel="noopener" target="_blank">彭博社</a></p>
-]]></content:encoded>
-<pubDate>Wed, 06 Dec 2023 13:55:31 GMT</pubDate>
 </item>
 </channel>
 </rss>

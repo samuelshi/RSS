@@ -4,6 +4,17 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>❓ #问题求助 IPV6默认网关频繁丢失 https://meta.appinn.net/t/topic/52156</title>
+<link>https://t.me/appinnfeed/9459</link>
+<guid>https://t.me/appinnfeed/9459</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9459?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />IPV6默认网关频繁丢失<br /><br /><a href="https://meta.appinn.net/t/topic/52156" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/52156</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/52156">IPV6默认网关频繁丢失</a></b><br /><p>重启电脑/光猫/路由是正常的，但是过一会儿IPV6默认网关就为空了，导致IPV6的地址也访问不了，通过ipconfig /renew6或者禁用再启用网卡能够恢复，但过一会儿又丢了。  请问有没有一劳永逸的办法，老是执行命令或者禁用启用网卡也不是办法。  衍生问题：执行ipconfig /renew6会提示   在续订接口 本地连接 时出错: 系统找不到指定的文件。   但是执行ipconfig /renew正常，两者是不是有什么相关性？</p><img src="https://cdn4.cdn-telegram.org/file/IozyXh0ljKi8SXZT1B2fmTMi86K1FhreHx4A-mwho5yRr64dYlDNTBEM8S7CqjgEWlzocribIN33wdJPyPdEMhSSaGQH3wpvN4yj3RwfBmy6IWRduSzpGqIZTW4Ru2SK_y3Jo7jcYC6Zd6pOn48c1AwJq9oMO0U8NvZ4VuKz9gExM_v35V7JGVSXolviYJGvUh8JQIW4CgB3v9mZpkSbNb8k9nnz2jU0VxRS97rxnhx0L0yqrIYxQEaFOjifUTLF_MFjmBBY2KhJbX5EEH-gwa9nkSa7vmixVH2U5wZ0SOJPVj-qaL7WQxY9tvUODtU_a8DksEa4OkSPVxfZGmV2Og.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Mon, 29 Jan 2024 12:28:00 GMT</pubDate>
+<pubDate>Mon, 29 Jan 2024 12:28:00 GMT</pubDate>
+</item>
 
 <item>
 <title>📣 #发现频道 我在 B 站发布了一套开发简单 2048 小游戏的教学视频 https://meta.appinn.net/t/topic/52153</title>

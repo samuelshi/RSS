@@ -5,14 +5,28 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>↩️ 英国拟定中的法律将允许政府在全球禁止科技公司发布新的隐私保护功能 根据对现有法律的建议修改，如果英国内政部拒绝（隐私保护应用）更新，该更新将无法在...</title>
+<link>https://t.me/xhqcankao/7921</link>
+<guid>https://t.me/xhqcankao/7921</guid>
+<content:encoded><![CDATA[
+
+<div class="rsshub-quote"><blockquote>
+                                    <p><a href="https://t.me/xhqcankao/5494"><b>风向旗参考快讯</b>:</a></p>
+                                    
+                                    <p>苹果猛烈抨击英国监管法案提案，威胁将在英国删除 FaceTime 和 iMessage 等服务  苹果表示，如果新提案成为法律并付诸实施，它将从英国删除 FaceTime 和 iMessage 等服务，而不是削弱安全性。  英国政府正在寻求更新 2016 年《调查权力法》(IPA)。该法案允许内政部强制科技公司在不告知公众的情况下禁用端到端加密等安全功能。根据更新，这必须是立即执行的。目前，这一过程涉及独立的监督审查程序，科技公司可以在采取任何行动之前提出上诉。由于这些要求的保密性，人们对已经发出了多少要…</p>
+                                </blockquote></div><p><b>英国拟定中的法律将允许政府在全球禁止科技公司发布新的隐私保护功能</b><br /><br />根据对现有法律的建议修改，如果英国内政部拒绝（隐私保护应用）更新，该更新将无法在任何其他国家发布，而且公众将不会被告知。<br /><br />政府正在寻求更新2016年的《调查权法案》。内政部表示支持注重隐私的科技，但补充说它也必须确保国家的安全。政府发言人表示：“我们一直明确表示，我们支持技术创新和私密安全通信技术，包括端到端加密，但这不能以牺牲公共安全为代价。”提议的修改将在明天在上议院进行辩论。<br /><br />苹果表示这是英国政府的“前所未有的越权行为”。苹果在一份声明中说：“我们对目前在议会审议的《调查权法案》提出的修改深感担忧，这将使用户的隐私和安全面临风险。”<br /><br />—— <a href="https://www.bbc.com/news/technology-68128177" rel="noopener" target="_blank">BBC</a></p>
+]]></content:encoded>
+<pubDate>Tue, 30 Jan 2024 05:57:13 GMT</pubDate>
+<pubDate>Tue, 30 Jan 2024 05:57:13 GMT</pubDate>
+</item>
+
+<item>
 <title>🖼 #Coding #APPLE #iOS #Blog 📩 接读者来稿，他向我们分享了自己对 SwiftUI 中属性包装器的一些理解 👨🏻‍💻 探讨 SwiftUI 中的属性包装器：@AppSt...</title>
 <link>https://t.me/NewlearnerChannel/12387</link>
 <guid>https://t.me/NewlearnerChannel/12387</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://t.me/NewlearnerChannel/12387?q=%23Coding">#Coding</a> <a href="https://t.me/NewlearnerChannel/12387?q=%23APPLE">#APPLE</a> <a href="https://t.me/NewlearnerChannel/12387?q=%23iOS">#iOS</a> <a href="https://t.me/NewlearnerChannel/12387?q=%23Blog">#Blog</a><br /><br /><span class="emoji">📩</span> 接读者来稿，他向我们分享了自己对 SwiftUI 中属性包装器的一些理解<br /><br /><span class="emoji">👨🏻‍💻</span> <b>探讨 SwiftUI 中的属性包装器：</b><code>@AppStorage</code><b>、</b><code>@SceneStorage</code><b>、</b><code>@FocusState</code><b>、</b><code>@GestureState</code><b> 和 </b><code>@ScaledMetric</code><br /><br /><span class="emoji">🔗</span>：<a href="https://fatbobman.com/zh/posts/exploring-swiftui-property-wrappers-2/" rel="noopener" target="_blank">Blog</a><br /><br /><span class="emoji">💡</span> 这篇文章将探索 SwiftUI 中的一些属性包装器，这些属性包装器涵盖了数据持久化、交互响应、辅助功能、多窗口支持等多个方面，为开发者提供了简洁实用的解决方案<br /><br /><span class="emoji">👀</span> 每种属性包装器都有其独特的适用场景和注意事项。<code>@AppStorage</code> 适用于全局数据的轻量级持久化；<code>@SceneStorage</code> 专注于场景间状态共享；<code>@FocusState</code> 简化了焦点管理；<code>@GestureState</code> 自动化手势状态的生命周期；<code>@ScaledMetric</code> 实现了尺寸的自动缩放<br /><br /><span class="emoji">👍</span> 正确使用这些属性包装器可以让 SwiftUI 代码更加简洁高效。与直接使用底层 API 相比，属性包装器抽象了许多细节，开发者可以更加关注业务逻辑。当然，还需要谨记它们的使用限制，避免滥用<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/Pz3-SI7mjglyWOLsGoN2HJQu1pV4NDA4MTHXJAXnh0SUoS2vV9ewEvqWx8l95tBRhpWW_BrsMMtIMMzLlmaOUhWW6UGoEkMeoL_fjWmK6XDVycXF08tD9xp2cNaIc3nFl7ArL2zkR496Kw68q9Lewcn-uwfkO3DloINtwlw16-N6NO0uNzht2mVq86JLzhBX2YYGaZlyYNpqenUb_QqellFY14623FR7JHBNzAROgI1kMPNX6c7nRZL6hfwu0PZhlHIVQ-t_rwEpRipzhlRCNSKMPqx22KaOc4q6q4ItJQmYT2dUGkGXBce5IxfJ5H8kM2iQWN3UQ9EKD24KpufvKw.jpg" />
 ]]></content:encoded>
-<pubDate>Tue, 30 Jan 2024 04:01:50 GMT</pubDate>
 <pubDate>Tue, 30 Jan 2024 04:01:50 GMT</pubDate>
 </item>
 <item>
@@ -20,10 +34,8 @@
 <link>https://t.me/xhqcankao/7920</link>
 <guid>https://t.me/xhqcankao/7920</guid>
 <content:encoded><![CDATA[
-
 <p><b>小米汽车上险价格首次曝光，高配版达到36万元</b><br /><br />小米汽车首款车型SU7上险价格浮出水面，这为最终的上市零售价提供了有力参考。1月30日，某大型保险公司向界面新闻证实，小米汽车高配版本上险价格为36.14万元。该车型采用宁德时代的三元锂电池，最高车速265km/h。市场据此猜测，小米汽车最终售价可能在25万至37万之间。此前小米集团董事长兼CEO雷军曾多番否认低价传闻，表示小米汽车可与传统燃油车中两三百万豪车的性能匹敌，“定价确实会有点贵。”此外，雷军微博转发小米SU7实车上牌照片，并表示正测试上牌流程。<br /><br />—— <a href="https://www.jiemian.com/article/10747536.html" rel="noopener" target="_blank">界面新闻</a>（上海报业集团）、<a href="https://weibo.com/1749127163/NE7sY8zGj" rel="noopener" target="_blank">雷军微博</a></p>
 ]]></content:encoded>
-<pubDate>Tue, 30 Jan 2024 04:26:56 GMT</pubDate>
 <pubDate>Tue, 30 Jan 2024 04:26:56 GMT</pubDate>
 </item>
 <item>
@@ -31,13 +43,10 @@
 <link>https://t.me/xhqcankao/7919</link>
 <guid>https://t.me/xhqcankao/7919</guid>
 <content:encoded><![CDATA[
-
 <p><b>苹果已在美预售超过20万台 Vision Pro 头显 获6.998亿美元预购收入<br /></b><br />MacRumors 从了解苹果销售数据的消息人士处获悉，苹果公司已在美国售出了超过20万台 Vision Pro 头显。苹果于1月19日开始接受 Vision Pro 的预订，已在美国发售10天。参考一台 Vision Pro 售价3499美元，目前苹果公司已经获得了6.998亿美元预购收入。<br /><br />—— <a href="https://www.macrumors.com/2024/01/29/apple-vision-pro-headset-sales/" rel="noopener" target="_blank">MacRumors</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 30 Jan 2024 04:05:03 GMT</pubDate>
-<pubDate>Tue, 30 Jan 2024 04:05:03 GMT</pubDate>
 </item>
-
 <item>
 <title>上海网信：某火锅连锁企业存储1.5亿条会员信息有泄露隐患 上海市网信办通报称，已依法对一批未有效履行消费者个人信息保护责任、存在严重问题的知名企业予以行政...</title>
 <link>https://t.me/xhqcankao/7918</link>
@@ -9158,33 +9167,6 @@ Tue, 16 Jan 2024 01:33:20 GMT
 <p><b>Windows 11 上内置的“记事本”应用获得了字符计数</b><br /><br />微软一直在改进 Windows 11 上内置的记事本应用，在 Win11 新的 Canary 和 Dev 预览版中，微软推出了记事本更新，在记事本底部添加了字符计数。<br /><br />微软在博客中表示，“当选择文本时，状态栏会显示所选文本和整个文档的字符数”。<br /><br />—— <a href="https://blogs.windows.com/windows-insider/2023/12/07/announcing-windows-11-insider-preview-build-26010-canary-channel/" rel="noopener" target="_blank">微软博客</a></p><img src="https://cdn5.cdn-telegram.org/file/H5hyHcxJB_SP_r_NOfzTK9ZmVrZ6qamGxdWJghy-pHp33CIJS1hdZzr0ldYf9jorfUeHuNmeEE8dEfr4uzz1K_Ho9tyl7AbwTTLu8nIN21rrNK4xGuom_05wX72fBB0VJeN267Uy_Q8JCHmc82opxggIl8SH60vji4DFQjr5JINXeZe8LOWtOC_DPM5Ay_uFQ_3qS80jFtJnx_bUH3ZYk4xnfYrgpPHTqLWgKy09MKX-TTyQk_Rd6JC77aSy3wdNXTJGRSgu4hfSuYLpHyohIjfCRGsUSWGJu_sgZUam_MUMIQ51X_aJ34fXMLqrWO5cvq6YBURgJDlrT98hR3BcbA.jpg" />
 ]]></content:encoded>
 <pubDate>Thu, 07 Dec 2023 23:04:10 GMT</pubDate>
-</item>
-<item>
-<title>🖼 Epic 喜加二：免费领取 《GigaBash 巨击大乱斗》《Predecessor》下周送神秘游戏 Epic 本周限免 《GigaBash 巨击大乱斗》《Predecessor》 截止日期：12 月 1...</title>
-<link>https://t.me/xhqcankao/7216</link>
-<guid>https://t.me/xhqcankao/7216</guid>
-<content:encoded><![CDATA[
-<p>Epic 喜加二：免费领取 《GigaBash 巨击大乱斗》《Predecessor》下周送神秘游戏<br /><br />Epic 本周限免 《<a href="https://store.epicgames.com/zh-CN/p/gigabash" rel="noopener" target="_blank">GigaBash 巨击大乱斗</a>》《<a href="https://store.epicgames.com/zh-CN/p/predecessor" rel="noopener" target="_blank">Predecessor</a>》<br /><br />截止日期：12 月 14 日<br /><br />Epic 下周限免：圣诞“神秘游戏”<br /><br />——  <a href="https://store.epicgames.com/" rel="noopener" target="_blank">Epic</a></p><img src="https://cdn5.cdn-telegram.org/file/CiQq4BYiEWX7KcSZF6uQ9Mz749HYNFCpvQZZZ9sKmrvKK7qKWEi4CTQGBPqqfXzhOIN4LKHeYLbbDvcbFAH5w8QnkFZVIIKqFTB-ZciOgBCfeobpdjT3FedIqclsbHHi38_-qdRZLsbhKtg3EkOe5EZORx-LoGhoQ6X4VctoGBD8B3LSe1QtbUCtfZEmq_4R8aJCRQ9Avov-rI21d3GPZoL0B-eiRBGIddt5xqqz_iPm_qbrURQR_sSubVR7cM_lQHiir4a6U5UvjR2Xs7Com57YCfjOVK1weZAVzLnvchN85nvNvh4vJw3DzHr6qhvgm1jICTDwHd4hj4TasqryXw.jpg" />
-]]></content:encoded>
-<pubDate>Thu, 07 Dec 2023 22:20:26 GMT</pubDate>
-</item>
-<item>
-<title>🖼 #News 🌃 自留地晚报【12.7】 1️⃣ 彭博社 消息，新款 M3 MacBook Air 预计明年 3 月推出，明年初推出两款 iPad Air 和两款 OLED iPad Pro 2️⃣ 苹果 ...</title>
-<link>https://t.me/NewlearnerChannel/12159</link>
-<guid>https://t.me/NewlearnerChannel/12159</guid>
-<content:encoded><![CDATA[
-<p><a href="https://t.me/NewlearnerChannel/12159?q=%23News">#News</a><br /><br /><span class="emoji">🌃</span> 自留地晚报【12.7】<br /><br /><span class="emoji">1️⃣</span> <a href="https://www.bloomberg.com/news/articles/2023-12-06/apple-prepares-m3-macbook-air-and-revamped-ipad-pro-for-early-next-year" rel="noopener" target="_blank">彭博社</a> 消息，新款 M3 MacBook Air 预计明年 3 月推出，明年初推出两款 iPad Air 和两款 OLED iPad Pro<br /><br /><span class="emoji">2️⃣</span> <a href="https://www.bloomberg.com/news/articles/2023-12-06/apple-aapl-executive-who-invented-iphone-multitouch-and-touch-id-leaving" rel="noopener" target="_blank">苹果</a> 将于副总裁 Steve Hotelling 退休，曾发明 iPhone 多点触控屏幕和 Touch ID<br /><br /><span class="emoji">3️⃣</span> <a href="https://ir.amd.com/news-events/press-releases/detail/1172/amd-extends-mobile-pc-leadership-with-amd-ryzen-8040" rel="noopener" target="_blank">AMD</a> 正式推出了代号为 Hawk Point 的最新锐龙 8000 APU<br /><br /><span class="emoji">4️⃣</span> <a href="https://blog.google/products/pixel/pixel-feature-drop-december-2023/" rel="noopener" target="_blank">谷歌</a> Pixel 设备迎来大量功能更新，Pixel 8 Pro 独享视频增强功能<br /><br /><span class="emoji">5️⃣</span> <a href="https://www.prnewswire.com/news-releases/mcdonalds-and-google-cloud-announce-strategic-partnership-to-connect-latest-cloud-technology-and-apply-generative-ai-solutions-across-its-restaurants-worldwide-302006915.html" rel="noopener" target="_blank">麦当劳</a> 宣布与谷歌合作 2024 年开始部署生成式人工智能技术<br /><br /><span class="emoji">6️⃣</span> <a href="https://money.udn.com/money/story/11162/7623576" rel="noopener" target="_blank">西部数据</a> 宣布机械硬盘产品动态调整报价直到明年上半年，NAND 闪存产品累计涨幅可能高达 55%<br /><br /><span class="emoji">7️⃣</span> <a href="https://blog.google/technology/ai/google-gemini-ai/" rel="noopener" target="_blank">谷歌</a> 正式发布全新大语言模型 Gemini 1.0<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn1.cdn-telegram.org/file/qxxx1VzO8T-TFfGTgnK41vYQoAf3HHeW_uy7sdN8DIR5J4lYHNtBZ4yB5rvIzClo3MB0a7Uk9YhMzJYR3PbHwmFI3vhLVRyKKDqk1zb9duDi0TW4GZ14P5wEV_OzZkKqHCKv4ky7X50amev5b_UGg7xQ3HAQIEiqIDBORUW6CKe5YmlA5R4bR24TO2WQSJJEQLdxTG2Pxc_2GWrMm90JL6mI8jjhvCY5pIF9GvJVy8Lh30s678D8Bw39zSLeypC_GT_85R_I2RM-o3YMl5MYLtWRrM0j0Z1mNetUXsF6ciqAYY2M4C88MIKx63LCNuMSFXtVmWj1z23ATQFzw7E46w.jpg" />
-]]></content:encoded>
-<pubDate>Thu, 07 Dec 2023 13:00:22 GMT</pubDate>
-</item>
-<item>
-<title>🖼 谷歌 Chromecast 曝光多个漏洞：允许攻击者安装流氓固件或间谍软件 安全研究人员发现谷歌 Chromecast 中的一系列漏洞。如果利用这些漏洞，攻击者可以安装恶...</title>
-<link>https://t.me/xhqcankao/7214</link>
-<guid>https://t.me/xhqcankao/7214</guid>
-<content:encoded><![CDATA[
-<p><b>谷歌 Chromecast 曝光多个漏洞：允许攻击者安装流氓固件或间谍软件</b><br /><br />安全研究人员<a href="https://oddsolutions.github.io/Chromecast-with-Google-TV-1080P-Secure-Boot-Bypass/" rel="noopener" target="_blank">发现</a>谷歌 Chromecast 中的一系列漏洞。如果利用这些漏洞，攻击者可以安装恶意固件或间谍软件。相关漏洞需要物理访问才能利用。另一个问题涉及与内置麦克风的配对遥控器相关的风险。攻击者可能会远程激活此麦克风，从而截获设备附近的音频。在今年第二季度收到这些漏洞的通知后，谷歌于本月<a href="https://source.android.com/docs/security/bulletin/chromecast/2023-12-01" rel="noopener" target="_blank">发布了</a>安全更新。<br /><br />—— <a href="https://twitter.com/MishaalRahman/status/1732408384731623444" rel="noopener" target="_blank">Mishaal Rahman</a></p><img src="https://cdn5.cdn-telegram.org/file/Eh-6dKM-P1_jguwQ27czBC2M3XxhJn0oTn1G7TknGZRZ8O2qcJoUDDgqrRQ95vk6o1xIPCJymZOSFPuThUkZyRtKN6ZOJdfrKbEGgC7ainmtojeDA3xq0fYIkciW5fkmCjUfMrXlV9gk8s1P8NwcOa9wjkLz-zvoKX7hqOoONp-gsdPNjq1sM1ZbcKKN1J2gfk0FwATEr__RqZ6vqLu-Q7CjG7AyqpuVHREkS215bJRcnFHEhCkFFz8mdQPR8A-nZTVaKeZj6E6X8nmD9VMSSUlrUlHllhp5tNGJdaAo9LxQ0MYhT72uHxBd3mQOuoUs8WduS-H9cB3OaVF8_LR_UA.jpg" />
-]]></content:encoded>
-<pubDate>Thu, 07 Dec 2023 11:17:21 GMT</pubDate>
 </item>
 </channel>
 </rss>

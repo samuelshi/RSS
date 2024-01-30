@@ -5,17 +5,26 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>ICANN将为私有网络保留".internal"顶级域名 新域的作用与 192.168.x.x IPv4 块相同，后者用于识别内部网络资源，而无需依赖 DNS 系统。2020 年，ICANN 发现许多...</title>
+<link>https://t.me/xhqcankao/7923</link>
+<guid>https://t.me/xhqcankao/7923</guid>
+<content:encoded><![CDATA[
+
+<p><b>ICANN将为私有网络保留".internal"顶级域名</b><br /><br />新域的作用与 192.168.x.x IPv4 块相同，后者用于识别内部网络资源，而无需依赖 DNS 系统。2020 年，ICANN 发现许多企业正在使用 DNS 根区中没有的"临时"顶级域解决方案（如 .lan、.dlink 等）。<br /><br />ICANN 认为，这种使用自定义域名的做法是不协调的，会对互联网用户"造成伤害"。它给 DNS 服务器带来了负担，因为它们要处理仅在内部使用的非标准域名的查询。由于 DNS 无法阻止内部使用特设 TLD，ICANN 的安全与稳定咨询委员会（SSAC）建议采用一个明确为内部网络保留的新域。<br /><br />最终，委员会将候选域名缩小到两个：.PRIVATE 和 .INTERNAL。据 ICANN 称，.PRIVATE 域名被否决的原因是它可能会对隐私产生意想不到的影响。此外，.PRIVATE 在不同的评估语言中可能具有相互冲突的含义。<br /><br />—— <a href="https://m.cnbeta.com.tw/view/1414949.htm" rel="noopener" target="_blank">cnBeta</a></p>
+]]></content:encoded>
+<pubDate>Tue, 30 Jan 2024 08:30:00 GMT</pubDate>
+<pubDate>Tue, 30 Jan 2024 08:30:00 GMT</pubDate>
+</item>
+
+<item>
 <title>搬瓦工49刀GIA和软银限量版补货 该机型可选择洛杉矶 DC6 DC9 的 CN2 GIA 机房及日本软银（JPOS_1）线路，配置为512内存,10 GB SSD,500GB月流量，售价为$49.99/年...</title>
 <link>https://t.me/xhqcankao/7922</link>
 <guid>https://t.me/xhqcankao/7922</guid>
 <content:encoded><![CDATA[
-
 <p><b>搬瓦工49刀GIA和软银限量版补货</b><br /><br />该机型可选择洛杉矶 DC6 DC9 的 CN2 GIA 机房及日本软银（JPOS_1）线路，配置为512内存,10 GB SSD,500GB月流量，售价为$49.99/年，是当前瓦工还会补货的最经济GIA线路机器。<br /><br />DC6和DC9具有三网回程GIA；去程电信联通走GIA，移动直连，平峰延迟在150ms左右，高峰时期一般不超过200ms。日本软银是直连线路，地利原因延迟较低。而论全天稳定性还是GIA比较可靠。该机器下单时请选择需要的机房，此后切换机房会扣流量。<br /><br /><a href="https://bandwagonhost.com/aff.php?aff=64869&amp;pid=94" rel="noopener" target="_blank">https://bandwagonhost.com/aff.php?aff=64869&amp;pid=94</a><br /><br />循环优惠码：BWHCCNCXVV （6.78%）<br /><br /><a href="https://t.me/xhq_rule/25" rel="noopener" target="_blank">为什么</a>我会看到这个信息？</p>
 ]]></content:encoded>
 <pubDate>Tue, 30 Jan 2024 07:23:38 GMT</pubDate>
-<pubDate>Tue, 30 Jan 2024 07:23:38 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 #有趣产品咖啡馆 #Newsletter 🤳 独立开发者故事 #54 - “健身教练开发的健身App，多年健身经验全都融入进APP里！” 1、介绍下你自己和目前所做的产品 大...</title>
 <link>https://t.me/NewlearnerChannel/12388</link>
@@ -9158,15 +9167,6 @@ Tue, 16 Jan 2024 01:33:20 GMT
 <p><b>美国起诉俄罗斯黑客 指控其攻击了美国和盟国的计算机</b><br /><br />美国当局起诉两名与俄罗斯联邦安全局合作的俄罗斯黑客，涉嫌针对政府官员开展长达数年的网络间谍活动。<br /><br />美国司法部周四指控称，俄罗斯联邦安全局官员鲁斯兰·亚历山德罗维奇·佩列季亚特科、安德烈·斯坦尼斯拉沃维奇·科里内茨和其他未被起诉的同谋者在2016年10月至2022年10月期间试图入侵美国、英国、其他北约成员国和乌克兰的计算机网络。<br /><br />并以政府官员、政府雇员和智库研究员以及记者等为目标，使用钓鱼电邮从受害者的帐户中获取“宝贵情报”，其中包括与国防、外交事务和其他领域有关的情报。<br /><br />—— <a href="https://www.justice.gov/opa/pr/two-russian-nationals-working-russias-federal-security-service-charged-global-computer" rel="noopener" target="_blank">美國司法部</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 08 Dec 2023 01:04:36 GMT</pubDate>
-</item>
-<item>
-<title>🖼 YouTube 正式为创作者推出“暂停”选项，允许创作者暂停视频的评论 YouTube 今天宣布了一项新的评论审核设置“暂停”，允许创作者阻止观看者添加新评论，但...</title>
-<link>https://t.me/xhqcankao/7219</link>
-<guid>https://t.me/xhqcankao/7219</guid>
-<content:encoded><![CDATA[
-<p><b>YouTube 正式为创作者推出“暂停”选项，允许创作者暂停视频的评论</b><br /><br />YouTube 今天宣布了一项新的评论审核设置“暂停”，允许创作者阻止观看者添加新评论，但同时保留视频上的现有评论。<br /><br />如果评论区被恶意刷屏，创作者可以暂时暂停评论区，直到有足够的时间过滤掉恶意和负面评论。<br /><br />—— <a href="https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ/community?lb=UgkxP6pziafkHJ4fyaHxfK38vNh5mtk6oYoM" rel="noopener" target="_blank">YouTube</a></p><img src="https://cdn5.cdn-telegram.org/file/Z4deHGWbG6sC4xIJFZ5omfliOWSnbf32PwfitYfeJ4UV0Lyx8UYevf7AjDSDeFKK0mstAeeE0BvsvSzFT_BuSYx2zAThQY1dGxWuujF5AEDw_NiHGkoptLJ6O1QarsCBNUTaVH8rzX6Jb_ItWba3ats1jSPNEHZaApiTksLWR89TcK3sxr12tVvkK6_6RP5Bkw--j1G8INBz1FjrUhRjkQ0y27wZ5lorlniawVvdsImJ0Aquy8qzWJb4NONXNwp9bnCYXh-jKOKyxJCD9BYrUlu-LgpVh9fbUW0bZKhgWEzV2wg4kN8fkRscPBKXWIB0nmphznK4yVHO43LDncGU0A.jpg" />
-]]></content:encoded>
-<pubDate>Thu, 07 Dec 2023 23:59:54 GMT</pubDate>
 </item>
 </channel>
 </rss>

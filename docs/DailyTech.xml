@@ -5,17 +5,48 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>🖼 #GitHub情报 HelloGitHub：面向入门爱好者的开源项目月刊，近日更新第 94 期 🔗：官网 | Github | 投稿 这是一个面向编程新手、热爱编程、对开源社区感兴...</title>
+<link>https://t.me/NewlearnerChannel/12400</link>
+<guid>https://t.me/NewlearnerChannel/12400</guid>
+<content:encoded><![CDATA[
+
+<p><a href="https://t.me/NewlearnerChannel/12400?q=%23GitHub%E6%83%85%E6%8A%A5">#GitHub情报</a> <br /><br /><b>HelloGitHub：面向入门爱好者的开源项目月刊，近日更新第 94 期</b><br /><br /><span class="emoji">🔗</span>：<a href="https://hellogithub.com/" rel="noopener" target="_blank">官网</a> | <a href="https://github.com/521xueweihan/HelloGitHub" rel="noopener" target="_blank">Github</a> | <a href="https://github.com/521xueweihan/HelloGitHub/issues/new" rel="noopener" target="_blank">投稿</a><br /><br />这是一个面向编程新手、热爱编程、对开源社区感兴趣人群的项目，内容每月 28 号以月刊的形式更新发布。内容包括：流行项目、入门级项目、让生活变得更美好的工具、书籍、学习心得笔记、企业级项目等 <br /><br /><span class="emoji">✏️</span> <a href="https://hellogithub.com/periodical/volume/94" rel="noopener" target="_blank">第 94 期</a> 已经发布<br /><br />• <a href="https://github.com/mxgmn/MarkovJunior" rel="noopener" target="_blank">MarkovJunior</a>：基于马尔可夫链的图像生成器<br />• <a href="https://github.com/aaamoon/copilot-gpt4-service" rel="noopener" target="_blank">Copilot-Gpt4-Service</a>：将 Github Copilot 转成 ChatGPT 的服务<br />• <a href="https://github.com/louislam/dockge" rel="noopener" target="_blank">Dockge</a>：美观、易用的 Docker Compose 管理平台<br />• <a href="https://github.com/tiny-craft/tiny-rdm" rel="noopener" target="_blank">Tiny-Rdm</a>：轻量级的跨平台 Redis 桌面客户端<br />• <a href="https://github.com/newmarcel/KeepingYouAwake" rel="noopener" target="_blank">KeepingYouAwake</a>：防止 Mac 进入睡眠状态的工具<br />• <a href="https://github.com/ihmily/DouyinLiveRecorder" rel="noopener" target="_blank">DouyinLiveRecorder</a>：支持多平台的直播录制工具<br />• <a href="https://github.com/tconbeer/harlequin" rel="noopener" target="_blank">Harlequin</a>：简单、快速、美观的终端数据库客户端<br />• <a href="https://github.com/guofei9987/text_blind_watermark" rel="noopener" target="_blank">Text_blind_watermark</a>：给文本加盲水印的 Python 库<br />• <a href="https://github.com/wanghongenpin/network_proxy_flutter" rel="noopener" target="_blank">Network_proxy_flutter</a>：支持手机端的免费抓包工具<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/fppGmWfO3cYlfB3QVgn3e-FKm-nNAY0F_jPRZg5TF2O-sWyay3IwF9vgTpIGXdzC1s-2q0NMLVCy1UlmNMCemWTlLiP4xi4cs-oQCLeUGskuT5xUbKNVHX_BCbzexC4N4jRUlx1IZxJNGFjB7W2W6n7CQmDQ5H78gxvP-zfNbhgw6irXp0ld3dFjkey05q3boWVnNBcN-5--ivDeAJzPDQXi_hE9wYFMk-pmauMw2t56OPbnpK_qdPcKn0_f_EDwJAuMTzu3hjBMeWVn-rIphhbwpIaWeVv2yoCCfHlyig9xdJeAP-80kRQmyGkbeK3C9---AyRW6epNpCag3ZvKxQ.jpg" />
+]]></content:encoded>
+<pubDate>Thu, 01 Feb 2024 05:02:02 GMT</pubDate>
+<pubDate>Thu, 01 Feb 2024 05:02:02 GMT</pubDate>
+</item>
+<item>
+<title>使用自定义内核的 ROM 无法通过谷歌的 Play Integrity 检查 许多使用自定义内核用户现在似乎无法通过设备认证检查，原因似乎是 Play Integrity API 正在检查内核...</title>
+<link>https://t.me/xhqcankao/7970</link>
+<guid>https://t.me/xhqcankao/7970</guid>
+<content:encoded><![CDATA[
+
+<p><b>使用自定义内核的 ROM 无法通过谷歌的 Play Integrity 检查</b><br /><br />许多使用自定义内核用户现在似乎无法通过设备认证检查，原因似乎是 Play Integrity API 正在检查内核版本名称中是否有列入黑名单的字符串。例如，据报告，uname 中带有“sultan”或“lineageos”的内核无法通过认证。而且看起来 Play Integrity 可能很快也会添加 GPU 驱动程序指纹识别。<br /><br />——<a href="https://t.me/MishaalAndroidNews/1565?single" rel="noopener" target="_blank">MishaalAndroidNews</a>、 <a href="https://github.com/chiteroman/PlayIntegrityFix/issues/236" rel="noopener" target="_blank">PlayIntegrityFix</a></p>
+]]></content:encoded>
+<pubDate>Thu, 01 Feb 2024 05:44:57 GMT</pubDate>
+<pubDate>Thu, 01 Feb 2024 05:44:57 GMT</pubDate>
+</item>
+<item>
+<title>美国加州多地起诉特斯拉，称其对危险废物处理不当 美国加利福尼亚州25个县起诉马斯克的特斯拉公司，称特斯拉在全州各地的设施中对危险废物处理不当。洛杉矶、阿...</title>
+<link>https://t.me/xhqcankao/7969</link>
+<guid>https://t.me/xhqcankao/7969</guid>
+<content:encoded><![CDATA[
+
+<p><b>美国加州多地起诉特斯拉，称其对危险废物处理不当</b><br /><br />美国加利福尼亚州25个县起诉马斯克的特斯拉公司，称特斯拉在全州各地的设施中对危险废物处理不当。洛杉矶、阿拉米达、圣华金等县于当地时间1月30日向加州法院提起诉讼，诉讼要求对特斯拉进行民事处罚并下达禁令，要求特斯拉今后妥善处理废物。这些县指控特斯拉违反了州不公平商业法和危险废物管理法，对废物贴上了不恰当的标签，并将材料送往不能接受危险材料的垃圾填埋场。加利福尼亚州的危险废物管理法对每项违规行为的民事处罚可能高达每天7万美元。<br /><br />—— <a href="https://www.jiemian.com/article/10759786.html" rel="noopener" target="_blank">界面新闻</a>、<a href="https://www.reuters.com/business/environment/tesla-sued-by-california-counties-over-hazardous-waste-2024-01-31/" rel="noopener" target="_blank">路透社</a></p>
+]]></content:encoded>
+<pubDate>Thu, 01 Feb 2024 05:15:11 GMT</pubDate>
+<pubDate>Thu, 01 Feb 2024 05:15:11 GMT</pubDate>
+</item>
+
+<item>
 <title>加拿大外交部遭遇数据泄露 加拿大政府当地时间周二表示，加拿大全球事务部遭遇数据泄露，包括外交员工在内的用户个人信息遭到未经授权的访问。加拿大全球事务部 ...</title>
 <link>https://t.me/xhqcankao/7968</link>
 <guid>https://t.me/xhqcankao/7968</guid>
 <content:encoded><![CDATA[
-
 <p><b>加拿大外交部遭遇数据泄露</b><br /><br />加拿大政府当地时间周二表示，加拿大全球事务部遭遇数据泄露，包括外交员工在内的用户个人信息遭到未经授权的访问。加拿大全球事务部 (GAC) 在一份声明中表示，它于1月24日启动了一次计划外 IT 中断，以“解决发现的恶意网络活动”。该部门没有透露数据泄露发生的时间。加拿大媒体早些时候援引未透露姓名的消息来源报道称，内部系统在12月20日至1月24日期间均受到了攻击。<br /><br />—— <a href="https://www.reuters.com/technology/cybersecurity/canadas-foreign-affairs-department-hit-by-data-breach-2024-01-30/" rel="noopener" target="_blank">路透社</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 01 Feb 2024 04:19:15 GMT</pubDate>
-<pubDate>Thu, 01 Feb 2024 04:19:15 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 惊悚生存类恐怖 PC 游戏原价 US $24.99《The Beast Inside》限时免费 惊悚生存类恐怖游戏《The Beast Inside》在 GOG 平台限时免费领取，截至时间 2024 年 ...</title>
 <link>https://t.me/xhqcankao/7967</link>
@@ -9166,15 +9197,6 @@ Tue, 16 Jan 2024 01:33:20 GMT
 <p><b>音乐下载工具“歌词适配”永久下架，不再提供服务</b><br /><br />音乐下载工具“歌词适配”发文宣布不再开发，App 界面显示“应版权方要求，App 已永久下架关停，不再提供服务”。<br /><br />“歌词适配”应用最初是想给魅族的系统音乐适配歌词，后来慢慢添加了下载歌曲等功能。但应版权方要求，该应用于昨日正式关停。<br /><br />—— <a href="https://docs.qq.com/doc/DWUNoUEJJdUdadE5a" rel="noopener" target="_blank">歌词适配</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 11 Dec 2023 21:52:38 GMT</pubDate>
-</item>
-<item>
-<title>中国本土射频芯片取得了“重大进展”，取代了美国供应商 研究公司 TechInsights 的最新调查结果显示，华为公司的 Mate 60 Pro 智能手机显示出中国国内射频芯片设...</title>
-<link>https://t.me/xhqcankao/7253</link>
-<guid>https://t.me/xhqcankao/7253</guid>
-<content:encoded><![CDATA[
-<p><b>中国本土射频芯片取得了“重大进展”，取代了美国供应商</b><br /><br />研究公司 TechInsights 的最新调查结果显示，华为公司的 Mate 60 Pro 智能手机显示出中国国内射频芯片设计和工程方面的“重大进展”。<br /><br />华为公司的手机包括来自卓胜微的射频开关和来自昂瑞微的功率放大器模块，这些组件业界最常分别由美国供应商思佳讯和威讯联合半导体提供。TechInsights 在周一的一篇文章中表示，该架构“是为中国行业量身定制的”，表明华为与其供应商之间存在设计合作。<br /><br />重要的是，芯片设计的进步表明，即使无法接触美国供应商，华为的硬件也有能力与世界上最好的硬件竞争。射频芯片管理智能手机与连接互联网的基站的通信，这是任何设备的核心功能。<br /><br />当 Mate 60 于八月底推出时，其搭载 7 纳米应用处理器引起了轰动，这表明中国拥有美国贸易制裁试图阻止的先进半导体制造能力。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2023-12-11/huawei-phone-shows-china-is-replacing-us-suppliers-of-5g-tech" rel="noopener" target="_blank">彭博社</a></p>
-]]></content:encoded>
-<pubDate>Mon, 11 Dec 2023 13:46:59 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -13706,3 +13706,10 @@ Append: [📣 #发现频道 【自荐】QDelayer: 防止误触Cmd+Q或Cmd+W导�
 Append: [📣 #发现频道 【自荐】AppDimmer: 强制为特定应用程序适配macOS深色模式 https://meta.appinn.net/t/topic/52307](https://t.me/appinnfeed/9503)
 append_entries: 4
 Finish: 2024-02-02 11:01:37
+------------------------------------------------------
+Started: 2024-02-02 12:01:50
+Existing_entries: 729
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [💧 #小众软件 Gemini Pro 多语言版已上线 Bard，支持中文（简体/繁体） https://www.appinn.com/gemini-pro-for-bard/ Tags: #AI, #Google, #Bard, #Gemini](https://t.me/appinnfeed/9507)
+append_entries: 1
+Finish: 2024-02-02 12:01:59

@@ -13910,3 +13910,10 @@ Existing_entries: 741
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2024-02-03 19:02:27
+------------------------------------------------------
+Started: 2024-02-03 20:01:43
+Existing_entries: 741
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [❓ #问题求助 求一个ahk脚本，能够在指定位置一键显示置顶图 https://meta.appinn.net/t/topic/52350](https://t.me/appinnfeed/9519)
+append_entries: 1
+Finish: 2024-02-03 20:01:44

@@ -24542,3 +24542,15 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
 Feed error: 504
 append_entries: 2
 error when rendering xml, skip docs/DailyTech
+------------------------------------------------------
+Started: 2024-02-05 21:01:30
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
+Append: [淘宝回应客服消极回复1单罚20元：目前在意见征集阶段 2月5日消息，淘宝规则众议院日前新增《淘宝网卖家客户服务规范》的意见征集，将对客服消极接待，无故拉黑的...](https://t.me/xhqcankao/8042)
+Append: [GitHub正准备为Github.com提供 IPv6 支持 2月5日消息，GitHub 在1月31日的性能下降事故报告中表示，此次事件是由于对负载均衡器进行基础架构更改的结果，目的是...](https://t.me/xhqcankao/8041)
+Append: [由于美国的限制和人工智能的繁荣 英伟达RTX 4090显卡的价格在部分亚洲国家飙升60% 据《日经亚洲》报道，英伟达的GeForce RTX 4090显卡的价格在亚洲市场飙升，因...](https://t.me/xhqcankao/8040)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
+append_entries: 3
+Finish: 2024-02-05 21:01:35

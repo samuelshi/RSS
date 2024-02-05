@@ -14222,3 +14222,10 @@ Append: [❓ #问题求助 有什么能记录和直观展示人际关系的软�
 Append: [❓ #问题求助 有什么操作简单的安卓自动化软件？ https://meta.appinn.net/t/topic/52415](https://t.me/appinnfeed/9563)
 append_entries: 3
 Finish: 2024-02-05 19:01:47
+------------------------------------------------------
+Started: 2024-02-05 20:01:54
+Existing_entries: 764
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [https://blog.pi-dal.com/How-To-Build-A-RPI-NAS-Server 作者是一位初中生](https://t.me/appinnfeed/9566)
+append_entries: 1
+Finish: 2024-02-05 20:01:56

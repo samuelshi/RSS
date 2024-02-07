@@ -24966,3 +24966,13 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/DailyTech
+------------------------------------------------------
+Started: 2024-02-07 15:01:38
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
+Append: [动漫流媒体 Crunchyroll 登陆三星智能电视 动漫流媒体 Crunchyroll 周一宣布，该服务现已登录三星智能电视。该流媒体的应用在2017年至2023年的三星智能电视型号...](https://t.me/xhqcankao/8080)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
+append_entries: 1
+Finish: 2024-02-07 15:01:41

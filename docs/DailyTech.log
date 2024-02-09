@@ -25513,3 +25513,13 @@ Append: [世界著名指挥家小泽征尔因心力衰竭去世，享年 88 岁 
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
 append_entries: 1
 Finish: 2024-02-09 20:01:39
+------------------------------------------------------
+Started: 2024-02-09 21:01:28
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel
+Feed error: 504
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
+append_entries: 0
+Finish: 2024-02-09 21:01:53

@@ -25422,3 +25422,13 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/DailyTech
+------------------------------------------------------
+Started: 2024-02-09 12:01:38
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
+Append: [夏威夷航空在部分航班上首次推出高速星链互联网 夏威夷航空今天成为世界上第一家部署星链 (Starlink) 高速、低延迟宽带互联网的主要航空公司，该公司在由空客 A3...](https://t.me/xhqcankao/8116)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
+append_entries: 1
+Finish: 2024-02-09 12:01:42

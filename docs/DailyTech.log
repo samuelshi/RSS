@@ -25553,3 +25553,13 @@ Append: [英伟达成立了一个新部门，专注于为云计算公司设计�
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
 append_entries: 1
 Finish: 2024-02-10 00:01:57
+------------------------------------------------------
+Started: 2024-02-10 01:01:19
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/DailyTech

@@ -25650,3 +25650,13 @@ Append: [OpenAI 收入有望达到20亿美元里程碑 随着 ChatGPT 取得巨�
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
 append_entries: 1
 Finish: 2024-02-10 10:05:25
+------------------------------------------------------
+Started: 2024-02-10 11:01:30
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/DailyTech

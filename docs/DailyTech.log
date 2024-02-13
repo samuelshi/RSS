@@ -26343,3 +26343,14 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
 Feed error: 504
 append_entries: 2
 error when rendering xml, skip docs/DailyTech
+------------------------------------------------------
+Started: 2024-02-13 10:06:53
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection
+Append: [2024年2月13日 🌍资讯快读 1、中央财政加大对基本养老保险补助力度 https://www.jiemian.com/article/10799375.html 2、国家卫健委印发4项2024年版食养指南 ht...](https://t.me/jike_collection/9540)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
+Append: [塔利班开始回收“.af”域名，影响 Mastodon 实例“queer.af” 该实例的管理员兼 ActivityPub 开发人员艾琳·谢泼德发布的一封来自阿富汗通信和信息技术部的电子...](https://t.me/xhqcankao/8161)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
+append_entries: 2
+Finish: 2024-02-13 10:06:58

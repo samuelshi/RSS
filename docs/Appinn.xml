@@ -5,17 +5,26 @@
 <link>https://t.me/s/appinnfeed</link>
 
 <item>
+<title>❓ #问题求助 Autohetkey如何实现不管在何种中英文的输入法状态，长按-号（减号）输出短的下划线？ https://meta.appinn.net/t/topic/52672</title>
+<link>https://t.me/appinnfeed/9636</link>
+<guid>https://t.me/appinnfeed/9636</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9636?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />Autohetkey如何实现不管在何种中英文的输入法状态，长按-号（减号）输出短的下划线？<br /><br /><a href="https://meta.appinn.net/t/topic/52672" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/52672</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/52672">Autohetkey如何实现不管在何种中英文的输入法状态，长按-号（减号）输出短的下划线？</a></b><br /><p>$-::  keywait,-, T0.2  if !errorlevel  send, -  else  send, {}  keywait, -  return  以上代码需要在输入法在英文状态下长按减号才能输出短下划线。  中文状态下：——</p><img src="https://cdn4.cdn-telegram.org/file/Xd5w06phAF8V-cXhZ5JOOAOOLeKeouvx4praCOCKcMSb7zl_jTK0zcy6-clJL9hEzMNaSKcF3nwc3NlLWzBUAHJxYXJxW5OTi_3hrp6k-hNijnltLq37eIUcrwrlsynZ8gXAdApBKp9e1qeA2WYy0m7ZND-vdWy577zWpn8xG5RJB2EZaUzYehTTePizsIl02JFeCVB-TeqZdEbrae3e3lwh761VdMYT7qg-ShQ0ImPIn-CeJ7ivtOFlti7Wz_irqF4jD__P313TEV0T_ceB_yRhXyozT3406AIMsLkWAqddsIjF7Azs48gAhRlkxPoRjpKIzP366VEYOb5QVhAJrA.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Thu, 15 Feb 2024 11:16:01 GMT</pubDate>
+<pubDate>Thu, 15 Feb 2024 11:16:01 GMT</pubDate>
+</item>
+
+<item>
 <title>❓ #问题求助 文件夹添加的详细信息如何应用到所有的文件夹？ https://meta.appinn.net/t/topic/52669</title>
 <link>https://t.me/appinnfeed/9635</link>
 <guid>https://t.me/appinnfeed/9635</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9635?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />文件夹添加的详细信息如何应用到所有的文件夹？<br /><br /><a href="https://meta.appinn.net/t/topic/52669" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/52669</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/52669">文件夹添加的详细信息如何应用到所有的文件夹？</a></b><br /><p>文件夹—查看—应用到文件夹，是应用到同类型的文件夹，怎么判断是同类型的呢.  我给一个视频文件夹添加了总比特率的详细信息列，上述操作之后，去了一个只有“一个图片、一个视频”的文件夹，发现这种文件夹没有应用到上述的详细信息列。</p><img src="https://cdn4.cdn-telegram.org/file/gBdfveayXTrWiRaU1Q6M-JT4g07-MOC95w1IiD7qA10oiclfEX0gq16EQNamrVaaApREaJR9K_xe3qWYE-PtrNYUr5rsCzevWdHw3ABctdVjJUdHdfApFOyvn5totxVzg0M2-vtJhdyfqyONeetmELe8gwFwWoNjBfC9Iw4IaJIPvhwInYsaUir9Lwm_rx968nQ9mkaqU2LPqucVwQ7Zx4gSXp-6uLPYtwf2K4O4fr3SK0U5W1sJ3Xv68ceyBelU3mbR_KndwVwNdgMG4jMjiH8BRFwG-NTHHZcdhyHoN9bbTJuSGXmY4S87epbKGNwdZz1yJPuev45saI48S9niPg.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Thu, 15 Feb 2024 11:00:01 GMT</pubDate>
-<pubDate>Thu, 15 Feb 2024 11:00:01 GMT</pubDate>
 </item>
-
 <item>
 <title>💧 #小众软件 如何用 GPT 写论文、搜文献、自动撰写引用｜1分钟能搞定吗？｜开源解决方案：paper-ai https://www.appinn.com/paper-ai/ Tags: #AI, #在线应用,...</title>
 <link>https://t.me/appinnfeed/9634</link>

@@ -27095,3 +27095,15 @@ Feed error: 504
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
 append_entries: 0
 Finish: 2024-02-16 12:01:50
+------------------------------------------------------
+Started: 2024-02-16 13:01:31
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel
+Feed error: 504
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
+Append: [耐克计划裁员1,600多个人以消减成本 耐克周四表示裁员约2%，即1,600多个工作岗位，以削减成本。裁员预计将于周五开始，第二阶段将在本季度末完成。预计此次裁员...](https://t.me/xhqcankao/8222)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
+Feed error: 504
+append_entries: 1
+error when rendering xml, skip docs/DailyTech

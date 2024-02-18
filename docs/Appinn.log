@@ -16212,3 +16212,10 @@ Existing_entries: 855
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2024-02-18 23:01:30
+------------------------------------------------------
+Started: 2024-02-19 00:01:40
+Existing_entries: 855
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [Wddbfs - 将SQLite数据库挂载为文件系统 https://adamobeng.com/wddbfs-mount-a-sqlite-database-as-a-filesystem/](https://t.me/appinnfeed/9660)
+append_entries: 1
+Finish: 2024-02-19 00:01:41

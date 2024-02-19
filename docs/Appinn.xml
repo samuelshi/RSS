@@ -4,6 +4,17 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>❓ #问题求助 Stable Diffusion 跑SDXL模型用ControlNet涂鸦不出图怎么办？ https://meta.appinn.net/t/topic/52763</title>
+<link>https://t.me/appinnfeed/9661</link>
+<guid>https://t.me/appinnfeed/9661</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9661?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />Stable Diffusion 跑SDXL模型用ControlNet涂鸦不出图怎么办？<br /><br /><a href="https://meta.appinn.net/t/topic/52763" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/52763</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/52763">Stable Diffusion 跑SDXL模型用ControlNet涂鸦不出图怎么办？</a></b><br /><p>先说下配置U是13700k，内存32G，显卡4080  现在的问题是手绘图片线稿，用SDXL的模型，VEA也是用的XL专用的，使用ControlNet里的涂鸦，也下好ControlNet里XL的模型，但出不来图，比较邪性的是1月25号前却实现过SDXL在ControlNet的涂鸦成功出过图的，自动更新后就又不行了，版本是秋叶大佬的整合包，现在是重新下的最新版整合包，然而还是不行，去疑难解答诊断说：精度不足SD-WebUI检测到U-Net模型在运算中产生了无效数据(黑图) 。  The SD-WebUI detected…</p><img src="https://cdn4.cdn-telegram.org/file/bfhgQnBDJSasXnw-axKoMqWElWzyEQqYf5Nwxa9U6B6f2EpgeU-VuVdd-cnnup7Ud48Sf6Y1NUx4gSXwCCh7PnXBG2LL7wWW-VabTg9piaooBjnsEk33lw6To4zlyxvkx9rBqqwQm8Qn0fm4YVz0Bv9ArphQewSbEct1rHp7QeuOz95PPhulxNbPHEP-u5H7cpDf8qrlPa6KOP3TrWiwU_07VzWdCTN_Fb1zGvGSR8Pn44PXQWSMLIWHw6mu90Kbl5P35BG02JsWSSX4uN0BziAxPkT-HYuKxnwtX9P4WtWgOaxXdnBexxCEuVpzsFYDzJPIsssdMRiLxhMfasc78g.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Sun, 18 Feb 2024 23:48:00 GMT</pubDate>
+<pubDate>Sun, 18 Feb 2024 23:48:00 GMT</pubDate>
+</item>
 
 <item>
 <title>Wddbfs - 将SQLite数据库挂载为文件系统 https://adamobeng.com/wddbfs-mount-a-sqlite-database-as-a-filesystem/</title>

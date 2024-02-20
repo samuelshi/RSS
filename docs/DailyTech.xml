@@ -4,18 +4,16 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+
 <item>
 <title>Android 15 可以保护敏感通知信息免遭窃取 谷歌正在为 Android 15 准备一项新的安全功能，它可能会将带有一次性验证码 (OTP) 的通知标记为“敏感”信息，只有系...</title>
 <link>https://t.me/xhqcankao/8286</link>
 <guid>https://t.me/xhqcankao/8286</guid>
 <content:encoded><![CDATA[
-
 <p><b>Android 15 可以保护敏感通知信息免遭窃取</b><br /><br />谷歌正在为 Android 15 准备一项新的安全功能，它可能会将带有一次性验证码 (OTP) 的通知标记为“敏感”信息，只有系统应用才能读取它们。这可以阻止恶意应用在获得“通知访问权限”后窃取你在线账户的一次性验证码 (OTP) 。目前还不能确切的知道谷歌会把哪些类型的通知标记为“敏感“的。<br /><br />—— <a href="https://www.androidauthority.com/android-15-sensitive-notifications-3416414/" rel="noopener" target="_blank">Android Authority</a> (米沙尔·拉赫曼)</p>
 ]]></content:encoded>
 <pubDate>Tue, 20 Feb 2024 04:30:39 GMT</pubDate>
-<pubDate>Tue, 20 Feb 2024 04:30:39 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 作为七八年的老用户，到现在还是经常会感慨Xmind太好用了，刚看到图例这个新功能，心想这又是啥不起眼的小东西，点开之后瞬间就亮了 发现好的产品细节时的...</title>
 <link>https://t.me/jike_collection/9566</link>
@@ -9218,15 +9216,6 @@ Tue, 16 Jan 2024 01:33:20 GMT
 <p><b>Vim 编辑器 9.1 版本发布，谨献给已故首席开发者 Bram Moolenaar</b><br /><br />Vim 编辑器于2024年1月2日推出了 9.1 版本，这是一个 Bug 修复版本，它包含了数百个 Bug 修复、一些新功能，还有许多小的改进。更新日志称：“这个版本是献给 Bram Moolenaar 的，他是 Vim 30 多年的首席开发者，于半年前去世。如果没有他的工作，Vim 项目就不可能存在！”<br /><br /><a href="https://www.vim.org/vim-9.1-released.php" rel="noopener" target="_blank">https://www.vim.org/vim-9.1-released.php</a><br /><br />—— <a href="https://m.ithome.com/html/743096.htm" rel="noopener" target="_blank">IT之家</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 03 Jan 2024 04:30:25 GMT</pubDate>
-</item>
-<item>
-<title>🖼 📶 Apple 再遇信号门，iOS 17.2.1 系统确认会导致信号问题 Apple 最新的 iOS 操作系统 iOS 17.2.1 确认存在信号相关问题。 大量用户在更新到该版本系统后...</title>
-<link>https://t.me/AppleNuts/1868</link>
-<guid>https://t.me/AppleNuts/1868</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">📶</span> <b>Apple 再遇信号门，iOS 17.2.1 系统确认会导致信号问题</b><br /><br />Apple 最新的 iOS 操作系统 iOS 17.2.1 确认存在信号相关问题。<br /><br />大量用户在更新到该版本系统后，会出现各种运营商网络相关相关问题，具体表现为：<br /><br />* 正常显示运营商名称，不会出现无服务，但是信号强度为 0<br /><br />* 无法通过运营商网络上网，或网络访问经常或间歇性中断<br /><br />* 通过 设置&gt;通用&gt;还原&gt;还原网络设置 后可能可以迅速解决问题，但是一段时间后问题反复<br /><br />* 通过运营商更换实体 SIM 卡 或 删除并重新添加 eSIM 无法彻底解决问题<br /><br />此问题存在于<b>所有</b>可以搭载 iOS 17.2.1 的 iPhone 设备上，与硬件无关，与软件操作系统有关。<br /><br />Apple 目前暂时没有针对这个问题给出任何回复。</p><img src="https://cdn5.cdn-telegram.org/file/Ry4cfTrjr7Z9-WEHBrsw7TXiyueqfksoRs4d8kD8agkIt0dhG9_8ythbq_LQ7fvWeOAHtgBAKpts7L92HSINj_iEwoaHWyBNGUEYpykUkiVPDTYFs7GyNPFwPJVr6WnoyrI5eOPTvwAKgGBBnvDIcznsDuvEZkl-OJ76oLhgY9zQ_FGUmpoI1DUY-YqenpLNOVxV4vxIHsyOnthDu9LqCO4y4x57GyQ3zRykWAelcPi3NnyXIa1cNX2XZDqlxE_sErUfKKqA161dGpqXhyly4Hp-xHZiN5DF0su2ERPcB-63ckv-qRoykTb2_rlwWhSHqpqnhy0clDt7IZUD0pIlTA.jpg" />
-]]></content:encoded>
-<pubDate>Wed, 03 Jan 2024 04:48:53 GMT</pubDate>
 </item>
 </channel>
 </rss>

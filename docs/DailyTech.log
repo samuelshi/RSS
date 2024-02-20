@@ -28044,3 +28044,13 @@ Append: [苹果 Apple Music 测试从 Spotify 和其他服务导入播放列表 
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
 append_entries: 2
 Finish: 2024-02-20 10:05:58
+------------------------------------------------------
+Started: 2024-02-20 11:01:50
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
+Append: [谷歌人工智能聊天机器人 Gemini 即将提供针对 Workspace 客户的企业级数据保护 谷歌人工智能聊天机器人 Gemini 即将推出针对企业用户的 Gemini Business 和 Gemi...](https://t.me/xhqcankao/8281)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
+append_entries: 1
+Finish: 2024-02-20 11:01:55

@@ -16480,3 +16480,12 @@ Existing_entries: 871
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2024-02-20 15:01:33
+------------------------------------------------------
+Started: 2024-02-20 16:01:29
+Existing_entries: 871
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [📣 #发现频道 [开发者自荐]批量替换高手:根据模板一键批量生成doc和xls文件 https://meta.appinn.net/t/topic/52824](https://t.me/appinnfeed/9678)
+Append: [❓ #问题求助 请问有什么方法可以实现Windows自启动软件不显示开机窗口 https://meta.appinn.net/t/topic/52823](https://t.me/appinnfeed/9677)
+Append: [❓ #问题求助 安卓，会员、订阅、服务器到期提醒 app https://meta.appinn.net/t/topic/52822](https://t.me/appinnfeed/9676)
+append_entries: 3
+Finish: 2024-02-20 16:01:30

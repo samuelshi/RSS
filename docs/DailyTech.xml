@@ -5,17 +5,52 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>🖼 #macOS #APP #GitHub情报 💻 Latest：一键更新 macOS 上安装软件 🔗：GitHub | Web | Releases 👉 Features - 扫描 Mac 上所有应用，给出最新更新信...</title>
+<link>https://t.me/NewlearnerChannel/12429</link>
+<guid>https://t.me/NewlearnerChannel/12429</guid>
+<content:encoded><![CDATA[
+
+<p><a href="https://t.me/NewlearnerChannel/12429?q=%23macOS">#macOS</a> <a href="https://t.me/NewlearnerChannel/12429?q=%23APP">#APP</a> <a href="https://t.me/NewlearnerChannel/12429?q=%23GitHub%E6%83%85%E6%8A%A5">#GitHub情报</a><br /><br /><span class="emoji">💻</span> <b>Latest：一键更新 macOS 上安装软件</b><br /><br /><span class="emoji">🔗</span>：<a href="https://github.com/mangerlahn/Latest" rel="noopener" target="_blank">GitHub</a> | <a href="https://max.codes/latest/" rel="noopener" target="_blank">Web</a> | <a href="https://github.com/mangerlahn/Latest/releases" rel="noopener" target="_blank">Releases</a><br /><br /><span class="emoji">👉</span> Features<br /><br />- 扫描 Mac 上所有应用，给出最新更新信息<br />- 支持 App Store 和使用 Sparkle 框架的第三方应用<br />- 可一键更新，i18n 较为完善<br /><br /><span class="emoji">👀</span> 不同于 iOS，macOS 由于其拥有一定的开放性，因而 App Store 在 Mac 上的控制力并不强。很多好用的软件都需要从第三方下载，甚至出现了 Setapp 这样的精品应用商店<br /><br /><span class="emoji">❓</span> 但这样产生了一个问题，即用户对软件集中管理变得不方便，比如批量更新、卸载。非 App Store 的软件需要一个个点击查看是否有更新，卸载时也容易产生残留（不是所有应用都提供脚本）。于是各种 App Uninstaller 横空出世，而今天介绍的则是开源免费的批量更新软件<br /><br /><span class="emoji">💡</span> Latest 保持了小体积、原生应用界面的设计风格，它的使用也非常简单：打开即可自动扫描本地软件，然后告诉你哪些可以进行更新。希望 Latest 能够成为你 Mac 上的常驻更新器<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/LdHsKAy6L830lvH9SgfnO-9XUeaZ_hkfxXwjr7y0X-sq13vPVnx2GmnrOZvFc59WV6zyLAtaoANQhp9i_IJDJHBYv2BDLHj19H3Y870D8MIWNtIoFhUn4Mnj4A71WK2wbhTpSUc5GS0sSEJXqBlVjRnjJz8JD2gixp6yh4gUdRd9DQecYLoUOvO1qnQMHD3KvTI9svsUc0tcQD0ToKhknTyp9N5RBZ6DLYsSx3jduzET--iaGnnWTvPYY1AEsBZn4jGMI6nXZXc5niuYtMn0hht_qPQS5KwBSAD16_r_5QR-LhGleopNvNL7MypYAa5Thyuf57XFe55igUyX8wmxcg.jpg" />
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 10:03:01 GMT</pubDate>
+<pubDate>Wed, 21 Feb 2024 10:03:01 GMT</pubDate>
+</item>
+<item>
+<title>↩️ 日本警方发布 Lockbit 3.0 解密工具 在欧洲刑警组织的 No More Ransom 网站上，日本警方发布了 Lockbit 3.0 版的解密工具。日本警方表示在 2023 年 12 月就...</title>
+<link>https://t.me/xhqcankao/8320</link>
+<guid>https://t.me/xhqcankao/8320</guid>
+<content:encoded><![CDATA[
+
+<div class="rsshub-quote"><blockquote>
+                                    <p><a href="https://t.me/xhqcankao/8289"><b>风向旗参考快讯</b>:</a></p>
+                                    
+                                    <p>美英等多国执法机构联手捣毁了勒索软件组织 Lockbit  包括美国联邦调查局和英国国家打击犯罪调查局在内的国际执法机构联盟表示，已经摧毁了有史以来最活跃的黑客组织之一 LockBit，包括关闭该组织用于勒索软件支付的网站。周一该组织网站上的文章指称，该网站现已在“英国机构、FBI 和其他执法机构的控制之下”。  一名美国联邦调查局官员表示，来自11个不同国家的执法部门参与了此次行动，查封了1.1万个 LockBit 及其附属用来为勒索软件提供便利的域名。LockBit 专门使用被称为勒索软件的恶意软件对…</p>
+                                </blockquote></div><p><b>日本警方发布 Lockbit 3.0 解密工具</b><br /><br />在欧洲刑警组织的 No More Ransom 网站上，日本警方发布了 Lockbit 3.0 版的解密工具。日本警方表示在 2023 年 12 月就已经通过逆向工程和收集的一些关键数据开发了这款解密工具，并提供了给欧洲刑警组织。但为了保密避免破坏相关行动以及避免黑客变更策略，所以这款解密工具一直没有公布，直到本周联合执法机构开展打击行动后，欧洲刑警组织才公布解密工具。<br /><br />该恶意软件使用可变密钥并存在大量变种。并且设计了严格保护以防止分析，并利用大量未记录的 Windows 内核函数。这使得解密过程极其困难或不可能。该工具无法保证所有受害者的文件都能够被恢复。<br /><br />—— <a href="https://www.nikkei.com/article/DGXZQOUE209DR0Q4A220C2000000/" rel="noopener" target="_blank">日经新闻网</a></p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 10:47:38 GMT</pubDate>
+<pubDate>Wed, 21 Feb 2024 10:47:38 GMT</pubDate>
+</item>
+<item>
+<title>QIWI 银行开展银行业务的许可证被吊销 俄罗斯央行在2024年2月21日根据第OD-266号命令，吊销了 QIWI 银行开展银行业务的许可证。金融监管机构解释说，QIWI 银行违...</title>
+<link>https://t.me/xhqcankao/8319</link>
+<guid>https://t.me/xhqcankao/8319</guid>
+<content:encoded><![CDATA[
+
+<p><b>QIWI 银行开展银行业务的许可证被吊销</b><br /><br />俄罗斯央行在2024年2月21日根据第OD-266号命令，吊销了 QIWI 银行开展银行业务的许可证。金融监管机构解释说，QIWI 银行违反了联邦银行业法律和央行的规定。过去12个月，监管机构已五次对其采取措施，其中两次对某些交易实行限制。并表示其“系统地”违反了反洗钱法。<br /><br />—— <a href="https://www.cbr.ru/press/pr/?file=638441030839855571BANK_SECTOR.htm" rel="noopener" target="_blank">俄罗斯央行</a></p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 10:17:20 GMT</pubDate>
+<pubDate>Wed, 21 Feb 2024 10:17:20 GMT</pubDate>
+</item>
+
+<item>
 <title>TikTok 高管担心 CapCut 视频编辑应用与中国的联系 去年，美国 iPhone 上下载量第二的免费应用是 CapCut，这是一款由字节跳动开发的视频编辑应用。但与 TikTok ...</title>
 <link>https://t.me/xhqcankao/8318</link>
 <guid>https://t.me/xhqcankao/8318</guid>
 <content:encoded><![CDATA[
-
 <p><b>TikTok 高管担心 CapCut 视频编辑应用与中国的联系</b><br /><br />去年，美国 iPhone 上下载量第二的免费应用是 CapCut，这是一款由字节跳动开发的视频编辑应用。但与 TikTok 本身不同的是，CapCut 是由字节跳动在中国的高管直接运营的，本月早些时候字节跳动的管理层重组证实了这一点。过去几年里，字节跳动内部有人担心，从中国运营 CapCut 可能会成为外界批评该公司的靶子，因为 TikTok 与中国的关系在美国一直面临政治审查。两位知情人士表示，在 2022 年和 2023 年 TikTok 和字节跳动的管理层内部会议上，一些 TikTok 的管理人员质疑为什么 CapCut 要在中国运营而 TikTok 却不在。<br /><br />—— <a href="https://www.theinformation.com/articles/tiktok-executives-fretted-about-china-ties-of-capcut-editing-app" rel="noopener" target="_blank">Theinformation</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 21 Feb 2024 09:19:50 GMT</pubDate>
-<pubDate>Wed, 21 Feb 2024 09:19:50 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 #Chrome #Browsers 📩 接读者来稿，他向我们介绍了自己开发的一个浏览器新标签页拓展程序 🏞 Scene Tab：简约美观的 Chrome 浏览器新标签页 🔗：Web ...</title>
 <link>https://t.me/NewlearnerChannel/12428</link>
@@ -9222,15 +9257,6 @@ Tue, 16 Jan 2024 01:33:20 GMT
 <p>2024年1月5日<br /><span class="emoji">🌍</span>资讯快读<br />1、《上海市促进在线新经济健康发展的若干政策措施》印发<br /><a href="https://www.jiemian.com/article/10634606.html" rel="noopener" target="_blank">https://www.jiemian.com/article/10634606.html</a><br />2、涉嫌违规寄递烟花爆竹，圆通速递、韵达速递、京东物流被约谈<br /><a href="https://www.jiemian.com/article/10632321.html" rel="noopener" target="_blank">https://www.jiemian.com/article/10632321.html</a><br />3、高通发布MR头戴设备芯片XR2+ Gen 2<br /><a href="https://www.jiemian.com/article/10635332.html" rel="noopener" target="_blank">https://www.jiemian.com/article/10635332.html</a><br />4、安踏旗下亚玛芬体育提交美国IPO文件<br /><a href="https://www.jiemian.com/article/10635414.html" rel="noopener" target="_blank">https://www.jiemian.com/article/10635414.html</a><br /><br /><span class="emoji">👬</span>即刻镇小报<br />1、推荐一个非常宝藏的AI相关信息源<br /><a href="https://m.okjike.com/originalPosts/65955fc612ed2fda685fc5f5" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/65955fc612ed2fda685fc5f5</a><br />2、“先主动让利给用户”，一种用户习惯养成思路<br /><a href="https://m.okjike.com/originalPosts/6584557a79cb2b9f35049d8d" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/6584557a79cb2b9f35049d8d</a><br />3、小红书过去一年在社区和电商方面的探索<br /><a href="https://m.okjike.com/originalPosts/658af943a922aa28d0209583" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/658af943a922aa28d0209583</a><br />4、买料理用品，又学到了 3 个购物经验<br /><a href="https://m.okjike.com/originalPosts/6592ce75a922aa28d0b2d0e9" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/6592ce75a922aa28d0b2d0e9</a><br /><br />今日即刻镇小报内容来自 @余一.Dev @不说可惜 <a href="https://t.me/Luuuuke" target="_blank">@Luuuuke</a> <a href="https://t.me/MrCoffeeTalker" target="_blank">@MrCoffeeTalker</a> ，感谢以上即友的创作与分享。 <a href="https://t.me/jike_collection/9451?q=%23%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88">#一觉醒来发生了什么</a></p><blockquote><b>Jiemian</b><br /><b><a href="https://www.jiemian.com/article/10634606.html">《上海市促进在线新经济健康发展的若干政策措施》印发|界面新闻 · 快讯</a></b><br /><p>上海市人民政府办公厅印发《上海市促进在线新经济健康发展的若干政策措施》。其中提出，支持平台企业发挥链主作用。引导本市在线新经济平台企业合理确定支付结算、平台佣金等服务费用，在商户入驻、网店押金、宣传推广、信息服务、从业培训等方面，给予优质小微商户一定扶持。鼓励种子企业上市融资。支持符合国家战略、突破关键核心技术、市场认可度高的在线新经济企业按照规定纳入改制上市培育企业库。鼓励符合条件的在线新经济红筹企业回归境内资本市场，依法依规支持符合条件的平台企业在境内外上市。</p></blockquote>
 ]]></content:encoded>
 <pubDate>Fri, 05 Jan 2024 00:08:42 GMT</pubDate>
-</item>
-<item>
-<title>马斯克旗下太空探索公司SpaceX就“解聘员工案件”起诉美国劳工关系委员会。 周三，美国劳工关系委员会 (NLRB) 指控马斯克旗下太空探索公司 SpaceX 因一封批评马...</title>
-<link>https://t.me/xhqcankao/7554</link>
-<guid>https://t.me/xhqcankao/7554</guid>
-<content:encoded><![CDATA[
-<p><b>马斯克旗下太空探索公司SpaceX就“解聘员工案件”起诉美国劳工关系委员会。</b><br /><br />周三，美国劳工关系委员会 (NLRB) 指控马斯克旗下太空探索公司 SpaceX 因一封批评马斯克行为的公开信而非法解雇了一批员工。现在，SpaceX 正在以诉讼回应，称这封公开信“分散了 SpaceX 全国员工的注意力”。该公司声称，美国劳工关系委员会的程序侵犯了 SpaceX 的“陪审团进行审判的宪法权利”，还违反了《宪法》关于三权分立的规定。<br /><br />—— <a href="https://www.theverge.com/2024/1/4/24025712/spacex-nlrb-lawsuit-constitutional-violations-elon-musk" rel="noopener" target="_blank">Theverge</a></p>
-]]></content:encoded>
-<pubDate>Fri, 05 Jan 2024 00:39:14 GMT</pubDate>
 </item>
 </channel>
 </rss>

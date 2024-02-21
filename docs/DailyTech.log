@@ -28504,3 +28504,12 @@ Append: [Meta 测试从 Facebook 到 Threads 的交叉发布 Threads 与 Faceboo
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
 append_entries: 1
 Finish: 2024-02-22 06:01:38
+------------------------------------------------------
+Started: 2024-02-22 07:01:22
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
+append_entries: 0
+Finish: 2024-02-22 07:01:26

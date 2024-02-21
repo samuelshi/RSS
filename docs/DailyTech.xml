@@ -5,14 +5,35 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>揭露：中国网络直播经纪公司利用巨额违约金“绑架”主播，使他们不得不在低薪下工作 科技媒体《Rest of World》揭露了中国直播行业中的一个乱象。在这个利润丰厚...</title>
+<link>https://t.me/xhqcankao/8322</link>
+<guid>https://t.me/xhqcankao/8322</guid>
+<content:encoded><![CDATA[
+
+<p><b>揭露：中国网络直播经纪公司利用巨额违约金“绑架”主播，使他们不得不在低薪下工作</b><br /><br />科技媒体《Rest of World》揭露了中国直播行业中的一个乱象。在这个利润丰厚的产业，才艺经纪公司向渴望成为网红的人承诺名利。然而，许多网络主播发现自己陷入了低薪工作中，工作要求极为繁重，而且一旦离开，将面临巨额违约金。<br /><br />网络主播们在违约诉讼中败诉居多，法庭通常偏向经纪公司，使网络主播陷入经济负担和心理压力。经纪公司的激进招募策略加剧了这一问题，导致了网络主播的剥削和虐待。尽管政府出台了一些规定，但保护网络主播的具体规则尚未完善，使他们容易受到剥削。像抖音这样的平台设有争议调解机制，但整个行业仍然充满挑战，对网络主播而言充满陷阱。<br /><br />—— 《Rest of World》<a href="https://restofworld.org/2024/china-livestream-agencies-exploiting-influencers/" rel="noopener" target="_blank">全文</a> · <a href="https://telegra.ph/%E6%83%B3%E5%81%9C%E6%AD%A2%E7%9B%B4%E6%92%AD%E5%90%97-%E8%AF%B7%E6%94%AF%E4%BB%98-42000-%E7%BE%8E%E5%85%83-02-21" rel="noopener" target="_blank">译</a></p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 11:51:01 GMT</pubDate>
+<pubDate>Wed, 21 Feb 2024 11:51:01 GMT</pubDate>
+</item>
+<item>
+<title>三星出售所有所持有的 ASML 股份 根据三星电子今天披露的审计报告显示，该公司在去年第四季度抛售所持半导体设备制造商 ASML 的剩余所有股份。通过本次出售三星...</title>
+<link>https://t.me/xhqcankao/8321</link>
+<guid>https://t.me/xhqcankao/8321</guid>
+<content:encoded><![CDATA[
+
+<p><b>三星出售所有所持有的 ASML 股份</b><br /><br />根据三星电子今天披露的审计报告显示，该公司在去年第四季度抛售所持半导体设备制造商 ASML 的剩余所有股份。通过本次出售三星预计将回收约9亿美元的资金，将用于其半导体工艺技术的升级。在2012年，三星电子以约7000亿韩元的价格收购了ASML约3%的股份，据估算三星的投资回报率达到约8倍。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-02-21/samsung-sells-down-entire-asml-stake-to-expand-in-new-arenas" rel="noopener" target="_blank">彭博社</a></p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 11:20:59 GMT</pubDate>
+<pubDate>Wed, 21 Feb 2024 11:20:59 GMT</pubDate>
+</item>
+
+<item>
 <title>🖼 #macOS #APP #GitHub情报 💻 Latest：一键更新 macOS 上安装软件 🔗：GitHub | Web | Releases 👉 Features - 扫描 Mac 上所有应用，给出最新更新信...</title>
 <link>https://t.me/NewlearnerChannel/12429</link>
 <guid>https://t.me/NewlearnerChannel/12429</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://t.me/NewlearnerChannel/12429?q=%23macOS">#macOS</a> <a href="https://t.me/NewlearnerChannel/12429?q=%23APP">#APP</a> <a href="https://t.me/NewlearnerChannel/12429?q=%23GitHub%E6%83%85%E6%8A%A5">#GitHub情报</a><br /><br /><span class="emoji">💻</span> <b>Latest：一键更新 macOS 上安装软件</b><br /><br /><span class="emoji">🔗</span>：<a href="https://github.com/mangerlahn/Latest" rel="noopener" target="_blank">GitHub</a> | <a href="https://max.codes/latest/" rel="noopener" target="_blank">Web</a> | <a href="https://github.com/mangerlahn/Latest/releases" rel="noopener" target="_blank">Releases</a><br /><br /><span class="emoji">👉</span> Features<br /><br />- 扫描 Mac 上所有应用，给出最新更新信息<br />- 支持 App Store 和使用 Sparkle 框架的第三方应用<br />- 可一键更新，i18n 较为完善<br /><br /><span class="emoji">👀</span> 不同于 iOS，macOS 由于其拥有一定的开放性，因而 App Store 在 Mac 上的控制力并不强。很多好用的软件都需要从第三方下载，甚至出现了 Setapp 这样的精品应用商店<br /><br /><span class="emoji">❓</span> 但这样产生了一个问题，即用户对软件集中管理变得不方便，比如批量更新、卸载。非 App Store 的软件需要一个个点击查看是否有更新，卸载时也容易产生残留（不是所有应用都提供脚本）。于是各种 App Uninstaller 横空出世，而今天介绍的则是开源免费的批量更新软件<br /><br /><span class="emoji">💡</span> Latest 保持了小体积、原生应用界面的设计风格，它的使用也非常简单：打开即可自动扫描本地软件，然后告诉你哪些可以进行更新。希望 Latest 能够成为你 Mac 上的常驻更新器<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/LdHsKAy6L830lvH9SgfnO-9XUeaZ_hkfxXwjr7y0X-sq13vPVnx2GmnrOZvFc59WV6zyLAtaoANQhp9i_IJDJHBYv2BDLHj19H3Y870D8MIWNtIoFhUn4Mnj4A71WK2wbhTpSUc5GS0sSEJXqBlVjRnjJz8JD2gixp6yh4gUdRd9DQecYLoUOvO1qnQMHD3KvTI9svsUc0tcQD0ToKhknTyp9N5RBZ6DLYsSx3jduzET--iaGnnWTvPYY1AEsBZn4jGMI6nXZXc5niuYtMn0hht_qPQS5KwBSAD16_r_5QR-LhGleopNvNL7MypYAa5Thyuf57XFe55igUyX8wmxcg.jpg" />
 ]]></content:encoded>
-<pubDate>Wed, 21 Feb 2024 10:03:01 GMT</pubDate>
 <pubDate>Wed, 21 Feb 2024 10:03:01 GMT</pubDate>
 </item>
 <item>
@@ -20,7 +41,6 @@
 <link>https://t.me/xhqcankao/8320</link>
 <guid>https://t.me/xhqcankao/8320</guid>
 <content:encoded><![CDATA[
-
 <div class="rsshub-quote"><blockquote>
                                     <p><a href="https://t.me/xhqcankao/8289"><b>风向旗参考快讯</b>:</a></p>
                                     
@@ -28,20 +48,16 @@
                                 </blockquote></div><p><b>日本警方发布 Lockbit 3.0 解密工具</b><br /><br />在欧洲刑警组织的 No More Ransom 网站上，日本警方发布了 Lockbit 3.0 版的解密工具。日本警方表示在 2023 年 12 月就已经通过逆向工程和收集的一些关键数据开发了这款解密工具，并提供了给欧洲刑警组织。但为了保密避免破坏相关行动以及避免黑客变更策略，所以这款解密工具一直没有公布，直到本周联合执法机构开展打击行动后，欧洲刑警组织才公布解密工具。<br /><br />该恶意软件使用可变密钥并存在大量变种。并且设计了严格保护以防止分析，并利用大量未记录的 Windows 内核函数。这使得解密过程极其困难或不可能。该工具无法保证所有受害者的文件都能够被恢复。<br /><br />—— <a href="https://www.nikkei.com/article/DGXZQOUE209DR0Q4A220C2000000/" rel="noopener" target="_blank">日经新闻网</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 21 Feb 2024 10:47:38 GMT</pubDate>
-<pubDate>Wed, 21 Feb 2024 10:47:38 GMT</pubDate>
 </item>
 <item>
 <title>QIWI 银行开展银行业务的许可证被吊销 俄罗斯央行在2024年2月21日根据第OD-266号命令，吊销了 QIWI 银行开展银行业务的许可证。金融监管机构解释说，QIWI 银行违...</title>
 <link>https://t.me/xhqcankao/8319</link>
 <guid>https://t.me/xhqcankao/8319</guid>
 <content:encoded><![CDATA[
-
 <p><b>QIWI 银行开展银行业务的许可证被吊销</b><br /><br />俄罗斯央行在2024年2月21日根据第OD-266号命令，吊销了 QIWI 银行开展银行业务的许可证。金融监管机构解释说，QIWI 银行违反了联邦银行业法律和央行的规定。过去12个月，监管机构已五次对其采取措施，其中两次对某些交易实行限制。并表示其“系统地”违反了反洗钱法。<br /><br />—— <a href="https://www.cbr.ru/press/pr/?file=638441030839855571BANK_SECTOR.htm" rel="noopener" target="_blank">俄罗斯央行</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 21 Feb 2024 10:17:20 GMT</pubDate>
-<pubDate>Wed, 21 Feb 2024 10:17:20 GMT</pubDate>
 </item>
-
 <item>
 <title>TikTok 高管担心 CapCut 视频编辑应用与中国的联系 去年，美国 iPhone 上下载量第二的免费应用是 CapCut，这是一款由字节跳动开发的视频编辑应用。但与 TikTok ...</title>
 <link>https://t.me/xhqcankao/8318</link>
@@ -9230,33 +9246,6 @@ Tue, 16 Jan 2024 01:33:20 GMT
 <p><b>影子图书馆 Z-Library 开通哔哩哔哩账号</b><br /><br />影子图书馆 Z-Library 官方表示，希望与中国用户保持联系，并决定尝试在中国社交媒体上创建帐户。现在，Z-Library 在微信和哔哩哔哩都有官方账号，并表示将逐步向这些渠道发布信息。<br /><br />哔哩哔哩账号： <a href="https://space.bilibili.com/3494351363640156" rel="noopener" target="_blank">https://space.bilibili.com/3494351363640156</a><br />微信账号： <a href="https://weixin.qq.com/r/ZhKDm1jEzQWyrRz490d0" rel="noopener" target="_blank">https://weixin.qq.com/r/ZhKDm1jEzQWyrRz490d0</a> 「<a href="https://t.me/zlib_china_official/52?single" rel="noopener" target="_blank"><b>扫码</b></a>」<br /><br />—— <a href="https://t.me/zlib_china_official/52?single" rel="noopener" target="_blank">Z-Library</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 05 Jan 2024 02:40:42 GMT</pubDate>
-</item>
-<item>
-<title>多邻国大规模裁员引担忧：AI正带来失业潮？ 就在上个月，全球最大的语言学习平台多邻国 (Duolingo) 突然裁掉了几千名合同工翻译，用 AI 产品取代了他们的工作，...</title>
-<link>https://t.me/xhqcankao/7555</link>
-<guid>https://t.me/xhqcankao/7555</guid>
-<content:encoded><![CDATA[
-<p><b>多邻国大规模裁员引担忧：AI正带来失业潮？</b><br /><br />就在上个月，全球最大的语言学习平台多邻国 (Duolingo) 突然裁掉了几千名合同工翻译，用 AI 产品取代了他们的工作，就算剩下的合同工翻译，其工作内容也只是审阅 AI 生成内容保证翻译质量。这次多邻国决定用 AI 大规模取代人类翻译，在美国网络引发了不小的讨论。在 AI 取代人类工作的担忧声中，多邻国这一举动无疑是验证了很多人最恐惧的事情：AI 工具正在导致人类大规模失业。<br /><br />—— <a href="https://finance.sina.cn/tech/2024-01-05/detail-inaamksk3188912.d.html?vt=4&amp;amp;pos=108" rel="noopener" target="_blank">新浪财经</a>、<a href="https://sh.reddit.com/r/duolingo/comments/18sx06i/big_layoff_at_duolingo/" rel="noopener" target="_blank">Reddit</a></p>
-]]></content:encoded>
-<pubDate>Fri, 05 Jan 2024 02:02:34 GMT</pubDate>
-</item>
-<item>
-<title>🖼 #News ☀️ 自留地早报【1.5】 1️⃣ 郭明錤 爆料称，iPhone 16 Pro 机型将迎来重大影像升级，首次搭载两颗 48MP 传感器，仅长焦镜头仍为 12MP 2️⃣ Dell ...</title>
-<link>https://t.me/NewlearnerChannel/12271</link>
-<guid>https://t.me/NewlearnerChannel/12271</guid>
-<content:encoded><![CDATA[
-<p><a href="https://t.me/NewlearnerChannel/12271?q=%23News">#News</a><br /><br /><span class="emoji">☀️</span> 自留地早报【1.5】<br /><br /><span class="emoji">1️⃣</span> <a href="https://medium.com/@mingchikuo/%E7%8E%89%E6%99%B6%E5%85%89%E7%82%BA%E9%AB%98%E9%9A%8E%E9%8F%A1%E9%A0%AD%E5%8D%87%E7%B4%9A%E9%80%B1%E6%9C%9F%E5%86%8D%E8%B5%B7%E7%9A%84%E9%97%9C%E9%8D%B5%E8%B4%8F%E5%AE%B6-iphone-17%E5%89%8D%E7%9B%B8%E6%A9%9F%E5%8D%87%E7%B4%9A-iphone-16-pro%E6%BD%9B%E6%9C%9B%E9%8F%A1%E8%88%87%E8%B6%85%E5%BB%A3%E8%A7%92-vision-pro-%E8%88%87%E8%8F%AF%E7%82%BAp70%E8%B6%85%E5%BB%A3%E8%A7%92-genius-is-a-key-7f125f60d783" rel="noopener" target="_blank">郭明錤</a> 爆料称，iPhone 16 Pro 机型将迎来重大影像升级，首次搭载两颗 48MP 传感器，仅长焦镜头仍为 12MP<br /><br /><span class="emoji">2️⃣</span> <a href="https://www.theverge.com/2024/1/4/24023682/dell-xps-2024-ces-13-14-16-laptops" rel="noopener" target="_blank">Dell</a> 发布 全新 XPS 13/14/16 笔记本，均搭载酷睿 Ultra 处理器。其中 XPS 16 取代老款 XPS 17，XPS 14 取代老款 XPS 15，XPS 13 取代 XPS 13 Plus 系列，<br /><br /><span class="emoji">3️⃣</span> <a href="https://www.welt.de/politik/ausland/article249282020/Nervige-Pop-Ups-Das-hat-Bruessel-mit-den-Cookie-Bannern-vor.html" rel="noopener" target="_blank">欧盟委员会</a> 委员表示，欧盟计划出台新规，规范各网站的 Cookie 横幅显示<br /><br /><span class="emoji">4️⃣</span> <a href="https://www.bloomberg.com/news/articles/2024-01-04/microsoft-ai-copilot-keyboard-new-key-is-msft-s-biggest-change-in-years" rel="noopener" target="_blank">微软</a> 宣布，未来 Windows 11 PC 电脑的键盘将新增 Copilot 键，按下即可调用 AI 助手 Windows Copilot<br /><br /><span class="emoji">5️⃣</span> <a href="https://www.theverge.com/2024/1/3/24024042/lg-display-oled-480hz-oled-gaming-monitor" rel="noopener" target="_blank">The Verge</a> 报道称，LG 今日宣布将在下周的 CES 2024 展示业界首款 27 英寸 2K 480Hz OLED 游戏显示器，其响应时间为 0.03ms<br /><br /><span class="emoji">6️⃣</span> <a href="https://weibo.com/1737755501/NAfD38NIq" rel="noopener" target="_blank">ROG</a> 官宣，ROG 2024 CES 国内发布会定档 1 月 9 日，预计将发布幻 Air 系列笔记本<br /><br /><span class="emoji">7️⃣</span> <a href="https://weibo.com/3871046669/NAi8W64FK" rel="noopener" target="_blank">一加</a> 发布一加 Ace 3 手机，搭载骁龙 8 Gen 2 处理器，售价 2599 元起<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/GkFs5Ui8ZkjS8pNdCLc8_yZlpKY7RQuNxvIUsxOLulXfHYFzpwvpa9ZKYJJpggSpFfWKGFrehIrIntNcyfQRBFkW-xgfLbXRS35A7jHo2sMM9fHNsRdhKLk0QLKT4rJePHyUaTBZ4OQ1ZbYnCVxS2urqQwhWuWFSQRggMNmC_saj1VgqJbtP51dono2rTikR7mhqCRKetXmFMSEGkV-QeWhyQRsklAYIop44cuPrbH1IO7q2AlnKA-buzHw9w9sgq31GTuL5yEmVGZPszyV-plvrLpMrWmXbNekngugBzN0c9B87_pKqzBDgJtusjJDrReSP5nWLbl-gJu4SGmgUOA.jpg" />
-]]></content:encoded>
-<pubDate>Fri, 05 Jan 2024 01:01:54 GMT</pubDate>
-</item>
-<item>
-<title>2024年1月5日 🌍资讯快读 1、《上海市促进在线新经济健康发展的若干政策措施》印发 https://www.jiemian.com/article/10634606.html 2、涉嫌违规寄递烟花爆竹...</title>
-<link>https://t.me/jike_collection/9451</link>
-<guid>https://t.me/jike_collection/9451</guid>
-<content:encoded><![CDATA[
-<p>2024年1月5日<br /><span class="emoji">🌍</span>资讯快读<br />1、《上海市促进在线新经济健康发展的若干政策措施》印发<br /><a href="https://www.jiemian.com/article/10634606.html" rel="noopener" target="_blank">https://www.jiemian.com/article/10634606.html</a><br />2、涉嫌违规寄递烟花爆竹，圆通速递、韵达速递、京东物流被约谈<br /><a href="https://www.jiemian.com/article/10632321.html" rel="noopener" target="_blank">https://www.jiemian.com/article/10632321.html</a><br />3、高通发布MR头戴设备芯片XR2+ Gen 2<br /><a href="https://www.jiemian.com/article/10635332.html" rel="noopener" target="_blank">https://www.jiemian.com/article/10635332.html</a><br />4、安踏旗下亚玛芬体育提交美国IPO文件<br /><a href="https://www.jiemian.com/article/10635414.html" rel="noopener" target="_blank">https://www.jiemian.com/article/10635414.html</a><br /><br /><span class="emoji">👬</span>即刻镇小报<br />1、推荐一个非常宝藏的AI相关信息源<br /><a href="https://m.okjike.com/originalPosts/65955fc612ed2fda685fc5f5" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/65955fc612ed2fda685fc5f5</a><br />2、“先主动让利给用户”，一种用户习惯养成思路<br /><a href="https://m.okjike.com/originalPosts/6584557a79cb2b9f35049d8d" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/6584557a79cb2b9f35049d8d</a><br />3、小红书过去一年在社区和电商方面的探索<br /><a href="https://m.okjike.com/originalPosts/658af943a922aa28d0209583" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/658af943a922aa28d0209583</a><br />4、买料理用品，又学到了 3 个购物经验<br /><a href="https://m.okjike.com/originalPosts/6592ce75a922aa28d0b2d0e9" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/6592ce75a922aa28d0b2d0e9</a><br /><br />今日即刻镇小报内容来自 @余一.Dev @不说可惜 <a href="https://t.me/Luuuuke" target="_blank">@Luuuuke</a> <a href="https://t.me/MrCoffeeTalker" target="_blank">@MrCoffeeTalker</a> ，感谢以上即友的创作与分享。 <a href="https://t.me/jike_collection/9451?q=%23%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88">#一觉醒来发生了什么</a></p><blockquote><b>Jiemian</b><br /><b><a href="https://www.jiemian.com/article/10634606.html">《上海市促进在线新经济健康发展的若干政策措施》印发|界面新闻 · 快讯</a></b><br /><p>上海市人民政府办公厅印发《上海市促进在线新经济健康发展的若干政策措施》。其中提出，支持平台企业发挥链主作用。引导本市在线新经济平台企业合理确定支付结算、平台佣金等服务费用，在商户入驻、网店押金、宣传推广、信息服务、从业培训等方面，给予优质小微商户一定扶持。鼓励种子企业上市融资。支持符合国家战略、突破关键核心技术、市场认可度高的在线新经济企业按照规定纳入改制上市培育企业库。鼓励符合条件的在线新经济红筹企业回归境内资本市场，依法依规支持符合条件的平台企业在境内外上市。</p></blockquote>
-]]></content:encoded>
-<pubDate>Fri, 05 Jan 2024 00:08:42 GMT</pubDate>
 </item>
 </channel>
 </rss>

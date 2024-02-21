@@ -4,18 +4,16 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>❓ #问题求助 通义听悟，但是实时版？ https://meta.appinn.net/t/topic/52861</title>
 <link>https://t.me/appinnfeed/9685</link>
 <guid>https://t.me/appinnfeed/9685</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9685?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />通义听悟，但是实时版？<br /><br /><a href="https://meta.appinn.net/t/topic/52861" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/52861</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/52861">通义听悟，但是实时版？</a></b><br /><p>对于在线的视频会议而言，现在的通义听悟之类的AI应用确实能帮上大忙，自动生成转录文本，总结会议大意，标注重点，打标签……总之能节省很多时间。但是这些应用目前的使用无一不是整个会议结束后生成，我在想是否有这样的应用/开源项目，能够让LLM实时流式的参与到整场会议中，充当一位参会人，帮助其他参会者更凝练的输出观点，获得启发，调取资料库等。  想了一下实现原理不算复杂，主要就这么几步：  1.采集在线会议中的参会人发言，并实时转写出对应文字纪录，可以使用faster-whisper、达摩ASR实现；  2.根…</p><img src="https://cdn4.cdn-telegram.org/file/P6nH46sxGpcSuX3V-nxv3B7W4sv7xZ_BTzB02i02qg-LMp24JhMD1iHMtcegYwIaeW_-hREY7saE37_uVIxBCezWAqTxttN02mNLOgUKD6KpO1qevgoMOsmd0s5RGlQzljtzF1NdAcfsbRlRCW8EXcfn_Uuc55vAflfX0YMyx-gtgPFtdP0JEQQoKsYqtgaWPMNx-a2WB97NJdQEDXY4-6yGKVJC-TEWKJl4okp0qLx5gezgCuQYQ6VuCeFkCoYfFVdUHFVqcBanKcXfHX55WS3Q67n9D4QKdONYtikjBSyVX2OolsQkswnwjhSQEJET_FC318OloHI1wVNk2N1tKA.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Wed, 21 Feb 2024 04:04:01 GMT</pubDate>
-<pubDate>Wed, 21 Feb 2024 04:04:01 GMT</pubDate>
 </item>
-
 <item>
 <title>💧 #小众软件 ta 来了3: 视频翻译与配音、群晖融合怪、帕鲁启动、AAA https://www.appinn.com/ta-coming-3/ Tags: #每日发现, #ta 来了</title>
 <link>https://t.me/appinnfeed/9684</link>

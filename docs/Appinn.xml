@@ -4,15 +4,14 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>❓ #问题求助 求adb问题解释,10061以及多设备 https://meta.appinn.net/t/topic/52911</title>
 <link>https://t.me/appinnfeed/9691</link>
 <guid>https://t.me/appinnfeed/9691</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9691?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />求adb问题解释,10061以及多设备<br /><br /><a href="https://meta.appinn.net/t/topic/52911" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/52911</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/52911">求adb问题解释,10061以及多设备</a></b><br /><p>过程:  手机adb连不上, 长期问题了. 今天决定搞清楚. 看了几个视频文章. 然后操作: 手机插电脑, 设备管理器显示"其他设备"文件夹出现adb interface和mtp都是黄色惊叹号, 但两秒钟后, mtp正常识别了, 并且可以传文件. adb仍然不行(adb devices 无设备)  然后,  1, 尝试了安装universal adb driver, 无效.  2, 尝试了google adb driver, 这个是更新驱动的方式, 失败.  3, 找到了手机官方提供的adb driver…</p><img src="https://cdn4.cdn-telegram.org/file/uUnyJ6QEO_-GJPE0TUkMwBwfLIBvnFRCf9aZ07OQPPzm-KXpcmUsifvxLESmOd0CsRXO0TTd_gsll2UQsWQv8q3ajJ5ZR5C5jx_5OYrjnpNgtxUYgqNadh7PuKhx_dcac1d9TTwOUhv73o5cgI-z7enf2_Ww3uHXjwzohS6ybHenPRDeBsjHb_1lOFGJJLaTboMrCf2icUZiOwPSac5u3vBxmWlN_fi8Ueqr6HQ-IbRtiZa5qoNP7YSyYi0y07HY_HIQjWb9IfMh-2Vc0p6rMzLj6GBdr2K0kgwxgj03cePKIESjgr5uN0unmcZWkJSDE0Ht3k_Lx9x5GNvWdpE9Fw.jpg" /></blockquote>
 ]]></content:encoded>
-<pubDate>Thu, 22 Feb 2024 02:24:00 GMT</pubDate>
 <pubDate>Thu, 22 Feb 2024 02:24:00 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +19,10 @@
 <link>https://t.me/appinnfeed/9690</link>
 <guid>https://t.me/appinnfeed/9690</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9690?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />SwitchyOmega将无法在chrome上继续使用，讨论下替代品<br /><br /><a href="https://meta.appinn.net/t/topic/52872" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/52872</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/52872">SwitchyOmega将无法在chrome上继续使用，讨论下替代品</a></b><br /><p>https://x.com/_catus/status/1759413399270936672     我之前尝试过其他同类型的扩展，但是没找到类似SwitchyOmega“虚情景模式”的功能。  其实也可以把规则都放到代理软件里去，但是确实没在浏览器里直接改的方便。</p><img src="https://cdn4.cdn-telegram.org/file/uNeNfK1XwYoCP_dIP4Dzq84ITEY4cNdXjlk7GQnJQumus-a-cJ7sz3GFbEoDd7juooSXx4GhbZDXW4hP-G6Ej99jYnEsM0w8xvbDLldhaEVQzu_39vzTjj9JIY3CX9XMUnNP8FpcIoynl1giK9jQV5ujEx8eVPk8SpgXeAM5Qn6f_XdWFqkm6e6HH9sw6uiHcmdZxH9sBh5lPmbAaCLiSTVYUhYfByLcVFBzcJvh0Tg1iT7B8xw2_7JQZxF26cOnT_oD3tq4zTiKe0kjsFyfAL1lIjBTcwcX3MODrdr1CTK6OdZTp_XeFqgkxGXRGEycR4_PMX9grRw_wBptOPxwMQ.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Thu, 22 Feb 2024 02:16:01 GMT</pubDate>
-<pubDate>Thu, 22 Feb 2024 02:16:01 GMT</pubDate>
 </item>
-
 <item>
 <title>📣 #发现频道 OptScale - FinOps 和 MLOps 开源平台 https://meta.appinn.net/t/topic/52899</title>
 <link>https://t.me/appinnfeed/9689</link>

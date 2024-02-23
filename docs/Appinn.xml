@@ -4,6 +4,17 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>📣 #发现频道 在浏览器中用HTTP协议打开本地文件的小工具 https://meta.appinn.net/t/topic/52970</title>
+<link>https://t.me/appinnfeed/9708</link>
+<guid>https://t.me/appinnfeed/9708</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/9708?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />在浏览器中用HTTP协议打开本地文件的小工具<br /><br /><a href="https://meta.appinn.net/t/topic/52970" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/52970</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/52970">在浏览器中用HTTP协议打开本地文件的小工具</a></b><br /><p>出于安全原因，在浏览器中访问 file:// 文件会有很多限制，这就导致很多浏览器扩展，即使允许它访问本地文件，也没有办法在没有办法在那个环境中使用，比如Weava Highlighter这款网页高亮工具，以及Clearly Reader这款阅读模式工具都是这样的。  通过 VSCode 的 live server 插件可以实现用HTTP打开本地文件，不过要在 UI 上进行操作，难以自动化。  为此我开发了一个小工具来自动化这个过程，可以实现本地文件默认使用HTTP协议打开，从而使得本地文件的浏览器体验和普通网页高度类似。…</p><img src="https://cdn4.cdn-telegram.org/file/R_GSoOH1RWmYQOgI4abNm5u-Zh1aYYA7trK95MO2-ir-7nTX2FakIh7sQqwTDQamTvJA11n82Yvq9bD_eRlXzmuHtCI_hjZMOT3ceRHCLKwwc-OhZeadzWcwOs15JESVgFh8sQkzPW9NTatCP-4OOWXm1j2UHZ1s3hutvhQsdjSjhFojBajkrnto5oY46JhARQf4aCfYQdtk9YaIWBGek65aJw1SBHjr-HPalhFBhLIUx_bCSPl4ik2LPqG_az55_vJ8u7keuBkNDdxB5EKiLCcr40PnfDm93waKAKUYU4a2Ys47HJd-NtM3T040wz8jF-k0znAs842FyoXwjgDapg.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Fri, 23 Feb 2024 04:20:01 GMT</pubDate>
+<pubDate>Fri, 23 Feb 2024 04:20:01 GMT</pubDate>
+</item>
 
 <item>
 <title>📣 #发现频道 Data.olllo 数据助手：一站式数据处理解决方案 https://meta.appinn.net/t/topic/52966</title>

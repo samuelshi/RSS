@@ -4,6 +4,28 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+<item>
+<title>三星正在为高通制造 2nm 芯片原型 三星晶圆制造（Samsung Foundry）正在开发一种非常先进的 SF2 GAAFET 工艺。 其周二的新闻稿介绍称，三星已与 ARM 建立开发合...</title>
+<link>https://t.me/xhqcankao/8401</link>
+<guid>https://t.me/xhqcankao/8401</guid>
+<content:encoded><![CDATA[
+
+<p><b>三星正在为高通制造 2nm 芯片原型</b><br /><br />三星晶圆制造（Samsung Foundry）正在开发一种非常先进的 SF2 GAAFET 工艺。 其周二的新闻稿介绍称，三星已与 ARM 建立开发合作伙伴关系：“提供基于三星晶圆制造最新的全环绕栅极(GAA) 2nm 工艺技术开发的优化的下一代 ARM Cortex-X CPU。”<br /><br />三星电子已经赢得了日本最大 AI 公司 PFN 生产 2 纳米 AI 加速芯片的订单。高通也已与设计高性能芯片的三星电子系统 LSI 部门讨论生产 2nm 原型。高通可能正在评估在骁龙 8 Gen 5 芯片组的制造中使用 2nm SF2 GAAFET 工艺，而三星 LSI 可能正在开发 2nm 的 Exynos 2600 SoC 设计。<br /><br />—— <a href="https://www.techpowerup.com/319509/samsung-foundry-reportedly-producing-2-nm-prototypes-for-qualcomm" rel="noopener" target="_blank">TechPowerUp</a> , <a href="https://www.sedaily.com/NewsView/2D5FN8QLWD" rel="noopener" target="_blank">首尔经济日报</a> , <a href="https://news.samsung.com/global/samsung-electronics-collaborates-with-arm-on-optimized-next-gen-cortex-x-cpu-using-samsung-foundrys-latest-gaa-process-technology" rel="noopener" target="_blank">三星电子</a></p>
+]]></content:encoded>
+<pubDate>Sat, 24 Feb 2024 08:37:04 GMT</pubDate>
+<pubDate>Sat, 24 Feb 2024 08:37:04 GMT</pubDate>
+</item>
+<item>
+<title>亚马逊阻止 Fire TV 应用建立本地 ADB 连接并执行命令 亚马逊阻止了 Fire TV 应用建立本地 ADB 连接并执行 ADB 命令的功能。亚马逊对此回应表示：“我们知道有报...</title>
+<link>https://t.me/xhqcankao/8400</link>
+<guid>https://t.me/xhqcankao/8400</guid>
+<content:encoded><![CDATA[
+
+<p><b>亚马逊阻止 Fire TV 应用建立本地 ADB 连接并执行命令</b><br /><br />亚马逊阻止了 Fire TV 应用建立本地 ADB 连接并执行 ADB 命令的功能。亚马逊对此回应表示：“我们知道有报告称某些应用受到了最近安全更新的影响”。（该更新不会改变电脑或手机等外部设备与 Fire TV 建立 ADB 连接的能力，这种连接仍然是可以的。）虽然亚马逊声称这一变化是为了提高安全性，但最有可能的是亚马逊为了保护其 Fire TV 主屏幕不被绕过的一种方式。因为社区常用的第三方主屏幕应用通常会使用本地 ADB 连接来检测遥控按键按下情况。<br /><br />—— <a href="https://www.aftvnews.com/amazon-blocks-long-running-fire-tv-capability-breaking-popular-apps-with-no-warning-and-giving-developers-the-runaround/" rel="noopener" target="_blank">aftvnews</a></p>
+]]></content:encoded>
+<pubDate>Sat, 24 Feb 2024 08:07:45 GMT</pubDate>
+<pubDate>Sat, 24 Feb 2024 08:07:45 GMT</pubDate>
+</item>
 
 <item>
 <title>贝佐斯和英伟达加入 OpenAI 资助人形机器人初创公司 据知情人士透露，亚马逊创始人贝佐斯、英伟达和其他大型科技公司正在投资一家类人机器人初创公司 Figure AI...</title>

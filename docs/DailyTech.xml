@@ -5,17 +5,26 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>🖼 #Python潮流周刊 🐬🐬🐬 第 39 期 🐬🐬🐬 🦄文章&amp;教程 ① uv：Rust 开发的 Python 打包工具 ② Rye：愿景延续 ③ 为什么越来越多用 Rust 开...</title>
+<link>https://t.me/NewlearnerChannel/12453</link>
+<guid>https://t.me/NewlearnerChannel/12453</guid>
+<content:encoded><![CDATA[
+
+<p><a href="https://t.me/NewlearnerChannel/12453?q=%23Python%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A">#Python潮流周刊</a> <br /><br /><span class="emoji">🐬</span><span class="emoji">🐬</span><span class="emoji">🐬</span>&nbsp; <a href="https://pythoncat.top/posts/2024-02-24-weekly" rel="noopener" target="_blank">第 39 期</a>&nbsp; <span class="emoji">🐬</span><span class="emoji">🐬</span><span class="emoji">🐬</span><br /><br /><span class="emoji">🦄</span>文章&amp;教程 <br /><br />① uv：Rust 开发的 Python 打包工具<br />② Rye：愿景延续<br />③ 为什么越来越多用 Rust 开发的库？<br />④ 80 行 Python 实现一个搜索引擎<br />⑤ 如何计算 Python 中的 CPU 指令数？<br />⑥ Python 复用装饰器代码<br />⑦ 像专业人士一样处理 Asyncio 任务<br />⑧ 使用 textwrap 模块操作字符串<br />⑨ 总结 Python 版本间的主要变更点<br />⑩ 将 Postgres 作为队列使用<br />⑪ 我在所有 Django 项目中都用的 20 个包<br />⑫ Python 元类的真实案例<br />⑬ 一万亿行气象数据的编程挑战<br /><br /><span class="emoji">🐿️</span>项目&amp;资源 <br /><br />① uv：性能极快的 Python 包安装和解析器<br />② sqlite-web：基于 Web 的 SQLite 数据库工具<br />③ celery-exporter：导出 Celery 指标用于 Prometheus<br />④ pyupgrade：自动升级 Python 较新版本的语法<br />⑤ ollama-python： Ollama Python 库<br />⑥ web2pdf：将网页转换为 PDF 的 CLI<br />⑦ natural-sql：文本生成 SQL 的大语言模型<br />⑧ rawdog：在 CLI 中自动生成并执行 Python 脚本<br />⑨ UFO：基于 UI 与 Windows 系统交互的 AI 代理<br />⑩ toolong：查看、跟踪、合并和搜索日志文件（以及 JSONL）的终端应用<br />⑪ Owl：在本地运行的个人可穿戴 AI<br />⑫ hyperdiv：用 Python 构建响应式 Web UI<br />⑬ fabric：使用 AI 增强人类<br /><br /><span class="emoji">🐢</span>播客&amp;视频 <br /><br />① Meta 喜欢 Python<br />② Talk Python To Me #449：使用 FastUI 构建 UI<br /><br /><span class="emoji">👀</span><a href="https://pythoncat.top/posts/2024-02-24-weekly" rel="noopener" target="_blank">阅读全文</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="emoji">🤝</span><a href="https://github.com/chinesehuazhou/python-weekly" rel="noopener" target="_blank">欢迎投稿</a><br /><br /><span class="emoji">🐱</span>频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/bQdPjoLIhjyUqnoJbpSFbSgiaqMJYmmNEjqzbo5DIwIfHNurYfuhco749eJ924T1tt4btln2VH8o7PLDXiBrnqKAxfoifDjwf8SwanzxwoMdDTsaSlHNLStKqAcTBWKHkbvkfx3rJSu0W1JkYdpDZS_o7SXC7fRRL7XBQsd4XR2k2uMncJeAlCI6hSRN-VWJJAyZx0kNO94TtZI5swbp0ALylaHvF9NL4_QJDm5Sn8HvJaTkWBLoj6igL4uf4elxv0Y8t_Q1B88OCleBqo1S3B20xAnUp5WZ7fiN9uZv3ExvmFONYzF9s3oj2vjur2HelfPdiTKplAjChXB-5fGBYA.jpg" />
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 10:01:43 GMT</pubDate>
+<pubDate>Mon, 26 Feb 2024 10:01:43 GMT</pubDate>
+</item>
+
+<item>
 <title>中国今年预计实施100次左右航天发射任务 2月26日，航天科技集团发布《中国航天科技活动蓝皮书（2023年）》。《蓝皮书》显示，2024年中国航天全年预计实施100次左...</title>
 <link>https://t.me/xhqcankao/8434</link>
 <guid>https://t.me/xhqcankao/8434</guid>
 <content:encoded><![CDATA[
-
 <p><b>中国今年预计实施100次左右航天发射任务</b><br /><br />2月26日，航天科技集团发布《中国航天科技活动蓝皮书（2023年）》。《蓝皮书》显示，2024年中国航天全年预计实施100次左右发射任务。中国首个商业航天发射场将进行首次发射任务，多个卫星星座将加速组网建设。<br /><br />在100次左右发射任务中，航天科技集团计划安排近70次，将发射290余个航天器，实施的任务包括：长征六号丙运载火箭和长征十二号运载火箭首飞任务；空间2次货运飞船、2次载人飞船发射任务和2次返回任务；发射鹊桥二号中继星、嫦娥六号探测器，实现世界首次月球背面南极采样返回；发射海洋盐度探测卫星、电磁监测卫星02星、中法天文卫星、实践十九号等多颗民用卫星；加速推进建设航天科技集团“新一代商业遥感卫星系统”。<br /><br />—— 央视新闻（<a href="https://news.cctv.com/2024/02/26/ARTIoc7N8GGtu5ufw2XQHoWZ240226.shtml" rel="noopener" target="_blank">国内链接</a>）</p>
 ]]></content:encoded>
 <pubDate>Mon, 26 Feb 2024 09:55:43 GMT</pubDate>
-<pubDate>Mon, 26 Feb 2024 09:55:43 GMT</pubDate>
 </item>
-
 <item>
 <title>AI-RAN 联盟今日在巴塞罗那 MWC2024 成立 三星电子公司周一表示，将与英伟达、ARM、软银、爱立信、诺基亚、微软等半导体、电信、软件巨头一起，成为在今年世界移...</title>
 <link>https://t.me/xhqcankao/8433</link>
@@ -9214,15 +9223,6 @@ Tue, 16 Jan 2024 01:33:20 GMT
 <p><a href="https://telegra.ph/%E8%B0%B7%E6%AD%8C%E4%BB%8E%E8%B0%B7%E6%AD%8C%E5%8A%A9%E7%90%86%E4%B8%AD%E5%88%A0%E9%99%A4%E4%BA%86-17-%E9%A1%B9%E5%8A%9F%E8%83%BD-01-11" rel="noopener" target="_blank"><b>谷歌从 Google 助理中删除了 17 项功能</b></a></p><blockquote><b>Telegraph</b><br /><b><a href="https://telegra.ph/%E8%B0%B7%E6%AD%8C%E4%BB%8E%E8%B0%B7%E6%AD%8C%E5%8A%A9%E7%90%86%E4%B8%AD%E5%88%A0%E9%99%A4%E4%BA%86-17-%E9%A1%B9%E5%8A%9F%E8%83%BD-01-11">谷歌从 Google 助理中删除了 17 项功能</a></b><br /><p>谷歌今天宣布，使用率较低的 Google 助理功能将于二月份删除。例如使用语音发送电子邮件。谷歌还将改变 Google 应用和 Pixel 搜索栏的麦克风工作方式。 据 9to5Google 报道，从 1 月 26 日开始，激活 17 项被移除的助理功能中任何一项的用户都将收到停止使用的通知，大多数功能将于 2 月 26 日永久停止使用。 这一消息发布不到一天前，谷歌宣布裁员约 1000 名员工，其中一些员工在 Google 助理工作。 以下是Google 发布的被删除内容的完整列表： 1、使用语音播放和控制…</p></blockquote>
 ]]></content:encoded>
 <pubDate>Thu, 11 Jan 2024 18:01:08 GMT</pubDate>
-</item>
-<item>
-<title>🖼 #News 🌃 自留地晚报【1.11】 1️⃣ OpenAI 面向小微企业推出 ChatGPT Team 订阅计划，每人每月为 25/30 美元 2️⃣ OpenAI 推出 GPT 商店，可销售或共享...</title>
-<link>https://t.me/NewlearnerChannel/12303</link>
-<guid>https://t.me/NewlearnerChannel/12303</guid>
-<content:encoded><![CDATA[
-<p><a href="https://t.me/NewlearnerChannel/12303?q=%23News">#News</a><br /><br /><span class="emoji">🌃</span> 自留地晚报【1.11】<br /><br /><span class="emoji">1️⃣</span> <a href="https://openai.com/blog/introducing-chatgpt-team" rel="noopener" target="_blank">OpenAI</a> 面向小微企业推出 ChatGPT Team 订阅计划，每人每月为 25/30 美元<br /><br /><span class="emoji">2️⃣</span> <a href="https://openai.com/blog/introducing-the-gpt-store" rel="noopener" target="_blank">OpenAI</a> 推出 GPT 商店，可销售或共享定制版 ChatGPT 聊天机器人<br /><br /><span class="emoji">3️⃣</span> <a href="https://www.theverge.com/2024/1/9/24030082/google-built-in-android-auto-ev-chrome-ford-polestar" rel="noopener" target="_blank">谷歌</a> 将为沃尔沃及极星旗下部分汽车推送&nbsp;Chrome&nbsp;浏览器更新<br /><br /><span class="emoji">4️⃣</span> <a href="https://www.samsungdisplay.com/eng/media/news/detail/ssdsNews-240107.jsp" rel="noopener" target="_blank">三星</a> 公布双向折叠屏技术，可实现 360° 双向折叠<br /><br /><span class="emoji">5️⃣</span> <a href="https://lists.openwrt.org/pipermail/openwrt-devel/2024-January/042018.html" rel="noopener" target="_blank">OpenWrt</a> 推出首款路由器 OpenWrt One / AP-24.XY<br /><br /><span class="emoji">6️⃣</span> <a href="https://techcrunch.com/2024/01/10/augmental-head-tracking/" rel="noopener" target="_blank">Augmental</a> 发布舌控鼠标，为四肢瘫痪人士提供使用电脑机会<br /><br /><span class="emoji">7️⃣</span> <a href="https://mp.weixin.qq.com/s/6M94xFxEKT8Wrt-1NbfTKQ" rel="noopener" target="_blank">大疆</a> 正式发布 2023 年度飞行报告<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn1.cdn-telegram.org/file/Ebkd6Gr2AWtsIs_8FpJdSEo2U5UCUfrhIFutSbhQGcZEcMbe0j-ljaO36XdVAqmDD2D-SxNasMWUHtR0mrawkerh91C0zRW78XmtuOA4NLIc9Prp5igZpDzJNLnttgTGwk-8_DgFImuctmGvY0YkL0hXYMcdkbZ4BkjG1_eD-DvWt6WBuyuI8VuNC3dLS3bmXj60i6QG1NsoA-CbnK0qL0yHdk4lCoTcqY2rSCjcNtaeCZEikYV23YyJyCXryvNWu06RJfkjSeBIMPhfoIsiPBuZHkIsR-2mbH8dRjZaYc42ALs4EIXCd28xC6XAO-LCVVyclueCqqrwxLlWInt-HA.jpg" />
-]]></content:encoded>
-<pubDate>Thu, 11 Jan 2024 13:00:48 GMT</pubDate>
 </item>
 </channel>
 </rss>

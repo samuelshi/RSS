@@ -5,14 +5,24 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>阿里巴巴披露了其业务部门的国家持股信息 在美国证券交易委员会进行调查后，阿里巴巴集团在更新文件中披露了中国政府在其业务部门中持有的股份。在提交的文件中...</title>
+<link>https://t.me/xhqcankao/8437</link>
+<guid>https://t.me/xhqcankao/8437</guid>
+<content:encoded><![CDATA[
+
+<p><b>阿里巴巴披露了其业务部门的国家持股信息</b><br /><br />在美国证券交易委员会进行调查后，阿里巴巴集团在更新文件中披露了中国政府在其业务部门中持有的股份。在提交的文件中，中国国有企业持有阿里巴巴六家直销业务的股份，截至2023年3月的财年，这些业务占阿里巴巴总收入的比例不到6%。其中五家持股比例低于10%，另一家持股比例低于30%。该公司还表示，国有企业拥有其体育、健康、物流和本地消费服务等多个业务实体的股权。阿里巴巴在其文件中没有透露具体实体。<br /><br />最新的文件的新增部分还证实了中国政府实体去年从阿里巴巴和腾讯等中国科技领军企业手中获得的所谓“黄金股” （名义股权通常为 1%）。理论上，这种股权结构允许政府提名董事或左右公司的关键决策，为政府提供了一个市场管理的有效杠杆。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-02-26/alibaba-discloses-state-ownership-in-more-than-12-business-units" rel="noopener" target="_blank">彭博社</a></p>
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 12:33:57 GMT</pubDate>
+<pubDate>Mon, 26 Feb 2024 12:33:57 GMT</pubDate>
+</item>
+
+<item>
 <title>高通推出 AI Hub，允许开发者在应用程序中无缝部署模型 高通公司称，AI Hub 本质上是一个供应用程序开发人员访问由其量化和验证的设备上 AI 模型工具。该中心目...</title>
 <link>https://t.me/xhqcankao/8436</link>
 <guid>https://t.me/xhqcankao/8436</guid>
 <content:encoded><![CDATA[
-
 <p><b>高通推出 AI Hub，允许开发者在应用程序中无缝部署模型</b><br /><br />高通公司称，AI Hub 本质上是一个供应用程序开发人员访问由其量化和验证的设备上 AI 模型工具。该中心目前支持超过 75 种人工智能模型，模型将涵盖图像分割、图像生成、图像分类、物体检测、超分辨率、文本生成、弱光增强和自然语言理解，包括 Stable Diffusion，Whisper和YOLO等热门模型。高通表示，开发人员只需几行代码就能将优化模型集成到工作流中。AI Hub 似乎是可以在非骁龙芯片组上，不过由于无法利用骁龙专用 AI 芯片，开发人员必须付出额外努力，才能在非骁龙芯片组的设备上实现这些功能。<br /><br />高通AI中心已开放访问： <a href="http://aihub.qualcomm.com/" rel="noopener" target="_blank">aihub.qualcomm.com</a><br /><br />—— <a href="https://www.xda-developers.com/qualcomm-ai-hub-snapdragon-announced/" rel="noopener" target="_blank">XDA developer</a></p>
 ]]></content:encoded>
-<pubDate>Mon, 26 Feb 2024 11:45:29 GMT</pubDate>
 <pubDate>Mon, 26 Feb 2024 11:45:29 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +30,10 @@
 <link>https://t.me/xhqcankao/8435</link>
 <guid>https://t.me/xhqcankao/8435</guid>
 <content:encoded><![CDATA[
-
 <p><b>特斯拉最新款 Model 3 的零部件中不到一半是在北美制造的</b><br /><br />根据美国汽车安全监管机构国家公路交通安全管理局 (NHTSA) 的一份新文件，在北美销售的2024年款 Model 3 中只有 35% 的长续航车型和 40% 的后轮驱动车型的零部件来自美国或加拿大。 这两款车的其余大部分内容都来自中国。<br /><br />对于所有其他 Tesla 车辆，北美含量均超过 50%。 对于 Model Y 长续航版和高性能版，北美零部件含量为 70%，Model S 为 65%，Model X 为 60%，Cybertruck 的北美零部件含量达到65%。<br /><br />—— <a href="https://www.benzinga.com/government/24/02/37305899/less-than-half-of-teslas-latest-model-3-parts-are-made-in-north-america-nhtsa-filing-reveals" rel="noopener" target="_blank">Benzinga</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 26 Feb 2024 11:12:55 GMT</pubDate>
-<pubDate>Mon, 26 Feb 2024 11:12:55 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 #Python潮流周刊 🐬🐬🐬 第 39 期 🐬🐬🐬 🦄文章&amp;教程 ① uv：Rust 开发的 Python 打包工具 ② Rye：愿景延续 ③ 为什么越来越多用 Rust 开...</title>
 <link>https://t.me/NewlearnerChannel/12453</link>
@@ -9216,24 +9223,6 @@ Tue, 16 Jan 2024 01:33:20 GMT
 <p><b>美国联邦航空管理局宣布对波音公司的产品质量管控展开调查</b><br /><br />当地时间周四，美国联邦航空管理局 (FAA) 宣布对波音公司展开调查，此前阿拉斯加航空公司的一架波音737 MAX 9客机舱门在飞行途中脱落，导致飞机迫降。美国联邦航空局表示，阿拉斯加航空事件“不应该发生，也不能再发生”。<br /><br />美国联邦航空管理局已于当日正式通知波音公司，该部门正在进行调查，以确定波音公司是否能够确保其完成的产品符合 FAA 的标准，以及飞机部件是否处于 FAA 规定的安全运行状态。<br /><br />——<a href="https://m.thepaper.cn/detail/25985256" rel="noopener" target="_blank">澎湃新闻、</a> <a href="https://www.nbcnews.com/news/us-news/faa-investigate-boeing-door-plug-falls-alaska-airlines-plane-midair-rcna133491" rel="noopener" target="_blank">NBCNEWS</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 11 Jan 2024 23:05:07 GMT</pubDate>
-</item>
-<item>
-<title>社群通讯软件 Discord 将裁员 17%，影响 170 人 Discord 首席执行官杰森·西特伦表示，将裁员 17%，根据内部备忘录，此次裁员将影响到各个部门的 170 名员工。杰...</title>
-<link>https://t.me/xhqcankao/7661</link>
-<guid>https://t.me/xhqcankao/7661</guid>
-<content:encoded><![CDATA[
-<p><b>社群通讯软件 Discord 将裁员 17%，影响 170 人</b><br /><br />Discord 首席执行官杰森·西特伦表示，将裁员 17%，根据内部备忘录，此次裁员将影响到各个部门的 170 名员工。杰森·西特伦写道，“我们发展迅速，员工队伍扩张更快，自 2020 年以来增加了 5 倍。” “结果，我们承担了更多的项目，但运营效率却降低了。”此举旨在，“集中我们的注意力，改进我们的合作方式，使我们的组织更加灵活。”<br /><br />—— <a href="https://www.theverge.com/2024/1/11/24034705/discord-layoffs-17-percent-employees" rel="noopener" target="_blank">TheVerge</a></p>
-]]></content:encoded>
-<pubDate>Thu, 11 Jan 2024 22:35:12 GMT</pubDate>
-</item>
-<item>
-<title>🖼 Epic 喜加一：免费领取《扬帆起航/Sail Forth》 Epic 本周限免《扬帆起航/Sail Forth》 截止日期：1 月 19 日 Epic 下周限免：《LOVE》 —— Epic</title>
-<link>https://t.me/xhqcankao/7660</link>
-<guid>https://t.me/xhqcankao/7660</guid>
-<content:encoded><![CDATA[
-<p><b>Epic 喜加一：免费领取《扬帆起航/Sail Forth》</b><br /><br />Epic 本周限免《<a href="https://store.epicgames.com/zh-CN/p/sail-forth-51847e" rel="noopener" target="_blank">扬帆起航/Sail Forth</a>》<br /><br />截止日期：1 月 19 日<br /><br />Epic 下周限免：《LOVE》<br /><br />——  <a href="https://store.epicgames.com/" rel="noopener" target="_blank">Epic</a></p><img src="https://cdn5.cdn-telegram.org/file/TTwHrMAk2w5TV0Eir7vtsVf_lkunlyHS4d26P9rsrMV94AW9vmeTmSdYiSsCbM-DQ9TQJAOIgf1nUFuLo33cV6mao0SvD2gTL3goOgYmw0V9p0LlKgXAR20603EQ8ZRJItgNsFTcUN1K2KTo00dsVsmvyIcRjwZsOrwTNPOZ8BI8xSpuun2VFxLuUHUjToCXJGsDCtZL0VsfmSFOgkzSSZMcqZJTiWSOqD77Y5VOn-coZ_au2cRCvxz9VL1TeSgUYBmEbiGrCEqSOnwLgAyAFjy6YDfXUTJnQ1_hgdpxunYylcbeGlX8MzLPElGnGF64N5ShJk-L2UckHfVJO0E_9A.jpg" />
-]]></content:encoded>
-<pubDate>Thu, 11 Jan 2024 18:35:33 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -5,17 +5,37 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>高通推出 AI Hub，允许开发者在应用程序中无缝部署模型 高通公司称，AI Hub 本质上是一个供应用程序开发人员访问由其量化和验证的设备上 AI 模型工具。该中心目...</title>
+<link>https://t.me/xhqcankao/8436</link>
+<guid>https://t.me/xhqcankao/8436</guid>
+<content:encoded><![CDATA[
+
+<p><b>高通推出 AI Hub，允许开发者在应用程序中无缝部署模型</b><br /><br />高通公司称，AI Hub 本质上是一个供应用程序开发人员访问由其量化和验证的设备上 AI 模型工具。该中心目前支持超过 75 种人工智能模型，模型将涵盖图像分割、图像生成、图像分类、物体检测、超分辨率、文本生成、弱光增强和自然语言理解，包括 Stable Diffusion，Whisper和YOLO等热门模型。高通表示，开发人员只需几行代码就能将优化模型集成到工作流中。AI Hub 似乎是可以在非骁龙芯片组上，不过由于无法利用骁龙专用 AI 芯片，开发人员必须付出额外努力，才能在非骁龙芯片组的设备上实现这些功能。<br /><br />高通AI中心已开放访问： <a href="http://aihub.qualcomm.com/" rel="noopener" target="_blank">aihub.qualcomm.com</a><br /><br />—— <a href="https://www.xda-developers.com/qualcomm-ai-hub-snapdragon-announced/" rel="noopener" target="_blank">XDA developer</a></p>
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 11:45:29 GMT</pubDate>
+<pubDate>Mon, 26 Feb 2024 11:45:29 GMT</pubDate>
+</item>
+<item>
+<title>特斯拉最新款 Model 3 的零部件中不到一半是在北美制造的 根据美国汽车安全监管机构国家公路交通安全管理局 (NHTSA) 的一份新文件，在北美销售的2024年款 Model ...</title>
+<link>https://t.me/xhqcankao/8435</link>
+<guid>https://t.me/xhqcankao/8435</guid>
+<content:encoded><![CDATA[
+
+<p><b>特斯拉最新款 Model 3 的零部件中不到一半是在北美制造的</b><br /><br />根据美国汽车安全监管机构国家公路交通安全管理局 (NHTSA) 的一份新文件，在北美销售的2024年款 Model 3 中只有 35% 的长续航车型和 40% 的后轮驱动车型的零部件来自美国或加拿大。 这两款车的其余大部分内容都来自中国。<br /><br />对于所有其他 Tesla 车辆，北美含量均超过 50%。 对于 Model Y 长续航版和高性能版，北美零部件含量为 70%，Model S 为 65%，Model X 为 60%，Cybertruck 的北美零部件含量达到65%。<br /><br />—— <a href="https://www.benzinga.com/government/24/02/37305899/less-than-half-of-teslas-latest-model-3-parts-are-made-in-north-america-nhtsa-filing-reveals" rel="noopener" target="_blank">Benzinga</a></p>
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 11:12:55 GMT</pubDate>
+<pubDate>Mon, 26 Feb 2024 11:12:55 GMT</pubDate>
+</item>
+
+<item>
 <title>🖼 #Python潮流周刊 🐬🐬🐬 第 39 期 🐬🐬🐬 🦄文章&amp;教程 ① uv：Rust 开发的 Python 打包工具 ② Rye：愿景延续 ③ 为什么越来越多用 Rust 开...</title>
 <link>https://t.me/NewlearnerChannel/12453</link>
 <guid>https://t.me/NewlearnerChannel/12453</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://t.me/NewlearnerChannel/12453?q=%23Python%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A">#Python潮流周刊</a> <br /><br /><span class="emoji">🐬</span><span class="emoji">🐬</span><span class="emoji">🐬</span>&nbsp; <a href="https://pythoncat.top/posts/2024-02-24-weekly" rel="noopener" target="_blank">第 39 期</a>&nbsp; <span class="emoji">🐬</span><span class="emoji">🐬</span><span class="emoji">🐬</span><br /><br /><span class="emoji">🦄</span>文章&amp;教程 <br /><br />① uv：Rust 开发的 Python 打包工具<br />② Rye：愿景延续<br />③ 为什么越来越多用 Rust 开发的库？<br />④ 80 行 Python 实现一个搜索引擎<br />⑤ 如何计算 Python 中的 CPU 指令数？<br />⑥ Python 复用装饰器代码<br />⑦ 像专业人士一样处理 Asyncio 任务<br />⑧ 使用 textwrap 模块操作字符串<br />⑨ 总结 Python 版本间的主要变更点<br />⑩ 将 Postgres 作为队列使用<br />⑪ 我在所有 Django 项目中都用的 20 个包<br />⑫ Python 元类的真实案例<br />⑬ 一万亿行气象数据的编程挑战<br /><br /><span class="emoji">🐿️</span>项目&amp;资源 <br /><br />① uv：性能极快的 Python 包安装和解析器<br />② sqlite-web：基于 Web 的 SQLite 数据库工具<br />③ celery-exporter：导出 Celery 指标用于 Prometheus<br />④ pyupgrade：自动升级 Python 较新版本的语法<br />⑤ ollama-python： Ollama Python 库<br />⑥ web2pdf：将网页转换为 PDF 的 CLI<br />⑦ natural-sql：文本生成 SQL 的大语言模型<br />⑧ rawdog：在 CLI 中自动生成并执行 Python 脚本<br />⑨ UFO：基于 UI 与 Windows 系统交互的 AI 代理<br />⑩ toolong：查看、跟踪、合并和搜索日志文件（以及 JSONL）的终端应用<br />⑪ Owl：在本地运行的个人可穿戴 AI<br />⑫ hyperdiv：用 Python 构建响应式 Web UI<br />⑬ fabric：使用 AI 增强人类<br /><br /><span class="emoji">🐢</span>播客&amp;视频 <br /><br />① Meta 喜欢 Python<br />② Talk Python To Me #449：使用 FastUI 构建 UI<br /><br /><span class="emoji">👀</span><a href="https://pythoncat.top/posts/2024-02-24-weekly" rel="noopener" target="_blank">阅读全文</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="emoji">🤝</span><a href="https://github.com/chinesehuazhou/python-weekly" rel="noopener" target="_blank">欢迎投稿</a><br /><br /><span class="emoji">🐱</span>频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/bQdPjoLIhjyUqnoJbpSFbSgiaqMJYmmNEjqzbo5DIwIfHNurYfuhco749eJ924T1tt4btln2VH8o7PLDXiBrnqKAxfoifDjwf8SwanzxwoMdDTsaSlHNLStKqAcTBWKHkbvkfx3rJSu0W1JkYdpDZS_o7SXC7fRRL7XBQsd4XR2k2uMncJeAlCI6hSRN-VWJJAyZx0kNO94TtZI5swbp0ALylaHvF9NL4_QJDm5Sn8HvJaTkWBLoj6igL4uf4elxv0Y8t_Q1B88OCleBqo1S3B20xAnUp5WZ7fiN9uZv3ExvmFONYzF9s3oj2vjur2HelfPdiTKplAjChXB-5fGBYA.jpg" />
 ]]></content:encoded>
 <pubDate>Mon, 26 Feb 2024 10:01:43 GMT</pubDate>
-<pubDate>Mon, 26 Feb 2024 10:01:43 GMT</pubDate>
 </item>
-
 <item>
 <title>中国今年预计实施100次左右航天发射任务 2月26日，航天科技集团发布《中国航天科技活动蓝皮书（2023年）》。《蓝皮书》显示，2024年中国航天全年预计实施100次左...</title>
 <link>https://t.me/xhqcankao/8434</link>
@@ -9214,15 +9234,6 @@ Tue, 16 Jan 2024 01:33:20 GMT
 <p><b>Epic 喜加一：免费领取《扬帆起航/Sail Forth》</b><br /><br />Epic 本周限免《<a href="https://store.epicgames.com/zh-CN/p/sail-forth-51847e" rel="noopener" target="_blank">扬帆起航/Sail Forth</a>》<br /><br />截止日期：1 月 19 日<br /><br />Epic 下周限免：《LOVE》<br /><br />——  <a href="https://store.epicgames.com/" rel="noopener" target="_blank">Epic</a></p><img src="https://cdn5.cdn-telegram.org/file/TTwHrMAk2w5TV0Eir7vtsVf_lkunlyHS4d26P9rsrMV94AW9vmeTmSdYiSsCbM-DQ9TQJAOIgf1nUFuLo33cV6mao0SvD2gTL3goOgYmw0V9p0LlKgXAR20603EQ8ZRJItgNsFTcUN1K2KTo00dsVsmvyIcRjwZsOrwTNPOZ8BI8xSpuun2VFxLuUHUjToCXJGsDCtZL0VsfmSFOgkzSSZMcqZJTiWSOqD77Y5VOn-coZ_au2cRCvxz9VL1TeSgUYBmEbiGrCEqSOnwLgAyAFjy6YDfXUTJnQ1_hgdpxunYylcbeGlX8MzLPElGnGF64N5ShJk-L2UckHfVJO0E_9A.jpg" />
 ]]></content:encoded>
 <pubDate>Thu, 11 Jan 2024 18:35:33 GMT</pubDate>
-</item>
-<item>
-<title>谷歌从 Google 助理中删除了 17 项功能</title>
-<link>https://t.me/xhqcankao/7659</link>
-<guid>https://t.me/xhqcankao/7659</guid>
-<content:encoded><![CDATA[
-<p><a href="https://telegra.ph/%E8%B0%B7%E6%AD%8C%E4%BB%8E%E8%B0%B7%E6%AD%8C%E5%8A%A9%E7%90%86%E4%B8%AD%E5%88%A0%E9%99%A4%E4%BA%86-17-%E9%A1%B9%E5%8A%9F%E8%83%BD-01-11" rel="noopener" target="_blank"><b>谷歌从 Google 助理中删除了 17 项功能</b></a></p><blockquote><b>Telegraph</b><br /><b><a href="https://telegra.ph/%E8%B0%B7%E6%AD%8C%E4%BB%8E%E8%B0%B7%E6%AD%8C%E5%8A%A9%E7%90%86%E4%B8%AD%E5%88%A0%E9%99%A4%E4%BA%86-17-%E9%A1%B9%E5%8A%9F%E8%83%BD-01-11">谷歌从 Google 助理中删除了 17 项功能</a></b><br /><p>谷歌今天宣布，使用率较低的 Google 助理功能将于二月份删除。例如使用语音发送电子邮件。谷歌还将改变 Google 应用和 Pixel 搜索栏的麦克风工作方式。 据 9to5Google 报道，从 1 月 26 日开始，激活 17 项被移除的助理功能中任何一项的用户都将收到停止使用的通知，大多数功能将于 2 月 26 日永久停止使用。 这一消息发布不到一天前，谷歌宣布裁员约 1000 名员工，其中一些员工在 Google 助理工作。 以下是Google 发布的被删除内容的完整列表： 1、使用语音播放和控制…</p></blockquote>
-]]></content:encoded>
-<pubDate>Thu, 11 Jan 2024 18:01:08 GMT</pubDate>
 </item>
 </channel>
 </rss>

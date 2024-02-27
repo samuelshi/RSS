@@ -4,6 +4,43 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+<item>
+<title>Google DeepMind 公布 Genie 模型，可生成可交互的虚拟环境 Google DeepMind 今天介绍了 Genie ，一种根据互联网视频训练的基础世界模型，可以从合成图像、照片...</title>
+<link>https://t.me/xhqcankao/8460</link>
+<guid>https://t.me/xhqcankao/8460</guid>
+<content:encoded><![CDATA[
+
+<p><b>Google DeepMind 公布 Genie 模型，可生成可交互的虚拟环境</b><br /><br />Google DeepMind 今天介绍了 Genie ，一种根据互联网视频训练的基础世界模型，可以从合成图像、照片甚至草图生成无数种可玩（动作可控）的世界。<br /><br />Genie 可以用它以前从未见过的图像来作为输入，使人们能够与生成的虚拟世界进行交互。它由一个时空视频标记器、一个自回归动力学模型和一个简单且可扩展的潜在行动模型组成。该模型可根据没有任何标注数据的公开互联网视频的大型数据集进行训练。该模型当前专注于 2D 平台游戏和机器人的视频，但其方法是通用的，并且可以扩展到任何类型的领域和更大的数据集。<br /><br />团队还通过使用 Google 的 RT-1 机器人的摄像头视频数据训练模型，表明 Genie 能够学习与现实世界一致的动作空间。这可能产生一个现实世界模拟器，以便训练未来的通用智能体。<br /><br />—— <a href="https://sites.google.com/view/genie-2024" rel="noopener" target="_blank">Google DeepMind</a> , <a href="https://arxiv.org/abs/2402.15391" rel="noopener" target="_blank">论文</a></p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 08:50:31 GMT</pubDate>
+<pubDate>Tue, 27 Feb 2024 08:50:31 GMT</pubDate>
+</item>
+<item>
+<title>↩️ 英伟达对华“特供”H20芯片今年GTC大会后全面接受预订 记者从产业链人士方面了解到，英伟达对华“特供版”AI 芯片 H20 将在今年的 GTC 2024 大会 (3月18日-...</title>
+<link>https://t.me/xhqcankao/8459</link>
+<guid>https://t.me/xhqcankao/8459</guid>
+<content:encoded><![CDATA[
+
+<div class="rsshub-quote"><blockquote>
+                                    <p><a href="https://t.me/xhqcankao/7994"><b>风向旗参考快讯</b>:</a></p>
+                                    
+                                    <p>中国特供版英伟达 H20 AI 芯片开始接受预订  熟悉内情的消息人士称，英伟达已开始接受经销商预订中国特供版芯片，定价与竞争对手华为的产品持平。H20 显卡是英伟达为中国市场开发的三款显卡中最强大的一款。H20 的计算能力自然会低于英伟达的旗舰 H100 AI 芯片和 H800。  两位消息人士说，近几周，英伟达开始接受中国经销商的 H20 订单，每张显卡价格在1.2万至1.5万美元之间。其中一位消息人士称，一些经销商已开始对芯片进行大幅加价兜售，价格约为 11 万元人民币 (15,320 美元)。两位消息人士称，相比之下，华为…</p>
+                                </blockquote></div><p><b>英伟达对华“特供”H20芯片今年GTC大会后全面接受预订</b><br /><br />记者从产业链人士方面了解到，英伟达对华“特供版”AI 芯片 H20 将在今年的 GTC 2024 大会 (3月18日-3月21日) 开完之后，全面接受预订，最快四周可以供货。<br /><br />—— <a href="https://www.chinastarmarket.cn/detail/1604888" rel="noopener" target="_blank">科创板日报</a></p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 08:16:17 GMT</pubDate>
+<pubDate>Tue, 27 Feb 2024 08:16:17 GMT</pubDate>
+</item>
+<item>
+<title>三星推出用于人工智能的“迄今为止最高容量”的新型 HBM 存储芯片 三星电子周二表示，它已经开发出一种新型高带宽存储芯片，具有业界“迄今为止最高容量”。三星...</title>
+<link>https://t.me/xhqcankao/8458</link>
+<guid>https://t.me/xhqcankao/8458</guid>
+<content:encoded><![CDATA[
+
+<p><b>三星推出用于人工智能的“迄今为止最高容量”的新型 HBM 存储芯片</b><br /><br />三星电子周二表示，它已经开发出一种新型高带宽存储芯片，具有业界“迄今为止最高容量”。三星称 HBM3E 12H “将性能和容量提高了 50% 以上”。三星表示，已开始向客户提供芯片样品，并计划于2024年上半年量产。它将确保已经与三星签约的 Nvidia 在基于更高层 (12L) 的更高密度 (36GB) HBM3E 产品方面的领先地位。<br /><br />三星表示，HBM3E 12H 具有12层堆叠，但采用先进的热压非导电薄膜，使12层产品具有与8层产品相同的高度规格，以满足当前的HBM封装要求。 其结果是芯片具有更强的处理能力，而不增加其物理占用空间。三星表示：“三星不断降低其 NCF 材料的厚度，实现了业界最小的芯片间隙 (7 微米)，同时还消除了层间空隙。与 HBM3 8H 产品相比，这些努力使垂直密度提高了 20% 以上。”<br /><br />—— <a href="https://www.cnbc.com/2024/02/27/samsung-unveils-new-memory-chip-with-highest-capacity-to-date-for-ai.html" rel="noopener" target="_blank">CNBC</a></p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 08:05:57 GMT</pubDate>
+<pubDate>Tue, 27 Feb 2024 08:05:57 GMT</pubDate>
+</item>
 
 <item>
 <title>🖼 #有趣产品咖啡馆 #Newsletter 🤳 独立开发者故事 #56 - “我做了款App来记录外甥女的成长~” 1、介绍下你自己和目前所做的产品 大家好，我叫 “顾惜朝” ...</title>

@@ -5,14 +5,24 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>Youtube Music 网络应用推出离线下载支持 YouTube Music 网络应用离线下载功能开始向部分用户推出。在歌曲专辑页面上，用户将会在“保存到媒体库”和三点菜单之...</title>
+<link>https://t.me/xhqcankao/8461</link>
+<guid>https://t.me/xhqcankao/8461</guid>
+<content:encoded><![CDATA[
+
+<p><b>Youtube Music 网络应用推出离线下载支持</b><br /><br />YouTube Music  网络应用离线下载功能开始向部分用户推出。在歌曲专辑页面上，用户将会在“保存到媒体库”和三点菜单之间看到熟悉的下载按钮。左下角将出现“正在下载...”指示器以记录进度。之后，用户将在“媒体库”页面上看到一个新的“下载”选项卡。<br /><br />—— <a href="https://9to5google.com/2024/02/26/youtube-music-web-downloads/" rel="noopener" target="_blank">9to5google</a></p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 09:23:21 GMT</pubDate>
+<pubDate>Tue, 27 Feb 2024 09:23:21 GMT</pubDate>
+</item>
+
+<item>
 <title>Google DeepMind 公布 Genie 模型，可生成可交互的虚拟环境 Google DeepMind 今天介绍了 Genie ，一种根据互联网视频训练的基础世界模型，可以从合成图像、照片...</title>
 <link>https://t.me/xhqcankao/8460</link>
 <guid>https://t.me/xhqcankao/8460</guid>
 <content:encoded><![CDATA[
-
 <p><b>Google DeepMind 公布 Genie 模型，可生成可交互的虚拟环境</b><br /><br />Google DeepMind 今天介绍了 Genie ，一种根据互联网视频训练的基础世界模型，可以从合成图像、照片甚至草图生成无数种可玩（动作可控）的世界。<br /><br />Genie 可以用它以前从未见过的图像来作为输入，使人们能够与生成的虚拟世界进行交互。它由一个时空视频标记器、一个自回归动力学模型和一个简单且可扩展的潜在行动模型组成。该模型可根据没有任何标注数据的公开互联网视频的大型数据集进行训练。该模型当前专注于 2D 平台游戏和机器人的视频，但其方法是通用的，并且可以扩展到任何类型的领域和更大的数据集。<br /><br />团队还通过使用 Google 的 RT-1 机器人的摄像头视频数据训练模型，表明 Genie 能够学习与现实世界一致的动作空间。这可能产生一个现实世界模拟器，以便训练未来的通用智能体。<br /><br />—— <a href="https://sites.google.com/view/genie-2024" rel="noopener" target="_blank">Google DeepMind</a> , <a href="https://arxiv.org/abs/2402.15391" rel="noopener" target="_blank">论文</a></p>
 ]]></content:encoded>
-<pubDate>Tue, 27 Feb 2024 08:50:31 GMT</pubDate>
 <pubDate>Tue, 27 Feb 2024 08:50:31 GMT</pubDate>
 </item>
 <item>
@@ -20,7 +30,6 @@
 <link>https://t.me/xhqcankao/8459</link>
 <guid>https://t.me/xhqcankao/8459</guid>
 <content:encoded><![CDATA[
-
 <div class="rsshub-quote"><blockquote>
                                     <p><a href="https://t.me/xhqcankao/7994"><b>风向旗参考快讯</b>:</a></p>
                                     
@@ -28,20 +37,16 @@
                                 </blockquote></div><p><b>英伟达对华“特供”H20芯片今年GTC大会后全面接受预订</b><br /><br />记者从产业链人士方面了解到，英伟达对华“特供版”AI 芯片 H20 将在今年的 GTC 2024 大会 (3月18日-3月21日) 开完之后，全面接受预订，最快四周可以供货。<br /><br />—— <a href="https://www.chinastarmarket.cn/detail/1604888" rel="noopener" target="_blank">科创板日报</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 27 Feb 2024 08:16:17 GMT</pubDate>
-<pubDate>Tue, 27 Feb 2024 08:16:17 GMT</pubDate>
 </item>
 <item>
 <title>三星推出用于人工智能的“迄今为止最高容量”的新型 HBM 存储芯片 三星电子周二表示，它已经开发出一种新型高带宽存储芯片，具有业界“迄今为止最高容量”。三星...</title>
 <link>https://t.me/xhqcankao/8458</link>
 <guid>https://t.me/xhqcankao/8458</guid>
 <content:encoded><![CDATA[
-
 <p><b>三星推出用于人工智能的“迄今为止最高容量”的新型 HBM 存储芯片</b><br /><br />三星电子周二表示，它已经开发出一种新型高带宽存储芯片，具有业界“迄今为止最高容量”。三星称 HBM3E 12H “将性能和容量提高了 50% 以上”。三星表示，已开始向客户提供芯片样品，并计划于2024年上半年量产。它将确保已经与三星签约的 Nvidia 在基于更高层 (12L) 的更高密度 (36GB) HBM3E 产品方面的领先地位。<br /><br />三星表示，HBM3E 12H 具有12层堆叠，但采用先进的热压非导电薄膜，使12层产品具有与8层产品相同的高度规格，以满足当前的HBM封装要求。 其结果是芯片具有更强的处理能力，而不增加其物理占用空间。三星表示：“三星不断降低其 NCF 材料的厚度，实现了业界最小的芯片间隙 (7 微米)，同时还消除了层间空隙。与 HBM3 8H 产品相比，这些努力使垂直密度提高了 20% 以上。”<br /><br />—— <a href="https://www.cnbc.com/2024/02/27/samsung-unveils-new-memory-chip-with-highest-capacity-to-date-for-ai.html" rel="noopener" target="_blank">CNBC</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 27 Feb 2024 08:05:57 GMT</pubDate>
-<pubDate>Tue, 27 Feb 2024 08:05:57 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 #有趣产品咖啡馆 #Newsletter 🤳 独立开发者故事 #56 - “我做了款App来记录外甥女的成长~” 1、介绍下你自己和目前所做的产品 大家好，我叫 “顾惜朝” ...</title>
 <link>https://t.me/NewlearnerChannel/12457</link>
@@ -9218,33 +9223,6 @@ Tue, 16 Jan 2024 01:33:20 GMT
 <p><b>Twitter/X 替代前端 Nitter 的域名因被投诉而被域名注册商暂停</b><br /><br />Nitter 是一个免费和开源的替代 Twitter/X 前端，<code>https://nitter.net</code> 加上推特 ID 就可以匿名查看其推文，并且支持 RSS 订阅。1月11日，有人向 Nitter 网站的域名注册商 Njalla 投诉该网站上托管了未经同意的裸露内容，但投诉邮件中的链接却是来自另一实例。Nitter 开发者因在旅行并未在意这事，几天后，域名注册商 Njalla 暂停了开发者的账户。<br /><br />—— <a href="https://github.com/zedeus/nitter/issues/1150" rel="noopener" target="_blank">Nitter/issues</a></p>
 ]]></content:encoded>
 <pubDate>Sun, 14 Jan 2024 06:34:15 GMT</pubDate>
-</item>
-<item>
-<title>🖼 漫画阅读器 Tachiyomi 收到 Kakao 娱乐公司的法律威胁后，宣布停止维护 1月2日，开源漫画阅读器 Tachiyomi 项目的贡献者收到来自韩国 Kakao 娱乐公司的法律...</title>
-<link>https://t.me/xhqcankao/7684</link>
-<guid>https://t.me/xhqcankao/7684</guid>
-<content:encoded><![CDATA[
-<p><b>漫画阅读器 Tachiyomi 收到 Kakao 娱乐公司的法律威胁后，宣布停止维护</b><br /><br />1月2日，开源漫画阅读器 Tachiyomi 项目的贡献者收到来自韩国 Kakao 娱乐公司的法律威胁，要求销毁该项目并确保删除所有分叉。1月9日，Tachiyomi 发布公告表示，“由于特殊情况，我们决定清理扩展列表以确保 Tachiyomi 的长期可持续性。”<br /><br />但事情没有结束，周三 Kakao 的反盗版团队在 X 上发帖，威胁了分叉 Tachiyomi 存储库的人。1月13日，Tachiyomi 发布了新声明，表明该软件将不再积极开发，也不会提供官方扩展。核心 GitHub 存储库将会下线，官方社交媒体账户将被关闭。<br /><br />—— <a href="https://torrentfreak.com/tachiyomi-manga-reader-how-threats-can-motivate-pirates-boost-engagement-240113/" rel="noopener" target="_blank">Torrentfreak</a>、<a href="https://tachiyomi.org/news/2024-01-09-extensions-removal" rel="noopener" target="_blank">Tachiyomi 1</a>、<a href="https://tachiyomi.org/news/2024-01-13-goodbye" rel="noopener" target="_blank">2</a></p><img src="https://cdn5.cdn-telegram.org/file/lfZlN5PdJRJ3gtiHk9jY0CeyL5vkf_sTvWbBdAdd4mEDq3z6XqOuq7Z9mF_79mOirVNqZsnV7kOXtaopVjad5yUvtENdQnyww6uH-ZN7IhFsYPKzB501VUJhoh00De-3DWVPWkY8mpZbqxAE1xzRdbPNGUm0caVQyWog9RJj8DMtxN0HeN0axS0C_nhWGQTMMHLloJW7TtkyxLtBeb62nLM_XVkN9SKxKYQ-JNfib9pQq6fHQQ6tKxik5c66U9Nfb33LVk0MFs1902mbF_HDMPh0-6w8H8i5ST4wS-6zGprtXqmiHq14FjLlZmKSxpRVvbQP6As-_bntoDe-CqfDJw.jpg" />
-]]></content:encoded>
-<pubDate>Sun, 14 Jan 2024 04:49:12 GMT</pubDate>
-</item>
-<item>
-<title>YouTube 开始对启用广告拦截器的用户实施新一轮减速措施 YouTube 最近开始在用户使用广告拦截器时降低整个网站的速度。这是除反广告拦截弹窗外另一措施，唯一的...</title>
-<link>https://t.me/xhqcankao/7683</link>
-<guid>https://t.me/xhqcankao/7683</guid>
-<content:encoded><![CDATA[
-<p><b>YouTube 开始对启用广告拦截器的用户实施新一轮减速措施</b><br /><br />YouTube 最近开始在用户使用广告拦截器时降低整个网站的速度。这是除反广告拦截弹窗外另一措施，唯一的解决方案是禁用广告拦截器或升级到 premium。<br /><br />根据 Reddit 上的一篇帖子，多名用户注意到 YouTube 似乎突然变得迟缓且反应迟钝。人们很快发现禁用正在使用的广告拦截器可以立即使网站恢复正常。<br /><br />测试后发现，果然，只要启用广告拦截器时，YouTube 就会变得很糟糕。视频缓冲速度极其缓慢，预览无法正确加载，不刷新网站就无法进入影院模式或全屏模式。<br /><br />—— <a href="https://9to5google.com/2024/01/13/youtube-new-wave-slow-downs-ad-blocker/" rel="noopener" target="_blank">9to5google</a>、 <a href="https://www.reddit.com/r/youtube/comments/195octe/youtube_started_slowing_video_buffer_with_adblock/" rel="noopener" target="_blank">Reddit</a></p>
-]]></content:encoded>
-<pubDate>Sat, 13 Jan 2024 22:41:21 GMT</pubDate>
-</item>
-<item>
-<title>谷歌从印度 Play商店撤下币安和其他全球加密货币交易所应用 周六，谷歌从其位于印度的 Play 商店中撤下了包括币安和 Kraken 在内的许多加密货币交易所应用。负责...</title>
-<link>https://t.me/xhqcankao/7682</link>
-<guid>https://t.me/xhqcankao/7682</guid>
-<content:encoded><![CDATA[
-<p><b>谷歌从印度 Play商店撤下币安和其他全球加密货币交易所应用</b><br /><br />周六，谷歌从其位于印度的 Play 商店中撤下了包括币安和 Kraken 在内的许多加密货币交易所应用。负责审查金融交易的印度政府机构金融情报部门 (FIU) 上个月末向九家加密货币公司发出了说明原因通知，并声称它们不遵守印度的反洗钱规则。<a href="https://t.me/xhqcankao/7657" rel="noopener" target="_blank">苹果</a>公司本周早些时候下架了这些应用。周四晚上，各种电信网络和互联网服务提供商开始屏蔽加密货币交易网站的 URL。<br /><br />—— <a href="https://techcrunch.com/2024/01/13/google-pulls-binance-other-global-crypto-apps-from-india-store/" rel="noopener" target="_blank">Techcrunch</a></p>
-]]></content:encoded>
-<pubDate>Sat, 13 Jan 2024 21:55:46 GMT</pubDate>
 </item>
 </channel>
 </rss>

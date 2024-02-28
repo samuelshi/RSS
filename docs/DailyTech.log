@@ -30140,3 +30140,14 @@ Append: [Telegram 频道所有者从下个月开始可以获得官方投放广�
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
 append_entries: 1
 Finish: 2024-02-28 21:01:27
+------------------------------------------------------
+Started: 2024-02-28 22:01:36
+Existing_entries: 1001
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel
+Append: [🖼 #News 🌌 自留地晚报 【2.28】 1️⃣ Bloomberg 报道称，Apple 已搁置并取消了自动驾驶电动汽车的所有开发计划，许多研发人员将转到 Apple 人工智能部门 ...](https://t.me/NewlearnerChannel/12463)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
+Append: [拜登签发行政令，以保护美国的敏感数据免受外国对手的侵害 美国总统拜登周三签署了一项行政命令，旨在更好地保护美国人的个人数据免受中国和俄罗斯等外国对手的...](https://t.me/xhqcankao/8492)
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
+append_entries: 2
+Finish: 2024-02-28 22:01:43

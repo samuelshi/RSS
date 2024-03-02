@@ -18202,3 +18202,10 @@ Existing_entries: 991
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2024-03-02 18:01:54
+------------------------------------------------------
+Started: 2024-03-02 19:01:24
+Existing_entries: 991
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [feeshy 分享了他在使用Obsidian作为主要笔记工具时使用的第三方插件，并详细介绍了他的同步方案，包括使用remotely-save和remotely-sync插件进行云同步。 他推荐...](https://t.me/appinnfeed/9798)
+append_entries: 1
+Finish: 2024-03-02 19:01:25

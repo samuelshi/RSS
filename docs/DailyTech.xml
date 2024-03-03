@@ -4,6 +4,17 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+<item>
+<title>WhatsApp 已经开始测试第三方聊天互操作性支持 在2024年3月在欧盟生效的《数字市场法案 (DMA)》中，消息应用 WhatsApp 被指定为看门人 (Gatekeeper) 应用，意味...</title>
+<link>https://t.me/xhqcankao/8562</link>
+<guid>https://t.me/xhqcankao/8562</guid>
+<content:encoded><![CDATA[
+
+<p><b>WhatsApp 已经开始测试第三方聊天互操作性支持</b><br /><br />在2024年3月在欧盟生效的《数字市场法案 (DMA)》中，消息应用 WhatsApp 被指定为看门人 (Gatekeeper) 应用，意味着它必须开放第三方互操作性，例如为第三方消息应用添加单独的收发功能。虽然 WhatsApp 目前并未正式回应会如何遵守 DMA ，但最新的 WhatsApp Android <code>2.24.5.18</code> 测试版更新表明其正在测试这一功能。<br /><br />WhatsApp 正在添加一个激活界面，在用户选择前显示：“您正在通过 WhatsApp 以外的方式向某人发送消息。 第三方应用可能使用不同的端到端加密。” 它还警告其他应用“可能会以不同的方式处理您的数据”。并且 WhatsApp 正在开发专门用于第三方聊天的聊天信息屏幕。需要注意的是，此功能是可选的，如果用户希望使用它，则需要手动激活互操作性服务。<br /><br />—— <a href="https://www.forbes.com/sites/davidphelan/2024/03/02/whatsapps-surprise-ground-breaking-new-feature-is-coming-sooner-than-expected/" rel="noopener" target="_blank">福布斯</a></p>
+]]></content:encoded>
+<pubDate>Sat, 02 Mar 2024 23:30:35 GMT</pubDate>
+<pubDate>Sat, 02 Mar 2024 23:30:35 GMT</pubDate>
+</item>
 
 <item>
 <title>谷歌正在为 Chromebook 准备一个通用的“应用程序商城” Chromebook 或 ChromeOS 事实上可以安装多种不同类型的应用：PWA应用、Chrome插件应用、Linux应用以及An...</title>

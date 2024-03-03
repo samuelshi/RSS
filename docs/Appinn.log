@@ -18400,3 +18400,10 @@ Existing_entries: 1000
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2024-03-04 01:01:36
+------------------------------------------------------
+Started: 2024-03-04 02:01:43
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [❓ #问题求助 需要一个简单的日历上标记的app https://meta.appinn.net/t/topic/53378](https://t.me/appinnfeed/9810)
+append_entries: 1
+Finish: 2024-03-04 02:01:44

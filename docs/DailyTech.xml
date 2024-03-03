@@ -5,14 +5,28 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>↩️ 感谢群友 @desolated 给出 iOS 版本的 TikTok 移除限制的可能原因。 并不是 TikTok 主动想移除限制，而是因为 Apple 在 iOS 16.4 或更高版本的 SDK中弃用了...</title>
+<link>https://t.me/AppleNuts/1882</link>
+<guid>https://t.me/AppleNuts/1882</guid>
+<content:encoded><![CDATA[
+
+<div class="rsshub-quote"><blockquote>
+                                    <p><a href="https://t.me/AppleNuts/1881"><b> Apple Nuts</b>:</a></p>
+                                    <p><small><span class="emoji">🎵</span> iOS 版本 TikTok 运营商检测失效  注意关闭所有 MITM/重写模块和功能，只需要让流量走非大陆或香港 IP 即可。如果你依然无法使用，是你的节点 IP 问题。  如果你是新用户，请留意你当前的 IP，后续切换区域需要在新 IP 登录 30 天。  检测失效并非 TikTok 主管所为，而是因为 Apple 限制，具体请看：https://t.me/AppleNuts/1882  https://apps.apple.com/us/app/tiktok/id835599320</small></p>
+                                    
+                                </blockquote></div><p>感谢群友 <a href="https://t.me/desolated" target="_blank">@desolated</a> 给出 iOS 版本的 TikTok 移除限制的可能原因。<br /><br />并不是 TikTok 主动想移除限制，而是因为 Apple 在 iOS 16.4 或更高版本的 SDK中弃用了 CTCarrier 的 API，调用该 API 会返回固定字符串，失去检测运营商功能。<br /><br />TikTok 使用了新 SDK 通过 Xcode 编译应用程序，导致原本通过该 API 检测运营商的功能失效了。<br /><br />因此这一变动可能不适用于 Android 机型的 TikTok.<br /><br />CTCarrier, a deprecated API, returns static values for apps that are built with the iOS 16.4 SDK or later. (76283818)<br /><br /><a href="https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_4-release-notes" rel="noopener" target="_blank">https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_4-release-notes</a></p>
+]]></content:encoded>
+<pubDate>Sat, 20 Jan 2024 11:58:57 GMT</pubDate>
+<pubDate>Sat, 20 Jan 2024 11:58:57 GMT</pubDate>
+</item>
+
+<item>
 <title>前段时间被同事科普了一个冷知识，中国茶叶里有三种都产自福建（白茶，红茶，乌龙茶，外加茉莉花茶）。 我从小在浙沪生活，这边以绿茶为主。绿茶口感微苦，我一...</title>
 <link>https://t.me/jike_collection/9604</link>
 <guid>https://t.me/jike_collection/9604</guid>
 <content:encoded><![CDATA[
-
 <p>前段时间被同事科普了一个冷知识，中国茶叶里有三种都产自福建（白茶，红茶，乌龙茶，外加茉莉花茶）。<br /><br />我从小在浙沪生活，这边以绿茶为主。绿茶口感微苦，我一直不太喜欢；没想到加入茉莉花后，口感顿时就变得清香起来。<br /><br />白茶就不一样了，口感很淡，宛如白开水，但是能闻到茶香。里面茶多酚和咖啡因含量也比较低，喝了不容易睡不着。<br /><br />然后就是红茶和乌龙茶，同事说，茶树上第一片叶子是金骏眉，第二三片是是银骏眉、铜骏眉，接下来的其他叶子就是正山小种和大红袍（这个说法第一次听，也不知道对不对。）<br /><br />虽然看了不少书，但是同事家以前卖茶叶，所以说起茶知识就很鲜活，和自己看书学习到的完全不一样，果然是实践出真知呢。 <a href="https://t.me/jike_collection/9604?q=%23%E6%97%A0%E7%94%A8%E4%BD%86%E6%9C%89%E8%B6%A3%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86">#无用但有趣的冷知识</a></p>
 ]]></content:encoded>
-<pubDate>Sun, 03 Mar 2024 02:48:52 GMT</pubDate>
 <pubDate>Sun, 03 Mar 2024 02:48:52 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +34,10 @@
 <link>https://t.me/xhqcankao/8564</link>
 <guid>https://t.me/xhqcankao/8564</guid>
 <content:encoded><![CDATA[
-
 <p><b>惠普推出订阅式打印机租赁服务</b><br /><br />该公司今天推出了一项名为“HP All-In Plan”的订阅服务。它本质上是惠普 Instant Ink 计划的扩展，当你的墨水用完时，你会收到墨水，但与它不同的是，你的月费还包括打印机本身。起价为每月 6.99 美元，可使用当前的 HP Envy 型号打印 20 页，一直到每月 35.99 美元，可提供 OfficeJet Pro 型号和 700 页打印；如果超出了页数配额，HP 将为每 10-15 页增加 1 美元收费。惠普还在页面上提到了“24/7支持”、“免费下一工作日打印机更换”、“每2年免费更新设备”等保障，旨在解决打印机使用的不良体验。<br /><br />—— <a href="https://www.theverge.com/2024/3/2/24088867/hp-all-in-plan-printer-rental-instant-ink" rel="noopener" target="_blank">The Verge</a></p>
 ]]></content:encoded>
 <pubDate>Sun, 03 Mar 2024 02:32:39 GMT</pubDate>
-<pubDate>Sun, 03 Mar 2024 02:32:39 GMT</pubDate>
 </item>
-
 <item>
 <title>2024年3月3日 🌍资讯快读 1、神十七乘组圆满完成第2次出舱 https://www.pingwest.com/w/292900 2、中泰互免签证生效首日，中国公民赴泰国18258人次 https://36...</title>
 <link>https://t.me/jike_collection/9603</link>
@@ -9216,28 +9227,6 @@ Wed, 31 Jan 2024 21:56:55 GMT
 <p><b>黄仁勋到访英伟达北上深办公室，参加中国区年会</b><br /><br />英伟达CEO黄仁勋本周来到中国大陆，工作访问的同时，还陆续参加了英伟达在北京、上海、深圳的年会。在北京、上海他身着经典的皮衣，在深圳则短袖上阵。一名深圳英伟达员工称，黄仁勋是昨天（19号）参加了深圳的年会，“在会上讲话并给员工抽了奖”。<br /><br />—— <a href="https://www.jiemian.com/article/10703889.html" rel="noopener" target="_blank">界面新面</a>、<a href="https://www.chinastarmarket.cn/detail/1576065" rel="noopener" target="_blank">科创板日报</a>（<a href="https://t.me/xhqcankao/7780?comment=475764" rel="noopener" target="_blank">年会视频</a>）</p>
 ]]></content:encoded>
 <pubDate>Sat, 20 Jan 2024 22:51:12 GMT</pubDate>
-</item>
-<item>
-<title>↩️ 感谢群友 @desolated 给出 iOS TikTok 移除限制的可能原因。 并不是 TikTok 主动想移除限制，而是因为 Apple 废除了 CTCarrier 的 API。在 Xcode 使用 iOS ...</title>
-<link>https://t.me/AppleNuts/1882</link>
-<guid>https://t.me/AppleNuts/1882</guid>
-<content:encoded><![CDATA[
-<div class="rsshub-quote"><blockquote>
-                                    <p><a href="https://t.me/AppleNuts/1881"><b> Apple Nuts</b>:</a></p>
-                                    <p><small><span class="emoji">🎵</span> TikTok 在最新版本(33.0.0)中移除 SIM 卡检测  如果你依然无法使用，可能是你的节点 IP 问题。  如果你是新用户，请留意你当前的 IP，后续切换区域需要在新 IP 登录 30 天。  https://apps.apple.com/us/app/tiktok/id835599320</small></p>
-                                    
-                                </blockquote></div><p>感谢群友 <a href="https://t.me/desolated" target="_blank">@desolated</a> 给出 iOS TikTok 移除限制的可能原因。<br /><br />并不是 TikTok 主动想移除限制，而是因为 Apple 废除了 CTCarrier 的 API。在 Xcode 使用 iOS 16.4 或更新版本 SDK 编译，调用该 API 会返回固定字符串，失去检测运营商功能。<br /><br />因此这一变动可能不适用于 Android 机型的 TikTok.<br /><br />CTCarrier, a deprecated API, returns static values for apps that are built with the iOS 16.4 SDK or later. (76283818)<br /><br /><a href="https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_4-release-notes" rel="noopener" target="_blank">https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_4-release-notes</a></p>
-]]></content:encoded>
-<pubDate>Sat, 20 Jan 2024 11:58:57 GMT</pubDate>
-</item>
-<item>
-<title>🖼 🎵 TikTok 在最新版本(33.0.0)中移除 SIM 卡检测 如果你依然无法使用，可能是你的节点 IP 问题。 如果你是新用户，请留意你当前的 IP，后续切换区域需要...</title>
-<link>https://t.me/AppleNuts/1881</link>
-<guid>https://t.me/AppleNuts/1881</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">🎵</span> TikTok 在最新版本(33.0.0)中移除 SIM 卡检测<br /><br />如果你依然无法使用，可能是你的节点 IP 问题。<br /><br />如果你是新用户，请留意你当前的 IP，后续切换区域需要在新 IP 登录 30 天。<br /><br /><a href="https://apps.apple.com/us/app/tiktok/id835599320" rel="noopener" target="_blank">https://apps.apple.com/us/app/tiktok/id835599320</a></p><img src="https://cdn5.cdn-telegram.org/file/rkcRxw9fLUCMoMNe8zbQ5TFZ3Mj6y40_4XDD6BfCOCKixSD_xm9Xt_3av-SGnVm5qHFHKmVmPgWLxKbTrIa4xHFJg0rQaVBXfCFa59wa3VUsdxWB9pYpE7qLMyzaDff3HYqnCK7soYsQ1jZ9P6N7izZGnBTP4GHy9Axe5lG0B0Gw96Fo-iS3-FQBqucJBcrbrJfvmzmILArXntBXHwGMs_yeIIdtxdn5QgjVPQSan4Q7eehTDFeHdOTKyINIa8YVG3EUxlxEPEdUjsVxiqMvTItuiKFjRIyZuS09ayUJgQvKLhy8-pTIh_tKuRysfy6GzJqeMyKqWJhsSVQ7tsNtFw.jpg" />
-]]></content:encoded>
-<pubDate>Sat, 20 Jan 2024 11:33:35 GMT</pubDate>
 </item>
 </channel>
 </rss>

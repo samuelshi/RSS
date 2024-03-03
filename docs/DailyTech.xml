@@ -4,12 +4,12 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+
 <item>
 <title>↩️ 感谢群友 @desolated 给出 iOS 版本的 TikTok 移除限制的可能原因。 并不是 TikTok 主动想移除限制，而是因为 Apple 在 iOS 16.4 或更高版本的 SDK中弃用了...</title>
 <link>https://t.me/AppleNuts/1882</link>
 <guid>https://t.me/AppleNuts/1882</guid>
 <content:encoded><![CDATA[
-
 <div class="rsshub-quote"><blockquote>
                                     <p><a href="https://t.me/AppleNuts/1881"><b> Apple Nuts</b>:</a></p>
                                     <p><small><span class="emoji">🎵</span> iOS 版本 TikTok 运营商检测失效  注意关闭所有 MITM/重写模块和功能，只需要让流量走非大陆或香港 IP 即可。如果你依然无法使用，是你的节点 IP 问题。  如果你是新用户，请留意你当前的 IP，后续切换区域需要在新 IP 登录 30 天。  检测失效并非 TikTok 主管所为，而是因为 Apple 限制，具体请看：https://t.me/AppleNuts/1882  https://apps.apple.com/us/app/tiktok/id835599320</small></p>
@@ -17,9 +17,7 @@
                                 </blockquote></div><p>感谢群友 <a href="https://t.me/desolated" target="_blank">@desolated</a> 给出 iOS 版本的 TikTok 移除限制的可能原因。<br /><br />并不是 TikTok 主动想移除限制，而是因为 Apple 在 iOS 16.4 或更高版本的 SDK中弃用了 CTCarrier 的 API，调用该 API 会返回固定字符串，失去检测运营商功能。<br /><br />TikTok 使用了新 SDK 通过 Xcode 编译应用程序，导致原本通过该 API 检测运营商的功能失效了。<br /><br />因此这一变动可能不适用于 Android 机型的 TikTok.<br /><br />CTCarrier, a deprecated API, returns static values for apps that are built with the iOS 16.4 SDK or later. (76283818)<br /><br /><a href="https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_4-release-notes" rel="noopener" target="_blank">https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_4-release-notes</a></p>
 ]]></content:encoded>
 <pubDate>Sat, 20 Jan 2024 11:58:57 GMT</pubDate>
-<pubDate>Sat, 20 Jan 2024 11:58:57 GMT</pubDate>
 </item>
-
 <item>
 <title>前段时间被同事科普了一个冷知识，中国茶叶里有三种都产自福建（白茶，红茶，乌龙茶，外加茉莉花茶）。 我从小在浙沪生活，这边以绿茶为主。绿茶口感微苦，我一...</title>
 <link>https://t.me/jike_collection/9604</link>
@@ -9218,15 +9216,6 @@ Wed, 31 Jan 2024 21:56:55 GMT
 <p></p><div class="tgme_widget_message_text js-message_text" dir="auto"><b>适用于桌面和移动设备的开源 Spotify 客户端  不需要 Premium</b><br /><br />请注意，该应用并不是真正意义上的 Spotify 第三方客户端。它从 Spotify 获取数据，播放的音频源来自 YouTube。<br /><br />支持 <a href="https://play.google.com/store/apps/details?id=oss.krtirtho.spotube" rel="noopener" target="_blank">Android</a>、<a href="https://github.com/KRTirtho/spotube/releases/latest/download/Spotube-windows-x86_64-setup.exe" rel="noopener" target="_blank">Windows</a>、<a href="https://github.com/KRTirtho/spotube/releases/latest/download/Spotube-linux-x86_64.deb" rel="noopener" target="_blank">Debian/Ubuntu</a>、<a href="https://github.com/KRTirtho/spotube/releases/latest/download/Spotube-macos-universal.dmg" rel="noopener" target="_blank">MacOS</a> 等平台<br /><br /><a href="https://github.com/KRTirtho/spotube" rel="noopener" target="_blank">https://github.com/KRTirtho/spotube</a></div><p></p><img src="https://cdn5.cdn-telegram.org/file/sjA0WSYmmV9V9w1NP6e2o78S7LAHqxPoQ9hZi_FLIVkDW8dIk_OF3N0TQbr2ypxRmIiIMmxD_JChaZ5ku6BQBQRZkb-1_mUvcKMdWTXI3rwC0Bsp4VXgV_ozKuc1dCN3Jwuz9mmTcbrAS_Iup-UD94jEVgcVDLjRniVw1vtt7QtPuAq5n1fT2zq-oAZQrEqfhjjpWP35Ts5drdSOzud13J43vsmfdbOQXRM1a2S6N3_ZXP2p-1hOB3PbDDvMBNxp_omK52h_JmYaxGTujYAzQsStTsol7v3GHuOCprDz3kzSnGI0GHtUuXWfCYx0Xqio7CgZLo5-Xo8bW0eFNC4kXQ.jpg" /><img src="https://cdn5.cdn-telegram.org/file/Br3hNKzm00ssJnVc92-Trdny_PhVdGY4NwZMJPaCX4l9MMANRYu0OtD0aS5oMU8oonetKHgkLv350Te3NKJd2Xf3-VV8TSd9gzXybGB9mlKm0_VtZYfLzCBxerzn3jr4lx4JjEWmowa5ESUtRYM7pFrEualoXE5vm1vPtm2LuEu5rGLHn7AOA-_PW-UErFnJIMwaXNaWOy_EUx1karerqc5EiwJGXAJe3aQX4wdqjzPSmggsOdMTUmW5ClCUHJbIIT4vPVtbj2hE4ZXSjdjN43BVLCM1uX5eXOtJT8ThsMGYQV2P9GonQUqwzhzYvgFfdlBVZfcKRSlO5jgo4wR3hw.jpg" />
 ]]></content:encoded>
 <pubDate>Sat, 20 Jan 2024 23:46:54 GMT</pubDate>
-</item>
-<item>
-<title>黄仁勋到访英伟达北上深办公室，参加中国区年会 英伟达CEO黄仁勋本周来到中国大陆，工作访问的同时，还陆续参加了英伟达在北京、上海、深圳的年会。在北京、上海...</title>
-<link>https://t.me/xhqcankao/7780</link>
-<guid>https://t.me/xhqcankao/7780</guid>
-<content:encoded><![CDATA[
-<p><b>黄仁勋到访英伟达北上深办公室，参加中国区年会</b><br /><br />英伟达CEO黄仁勋本周来到中国大陆，工作访问的同时，还陆续参加了英伟达在北京、上海、深圳的年会。在北京、上海他身着经典的皮衣，在深圳则短袖上阵。一名深圳英伟达员工称，黄仁勋是昨天（19号）参加了深圳的年会，“在会上讲话并给员工抽了奖”。<br /><br />—— <a href="https://www.jiemian.com/article/10703889.html" rel="noopener" target="_blank">界面新面</a>、<a href="https://www.chinastarmarket.cn/detail/1576065" rel="noopener" target="_blank">科创板日报</a>（<a href="https://t.me/xhqcankao/7780?comment=475764" rel="noopener" target="_blank">年会视频</a>）</p>
-]]></content:encoded>
-<pubDate>Sat, 20 Jan 2024 22:51:12 GMT</pubDate>
 </item>
 </channel>
 </rss>

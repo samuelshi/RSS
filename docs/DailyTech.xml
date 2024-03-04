@@ -4,15 +4,14 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+
 <item>
 <title>Nvidia 禁止使用转译层让 CUDA 软件在其他芯片上运行 Nvidia 现在已禁止使用转译层在其他硬件平台上运行基于 CUDA 的软件。CUDA 11.5 中的一条新条款写道：“您...</title>
 <link>https://t.me/xhqcankao/8600</link>
 <guid>https://t.me/xhqcankao/8600</guid>
 <content:encoded><![CDATA[
-
 <p><b>Nvidia 禁止使用转译层让 CUDA 软件在其他芯片上运行</b><br /><br />Nvidia 现在已禁止使用转译层在其他硬件平台上运行基于 CUDA 的软件。CUDA 11.5 中的一条新条款写道：“您不得对使用软件元素生成的输出的任何部分进行逆向工程、反编译或反汇编，以将此类输出工件转换为目标非 Nvidia 平台。”这似乎是为了阻止 ZLUDA 计划，一个让其他平台兼容 CUDA 的转译层。更重要的是，可以阻止中国 GPU 制造商利用带有转译层的 CUDA 代码。虽然 Nvidia 可能短期内无法阻止所有人在其他硬件平台上运行 CUDA ，然而该公司已经为此设置法律障碍。<br /><br />—— <a href="https://www.tomshardware.com/pc-components/gpus/nvidia-bans-using-translation-layers-for-cuda-software-to-run-on-other-chips-new-restriction-apparently-targets-zluda-and-some-chinese-gpu-makers" rel="noopener" target="_blank">Tom's Hardware</a></p>
 ]]></content:encoded>
-<pubDate>Mon, 04 Mar 2024 16:26:35 GMT</pubDate>
 <pubDate>Mon, 04 Mar 2024 16:26:35 GMT</pubDate>
 </item>
 <item>
@@ -20,10 +19,8 @@
 <link>https://t.me/xhqcankao/8599</link>
 <guid>https://t.me/xhqcankao/8599</guid>
 <content:encoded><![CDATA[
-
 <p><b>TikTok 在欧洲 DMA 生效截止日期之前推出数据可移植性 API</b><br /><br />TikTok 正在推出数据可移植性 API，以帮助其遵守新的欧洲法规，特别是数据可移植性和互操作性。该规定旨在对抗过去社交网络闻名的传统“围墙花园”方法。去年 9 月，欧盟指定了 TikTok 母公司字节跳动为数字市场“看门人”之一。 尽管 TikTok/字节跳动继续对给予其看门人地位的决定提出异议，但目前它必须遵守3月6日生效的各种 DMA 义务。<br /><br />新的 API 允许第三方开发人员，在用户授权的情况下，构建将数据从 TikTok 传输到其他应用程序的管道，并可配置为定期或一次性转移。 通过 API，开发人员可以请求访问“所有可用数据”或单个类别，包括 TikTok 帖子和个人资料数据、活动和私信。而且，该API仅适用于欧洲经济区（EEA）的用户，因此开发者必须能够区分其区域的细分市场。<br /><br />—— <a href="https://techcrunch.com/2024/03/04/tiktok-rolls-out-data-portability-api-ahead-of-europes-dma-regulatory-deadline/" rel="noopener" target="_blank">TechChurch</a></p>
 ]]></content:encoded>
-<pubDate>Mon, 04 Mar 2024 16:08:54 GMT</pubDate>
 <pubDate>Mon, 04 Mar 2024 16:08:54 GMT</pubDate>
 </item>
 <item>
@@ -31,7 +28,6 @@
 <link>https://t.me/AppleNuts/1885</link>
 <guid>https://t.me/AppleNuts/1885</guid>
 <content:encoded><![CDATA[
-
 <div class="rsshub-quote"><blockquote>
                                     <p><a href="https://t.me/AppleNuts/1868"><b> Apple Nuts</b>:</a></p>
                                     <p><small><span class="emoji">📶</span> Apple 再遇信号门，iOS 17.2.1 系统确认会导致信号问题  Apple 最新的 iOS 操作系统 iOS 17.2.1 确认存在信号相关问题。  大量用户在更新到该版本系统后，会出现各种运营商网络相关相关问题，具体表现为：  * 正常显示运营商名称，不会出现无服务，但是信号强度为 0  * 无法通过运营商网络上网，或网络访问经常或间歇性中断  * 通过 设置&gt;通用&gt;还原&gt;还原网络设置 后可能可以迅速解决问题，但是一段时间后问题反复  * 通过运营商更换实体 SIM 卡 或 删除并重新添加 eSIM…</small></p>
@@ -39,9 +35,7 @@
                                 </blockquote></div><p>iOS 17.3 确认解决信号问题，建议所有在 iOS 17.2.1 的用户更新。</p>
 ]]></content:encoded>
 <pubDate>Tue, 23 Jan 2024 08:57:34 GMT</pubDate>
-<pubDate>Tue, 23 Jan 2024 08:57:34 GMT</pubDate>
 </item>
-
 <item>
 <title>↩️ 苹果和 Spotify 分别对欧盟对苹果的反垄断罚款决定做出回应 Spotify 称此次罚款是一个强有力的信息，它发出了一个信号，即即使是像苹果这样的垄断企业也无...</title>
 <link>https://t.me/xhqcankao/8598</link>
@@ -9226,33 +9220,6 @@ Wed, 31 Jan 2024 21:56:55 GMT
 <p><b>惠普CEO称禁止第三方墨盒是为了防止通过墨盒传播病毒</b><br /><br />上周四，惠普首席执行官恩里克•洛雷斯接受 CNBC 采访时谈到了该公司颇具争议的做法，即用户使用第三方墨盒时打印机就会停止工作。他表示，“我们已经看到，可以在墨盒中嵌入病毒。通过墨盒，病毒可以进入打印机，然后从打印机进入网络。”<br /><br />洛雷斯告诉 CNBC 电视台，非惠普墨盒可能会造成“各种问题”，并表示如果客户使用并非“设计”用于惠普打印机的墨盒，打印机可能会停止工作。”“我们的长期目标是让打印成为订阅，这确实是我们一直在推动的目标，”洛雷斯说。<br /><br />—— <a href="https://arstechnica.com/gadgets/2024/01/hp-ceo-blocking-third-party-ink-from-printers-fights-viruses/" rel="noopener" target="_blank">Arstechnica</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 23 Jan 2024 10:23:00 GMT</pubDate>
-</item>
-<item>
-<title>甲骨文推出OCI生成式AI服务，可集成Llama 2大模型 1月23日消息，甲骨文宣布推出 Oracle 云基础设施远程软件服务 (Oracle Cloud Infrastructure,OCI) Generative ...</title>
-<link>https://t.me/xhqcankao/7816</link>
-<guid>https://t.me/xhqcankao/7816</guid>
-<content:encoded><![CDATA[
-<p><b>甲骨文推出OCI生成式AI服务，可集成Llama 2大模型</b><br /><br />1月23日消息，甲骨文宣布推出 Oracle 云基础设施远程软件服务 (Oracle Cloud Infrastructure,OCI) Generative AI 服务。据介绍，OCI Generative AI 服务是一项全面托管服务，可无缝集成 Cohere 和 Meta Llama 2 的大型语言模型 (LLM)，有效解决各种业务用例。<br /><br />—— <a href="https://mp.weixin.qq.com/s/MIX4zc_DhT7SzCb2PTs31Q" rel="noopener" target="_blank">甲骨文中国微信公众号</a></p>
-]]></content:encoded>
-<pubDate>Tue, 23 Jan 2024 10:00:29 GMT</pubDate>
-</item>
-<item>
-<title>🖼 设计得很好，下次不要再设计了...跟洗发水一样 #大产品小细节</title>
-<link>https://t.me/jike_collection/9484</link>
-<guid>https://t.me/jike_collection/9484</guid>
-<content:encoded><![CDATA[
-<p>设计得很好，下次不要再设计了...跟洗发水一样 <a href="https://t.me/jike_collection/9484?q=%23%E5%A4%A7%E4%BA%A7%E5%93%81%E5%B0%8F%E7%BB%86%E8%8A%82">#大产品小细节</a></p><img src="https://cdn4.cdn-telegram.org/file/Um5bs0R6j6LmHlbvOn2847ZnWglzrlDGqHdpH1rU6n9CkciwXUUvH3IUjMjnQW3qWPePma9QYLsTvEO66dAI8Fnk6nZhb3uwjXppJlf-DnpqiZGyTPS8Ts6h4_f1Juz7gpefCFNRNQ_Y_hVnz9ImscGD3bDyBUfepgmrtgheg6qDcqgyh9rBZrIC4ATbqx5tiyLnuADvKcGYNV-0Y70WtcJkI02F4mrjNo6aUT2n0M4TZXJEWdLh4VVF4kpWg98JwrswpaaP1FzLGTBdEgwFVkBqXQs-7LaWWz2VWdE9Qb8zgbDsaYWXF8FQpiNBdGoc-oYI4-cmBc5EYiyYuoP_zw.jpg" />
-]]></content:encoded>
-<pubDate>Tue, 23 Jan 2024 08:42:54 GMT</pubDate>
-</item>
-<item>
-<title>开屏弹窗“乱跳转”，闲鱼、高德地图等应用被中国工信部通报 1月22日，中国工信部通报了31款APP及SDK存在侵害用户权益行为。其中，闲鱼、高德地图、下厨房、秀动...</title>
-<link>https://t.me/xhqcankao/7815</link>
-<guid>https://t.me/xhqcankao/7815</guid>
-<content:encoded><![CDATA[
-<p><b>开屏弹窗“乱跳转”，闲鱼、高德地图等应用被中国工信部通报</b><br /><br />1月22日，中国工信部通报了31款APP及SDK存在侵害用户权益行为。其中，闲鱼、高德地图、下厨房、秀动等10款APP均被通报开屏弹窗“乱跳转”，多款游戏APP存在强制、频繁、过度索取权限等违规收集个人信息的行为。除违规APP外，工信部此次也公布了6款违规收集个人信息、过度索取权限的SDK。工信部要求名单中的APP及SDK应按有关规定进行整改，整改落实不到位的，将依法依规组织开展相关处置工作。<br /><br />—— <a href="https://m.thepaper.cn/detail/26110065" rel="noopener" target="_blank">澎湃新闻</a></p>
-]]></content:encoded>
-<pubDate>Tue, 23 Jan 2024 08:18:53 GMT</pubDate>
 </item>
 </channel>
 </rss>

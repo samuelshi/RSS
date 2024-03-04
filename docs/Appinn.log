@@ -18523,3 +18523,10 @@ Existing_entries: 1000
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2024-03-04 19:27:53
+------------------------------------------------------
+Started: 2024-03-04 20:06:44
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [❓ #问题求助 有没有可以用Docker本地化部署的类Notion或者幕布的东西？ https://meta.appinn.net/t/topic/53428](https://t.me/appinnfeed/9825)
+append_entries: 1
+Finish: 2024-03-04 20:06:44

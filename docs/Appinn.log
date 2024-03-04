@@ -18457,3 +18457,10 @@ Append: [❓ #问题求助 F-dorid怎么能在华为上用 https://meta.appinn.n
 Append: [❓ #问题求助 有无好用的Mac端或Ios端支持同声传译的软件 https://meta.appinn.net/t/topic/53383](https://t.me/appinnfeed/9811)
 append_entries: 2
 Finish: 2024-03-04 10:15:16
+------------------------------------------------------
+Started: 2024-03-04 11:16:00
+Existing_entries: 1002
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [❓ #问题求助 有没有现成的方案翻译chrome生成的实时字幕？ https://meta.appinn.net/t/topic/53388](https://t.me/appinnfeed/9813)
+append_entries: 1
+Finish: 2024-03-04 11:16:01

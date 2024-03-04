@@ -4,18 +4,16 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+
 <item>
 <title>🧪 Apple 发布 [测试版] 软件更新 * Xcode 15.3 Release Candidate 2 (15E204a) * macOS 14.4 Release Candidate (23E214) * tvOS 17.4 Release Candidate (21...</title>
 <link>https://t.me/AppleNuts/1908</link>
 <guid>https://t.me/AppleNuts/1908</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">🧪</span> Apple 发布 [测试版] 软件更新<br /><br /> * Xcode 15.3 Release Candidate 2 (15E204a)<br /> * macOS 14.4 Release Candidate (23E214)<br /> * tvOS 17.4 Release Candidate (21L227)<br /> * visionOS 1.1 Release Candidate (21O209)<br /> * watchOS 10.4 Release Candidate (21T216)</p>
 ]]></content:encoded>
 <pubDate>Mon, 04 Mar 2024 18:20:02 GMT</pubDate>
-<pubDate>Mon, 04 Mar 2024 18:20:02 GMT</pubDate>
 </item>
-
 <item>
 <title>Nvidia 禁止使用转译层让 CUDA 软件在其他芯片上运行 Nvidia 现在已禁止使用转译层在其他硬件平台上运行基于 CUDA 的软件。CUDA 11.5 中的一条新条款写道：“您...</title>
 <link>https://t.me/xhqcankao/8600</link>
@@ -9222,15 +9220,6 @@ Wed, 31 Jan 2024 21:56:55 GMT
 <p><a href="https://t.me/NewlearnerChannel/12359?q=%23Notion">#Notion</a> <a href="https://t.me/NewlearnerChannel/12359?q=%23Notes">#Notes</a> <a href="https://t.me/NewlearnerChannel/12359?q=%23Tools">#Tools</a><br /><br /><span class="emoji">📍</span><b>我的任務管理工作流：如何使用 Notion Calendar 整合 Google 日曆和任務管理？</b><br /><br /><span class="emoji">🔗</span>：<a href="https://raymondhouch.com/notion/task-calendar-cron/" rel="noopener" target="_blank">Blog</a><br /><br />你該思考的是，你的日程表和待辦任務的使用流程，而不是把整個 Notion 放近日程表。<br /><br /><span class="emoji">📝</span> <b>文章概述</b><br /><br />- 底層邏輯：行事曆用來保護、任務庫用來記錄<br />- 工作流設計 → 工具選擇<br />- 一日工作流（含 AI 日記）步驟式說明<br /><br /><span class="emoji">👨🏻‍💻</span> <b>寫作源由</b><br /><br />2023 年底，我用側拍記錄了我一天的工作，再把其中的「日程表<span class="emoji">↔</span>︎ 任務庫」的這一段工作流寫成一篇文章。<br />分享我怎麼把 Google Calendar 和 Notion 任務庫整合，當時用 Cron 做橋樑，這次 Notion 2.37 推出日程表，能把 Database 的「日程表檢視」放在 APP。再次回頭看了這篇文章，裡面提到的工作流程都適用。在「不改變工作流」的情況，升級效率是最棒的一件事。<br /><br />另外有趣的是，從 Notion Projects 到 Notion Calendar，可以看出 Notion 團隊正在讓「充滿自由的 Notion，多一些限制框架」，例如鎖定欄位屬性不讓你動，或者這次的日程表上新增 Notion Page 體驗不順、功能不全；不過我認為這種「防呆機制」有助於用戶不迷路、避免不當使用，造成整個工作系統的混亂。這次因為這次的更新，更像是把「Calendar View」獨立拉成一個 APP 給你，而不是讓你在上面編輯，而是檢視（View），編輯操作請回到 Notion 上。<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/OUef_haorffQ_7ysAgwih68sz0VfO5gG1Kxbps8eTAuoClPHKy7pEWE6tU6p2_cCt6_jL3hvGE3ZTMbQRIU_nBN4w_QOJNQ1wroF6xOIKHEzEf4yWvIethXyzLK577nVk5j0nDPEJaPlCS4a5uQmMMUbHXq4m6ZVchdwaBSoydl4HLzuW3OZ7AulXW6ato_gsauJJ3v3XaOeDs2CY7ncQtfEXRXSkzxzCN7gopuwi3jUO1GVFLPqMlpA8X8a8SsCBpKJU5zJCAvKC67PMdo6yvcilt3sEljsefLUl7p1spmhWBgp45FuIe35zaeL6YesHoOtXuEnXBQLqy-G4awuaQ.jpg" />
 ]]></content:encoded>
 <pubDate>Tue, 23 Jan 2024 10:02:15 GMT</pubDate>
-</item>
-<item>
-<title>惠普CEO称禁止第三方墨盒是为了防止通过墨盒传播病毒 上周四，惠普首席执行官恩里克•洛雷斯接受 CNBC 采访时谈到了该公司颇具争议的做法，即用户使用第三方墨盒...</title>
-<link>https://t.me/xhqcankao/7817</link>
-<guid>https://t.me/xhqcankao/7817</guid>
-<content:encoded><![CDATA[
-<p><b>惠普CEO称禁止第三方墨盒是为了防止通过墨盒传播病毒</b><br /><br />上周四，惠普首席执行官恩里克•洛雷斯接受 CNBC 采访时谈到了该公司颇具争议的做法，即用户使用第三方墨盒时打印机就会停止工作。他表示，“我们已经看到，可以在墨盒中嵌入病毒。通过墨盒，病毒可以进入打印机，然后从打印机进入网络。”<br /><br />洛雷斯告诉 CNBC 电视台，非惠普墨盒可能会造成“各种问题”，并表示如果客户使用并非“设计”用于惠普打印机的墨盒，打印机可能会停止工作。”“我们的长期目标是让打印成为订阅，这确实是我们一直在推动的目标，”洛雷斯说。<br /><br />—— <a href="https://arstechnica.com/gadgets/2024/01/hp-ceo-blocking-third-party-ink-from-printers-fights-viruses/" rel="noopener" target="_blank">Arstechnica</a></p>
-]]></content:encoded>
-<pubDate>Tue, 23 Jan 2024 10:23:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -5,14 +5,24 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>研究人员测试了热门的大语言模型的版权侵权情况 新创 AI 模型评估公司 Patronus AI 周三发布了一个 API，用于检测大语言模型版权内容的 CopyrightCatcher （版权...</title>
+<link>https://t.me/xhqcankao/8649</link>
+<guid>https://t.me/xhqcankao/8649</guid>
+<content:encoded><![CDATA[
+
+<p><b>研究人员测试了热门的大语言模型的版权侵权情况</b><br /><br />新创 AI 模型评估公司 Patronus AI 周三发布了一个 API，用于检测大语言模型版权内容的 CopyrightCatcher （版权捕手）。同时该公司还展示了热门的 AI 模型生成受版权保护内容的频率。<br /><br />Patronus 仅使用美国受版权保护的书籍来测试模型，并从编目网站 Goodreads 中选择流行的书籍。 研究人员设计了100种不同的提示语，让模型以续写或输出第一页的方式回应。OpenAI 的 GPT-4 表现最差，在44%的提示上生成了受版权保护的内容， Mixtral 为22%。Anthropic 的 Claude 2 为8%，Meta 的 Llama-2 为10%。总体来说所有模型，无论开源闭源都生成了受版权保护的内容，暗示了其训练数据中可能也使用了这些数据。OpenAI 曾在今年早些时候表示，如果没有受版权保护的作品，“不可能”训练顶级人工智能模型。<br /><br />—— <a href="https://www.cnbc.com/2024/03/06/gpt-4-researchers-tested-leading-ai-models-for-copyright-infringement.html" rel="noopener" target="_blank">CNBC</a>、 <a href="https://www.patronus.ai/blog/introducing-copyright-catcher" rel="noopener" target="_blank">Patronus AI</a></p>
+]]></content:encoded>
+<pubDate>Wed, 06 Mar 2024 15:51:05 GMT</pubDate>
+<pubDate>Wed, 06 Mar 2024 15:51:05 GMT</pubDate>
+</item>
+
+<item>
 <title>微软工程师警告公司的人工智能工具会创建暴力、色情、无视版权的图像 Shane Jones 是微软的一名主管工程经理，他发现了公司的生成式 AI 生成非常容易地生成了恶...</title>
 <link>https://t.me/xhqcankao/8648</link>
 <guid>https://t.me/xhqcankao/8648</guid>
 <content:encoded><![CDATA[
-
 <p><b>微软工程师警告公司的人工智能工具会创建暴力、色情、无视版权的图像</b><br /><br />Shane Jones 是微软的一名主管工程经理，他发现了公司的生成式 AI 生成非常容易地生成了恶魔和怪物，以及与堕胎权、携带突击步枪的青少年、暴力场景中的女性色情图像以及未成年人饮酒和吸毒等与公司安全承诺相悖的图像；并且模型还能轻易生成存在版权问题的图片，比如迪士尼的角色。  CNBC 本周使用 Copilot 工具（最初称为 Bing Image Creator）依然可以重新生成的所有这些场景。<br /><br />琼斯在12月开始在内部报告他的发现，虽然微软承认他的担忧，但它不愿意将产品从市场上撤下。微软将他引荐给 OpenAI，当他没有收到该公司的回复时，他在 LinkedIn 上发布了一封公开信，要求 OpenAI 撤下 DALL-E 3 进行调查。在微软的法律部门要求他删除该文章之后，他就此事写了一封信给美国参议员，随后会见了参议院多个委员会的工作人员。现在，他进一步升级了行动，向联邦贸易委员会（FTC）和微软董事会发送了一封信，要求在为模型添加新的安全护栏之前暂时停止其服务，并向公众披露模型所存在的风险。 <br /><br />—— <a href="https://www.cnbc.com/2024/03/06/microsoft-ai-engineer-says-copilot-designer-creates-disturbing-images.html" rel="noopener" target="_blank">CNBC</a></p>
 ]]></content:encoded>
-<pubDate>Wed, 06 Mar 2024 14:40:38 GMT</pubDate>
 <pubDate>Wed, 06 Mar 2024 14:40:38 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +30,10 @@
 <link>https://t.me/xhqcankao/8647</link>
 <guid>https://t.me/xhqcankao/8647</guid>
 <content:encoded><![CDATA[
-
 <p><b>亚马逊 AWS 收购 Talen 位于宾夕法尼亚州的核动力数据中心</b><br /><br />亚马逊云计算服务 (AWS) 以6.5亿美元的价格收购了美国电力公司 Talen Energy 位于美国宾夕法尼亚州卢泽恩县的 Cumulus Data 核动力数据中心园区。占地1,200英亩的数据中心园区将由邻近的一座2.5吉瓦 (GW) 萨斯奎哈纳蒸汽电站核电站直接供电，该核电站属于电力公司 Talen Energy 所有。根据 Talen Energy 的投资者介绍，该公司将在亚马逊新数据中心建成后为其提供固定价格的核电。亚马逊的最低合同电力承诺在几年内以120兆瓦的增量增加。这家云服务巨头拥有一项将承诺上限限制在480兆瓦的一次性选择权，以及两项与核许可证续签相关的10年期延期选项。<br /><br />—— <a href="https://electrek.co/2024/03/05/amazon-just-bought-a-100-nuclear-powered-data-center/" rel="noopener" target="_blank">Electrek.co</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 06 Mar 2024 14:12:41 GMT</pubDate>
-<pubDate>Wed, 06 Mar 2024 14:12:41 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 #News 🌌 自留地晚报 【3.6】 1️⃣ 9to5Mac 报道称，iOS 17.4 为欧盟用户带来位置检测功能（数据保存在本地），用户离开欧盟地区则无法使用第三方应用商...</title>
 <link>https://t.me/NewlearnerChannel/12494</link>
@@ -9232,24 +9239,6 @@ Wed, 31 Jan 2024 21:56:55 GMT
 <p><b>闲鱼微信小程序已上线</b><br /><br />1月25日消息，闲鱼的微信小程序已上线，不过值得注意的是，目前闲鱼的微信小程序搜索位排在了第九位。据了解，在闲鱼发布的宝贝会被闲鱼微信小程序的买家看到，只有开通微信收款，微信小程序买家才能购买该商品。交易获得的收款，会转入到闲鱼微信收款余额。<br /><br />—— <a href="https://www.dsb.cn/238112.html" rel="noopener" target="_blank">电商报</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 25 Jan 2024 09:34:12 GMT</pubDate>
-</item>
-<item>
-<title>宝可梦公司发布声明：尚未授予某游戏使用宝可梦知识产权 1月25日消息，宝可梦公司在其官网发布声明称，我们收到了许多关于另一家公司于2024年1月发布的游戏的询...</title>
-<link>https://t.me/xhqcankao/7852</link>
-<guid>https://t.me/xhqcankao/7852</guid>
-<content:encoded><![CDATA[
-<p><b>宝可梦公司发布声明：尚未授予某游戏使用宝可梦知识产权</b><br /><br />1月25日消息，宝可梦公司在其官网发布声明称，我们收到了许多关于另一家公司于2024年1月发布的游戏的询问。我们尚未授予在该游戏中使用宝可梦知识产权或资产的任何许可。宝可梦表示，将对任何侵害宝可梦相关知识产权的行为进行调查并采取适当措施。<br /><br />一一 <a href="https://corporate.pokemon.co.jp/media/news/detail/335.html" rel="noopener" target="_blank">宝可梦公司</a></p>
-]]></content:encoded>
-<pubDate>Thu, 25 Jan 2024 07:31:04 GMT</pubDate>
-</item>
-<item>
-<title>🖼 #有冇用 #Newsletter 🎪 有（冇）用 057｜行动派的一期分享 🔗： 官网 | 竹白 🥰 这期我们都分享了关于「行动」相关的内容。Kwen分享的就是私人用的...</title>
-<link>https://t.me/NewlearnerChannel/12369</link>
-<guid>https://t.me/NewlearnerChannel/12369</guid>
-<content:encoded><![CDATA[
-<p><a href="https://t.me/NewlearnerChannel/12369?q=%23%E6%9C%89%E5%86%87%E7%94%A8">#有冇用</a> <a href="https://t.me/NewlearnerChannel/12369?q=%23Newsletter">#Newsletter</a><br /><br /><span class="emoji">🎪</span> <a href="https://usefulness.zhubai.love/posts/2361924416411062272" rel="noopener" target="_blank">有（冇）用 057｜行动派的一期分享</a><br /><br /><span class="emoji">🔗</span>： <a href="https://usefulness.info/" rel="noopener" target="_blank">官网</a> | <a href="https://usefulness.zhubai.love/" rel="noopener" target="_blank">竹白</a><br /><br /><span class="emoji">🥰</span> 这期我们都分享了关于「行动」相关的内容。Kwen分享的就是私人用的年度复盘11个问题，相比于前几期我们的年度问答，这个会更偏向于个人的目标感行动总结。而 Abbie 分享的则是关于徒步故事的书籍，用行动去感受旅途的快乐。<br /><br /><span class="emoji">🥸</span> 论尽一周<br /><span class="emoji">▫️</span> P人不反感的年度复盘问题<br /><br /><span class="emoji">👀</span> 得闲睇下<br /><span class="emoji">▫️</span> 步知道<br /><br /><span class="emoji">🌟</span> 值得一读<br /><span class="emoji">▫️</span> 早起俱乐部（参加了日后分享感受）<br /><span class="emoji">▫️</span> 坐下来，发发呆<br /><span class="emoji">▫️</span> 切片计划的年度电影榜单<br /><span class="emoji">▫️</span> 推荐一个常看的Newsletter频道<br /><br /><span class="emoji">🍃</span> 有（冇）用 Newsletter，由设计师 Abbie 和艺术编辑 Kwan 发起，每期没有固定的主题，正如生活没有固定的方向。我们相信每一种出乎意料所带来的感悟，总会在不久的将来，在某一个时刻，冇用终将转化为有用，成为生活中的一种养分。<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn4.cdn-telegram.org/file/ZG98YqnHaHWk9ohAFPUl9_GwdToCpeDJhACnb0wq-jGNhWZddzg9vWE_u0IamStHJ3gegSR0rM2GjGr9GKsMIzxKaZBZ5E8TUzTdUacD6xyfOAFy_l3THYirDPWSL7U9Rp2XWf4FLD81DvaKtCux-qq9qJ8qkcyHpdA5HKstABVFrKNWsYVyP3g3RLryxrtAIw8AdhV79MR83rWjrEHzu9EF1_PC02x37UVFgeyKTm6PgkvoveRhQR0cO2oShrbfExmZiC_kgiX0ZoRKM4GuGOocF3cfg4CyCZLXugYMsbunfNEJGjAL7JQuIXklmn6zuHJrv9Q45kYcLQfwHBw9cw.jpg" />
-]]></content:encoded>
-<pubDate>Thu, 25 Jan 2024 07:00:44 GMT</pubDate>
 </item>
 </channel>
 </rss>

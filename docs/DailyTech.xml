@@ -5,17 +5,37 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>🖼 #Blog #APPLE 👓 初创 iOS 程序员的 Vision Pro 使用体验分享 🔗：阅读全文 🗒 Andy Matuschak 曾在 Apple 工作期间参与了最早期的 iOS 开发，现在在...</title>
+<link>https://t.me/NewlearnerChannel/12496</link>
+<guid>https://t.me/NewlearnerChannel/12496</guid>
+<content:encoded><![CDATA[
+
+<p><a href="https://t.me/NewlearnerChannel/12496?q=%23Blog">#Blog</a> <a href="https://t.me/NewlearnerChannel/12496?q=%23APPLE">#APPLE</a><br /><br /><span class="emoji">👓</span> <b>初创 iOS 程序员的 Vision Pro 使用体验分享</b><br /><br /><span class="emoji">🔗</span>：<a href="https://notes.andymatuschak.org/Vision%20Pro" rel="noopener" target="_blank">阅读全文</a><br /><br /><span class="emoji">🗒</span><a href="https://twitter.com/andy_matuschak?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" rel="noopener" target="_blank">&nbsp;Andy Matuschak</a> 曾在 Apple 工作期间参与了最早期的 iOS 开发，现在在全职做一位独立的研究开发人员，你可以在 <a href="https://www.patreon.com/quantumcountry/posts" rel="noopener" target="_blank">Patreon</a> 上面赞助并且解锁他的研究分享<br /><br /><span class="emoji">📝</span>&nbsp;针对不同的主题，他也会在他的<a href="https://andymatuschak.org/" rel="noopener" target="_blank">博客</a>上面分享他所写的笔记。今天想要和大家分享他使用 <a href="https://notes.andymatuschak.org/Vision%20Pro" rel="noopener" target="_blank">Vision Pro 的笔记</a>。这篇笔记还在不断的被更新中：<br /><span class="emoji">🔸</span>&nbsp;硬件方面，它具有与苹果中端笔记本（M2芯片）相当的计算能力，拥有先进的传感器/摄像头阵列和高分辨率显示屏<br /><span class="emoji">🔸</span>&nbsp;软件方面，操作系统 visionOS 基于 “应用程序” 的概念，保持了传统的 WIMP 界面范式，并通过眼动追踪和手势控制实现交互<br /><span class="emoji">🔸</span>&nbsp;尽管硬件包装雄心勃勃，但软件范式相对保守。作者还讨论了 Apple 在输入方法、文本输入、以及与 Meta 和 MagicLeap 公司愿景不同的策略<br /><span class="emoji">🔸</span>&nbsp;此外，他也提出了一些对于更具野心的交互方式的看法和梦想，推荐大家有空去翻阅一下～<br /><br /><span class="emoji">📁</span> 本文首发于 <a href="https://t.me/rollerrolling" rel="noopener" target="_blank">Roller 频道</a><br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn1.cdn-telegram.org/file/XRtLGFrax2X2U7vF5Y2bMSv1QfHV3Ai2xqLYYhj6GUKf_UulqUy5ypLAJkbb8Kb_0O-69yfXEAjEr8ruFyX6nS9N3p4sHEndbnoUgRLUxjkdsz-uQNP0s9o_W3ZaOCwkP3vZvmonyWx2DW_wDTQKk2tvA5A8Nj8lZI_c9t4JPLdso9qt4oPA2i8_E2ttDvXPmnaUoalKJDMPw7SjI75SWA4i0HDIeMnUGosmtcjcXacNAzzTPI7c-ekb-6rzbmsaLCFC6AINjQBepx8EIRBG-9-Flc0XC_uYypHRq1bjuvAgjUykCzc1VGmcInTJ7iMrbUnQyRTI6IXC0x-qwkT1hw.jpg" />
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 04:01:27 GMT</pubDate>
+<pubDate>Thu, 07 Mar 2024 04:01:27 GMT</pubDate>
+</item>
+<item>
+<title>基于 Android 11 的 LineageOS 18.1 即将落幕 由于 Android 11 不再接收安全补丁向后移植，LineageOS 团队决定终止 LineageOS 18.1 (基于 Android 11)。手动向后...</title>
+<link>https://t.me/xhqcankao/8659</link>
+<guid>https://t.me/xhqcankao/8659</guid>
+<content:encoded><![CDATA[
+
+<p><b>基于 Android 11 的 LineageOS 18.1 即将落幕</b><br /><br />由于 Android 11 不再接收安全补丁向后移植，LineageOS 团队决定终止 LineageOS 18.1 (基于 Android 11)。手动向后移植安全补丁可能很困难，甚至有可能在编写新补丁时引入新的漏洞。遗憾的是，一些具有 LineageOS 18.1 版本的设备没有升级到新版本的途径。这是因为 Android 12 要求支持内核 eBPF，而 Linux 内核版本 3.18 及更早版本不支持该功能。<br /><br />—— <a href="https://t.me/MishaalAndroidNews/1727" rel="noopener" target="_blank">米沙尔·拉赫曼</a>、<a href="https://lineageos.org/Sunsetting-LineageOS-18.1/" rel="noopener" target="_blank">LineageOS</a></p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 04:19:15 GMT</pubDate>
+<pubDate>Thu, 07 Mar 2024 04:19:15 GMT</pubDate>
+</item>
+
+<item>
 <title>中国将对瑞士等6国试行免签政策 据央视新闻7日报道，为进一步促进中外人员往来，中国决定扩大免签国家范围，对瑞士、爱尔兰、匈牙利、奥地利、比利时、卢森堡6个...</title>
 <link>https://t.me/xhqcankao/8658</link>
 <guid>https://t.me/xhqcankao/8658</guid>
 <content:encoded><![CDATA[
-
 <p><b>中国将对瑞士等6国试行免签政策</b><br /><br />据央视新闻7日报道，为进一步促进中外人员往来，中国决定扩大免签国家范围，对瑞士、爱尔兰、匈牙利、奥地利、比利时、卢森堡6个国家持普通护照人员试行免签政策。2024年3月14日至11月30日期间，上述国家持普通护照人员去中国经商、旅游观光、探亲访友和过境不超过15天，可免签入境。上述国家不符合免签条件人员仍需在入境前办妥签证。<br /><br />—— <a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=7523304972158019067" rel="noopener" target="_blank">央视新闻</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 07 Mar 2024 03:57:26 GMT</pubDate>
-<pubDate>Thu, 07 Mar 2024 03:57:26 GMT</pubDate>
 </item>
-
 <item>
 <title>波音客机门塞脱落事件三名乘客索赔10亿美元 今年年初1月5日美国阿拉斯加航空公司一架波音737 MAX 9型客机飞行时门塞脱落，导致航班立刻返航紧急降落。三名在舱门...</title>
 <link>https://t.me/xhqcankao/8657</link>
@@ -9230,15 +9250,6 @@ Wed, 31 Jan 2024 21:56:55 GMT
 <p><b>Epic Games 打算在 iOS 上推出其游戏商店和游戏《堡垒之夜》</b><br /><br />1月26日消息，在苹果公司宣布开放其平台以遵守欧盟数字市场法案 (DMA) 后，Epic 计划今年在欧盟推出 iPhone 版 Epic Games Store ，同时还将游戏《堡垒之夜》带回 iOS 平台。Epic 目前还没有太多关于其计划的分享。该公司表示，该商店将在“今年晚些时候”推出，《堡垒之夜》也将通过该商店提供。<br /><br />—— <a href="https://www.theverge.com/2024/1/25/24050829/openai-gpt-4-turbo-lazy-ai-model" rel="noopener" target="_blank">Theverge</a>、<a href="https://twitter.com/FortniteGame/status/1750616130174234859" rel="noopener" target="_blank">Epic</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 25 Jan 2024 22:45:37 GMT</pubDate>
-</item>
-<item>
-<title>苹果向欧盟开放其生态：侧载应用、第三方浏览器引擎、允许云游戏服务上架 App Store 当地时间1月25日，苹果公司宣布随着今年三月份 iOS 17.4 的推出，欧盟 iPhon...</title>
-<link>https://t.me/xhqcankao/7861</link>
-<guid>https://t.me/xhqcankao/7861</guid>
-<content:encoded><![CDATA[
-<p><b>苹果向欧盟开放其生态：侧载应用、第三方浏览器引擎、允许云游戏服务上架 App Store<br /></b><br />当地时间1月25日，苹果公司宣布随着今年三月份 iOS 17.4 的推出，欧盟 iPhone 上将允许侧载应用、使用替代应用商店和第三方浏览器引擎。该公司还将向游戏流媒体服务开放 App Store，并最终允许开发者使用替代的应用内支付选项。苹果做出这些改变是为了遵守欧盟的数字市场法案（DMA），该法案要求大型科技公司遵循一套严格的规则，旨在鼓励移动应用市场和其他领域的竞争。<br /><br />—— <a href="https://www.theverge.com/2024/1/25/24050478/apple-ios-17-4-browser-engines-eu" rel="noopener" target="_blank">Theverge</a>、<a href="https://www.theverge.com/2024/1/25/24050430/apple-app-store-game-streaming" rel="noopener" target="_blank">Theverge</a>、<a href="https://www.theverge.com/2024/1/25/24050200/apple-third-party-app-stores-allowed-iphone-ios-europe-digital-markets-act" rel="noopener" target="_blank">Theverge</a></p>
-]]></content:encoded>
-<pubDate>Thu, 25 Jan 2024 22:03:46 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -19065,3 +19065,10 @@ Existing_entries: 1000
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2024-03-09 09:19:34
+------------------------------------------------------
+Started: 2024-03-09 10:06:05
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [📣 #发现频道 ShellGPT: 用自然语言操作命令行 | 开源CLI软件 https://meta.appinn.net/t/topic/53654](https://t.me/appinnfeed/9889)
+append_entries: 1
+Finish: 2024-03-09 10:06:06

@@ -4,18 +4,16 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>❓ #问题求助 求一个本地文件的导航器，类似speed dial https://meta.appinn.net/t/topic/53761</title>
 <link>https://t.me/appinnfeed/9914</link>
 <guid>https://t.me/appinnfeed/9914</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9914?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />求一个本地文件的导航器，类似speed dial<br /><br /><a href="https://meta.appinn.net/t/topic/53761" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/53761</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/53761">求一个本地文件的导航器，类似speed dial</a></b><br /><p>在 chrome 的 speed dial 快速拔号扩展，可以为网页按照不同的分类创建快速导航  同样的，我希望本地的文档，也能实现这样的导航效果。因为有一些项目文档，分解的比较细，希望也有标签页。  不知道有什么工具，可以直接利用 Mac 桌面实现这样的分类导航的效果，反正就是做出类似一种 hao123的文档导航系统，方便快速移动与组织。</p><img src="https://cdn4.cdn-telegram.org/file/qou7VENTUhaHAbAjv-vfcIprjhdpV9hMthw3STiRs0NCTRITKXtmjrsiE1r06vVS1iksY5t8ZUKRYBW2cxDpL23CxQuJ8EhgnyXL_t9yjFHPuydHoADsCX7QwDAIQXaI_clZDZQpTNNQSoFo7EvNUO4cx7GwJcoWe-nPs1FqMdX2lZRLtMlhhE8eQGhzAIsrV9YgfR57Ozc9EK9Mt8YVfvvqXy5wyFBDuDvs7GSPwsf8DmR4-jZpYgZ4szcyEYRJjcijHk815M-MJ6Z6YtU7pPfZ41tPWfXs7yPXb-WvE5QME4MHuztP2Y2e9XWoEMk6uSQsbQrH7dy3H3kdVroH4Q.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Mon, 11 Mar 2024 15:28:01 GMT</pubDate>
-<pubDate>Mon, 11 Mar 2024 15:28:01 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 关于浏览器插件的问题 https://meta.appinn.net/t/topic/53758</title>
 <link>https://t.me/appinnfeed/9913</link>
@@ -9014,15 +9012,6 @@
 <p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/8864?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />我写了一个小工具，定期归档感兴趣的 Git 仓库<br /><br /><a href="https://meta.appinn.net/t/topic/49189" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/49189</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/49189">我写了一个小工具，定期归档感兴趣的 Git 仓库</a></b><br /><p>REAPER REpository ArchivER（REAPER）是一个用于从任何Git服务器归档 Git 仓库的工具。  近期有较多重要的 Git 仓库因为不可抗力原因不能访问了，事后再去找备份太麻烦，希望找个空闲的 vps 定期给关注的仓库备份，把整个仓库 clone 下来，及早防范。  项目地址   功能  从任何Git服务器归档 Git 仓库 归档用户/组织的仓库（见 配置) 定时任务 多种存储类型（本地存储，S3） Docker 支持  安装 curl -sSfL https://raw.g…</p><img src="https://cdn4.cdn-telegram.org/file/svhhArDroL_YWVUi1iNIFN7Hs0w8shvzKx1TrOpCIKt_sP5FDHfJkWtmU-Q5GDtwoQIowq4y3YuU748g3YuZBcrG7xx8ThqzWYXP6hF4GKlqoBIVcG96gcyaWejJeDkhOAjxx-Crkgc4ogegB-YE9zVUgf-KQwHC92kuYxM9_nrjSTtBdjTknEwn6eMEc3zi7BWEhSMO5Mio4K0So9jdfpYuRvjIrnbHMj8xllSyIyU01ISl_vv4ppjaBXZYrOFunf52JftGSrLnarV6za5p5xVchDfcP2fV-27Q54T1EUty7xMDK4MHsb_1ijpn76nAaYHH34SdVeHsOHkJyLXoOw.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Tue, 14 Nov 2023 06:20:01 GMT</pubDate>
-</item>
-<item>
-<title>🖼 IPIP.NET 旗下的软件 Best Trace 疑似不再维护，目前已无法正常查看 IP 地址 新版本增加了 Token 设置，可在后台获取1年免费服务</title>
-<link>https://t.me/appinnfeed/8863</link>
-<guid>https://t.me/appinnfeed/8863</guid>
-<content:encoded><![CDATA[
-<p><a href="http://ipip.net/" rel="noopener" target="_blank"><s>IPIP.NET</s></a><s> 旗下的软件 Best Trace 疑似不再维护，目前已无法正常查看 IP 地址</s><br /><br />新版本增加了 Token 设置，可在后台获取1年免费服务</p><img src="https://cdn5.cdn-telegram.org/file/eBxfQI2D8Gsh8bhnA2XzuAdY3jCkIFiT1fn_a2pv5kji3uizFMGbSHrQBQM3L5NWq2IDXg9hWUD1RrBLIWnqRL7V20kDOOI7SFsExvgVhx2lGKHzkOcPIyApMiKTF4aUBg5O5qyhCrOKcy6kIxzpxEROORiiP5B2EnqRSyR-Ej7QXxQfkd4RYEkUvLn0_2Whju-9hn4XTlf6l1RUUZ-2AZA4BQ2wXuiv4u1H7yjWqXwPVlikmlEMpivMxy1wC8us4DNTonP22x5ac7b_o4MqY1JxYRZ2_azgoOn7vjdtBsaoK8Siz14iMw7wDabceoakGvMQ2wqMbA5M0sg2ykf1qw.jpg" />
-]]></content:encoded>
-<pubDate>Tue, 14 Nov 2023 04:02:37 GMT</pubDate>
 </item>
 </channel>
 </rss>

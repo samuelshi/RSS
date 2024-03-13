@@ -5,17 +5,26 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>🖼 #macOS #APP #碎碎念 #GitHub情报 🤷🏻‍♂️ Charlie Monroe 系（Downie、Premute 等）软件平替介绍 在正式开始介绍之前，有必要和各位读者分享一下写...</title>
+<link>https://t.me/NewlearnerChannel/12519</link>
+<guid>https://t.me/NewlearnerChannel/12519</guid>
+<content:encoded><![CDATA[
+
+<p><a href="https://t.me/NewlearnerChannel/12519?q=%23macOS">#macOS</a> <a href="https://t.me/NewlearnerChannel/12519?q=%23APP">#APP</a> <a href="https://t.me/NewlearnerChannel/12519?q=%23%E7%A2%8E%E7%A2%8E%E5%BF%B5">#碎碎念</a> <a href="https://t.me/NewlearnerChannel/12519?q=%23GitHub%E6%83%85%E6%8A%A5">#GitHub情报</a><br /><br /><span class="emoji">🤷🏻‍♂️</span> <b>Charlie Monroe 系（Downie、Premute 等）软件平替介绍</b><br /><br />在正式开始介绍之前，有必要和各位读者分享一下写这篇推送的原因。我本人也是 Downie 的长期使用者，对不得不寻找平替感到遗憾<br /><br /><span class="emoji">🍉</span> <b>开始吃瓜</b><br /><br />近期我们看到，Downie 软件弹窗威胁删除个人电脑资料的事情，引起了轩然大波。大家在 <a href="https://www.v2ex.com/t/1022505" rel="noopener" target="_blank">V2EX</a>、<a href="https://www.reddit.com/r/mac/comments/1bbxs3f/dowine4_threates_a_legitimate_user_with_random/" rel="noopener" target="_blank">Reddit</a> 等公共平台曝光并进一步展开了讨论，最后由我们的老朋友正版软件代理商数码荔枝作了 <a href="https://v2ex.com/t/1022882" rel="noopener" target="_blank">总结</a><br /><br />事情从一开始就是一个误会，但开发者在处理的过程中展示给大家的威胁言辞、软件弹窗等等，加剧了用户和开发者之间的不信任感。大家不禁发问：如果真的留存后台该怎么办？因此，寻找平替是一个新的出路<br /><br /><span class="emoji">💻</span> <b>平替软件推荐</b><br /><br /><b>• Downie 平替</b><br /><br /><span class="emoji">1️⃣</span> <a href="https://github.com/yt-dlp/yt-dlp" rel="noopener" target="_blank">yt-dlp</a><br /><br />yt-dlp 是继 you-get 之后大火的开源媒体下载器，它支持包含 YouTube 在内的诸多平台，拥有丰富的下载自定义选项，还可以进行格式转换<br /><br />但作为一个命令行工具，它的安装、使用有一定的门槛，感兴趣的朋友可以自行搜索学习<br /><br /><span class="emoji">2️⃣</span> <a href="https://github.com/iawia002/lux" rel="noopener" target="_blank">Lux</a><br /><br />Lux 同样是一个命令行媒体下载器，有着和 yt-dlp 类似的功能。不同的是，Lux 对国内本土化平台的适配更好一些，相信会带来不错的体验<br /><br />macOS 上的 GUI 媒体下载器，除了 Downie 我还找到了 <a href="https://vdownapp.com/" rel="noopener" target="_blank">VDown</a>。后者显然在很多方面借鉴了 Downie，且想要不限制下载视频，还需要邀请他人下载，建议大家谨慎选择<br /><br /><b>• Premute 平替</b><br /><br />说起 macOS 上的格式转换工具，第一个想到的就是 <a href="https://handbrake.fr/" rel="noopener" target="_blank">HandBrake</a>。这款软件我从 Intel Mac 时代就开始使用，当年还借此给电脑制造压力<br /><br />HandBrake 更像是一个事无巨细的全能软件，在这里你可以随心所欲地设定想要转换的格式和其中的各项参数。从功能性上考虑，这不是平替，而是一次「升级」<br /><br /><span class="emoji">👀</span> <b>碎碎念</b><br /><br />或许玩笑就是个玩笑，又或许所谓的后台其实并不存在，但这些都不重要了。我看到的是一次「信任危机」，是个人 / 小团队闭源产品的不确定性，是 macOS 不强制沙盒运行带来的隐患<br /><br />它同时也告诉我们，自己心安理地享受着付费软件的便捷、macOS 的开放时，永远不要低估安全风险。如果风险不可避免，那就是享受便捷和开放所需的代价<br /><br />Downie 开发者开始行动，想要减轻这件事带来的影响。但从他未经证实恶劣对待正版用户的嘴脸、声称公开道歉其实只是在 X 做了一个 reply 来看，寻找 Downie 平替无疑是有精神洁癖用户的最佳选择。平替找到了，体验会更好吗？我看未必，这就是正版用户最受伤的地方<br /><br />这件事也给了我们一个示例，面对这样的国外开发者，我们如何维权？从 V2EX 到 Reddit，把影响力带到英文圈；沟通购买中间商数码荔枝，请他们向开发者讨要说法（数码荔枝的总结贴真是范本）<br /><br />但我也看到，Reddit 大部分用户都表达了担忧，并愿意通过自身的编程能力对软件进行逆向，以便确保其没有后门；而国内平台的个别用户们开始虚空打靶、占领道德高地，使论坛吵得不可开交，全然不顾自己作为软件用户的立场<br /><br />万事皆有代价，便捷、开放和风险是如此，帮助维权的互联网和助长戾气的互联网亦是如此<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/DTVQ5R7rrx1kPDMEZ-jG2ogMDFmde6kJyeUUQREgtonngbdq0-IvNREFQY48lZEpOTJj8cdQwwJazDLqN_byrwJINVEcXCCfpmQgtiaZ5p6-944vzlQ5zP41t2zjddmzXD2jBXVblWWyjGqbNuvWcJzmUs4OfbkGywpV4Fx-xFlMAT-WvfTFZjK1Qvyr0swaFNhX3ZSrjpor5H6PkmLexkFQ6DpQeSvhNyjBpauZEzn0AAcdDVELHqZ5xqIGVn5Tv_UBD5xlZacytEfDXxGMocYv7_R1O4H-D3SNgfnubvz0e2qIyRngQo5EjcK4zIpEDjoKsO-G1bKrVFEewBaHqA.jpg" />
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 07:01:49 GMT</pubDate>
+<pubDate>Wed, 13 Mar 2024 07:01:49 GMT</pubDate>
+</item>
+
+<item>
 <title>五角大楼取消了授予英特尔25亿美元拨款的计划 知情人士称，五角大楼取消了向英特尔公司提供高达25亿美元芯片补助的计划，将弥补缺口的责任交给了另一个联邦机构...</title>
 <link>https://t.me/xhqcankao/8800</link>
 <guid>https://t.me/xhqcankao/8800</guid>
 <content:encoded><![CDATA[
-
 <p><b>五角大楼取消了授予英特尔25亿美元拨款的计划</b><br /><br />知情人士称，五角大楼取消了向英特尔公司提供高达25亿美元芯片补助的计划，将弥补缺口的责任交给了另一个联邦机构——商务部。知情人士表示，此举可能会限制英特尔预期获得的联邦资金总额，从而引发争议局面。这一变化可能意味着英特尔“芯片法案”资金的更大份额专门用于军事用途，而不是商业用途。目前尚不清楚商务部的资金是否会被纳入英特尔的总补助中，这意味着该公司获得的总体资金少于预期，或者英特尔将获得预期资金而导致其他公司获得更少资金。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-03-12/pentagon-scraps-plan-to-spend-2-5-billion-on-intel-chip-grant" rel="noopener" target="_blank">彭博社</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 13 Mar 2024 06:28:43 GMT</pubDate>
-<pubDate>Wed, 13 Mar 2024 06:28:43 GMT</pubDate>
 </item>
-
 <item>
 <title>斯皮尔伯格确认制作头号玩家续作 导演斯皮尔伯格已确认制作并可能执导“头号玩家”(Ready Player One)续集，根据他的日程安排，制作可能会在 2025 年开始。 克莱...</title>
 <link>https://t.me/xhqcankao/8799</link>
@@ -9242,15 +9251,6 @@ Sat, 10 Feb 2024 00:42:01 GMT
 <p><span class="emoji">💰</span><b> 算一笔账：购买 Apple Vision Pro 并尽快从美国转运回国的成本</b><br /><br /><span class="emoji">📦</span> <b>尺寸及重量</b><br />包装盒重量 4.7 kg<br />包装盒尺寸，至少 38.74cm x 25.4cm x 20.32cm<br /><br /><span class="emoji">💰</span> <b>成本计算<br /><br /></b>如果想最快拿到且尽可能低成本，就不能直运境内，因为清关速度会让你至少延迟一周收到，海关税会直接让你成本陡增。<b><br /></b><br /><span class="emoji">👓</span> 一台 256G 的基础配置 Vision Pro，寄送到非免税区 - $ 3861.66 <br /><br /><span class="emoji">🚚</span> UPS / DHL 保价 + 空运到香港 - $397<br /><br /><span class="emoji">🇭🇰</span> 香港取回到深圳，扔掉包装盒，暂不考虑交通费用<br /><br /><span class="emoji">📧</span> 深圳顺丰保价寄送 - ¥209<br /><br />成本至少 ¥30,836.86 ，其中没考虑交通费、时间成本、银行的实际汇率、货币转换费等，如果近视眼还要配一副隐形眼镜。实际花销可能会达到 3 万 1。 <br /><br /><span class="emoji">😅</span> <b>值吗？</b><br />我作为一个狂热的 Apple 粉丝也劝退了。<br /><br />上述环节中，任何一个环节有闪失，设备就没法用或者丢失了。完全失去了意义。<br /><br />Vision Pro 目前生态刚刚起步，可能也没有啥太实用的 App。而且没有中文输入法，只支持美区 Apple ID 登录。 <br /><br />不想搞了，打算安心等新加坡或者香港上市后，EPP 入吧。</p><img src="https://cdn5.cdn-telegram.org/file/i1s43TbtKt6-kUnOGa8d-5-guqvLEF-nwu4nUbaRmL0p7dKzv2Jrz6y_jOwKHaZ-kEKVpL_8Zlkyl2JYjeq8iHH0ddpJQ2n4ZcqovgzTB-adeClRlxGdTt7I9821H6JQBld7MnwMAH2dp4NzbnjDOqCN4tGHAaL2Vd0CwzsRvsJGmtlNxGWPVMCmebtd5ffvvDVEOd04clg2xd2mXBG6XGCJDgKWoVS1TSW5mgx8FlU3LcR34UOZMRyqp9dBxaEJW_TEZkZ5rcmQTL1hPqkEiVfNRRU0X9UywHG-JmaGwpjF6v_FjHWosxmd5C0GiDZEpftNqfdRdzAb5U3pWsqmPQ.jpg" />
 ]]></content:encoded>
 <pubDate>Sat, 03 Feb 2024 05:05:52 GMT</pubDate>
-</item>
-<item>
-<title>播客主持人 Joe Rogan 与 Spotify 续约 知名播客主持人 Joe Rogan 与 Spotify 续签了协议。新的多年期协议将允许他的节目能够分发到 YouTube、苹果和其他播客平...</title>
-<link>https://t.me/xhqcankao/8009</link>
-<guid>https://t.me/xhqcankao/8009</guid>
-<content:encoded><![CDATA[
-<p><b>播客主持人 Joe Rogan 与 Spotify 续约</b><br /><br />知名播客主持人 Joe Rogan 与 Spotify 续签了协议。新的多年期协议将允许他的节目能够分发到 YouTube、苹果和其他播客平台。该交易估计价值 2.5 亿美元，其中包括预付的最低保底收入，以及基于广告销售的收入分成协议。<br /><br />—— <a href="https://cn.wsj.com/amp/articles/joe-rogan%E4%B8%8Espotify%E7%AD%BE%E8%AE%A2%E4%BB%B7%E5%80%BC%E9%AB%98%E8%BE%BE2-5%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E6%96%B0%E5%90%88%E5%90%8C-b2f5e8bf" rel="noopener" target="_blank">华尔街日报</a></p>
-]]></content:encoded>
-<pubDate>Sat, 03 Feb 2024 03:10:46 GMT</pubDate>
 </item>
 </channel>
 </rss>

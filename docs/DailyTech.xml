@@ -5,14 +5,39 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>Tor 推出新的 WebTunnel 桥接方式模仿 HTTPS 流量以避免审查 在3月12日世界反网络审查日，Tor 项目宣布推出 WebTunnel，一种新型的 Tor 桥接器，旨在帮助严格审...</title>
+<link>https://t.me/xhqcankao/8797</link>
+<guid>https://t.me/xhqcankao/8797</guid>
+<content:encoded><![CDATA[
+
+<p><b>Tor 推出新的 WebTunnel 桥接方式模仿 HTTPS 流量以避免审查</b><br /><br />在3月12日世界反网络审查日，Tor 项目宣布推出 WebTunnel，一种新型的 Tor 桥接器，旨在帮助严格审查地区的用户连接到 Tor 网络，现已在 Tor 浏览器的稳定版本中提供。WebTunnel 是一种抗审查的可附加传输，旨在模仿加密 Web 流量 (HTTPS)。它的工作原理是将有效负载连接包装到类似 WebSocket 的 HTTPS 连接中，在网络观察者看来就像普通的 HTTPS (WebSocket) 连接。因此，它看起来就像是与网页服务器的常规连接，正如用户只是在浏览网页。<br /><br />WebTunnel 可以与同一网络端点上的网站共存，即相同的域、IP 地址和端口。 这种共存允许标准流量反向代理将普通网页流量和 WebTunnel 转发到各自的应用程序服务器。 因此，当有人尝试访问共享网络地址的网站时，他们只会感知该网站地址的内容，而不会注意到 WebTunnel 的存在。<br /><br />—— <a href="https://blog.torproject.org/introducing-webtunnel-evading-censorship-by-hiding-in-plain-sight/" rel="noopener" target="_blank">Tor 博客</a></p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 02:50:38 GMT</pubDate>
+<pubDate>Wed, 13 Mar 2024 02:50:38 GMT</pubDate>
+</item>
+<item>
+<title>↩️ 日本首枚私人火箭“Kairos”发射失败 日本航天商业公司 Space One 的第一枚小型固体燃料火箭“Kairos”于当地时间11点01分12秒从和歌山的火箭发射场“纪伊...</title>
+<link>https://t.me/xhqcankao/8796</link>
+<guid>https://t.me/xhqcankao/8796</guid>
+<content:encoded><![CDATA[
+
+<div class="rsshub-quote"><blockquote>
+                                    <p><a href="https://t.me/xhqcankao/8761"><b>风向旗参考快讯</b>:</a></p>
+                                    
+                                    <p>日本民间火箭发射改在13日上午  日本航天企业“SPACE ONE”11日宣布，13日上午11点零1分将从日本首个民用火箭发射场“Space Port纪伊”发射小型火箭。发射的将是全长18米的小型火箭“KAIROS”1号机。原计划9日发射，但发现在为确保安全事先设定的警戒海域内有船舶，因此决定延期。这是日本首次从民间拥有的发射场发射火箭。此次搭载可部分替代政府情报收集卫星功能的小型卫星。如果能成功投入轨道，也将是民间首次。该公司力争推出“太空派送”业务，能以较以往更低的成本和更高的频度把小型卫星送上太空，…</p>
+                                </blockquote></div><p><b>日本首枚私人火箭“Kairos”发射失败</b><br /><br />日本航天商业公司 Space One 的第一枚小型固体燃料火箭“Kairos”于当地时间11点01分12秒从和歌山的火箭发射场“纪伊太空港”发射升空，这是日本第一枚私人企业发射的火箭。火箭升空后立即在半空爆炸坠毁，发射失败。<br /><br />—— <a href="https://www.sankei.com/article/20240313-465EQK6M35JUTAG7RRMCOSOQOA/" rel="noopener" target="_blank">产经新闻</a>、<a href="https://www.yomiuri.co.jp/science/20240313-OYT1T50056/" rel="noopener" target="_blank">读卖新闻</a></p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 02:16:51 GMT</pubDate>
+<pubDate>Wed, 13 Mar 2024 02:16:51 GMT</pubDate>
+</item>
+
+<item>
 <title>中兴通讯子品牌努比亚宣布即将在日本推出 中兴通讯定位高端品牌的“努比亚”系列，目前已宣布即将在日本正式推出。这是中兴官方在社交平台 X 上发布的，努比亚日...</title>
 <link>https://t.me/xhqcankao/8795</link>
 <guid>https://t.me/xhqcankao/8795</guid>
 <content:encoded><![CDATA[
-
 <p><b>中兴通讯子品牌努比亚宣布即将在日本推出</b><br /><br />中兴通讯定位高端品牌的“努比亚”系列，目前已宣布即将在日本正式推出。这是中兴官方在社交平台 X 上发布的，努比亚日本官方 X 账号也已上线。至于将在日本推出的努比亚智能手机，目前尚未透露。目前在全球发布的最新型号包括配备骁龙 8 Gen 3 和 50MP + 64MP 后置摄像头的“努比亚 Z60 Ultra”。<br /><br />—— <a href="https://twitter.com/nubiajapan/status/1766010969912684766" rel="noopener" target="_blank">努比亚日本</a>、<a href="https://helentech.jp/news-40891/" rel="noopener" target="_blank">Helentech</a></p>
 ]]></content:encoded>
-<pubDate>Wed, 13 Mar 2024 02:03:12 GMT</pubDate>
 <pubDate>Wed, 13 Mar 2024 02:03:12 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +45,10 @@
 <link>https://t.me/xhqcankao/8794</link>
 <guid>https://t.me/xhqcankao/8794</guid>
 <content:encoded><![CDATA[
-
 <p><b>苹果目前正在巴西组装6.1英寸 iPhone 15</b><br /><br />虽然中国的组装厂仍负责苹果公司大部分设备的制造，但该公司在世界各地确实拥有一些组装工厂。位于巴西圣保罗的富士康巴西公司就是其中之一。苹果公司现在正在那里组装6.1 英寸的 iPhone 15。苹果在巴西的在线商店的信息透露出了该变化，在检查 iPhone 15 结帐网页的 URL 时，客户会注意到以“BR/A”结尾的零件编号，该零件编号用于识别在巴西本地组装的苹果产品。如果产品是进口到巴西销售的，产品标识会是“BE/A”或“BZ/A”。苹果在巴西组装的机型仅限于6.1英寸 iPhone 15，苹果 iPhone 15 Plus 和两款 Pro 机型仍然从中国进口。<br /><br />—— <a href="https://9to5mac.com/2024/03/12/apple-assembling-iphone-15-brazil/" rel="noopener" target="_blank">9to5mac</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 13 Mar 2024 01:23:15 GMT</pubDate>
-<pubDate>Wed, 13 Mar 2024 01:23:15 GMT</pubDate>
 </item>
-
 <item>
 <title>2024年3月13日 🌍资讯快读 1、2024年研考国家线发布 https://www.jiemian.com/article/10906173.html 2、雷军：小米SU7正式发布定档3月28日 https://www.jiemi...</title>
 <link>https://t.me/jike_collection/9643</link>
@@ -9248,24 +9270,6 @@ Sat, 10 Feb 2024 00:42:01 GMT
 <p><b>三星智能电视上的谷歌助理即将关闭</b><br /><br />2月2日消息，在“三星电视上的谷歌助理”支持页面，三星表示，由于谷歌政策发生变化，自2024年3月1日起，三星电视将不再提供谷歌助理。该变化影响所有谷歌助理兼容设备，还包括新款或即将推出的电视。不过，用户仍然可以使用三星自家的 Bixby 和 Alexa 语音助手服务。<br /><br />—— <a href="https://www.samsungcommunity.com/post/google-assistant-will-be-removed-from-samsung-smart-tvs/" rel="noopener" target="_blank">三星论坛</a>、<a href="https://www.samsung.com/us/support/answer/ANS00087603/?nrtv_cid=3c5f55ded9ce236a6877bb08237880bf0f8da4b5da42608acbebb40fc010f423&amp;amp;utm_source=androidpolice&amp;amp;cid=opmc-ecomm-nrtiv-pc-042720-142005-androidpolice-20501328&amp;amp;utm_medium=narrativ&amp;amp;utm_campaign=20501328&amp;amp;utm_content=pc&amp;amp;nrtv_as_src=1&amp;amp;btn_ref=srctok-a5217cffe0787cc2" rel="noopener" target="_blank">三星支持</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 02 Feb 2024 14:13:57 GMT</pubDate>
-</item>
-<item>
-<title>🖼 #News 🌃 自留地晚报【2.2】 🧧 新年将至，自留地提前给大家拜一个早年，希望在新的一年里，每一位读者朋友都能够平安顺遂。以下是放假公告： 因新年假...</title>
-<link>https://t.me/NewlearnerChannel/12408</link>
-<guid>https://t.me/NewlearnerChannel/12408</guid>
-<content:encoded><![CDATA[
-<p><a href="https://t.me/NewlearnerChannel/12408?q=%23News">#News</a><br /><br /><span class="emoji">🌃</span> 自留地晚报【2.2】<br /><br /><span class="emoji">🧧</span> 新年将至，自留地提前给大家拜一个早年，希望在新的一年里，每一位读者朋友都能够平安顺遂。以下是放假公告：<br /><br /><b>因新年假期，Newlearnerの自留地自明日起停止正常运营，转为不定期更新。欢迎各位朋友于新年假期前往关联群组一起聊天，也不要忘记参与我们策划的新年活动</b> <span class="emoji">😘</span><br /><br /><span class="emoji">1️⃣</span> <a href="https://www.apple.com/newsroom/2024/02/apple-reports-first-quarter-results/" rel="noopener" target="_blank">苹果</a> 发布 2023Q4 财报，营收 1196 亿美元增长 2%<br /><br /><span class="emoji">2️⃣</span> <a href="https://9to5mac.com/2024/02/01/tim-cook-masimo-apple-watch-settlement/" rel="noopener" target="_blank">库克</a> 表示苹果不会妥协使用 Masimo 血氧检测技术<br /><br /><span class="emoji">3️⃣</span> <a href="https://wpt.fyi/interop-2024" rel="noopener" target="_blank">微软</a> 与苹果、谷歌、Mozilla 联合发布 Interop 2024 以提高浏览器兼容性<br /><br /><span class="emoji">4️⃣</span> <a href="https://www.theverge.com/2024/2/1/24058088/meta-quest-3-spatial-video-vision-pro" rel="noopener" target="_blank">Meta</a> Quest 2/3 / Pro VR 更新后支持播放苹果 Vision Pro 空间视频<br /><br /><span class="emoji">5️⃣</span> <a href="https://www.macrumors.com/2024/02/01/new-colors-heading-for-apple-spring-refresh/" rel="noopener" target="_blank">MacRumors</a> 泄露苹果 2024 年春季配件配色方案<br /><br /><span class="emoji">6️⃣</span> <a href="https://www.notebookcheck.net/Rumor-Sony-developing-PlayStation-gaming-handheld-with-AMD-chip-for-PS4-and-PS5-games.799432.0.html" rel="noopener" target="_blank">索尼</a> 正在开发新掌机，采用 AMD 定制 APU，兼容 PS 4/5 游戏<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn1.cdn-telegram.org/file/QQ0hP017rvynuHY67-Qdjn5nSADff6dtfr4BVjvpVqTrF6U5lJILOi-3IBZJPjoWDr3GV-AmzZFn7Sx60fcXMZPAIkWZhfPKB7Ot6uxGUg8egLRUDEKjXHn8hLhHChw_1vjWxx16g34XWiCGlS5XsBQgWYxb8yqdnr-PXxLIGWXCa4LrGT65plHHc4f-Kb0yepF5zaoHwK3TzDledJ1bPyGwVDr5M7N3PvdvMJQMgekS4Zldmd5Qjq0c2eeJWO34ow7TCujnlsU1fdB_6-U4NsvFDuJo7bhevgxNFS_HPxC-s0j-e7p_l5Aj8fJaPBaeiVV7uUaM1fHUV8_rqn5YbQ.jpg" />
-]]></content:encoded>
-<pubDate>Fri, 02 Feb 2024 13:31:17 GMT</pubDate>
-</item>
-<item>
-<title>Disney+ 就其新的密码共享打击措施向客户发出警告 当地时间2月2日早上，迪士尼在给 Disney+ 订阅者的一封电子邮件中警告用户，“我们正在增加对家庭之外共享帐户...</title>
-<link>https://t.me/xhqcankao/8003</link>
-<guid>https://t.me/xhqcankao/8003</guid>
-<content:encoded><![CDATA[
-<p><b>Disney+ 就其新的密码共享打击措施向客户发出警告</b><br /><br />当地时间2月2日早上，迪士尼在给 Disney+ 订阅者的一封电子邮件中警告用户，“我们正在增加对家庭之外共享帐户的限制，并解释我们如何评估您对这些限制的遵守情况。”更新后的用户协议还详细说明了如何监控您的帐户，以了解家庭以外的其他人是否正在使用该帐户。<br /><br />—— <a href="https://cordcuttersnews.com/disney-warns-customers-about-its-new-password-sharing-crackdown/" rel="noopener" target="_blank">Cord Cutters News</a></p>
-]]></content:encoded>
-<pubDate>Fri, 02 Feb 2024 13:15:19 GMT</pubDate>
 </item>
 </channel>
 </rss>

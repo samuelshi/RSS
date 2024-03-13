@@ -4,6 +4,17 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>❓ #问题求助 请教个 js 鼠标弹起事件问题 https://meta.appinn.net/t/topic/53838</title>
+<link>https://t.me/appinnfeed/9929</link>
+<guid>https://t.me/appinnfeed/9929</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9929?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />请教个 js 鼠标弹起事件问题<br /><br /><a href="https://meta.appinn.net/t/topic/53838" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/53838</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/53838">请教个 js 鼠标弹起事件问题</a></b><br /><p>这个 google 图片搜索页面，监听的鼠标弹起事件，在图片块上所获取的元素是 IMG。我尝试用 event.target.closest(‘a’) 来获取图片指向的超链接 (不是图片源地址)，但一直无法获取。  问了几个 GPT，都是遍历父 A 标签，但仍旧是无法获取。  而看右键菜单，这个图片是有超链接的。  请问如何正确地获取链接？     https://www.google.com/search?num=50&amp;newwindow=1&amp;safe=off&amp;hl=zh-CN&amp;q=Claude&amp;tbm…</p><img src="https://cdn4.cdn-telegram.org/file/mOsBo2i_NPTE7Q5NewoZur2YLk3x3LdKty5yAPOT2xQXkkup912bbZm5ScM14ysspfVSs25UNEpl9Z1TIWOye0KOWX6Dyu2iReudnVLcMnbmbdmbtayh1az4CITRMX9fSSx0ypodcQCsIngBExX4wWuIOEf-UH5PvdWajNBmvwPk5zY1zED6oRw3nha3XpSehcA19jTa5a96ECE4n5ATAwS_gBDmwjGW1mguJquUKTWEyItLMHSlx26agkIyirzAIXgoT2rjQsCTZdReeuMEk7jMD_7Agd7cS_BuWd0JEgfr4y_hywdkuLea-8hDoNs_geqyRJPP2H81eeDzCx9BLA.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 11:48:01 GMT</pubDate>
+<pubDate>Wed, 13 Mar 2024 11:48:01 GMT</pubDate>
+</item>
 
 <item>
 <title>❓ #问题求助 请问有无 iOS 平台上的OKR(?)产品推荐 https://meta.appinn.net/t/topic/53837</title>

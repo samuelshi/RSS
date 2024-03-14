@@ -19847,3 +19847,10 @@ Existing_entries: 1000
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2024-03-14 12:01:41
+------------------------------------------------------
+Started: 2024-03-14 13:01:21
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [https://twitter.com/Xc1Ym/status/1767852403108483568](https://t.me/appinnfeed/9933)
+append_entries: 1
+Finish: 2024-03-14 13:01:22

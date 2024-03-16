@@ -20215,3 +20215,10 @@ Existing_entries: 1000
 Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2024-03-16 22:01:16
+------------------------------------------------------
+Started: 2024-03-16 23:01:19
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Append: [❓ #问题求助 论坛自动抓出来的GitHub图像中文不对劲，能不能改改 https://meta.appinn.net/t/topic/53928](https://t.me/appinnfeed/9953)
+append_entries: 1
+Finish: 2024-03-16 23:01:20

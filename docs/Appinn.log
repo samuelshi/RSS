@@ -20473,3 +20473,10 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
 Feed error: 404
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-03-18 15:01:18
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/appinnfeed
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Appinn

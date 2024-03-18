@@ -34504,3 +34504,16 @@ Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
 Feed error: 404
 append_entries: 0
 error when rendering xml, skip docs/DailyTech
+------------------------------------------------------
+Started: 2024-03-18 17:01:19
+Existing_entries: 1000
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/NewlearnerChannel
+Feed error: 404
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/jike_collection
+Feed error: 404
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/xhqcankao
+Feed error: 404
+Fetching from https://rss-hub-red-two.vercel.app/telegram/channel/AppleNuts
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/DailyTech

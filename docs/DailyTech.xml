@@ -5,14 +5,24 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>🖼 #Python潮流周刊 🐬🐬🐬 第 42 期 🐬🐬🐬 提醒：本期赠书《流畅的Python》6本，请看全文 🦄文章&amp;教程 ① 为什么我们公司还在用 Python 开发...</title>
+<link>https://t.me/NewlearnerChannel/12546</link>
+<guid>https://t.me/NewlearnerChannel/12546</guid>
+<content:encoded><![CDATA[
+
+<p><a href="https://t.me/NewlearnerChannel/12546?q=%23Python%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A">#Python潮流周刊</a> <br /><br /><span class="emoji">🐬</span><span class="emoji">🐬</span><span class="emoji">🐬</span>&nbsp; <a href="https://pythoncat.top/posts/2024-03-16-weekly" rel="noopener" target="_blank">第 42 期</a>&nbsp; <span class="emoji">🐬</span><span class="emoji">🐬</span><span class="emoji">🐬</span><br /><br />提醒：本期赠书《流畅的Python》6本，请看全文<br /><br /><span class="emoji">🦄</span>文章&amp;教程 <br /><br />① 为什么我们公司还在用 Python 开发项目?<br />② Python 字符串应该用双引号还是单引号？<br />③ 介绍 Python 上下文管理器及其语法糖<br />④ Python deque 使用教程<br />⑤ Python 的泛型函数和泛型类<br />⑥ Python Gevent 实践：常见的陷阱<br />⑦ Python pickles 的安全问题<br />⑧ 构建开源去中心化的电子书搜索引擎<br />⑨ Python import 跟 Java import 有什么区别？<br />⑩ PDM 的内部实现(1)<br />⑪ Python 中有指针吗？<br />⑫ 当 Python 无法线程化时：深入了解 GIL 的影响<br /><br /><span class="emoji">🐿️</span>项目&amp;资源 <br /><br />① flet：用 Python 开发实时的 Web、移动端和桌面程序<br />② ss-python：Python 项目模板，涵盖整个开发生命周期<br />③ dukpy：用于 Python 简化版 JavaScript 解释器<br />④ PyKidos：一个 Python 编程练习网站<br />⑤ hatchet：分布式的容错的任务队列<br />⑥ full-stack-fastapi-template：全栈的现代 Web 项目模板<br />⑦ bython：带花括号的 Python<br />⑧ treq：构建在 Twisted 上的 HTTP 请求库<br />⑨ JavSP：汇总多站点数据的视频元数据刮削器<br />⑩ botasaurus：强大的网络爬虫框架<br />⑪ pywebview：用 JavaScript、HTML 和 CSS 构建 GUI<br />⑫ Paper-Piano：在白纸上弹钢琴<br /><br /><span class="emoji">👀</span><a href="https://pythoncat.top/posts/2024-03-16-weekly" rel="noopener" target="_blank">阅读全文</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="emoji">🤝</span><a href="https://github.com/chinesehuazhou/python-weekly" rel="noopener" target="_blank">欢迎投稿</a><br /><br /><span class="emoji">🐱</span>频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/Jo4FmZBSIhU8UKxTp07JuQ3bFGxMMCQscUZo-HFD4bpZNS3QEFcsYBw9VhMO8TzCHT2_8XkLA1AwikLR9YdfrvaTf2q4SMbaOkErDq91UbFhIqm7AVbuQfR-QU6DYHgnjv3OSylSpn1_Q52eRabKpt0miVMWjaDdAJYHrGRogIoTiGI4GOhNcMMszFcn9qlvnN3vdFoh8We6Xu9JMXe4VfUc7CKA_BtZisWzt0WyjWMXNPOut_IvSR-0dwfAKVN2RJph7EVjzHtW3XLzVeMnreTVUy3iLJr4UlTChcMVgh5H34UT1UvXzW8wuyu5VCkwFXcAgX-p_jsWNApZOZyTMQ.jpg" />
+]]></content:encoded>
+<pubDate>Mon, 18 Mar 2024 10:01:52 GMT</pubDate>
+<pubDate>Mon, 18 Mar 2024 10:01:52 GMT</pubDate>
+</item>
+
+<item>
 <title>🖼 #GitHub情报 #iOS 老司机 iOS 周报 2024-03-18 这周份的 iOS Markdown 周报，适合爱好者和 iOS 开发人员，每周为大家带来最新的 iOS 新闻资讯，开发信息 �...</title>
 <link>https://t.me/NewlearnerChannel/12545</link>
 <guid>https://t.me/NewlearnerChannel/12545</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://t.me/NewlearnerChannel/12545?q=%23GitHub%E6%83%85%E6%8A%A5">#GitHub情报</a> <a href="https://t.me/NewlearnerChannel/12545?q=%23iOS">#iOS</a> <br /><br /><a href="https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23281" rel="noopener" target="_blank">老司机 iOS 周报 2024-03-18</a><br /><br />这周份的 iOS Markdown 周报，适合爱好者和 iOS 开发人员，每周为大家带来最新的 iOS 新闻资讯，开发信息<br /><br /><span class="emoji">📘</span> 本期简介：<br /><br /><span class="emoji">🐕</span> <a href="https://fatbobman.com/zh/posts/swift-predicate-usage-composition-and-considerations/" rel="noopener" target="_blank">Swift Predicate: 用法、构成及注意事项</a><br /><span class="emoji">🐎</span> <a href="https://www.avanderlee.com/workflow/third-party-libraries-acknowledgments-swift-packages/" rel="noopener" target="_blank">Third-party libraries acknowledgments using a Settings bundle</a><br /><span class="emoji">🐕</span> <a href="https://www.lunarskydiving.com/blog/volume-limitations/" rel="noopener" target="_blank">What you should know about visionOS volumes before using them in an app</a><br /><span class="emoji">🐕</span> <a href="https://www.createwithswift.com/debug-visionos-using-xcode-simulator-visualizations/" rel="noopener" target="_blank">Debug for visionOS using Xcode simulator visualizations</a><br /><span class="emoji">🐢</span> <a href="https://bryce.co/xcode-plugin-loader/" rel="noopener" target="_blank">Modding Plugins back into Xcode</a><br /><span class="emoji">🐎</span> <a href="https://www.lunarskydiving.com/blog/volume-window-zoom/" rel="noopener" target="_blank">If you ’ ve created a visionOS app with a volume, you probably did it wrong</a><br /><span class="emoji">🐎</span> <a href="https://buttondown.email/varrall/archive/vision-pro-connectivity/" rel="noopener" target="_blank">Vision Pro Connectivity</a><br /><span class="emoji">🐎</span> <a href="https://blog.overdesigned.net/posts/2024-02-29-visionos-window-basics/" rel="noopener" target="_blank">Shattered Glass: Customizing Windows in visionOS</a><br /><br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/H5yrXp_1OA3XNOr4HmhlRtdpoiCWA4k6VZY_73o0r816W6OV2ZL4d3KjBbm28aMDUOJP8F9uvFfgUqquf7kyKtk8yr4EHDtcivQCpFRa-asqXMkzyKMZrr1_TDl_vmfoWLZPZuSQ76bRRuxRZuHG_Uwwm_APFTz3_pqLocNbFX94n5cdHsCyUuzPKLIid98Q-bp7Gv1NMswuZPQaeaDE4wqv1Du--ymekaAZpmVAMUJwvEh9qJTWZb0j_5Ro710xsVxoPu_lMYeRFkwyDBjvOWkbUAY34DVBa1l71dIBe6dqpji7Ko9OM15zb6LcoFagcxtn5KFUqKEmayduheHokA.jpg" />
 ]]></content:encoded>
-<pubDate>Mon, 18 Mar 2024 07:01:55 GMT</pubDate>
 <pubDate>Mon, 18 Mar 2024 07:01:55 GMT</pubDate>
 </item>
 <item>
@@ -20,10 +30,8 @@
 <link>https://t.me/xhqcankao/8929</link>
 <guid>https://t.me/xhqcankao/8929</guid>
 <content:encoded><![CDATA[
-
 <p><b>纳斯达克表示正在调查连接问题</b><br /><br />纳斯达克股票市场表示正在调查其连接问题，但没有提供交易是否受到影响的细节。纳斯达克在其网站上发布的一份声明中称：“我们目前正在调查一个与匹配引擎相关的问题，并将尽快提供进一步的信息。”<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-03-18/nasdaq-says-it-is-investigating-issues-with-connectivity" rel="noopener" target="_blank">彭博社</a></p>
 ]]></content:encoded>
-<pubDate>Mon, 18 Mar 2024 10:01:05 GMT</pubDate>
 <pubDate>Mon, 18 Mar 2024 10:01:05 GMT</pubDate>
 </item>
 <item>
@@ -31,10 +39,8 @@
 <link>https://t.me/xhqcankao/8928</link>
 <guid>https://t.me/xhqcankao/8928</guid>
 <content:encoded><![CDATA[
-
 <p><b>最大太阳能公司隆基因供过于求</b>而<b>计划裁员数千人</b><br /><br />据知情人士透露，全球最大的太阳能制造商中国隆基绿科能源有限公司正在裁员近三分之一，以试图在产能过剩和激烈竞争的行业中削减成本。 几位知情人士（包括高级管理层告知的一些人士）称，隆基计划裁员 30%，去年高峰期员工总数约为 8 万人。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-03-18/world-s-top-solar-firm-longi-plans-thousands-of-job-cuts-on-glut" rel="noopener" target="_blank">彭博社</a></p>
 ]]></content:encoded>
-<pubDate>Mon, 18 Mar 2024 09:48:05 GMT</pubDate>
 <pubDate>Mon, 18 Mar 2024 09:48:05 GMT</pubDate>
 </item>
 <item>
@@ -42,10 +48,8 @@
 <link>https://t.me/xhqcankao/8927</link>
 <guid>https://t.me/xhqcankao/8927</guid>
 <content:encoded><![CDATA[
-
 <p><b>Epic 游戏商城将于6月停止支持 Win7/8 和 32 位 Win10 系统</b><br /><br />Epic 游戏商城3月15日发布公告宣布，从2024年6月起，Epic Games Launcher 将不再支持 Windows 7、Windows 8 以及 32 位版本的 Windows 10 系统，这意味着在这些系统上运行的 Epic 商城将无法再获得任何更新。2024年6月之后，玩家仍然可以在上述系统上使用 Epic Games Launcher，只是将不会获得官方支持。<br /><br />—— <a href="https://store.epicgames.com/en-US/news/epic-games-launcher-ending-windows-7-8-and-10-32-bit-support-in-june-2024" rel="noopener" target="_blank">Epic 公告</a></p>
 ]]></content:encoded>
-<pubDate>Mon, 18 Mar 2024 09:18:12 GMT</pubDate>
 <pubDate>Mon, 18 Mar 2024 09:18:12 GMT</pubDate>
 </item>
 <item>
@@ -53,10 +57,8 @@
 <link>https://t.me/xhqcankao/8926</link>
 <guid>https://t.me/xhqcankao/8926</guid>
 <content:encoded><![CDATA[
-
 <p><b>高通宣布推出具有设备端 AI 功能的骁龙 8s Gen 3</b><br /><br />高通公司今天 (18日) 发布了骁龙 8s Gen 3 智能手机芯片。骁龙 8s Gen 3 采用四纳米工艺制造，核心配置为 1+4+3。有一个主频为 3.0 GHz 的基于 ARM Cortex X4 技术的主处理器核心、四个性能核心 (2.8 GHz) 和三个效率核心 (2.0 GHz)。支持设备端的生成式人工智能，例如 Gemini Nano。骁龙 8S Gen 3 使用上一代调制解调器 X70 5G，其中包括 Wi-Fi 7 支持。该芯片还支持硬件加速光线追踪等。<br /><br />—— <a href="https://9to5google.com/2024/03/17/snapdragon-8s-gen-3/" rel="noopener" target="_blank">9to5google</a></p><img src="https://cdn5.cdn-telegram.org/file/WFT2xqlGEM_Tgt1CtZIlXfgHPmC8RXTauL5lXXuAtl7V4ORyB3aOjQlH6VaA3qmpKBR8V3J2Rwh-ofxwRflV8N-b90J3iW1TmHdroQ6yvLDWT6oRVaP-nGwZcwLkkmSz5U9maa2ebdz5XJbWUKm_kZeoyhSL8emqBCj9sZDfBBXZLWtRzXks6-Vx7F1VwQAY4EiowrtVLRSR0cP1S5RLuzDceGni2szQYXV07GEPkCg6_HEcySgmc3Q1t0KFdybbSUP3vcSJKXFR-7wWBhP-i0gBdyYVFUTwJSUsNRPz565wHOm55IaDwdLVH8Spfq19gj44NmktOPYB8WqnVTpchA.jpg" />
 ]]></content:encoded>
-<pubDate>Mon, 18 Mar 2024 06:50:04 GMT</pubDate>
 <pubDate>Mon, 18 Mar 2024 06:50:04 GMT</pubDate>
 </item>
 <item>
@@ -64,10 +66,8 @@
 <link>https://t.me/xhqcankao/8925</link>
 <guid>https://t.me/xhqcankao/8925</guid>
 <content:encoded><![CDATA[
-
 <p><b>由于未售出库存堆积，索尼暂停 PSVR2 生产</b><br /><br />据知情人士透露，索尼集团公司已暂停其 PSVR2 头显的生产，直到清除积压的未售出设备。知情人士称，自推出以来，售价 550 美元的 PSVR2 的销量逐渐放缓，并且该设备的库存正在增加。 知情人士称，去年 2 月推出的这款产品，索尼已生产了超过 200 万台。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-03-18/sony-hits-pause-on-psvr2-production-as-unsold-inventory-piles-up" rel="noopener" target="_blank">彭博社</a></p>
 ]]></content:encoded>
-<pubDate>Mon, 18 Mar 2024 06:33:51 GMT</pubDate>
 <pubDate>Mon, 18 Mar 2024 06:33:51 GMT</pubDate>
 </item>
 <item>
@@ -75,10 +75,8 @@
 <link>https://t.me/xhqcankao/8924</link>
 <guid>https://t.me/xhqcankao/8924</guid>
 <content:encoded><![CDATA[
-
 <p><b>苹果正在洽谈让谷歌 Gemini 为 iPhone 提供支持</b><br /><br />据知情人士透露，苹果公司正在就将谷歌的 Gemini 人工智能引擎内置到 iPhone 中进行谈判，这为一项震撼人工智能行业的重磅协议奠定了基础。知情人士表示，两家公司正在积极谈判，以允许苹果公司授权 Gemini（谷歌的生成式人工智能模型）为今年 iPhone 软件中的一些新功能提供支持。知情人士称，苹果最近还与 OpenAI 进行了讨论，并考虑使用其模型。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-03-18/apple-in-talks-to-license-google-gemini-for-iphone-ios-18-generative-ai-tools" rel="noopener" target="_blank">彭博社</a></p>
 ]]></content:encoded>
-<pubDate>Mon, 18 Mar 2024 05:58:55 GMT</pubDate>
 <pubDate>Mon, 18 Mar 2024 05:58:55 GMT</pubDate>
 </item>
 <item>
@@ -86,13 +84,10 @@
 <link>https://t.me/xhqcankao/8923</link>
 <guid>https://t.me/xhqcankao/8923</guid>
 <content:encoded><![CDATA[
-
 <p><b>B 站发布 2024 年激励计划</b><br /><br />哔哩哔哩发布2024年视频创作激励计划，计划明确了激励金的扶持对象为暂无变现能力的 UP 主，为其早期创作和成长提供帮助，具体是指近半年月均平台收入不足5000元的个人UP主。视频基础激励将设置月收入上限，每月上限为2000元。此外，B 站每月会在商业化尚不成熟的 UP 主中，定向邀约部分 UP 主参与多种激励活动。2023 年，超过 300 万 UP 主通过各种变现途径在 B 站获得收入，同比增长 30%。<br /><br />—— <a href="https://www.bilibili.com/read/mobile?id=33268874" rel="noopener" target="_blank">B站</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 18 Mar 2024 05:30:21 GMT</pubDate>
-<pubDate>Mon, 18 Mar 2024 05:30:21 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 #潮流周刊 #Newsletter 🩴 潮流周刊（第168期） - 想去现场 🍭技术相关 1. Mac 终极配置教程 2. 如何写计算机领域的论文 3. Hugging Face 上也出了 4 ...</title>
 <link>https://t.me/NewlearnerChannel/12544</link>
@@ -9280,82 +9275,6 @@
 <p><b>高塔半导体拟在印度投资80亿美元建芯片厂</b><br /><br />以色列高塔半导体公司已向印度政府提交了一份提案，计划在印度建造一座价值80亿美元的芯片制造厂。高塔半导体正在寻求政府奖励措施，希望在印度生产65纳米和40纳米芯片，这些芯片可能用于汽车和可穿戴电子产品等多个领域。<br /><br />——  <a href="https://indianexpress.com/article/business/israeli-chipmaker-tower-closes-in-on-8-billion-fabrication-plant-in-india-9155159/#google_vignette" rel="noopener" target="_blank">印度快报</a></p>
 ]]></content:encoded>
 <pubDate>Sun, 11 Feb 2024 11:15:24 GMT</pubDate>
-</item>
-<item>
-<title>沃尔玛、达美航空和星巴克正在使用人工智能来监控员工消息 据专门分析员工消息的人工智能公司 Aware 称，包括沃尔玛、达美航空、T-Mobile、雪佛龙和星巴克以及欧...</title>
-<link>https://t.me/xhqcankao/8141</link>
-<guid>https://t.me/xhqcankao/8141</guid>
-<content:encoded><![CDATA[
-<p><b>沃尔玛、达美航空和星巴克正在使用人工智能来监控员工消息</b><br /><br />据专门分析员工消息的人工智能公司 Aware 称，包括沃尔玛、达美航空、T-Mobile、雪佛龙和星巴克以及欧洲品牌如雀巢和阿斯利康等正在使用该公司的技术，以监控他们基层员工在 Slack、微软 Teams、Zoom 和其他流行应用上互相交流的消息。该公司首席执行官杰夫·舒曼称，人工智能帮助这些公司“了解其沟通中的风险”，实时了解员工情绪，而不是依赖每年或每半年的调查。舒曼表示，人工智能还可以识别欺凌、骚扰、歧视、违规、色情、裸体和其他行为。Aware 公司表示，其数据存储库包含代表超过300万名员工的约200亿次个人互动的消息。<br /><br />—— <a href="https://www.cnbc.com/2024/02/09/ai-might-be-reading-your-slack-teams-messages-using-tech-from-aware.html" rel="noopener" target="_blank">CNBC</a></p>
-]]></content:encoded>
-<pubDate>Sun, 11 Feb 2024 02:06:45 GMT</pubDate>
-</item>
-<item>
-<title>2024年2月11日 🌍资讯快读 1、中国女篮获巴黎奥运会参赛资格 https://www.jiemian.com/article/10798389.html 2、粤港澳大湾区开出龙年首趟中欧班列 https://w...</title>
-<link>https://t.me/jike_collection/9534</link>
-<guid>https://t.me/jike_collection/9534</guid>
-<content:encoded><![CDATA[
-<p>2024年2月11日<br /><span class="emoji">🌍</span>资讯快读<br />1、中国女篮获巴黎奥运会参赛资格<br /><a href="https://www.jiemian.com/article/10798389.html" rel="noopener" target="_blank">https://www.jiemian.com/article/10798389.html</a><br />2、粤港澳大湾区开出龙年首趟中欧班列<br /><a href="https://www.jiemian.com/article/10798281.html" rel="noopener" target="_blank">https://www.jiemian.com/article/10798281.html</a><br />3、2024年春节档档期总票房破15亿<br /><a href="https://www.jiemian.com/article/10798319.html" rel="noopener" target="_blank">https://www.jiemian.com/article/10798319.html</a><br />4、东电开始回收可能受核污水污染的土壤，承诺“将安全放在首位”<br /><a href="https://www.thepaper.cn/newsDetail_forward_26317504" rel="noopener" target="_blank">https://www.thepaper.cn/newsDetail_forward_26317504</a><br />5、欧盟就财政规则改革达成协议<br /><a href="https://www.thepaper.cn/newsDetail_forward_26338965" rel="noopener" target="_blank">https://www.thepaper.cn/newsDetail_forward_26338965</a><br />6、巴勒斯坦卫生部门：本轮巴以冲突已致加沙地带超2.8万人死亡<br /><a href="https://www.jiemian.com/article/10798385.html" rel="noopener" target="_blank">https://www.jiemian.com/article/10798385.html</a><br /><br /><span class="emoji">👬</span>即刻镇小报<br />1、和@Simon阿文 一起做的AI舞蹈上春晚了！<br /><a href="https://m.okjike.com/originalPosts/65c6403c50683218d161056e" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/65c6403c50683218d161056e</a><br />2、给新年去日本的朋友推荐两款薯片<br /><a href="https://m.okjike.com/originalPosts/65bf4cf138849f879f10f1de" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/65bf4cf138849f879f10f1de</a><br />3、《巨人的工具》, 又一本相见恨晚的书<br /><a href="https://m.okjike.com/originalPosts/65c4d34f37f7165b215f1e7d" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/65c4d34f37f7165b215f1e7d</a><br />4、关注很久的博主被求婚了<br /><a href="https://m.okjike.com/originalPosts/65bce5e2de5f287348108398" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/65bce5e2de5f287348108398</a><br />5、不要通过「向他人证明自己」去构建影响力<br /><a href="https://m.okjike.com/originalPosts/65bb57936d9f19063123d8e1" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/65bb57936d9f19063123d8e1</a><br /><br />今日即刻镇小报内容来自 @海辛Hyacinth <a href="https://t.me/Stefy" target="_blank">@Stefy</a>.eth <a href="https://t.me/Yibie" target="_blank">@Yibie</a> @奔小康的99 @王盐 ，感谢以上即友的创作与分享。 <a href="https://t.me/jike_collection/9534?q=%23%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88">#一觉醒来发生了什么</a></p><blockquote><b>Jiemian</b><br /><b><a href="https://www.jiemian.com/article/10798389.html">中国女篮提前获巴黎奥运会参赛资格|界面新闻 · 快讯</a></b><br /><p>在刚刚结束的巴黎奥运会女篮资格赛中国赛区的比赛中，波多黎各队以69-67战胜新西兰队。按照国际篮联分析，新西兰队的小组排名已无可能优于中国女篮，因此中国女篮实际已经提前获得了巴黎奥运会入场券。在10日稍早结束的另一场比赛中，中国队50:82不敌法国队。</p></blockquote>
-]]></content:encoded>
-<pubDate>Sun, 11 Feb 2024 00:38:59 GMT</pubDate>
-</item>
-<item>
-<title>尼日利亚顶级银行家在加利福尼亚州直升机失事中丧生 据彭博社当地时间2月10日报道，美国联邦航空管理局称，一架载有六人的直升机在南加利福尼亚州莫哈韦国家保护...</title>
-<link>https://t.me/xhqcankao/8140</link>
-<guid>https://t.me/xhqcankao/8140</guid>
-<content:encoded><![CDATA[
-<p><b>尼日利亚顶级银行家在加利福尼亚州直升机失事中丧生</b><br /><br />据彭博社当地时间2月10日报道，美国联邦航空管理局称，一架载有六人的直升机在南加利福尼亚州莫哈韦国家保护区附近的沙漠中坠毁。其中包括尼日利亚资产规模最大的银行，Access 银行的联合创始人赫伯特·维格维 (Herbert Wigwe)。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-02-10/top-nigerian-banker-killed-in-helicopter-crash-in-california" rel="noopener" target="_blank">彭博社</a></p>
-]]></content:encoded>
-<pubDate>Sun, 11 Feb 2024 01:07:43 GMT</pubDate>
-</item>
-<item>
-<title>↩️🖼 Gmail 使用聊天式用户界面重新设计电子邮件回复 三个月后，Gmail 仍在测试这种聊天风格的回复 UI 重新设计。截至本周，它正在向更多人推出，但尚未看到...</title>
-<link>https://t.me/xhqcankao/8138</link>
-<guid>https://t.me/xhqcankao/8138</guid>
-<content:encoded><![CDATA[
-<div class="rsshub-quote"><blockquote>
-                                    <p><a href="https://t.me/xhqcankao/6865"><b>风向旗参考快讯</b>:</a></p>
-                                    <p><small>谷歌重新设计了 Gmail 的回复 UI，使其更像即时通讯应用  安卓上的 Gmail 正在测试一个新的 UI，该 UI 会在收到的电子邮件底部带来一个类似聊天的消息框，类似于即时通讯应用。  这个新的消息框允许用户轻松撰写回复，而无需滚动到电子邮件底部，并提供编辑收件人的选项。  点击右侧展开按钮时，消息框中的文本字段会展开并移动到屏幕中间，从而最大化文本空间，同时仍保持原始电子邮件可见。  —— Androidpolice</small></p>
-                                    
-                                </blockquote></div><p></p><div class="tgme_widget_message_text js-message_text" dir="auto"><b>Gmail 使用聊天式用户界面重新设计电子邮件回复</b><br /><br />三个月后，Gmail 仍在测试这种聊天风格的回复 UI 重新设计。截至本周，它正在向更多人推出，但尚未看到广泛的可用性。它确实表明谷歌正在继续进行这一改造，它看起来更简单，但高级用户可能会不喜欢它，因为它添加了一个额外的步骤来访问“全部回复”和“转发”。<br /><br />—— <a href="https://9to5google.com/2024/02/10/gmail-reply-chat-ui/" rel="noopener" target="_blank">9to5google</a></div><p></p><img src="https://cdn5.cdn-telegram.org/file/laKJ381ag1maKUUDLSUjxTwyqKKthQRCARgFTIJ9fg6Qf3H0bonOIRtkacPErfOUZoSq-KHCdb__IO9FNLEBqJjSFDdT-nRzOiGuNDHR85JoV5rcNdEHXd9GwCeXWKzWLjETwasV2rlqThAwvSBfJrFjPSH8tqPTtyojniA6XfUutoa38z3WQChSNwKH3zehL-q32rHc0Eh9eWctNMUSCDOrzUY9h3s0DD3Ceie-2ZxzBlgZ76vs2Vejd3IEBqIHI8qVzinxPtdwvqjxPO7yzXbDp3aFgxzUJGZ2wAS6Zwbn0Z_3Enz0gC__6RQSaXMTEhxd_2uhrsk4l5ci4jKoEg.jpg" /><img src="https://cdn5.cdn-telegram.org/file/EX7Nv3KVp2S5u1TdN5x0wFxulBvlK6jEFQ0R4yX9rGnY45zErN6kiW9Vw_tIiKQV6LKTAHkz7YB1scufJIR9wDcFE5_tfVhDPMGgcXf5Nrm5--r_qdLS_rvZPCjgR7QuYA6Mx01FpC95QQBunZVDH3Q_uUa4tThw5ONaufo8RpfRhQJSLmRiGrpYNrQq2bxiZCZ6QHVX3xXkqZeuyCeSo2EI4j586h-y87WgjK8UgzGa4K-ovvDGXYE28yf5RabfegGe8aLCaBnp-hD6mIDGe9Qm5vq0hw-4ICnxJpEGRplgMTBwgtldPNfHyd6KVFEm-ohDMMIbNHBfAGOBW9Jc_A.jpg" />
-]]></content:encoded>
-<pubDate>Sun, 11 Feb 2024 00:50:10 GMT</pubDate>
-</item>
-<item>
-<title>苹果公司正在调查影响部分 Series 9 和 Ultra 2 手表的“幽灵触摸”问题 在本周与苹果授权服务提供商共享的一份内部备忘录中，苹果表示，已确认并调查了影响部分...</title>
-<link>https://t.me/xhqcankao/8137</link>
-<guid>https://t.me/xhqcankao/8137</guid>
-<content:encoded><![CDATA[
-<p><b>苹果公司正在调查影响部分 Series 9 和 Ultra 2 手表的“幽灵触摸”问题</b><br /><br />在本周与苹果授权服务提供商共享的一份内部备忘录中，苹果表示，已确认并调查了影响部分 Apple Watch Series 9 和 Ultra 2 显示屏的触摸相关问题。备忘录中写道：“部分客户报告他们的  Series 9 或 Ultra 2 的显示屏出现误触问题。 ”苹果公司表示，一些客户可能将此问题描述为“幽灵触控”。据苹果称，该问题可能导致受影响的 Apple Watch 型号的屏幕在没有任何用户交互的情况下“不规则跳动”或出现其他意外行为。该问题还可能导致无意中启动电话，并阻止用户输入设备的密码。苹果建议客户保持 Apple Watch 软件最新，这表明该公司希望能够在未来的 watchOS 更新中解决该问题。<br /><br />—— <a href="https://www.macrumors.com/2024/02/10/apple-watch-series-9-ultra-2-touch-screen-issue/" rel="noopener" target="_blank">MacRumors</a></p>
-]]></content:encoded>
-<pubDate>Sun, 11 Feb 2024 00:21:39 GMT</pubDate>
-</item>
-<item>
-<title>“字辈”是一种中国古代沿袭下来的礼制。今天在爷爷家翻家谱，已经定到我往下15代。主要是一种防止宗族溃散的手段。 #无用但有趣的冷知识</title>
-<link>https://t.me/jike_collection/9533</link>
-<guid>https://t.me/jike_collection/9533</guid>
-<content:encoded><![CDATA[
-<p>“字辈”是一种中国古代沿袭下来的礼制。今天在爷爷家翻家谱，已经定到我往下15代。主要是一种防止宗族溃散的手段。 <a href="https://t.me/jike_collection/9533?q=%23%E6%97%A0%E7%94%A8%E4%BD%86%E6%9C%89%E8%B6%A3%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86">#无用但有趣的冷知识</a></p>
-]]></content:encoded>
-<pubDate>Sat, 10 Feb 2024 23:54:56 GMT</pubDate>
-</item>
-<item>
-<title>亚马逊创始人杰夫·贝索斯正在自己的游艇上使用星链进行互联网连接 2月10日消息，虽然亚马逊公司的“柯伊伯计划”将与 SpaceX 的星链展开竞争。但根据社交媒体上...</title>
-<link>https://t.me/xhqcankao/8136</link>
-<guid>https://t.me/xhqcankao/8136</guid>
-<content:encoded><![CDATA[
-<p><b>亚马逊创始人杰夫·贝索斯正在自己的游艇上使用星链进行互联网连接</b><br /><br />2月10日消息，虽然亚马逊公司的“柯伊伯计划”将与 SpaceX 的星链展开竞争。但根据社交媒体上分享的图片，亚马逊创始人杰夫·贝索斯正在自己的游艇上使用星链进行互联网连接，并且还装了2套。早在2019年4月，亚马逊就宣布将组建卫星网络，计划在低地球轨道建立一个由3236颗卫星组成的网络，旨在为全球用户提供高速、经济的互联网接入服务。<br /><br />—— <a href="https://www.reddit.com/r/Starlink/s/2bL7yjBRPU" rel="noopener" target="_blank">Reddit</a></p>
-]]></content:encoded>
-<pubDate>Sat, 10 Feb 2024 14:40:38 GMT</pubDate>
-</item>
-<item>
-<title>俄罗斯联邦通信、信息技术和大众传媒监督局开始检查多邻国是否有 LGBT 宣传内容 2月9日消息，俄罗斯联邦通信、信息技术和大众传媒监督局正在对语言学习应用多邻...</title>
-<link>https://t.me/xhqcankao/8135</link>
-<guid>https://t.me/xhqcankao/8135</guid>
-<content:encoded><![CDATA[
-<p><b>俄罗斯联邦通信、信息技术和大众传媒监督局开始检查多邻国是否有 LGBT 宣传内容</b><br /><br />2月9日消息，俄罗斯联邦通信、信息技术和大众传媒监督局正在对语言学习应用多邻国进行检查，以查明是否存在传播 LGBT 宣传信息的情况。“国际 LGBT 运动”在俄罗斯被视为极端主义并被禁止。<br /><br />—— <a href="https://tass.ru/ekonomika/19949209" rel="noopener" target="_blank">塔斯社</a></p>
-]]></content:encoded>
-<pubDate>Sat, 10 Feb 2024 13:30:05 GMT</pubDate>
 </item>
 </channel>
 </rss>

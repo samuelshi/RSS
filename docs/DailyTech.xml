@@ -4,6 +4,39 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+<item>
+<title>🖼 #macOS #GitHub情报 ⌨️ oh-my-rime: RIME 输入法的快速配置包 Web | GitHub ✨ Features - 快速配置 RIME 输入法，开箱即用 - 基于 RIME 的完全本地、隐...</title>
+<link>https://t.me/NewlearnerChannel/12562</link>
+<guid>https://t.me/NewlearnerChannel/12562</guid>
+<content:encoded><![CDATA[
+
+<p><a href="https://t.me/NewlearnerChannel/12562?q=%23macOS">#macOS</a> <a href="https://t.me/NewlearnerChannel/12562?q=%23GitHub%E6%83%85%E6%8A%A5">#GitHub情报</a><br /><br /><b><span class="emoji">⌨️</span> oh-my-rime: RIME 输入法的快速配置包</b><br /><br /><a href="https://www.mintimate.cc/" rel="noopener" target="_blank">Web</a> | <a href="https://github.com/Mintimate/oh-my-rime" rel="noopener" target="_blank">GitHub</a><br /><br /><b><span class="emoji">✨</span> Features</b><br /><br />- 快速配置 RIME 输入法，开箱即用<br />- 基于 RIME 的完全本地、隐私保护<br />- 基于 RIME 的超高自由定制度<br /><br />RIME 输入法一直以“开源、自由、安全”著称，但是对于普通用户一直都不是一个好选择。对于大多数用户来讲，输入法的易用性是在首要位置，如果一个输入法没有易用性，其性能再好、隐私性再好，也只能被束之高阁。很不幸，RIME 就是这么一个没有易用性的输入法。<br /><br />大概从五年前起我就开始折腾 RIME。好几次我都是熬了好几个夜、看了好多“用家”的博客文章、翻了好多遍 RIME 的使用文档，我终于配置好了一个差不多能用的 RIME，但是在几个月的使用过程中发现发这上一次配置不够完美、使用中出现大大小小的问题。这个时候想再重新开始配置 RIME 就心有余而力不足了，配置过于复杂、专业概念繁多导致无从下手，不知道该从哪里该。每到这个时候，我就卸掉 RIME，重新使用系统自带输入法。这个循环我经历了好多遍。<br /><br />但是，如果有配置好的 RIME，那么普通用户就不需要去搞清楚配置文件的哪行哪段是什么意思 -- 保留了安全和隐私，易用被提高了。oh-my-rime 就是这么一个 RIME 配置库。它的本质就是预制菜样的一套 RIME 配置文件，替换掉自己的配置文件就可以使用了。<br /><br />oh-my-rime 预制了字典/词库和多种输入法皮肤，也包含了开发者优化过的薄荷拼音（全拼）、小鹤双拼和地球拼音输入方案。同时也用过 lua 实现了日期等快速输入。RIME 能的它一样能，还比原生 RIME 少折腾。<br /><br />类似的还有一个预制包<a href="https://github.com/iDvel/rime-ice" rel="noopener" target="_blank">雾凇拼音</a>，也可以尝试。<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn4.cdn-telegram.org/file/ik4qxWGrpU9f6TMr1n6ajkRDDu6kiypTdM8dg-BRG8YDJJn2i4yaAKSHJjyhbw_6NU_LZVbAK6Twgo-c-TNe0XmkXC26vCkRWKawrlmamzSxD1fS63fLgeLahx0rXHORFZX-TEobEVXqKvnrDQhasNFhv6iUdQpE5_o6HgWKN6ciHgGuhdks4WCRF4O7VV9u4XBvHxglE4I8coaFXXyr9uploTn7OsTd7L0tpq0AtvmGQ4ZI0hmeqshRVh1_S7kQU1BtDKh3caiE5J0B7Tg3Szw_BLsxuaEaGj2AVv2RL_JPWmNSNkX-v-pQ2m29wbjGax34QiJjFnVcgU9mUiDuqg.jpg" />
+]]></content:encoded>
+<pubDate>Thu, 21 Mar 2024 07:05:01 GMT</pubDate>
+<pubDate>Thu, 21 Mar 2024 07:05:01 GMT</pubDate>
+</item>
+<item>
+<title>谷歌使用人工智能在全球范围内进行可靠的洪水预报 来自 Google Research 洪水预测团队的 Grey Nearing 及其同事开发的人工智能模型，通过利用现有的 5680 个测量...</title>
+<link>https://t.me/xhqcankao/9001</link>
+<guid>https://t.me/xhqcankao/9001</guid>
+<content:encoded><![CDATA[
+
+<p><b>谷歌使用人工智能在全球范围内进行可靠的洪水预报</b><br /><br />来自 Google Research 洪水预测团队的 Grey Nearing 及其同事开发的人工智能模型，通过利用现有的 5680 个测量仪进行训练，可预测未测量流域在 7 天预测期内的日径流。随后，他们将该人工智能模型与全球领先的短期和长期洪水预测软件—全球洪水预警系统 (GloFAS) 进行了对比测试。结果显示，该模型同日预测准确率与当前系统相当甚至更高。此外，该模型在预测重现窗口 (return window) 期为五年的极端天气事件时，其准确性与 GloFAS 预测重现窗口期为一年的事件时的准确性相当或更高。相关研究论文已发表在权威科学期刊《自然》杂志上。<br /><br />—— <a href="https://blog.google/technology/ai/google-ai-global-flood-forecasting/" rel="noopener" target="_blank">谷歌博客</a>、<a href="https://www.nature.com/articles/s41586-024-07145-1" rel="noopener" target="_blank">《自然》</a>、<a href="https://36kr.com/p/2698775072520328" rel="noopener" target="_blank">36kr</a> (学术头条)</p>
+]]></content:encoded>
+<pubDate>Thu, 21 Mar 2024 07:47:02 GMT</pubDate>
+<pubDate>Thu, 21 Mar 2024 07:47:02 GMT</pubDate>
+</item>
+<item>
+<title>Netflix 剧版中国科幻作品《三体》开播 3月21日消息，由《权力的游戏》制片人改编的剧版中国经典科幻三部曲《三体》于今天下午三点在串流平台 Netflix 上推出，...</title>
+<link>https://t.me/xhqcankao/9000</link>
+<guid>https://t.me/xhqcankao/9000</guid>
+<content:encoded><![CDATA[
+
+<p><b>Netflix 剧版中国科幻作品《三体》开播</b><br /><br />3月21日消息，由《权力的游戏》制片人改编的剧版中国经典科幻三部曲《三体》于今天下午三点在串流平台 Netflix 上推出，全剧共8集，每集约60分钟。<br /><br />——  <a href="https://www.netflix.com/mo/title/81024821?preventIntent=true" rel="noopener" target="_blank">Netflix</a></p>
+]]></content:encoded>
+<pubDate>Thu, 21 Mar 2024 07:12:11 GMT</pubDate>
+<pubDate>Thu, 21 Mar 2024 07:12:11 GMT</pubDate>
+</item>
 
 <item>
 <title>美国司法部最快周四起诉苹果违反反垄断法 美国司法部准备最早于当地时间3月21日周四起诉苹果公司，指控这家全球第二大市值科技公司阻止竞争对手访问其 iPhone 的...</title>

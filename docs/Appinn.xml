@@ -5,17 +5,26 @@
 <link>https://t.me/s/appinnfeed</link>
 
 <item>
+<title>❓ #问题求助 JavaScript 求助，如何把自己的 URL 填进去 https://meta.appinn.net/t/topic/54242</title>
+<link>https://t.me/appinnfeed/10024</link>
+<guid>https://t.me/appinnfeed/10024</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10024?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />JavaScript 求助，如何把自己的 URL 填进去<br /><br /><a href="https://meta.appinn.net/t/topic/54242" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54242</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54242">JavaScript 求助，如何把自己的 URL 填进去</a></b><br /><p>最近我在用一个实用的翻译油猴脚本，它按需翻译，不像「沉浸翻译」把整个页面翻译，这个小巧灵活的特性可以节省资源，尤其在使用 AI 翻译的时候。  但是遇到了一个的障碍。这个脚本只支持 OpenAI 官方和其他少数几个 API 地址，这就让我有点小失望了。在 Issue 区也看到有小伙伴提过这个问题，但一直没有解决。我在想，如果能把自己的 API 地址填进去就完美了！  自己动手尝试了修改源码，让它支持自己的 API 地址。但是不起作用  const customGPT = {     //openai: …</p><img src="https://cdn4.cdn-telegram.org/file/prez1hBoiQrZApVaD7eURnQWwOQFXZw12uFzlsGYhR74yjnrNS-4EEUAGlrfFEhv3GMAVyhMramb67trZBWbE82dFIb0opzEC-EbKNx3fKElwhfzRr6xXNRpVQKVz2HTf5cEOYQ2QEFsEfOPwTS9wL0FL7mWhSqtUVIDTinX8ZnBt8jxsaFqpKKbChgk3TBIz2cKeVRsL0ni70gedRL01uKh_OSn9WxTtOvj_doSAA_kw0HZRYvZUtznTINWYD76IpCYhj_dpJE10jo4NZo69ITr0V536W4WnLPnJHHG0_tsinSfzsl1wQ78V3mTwyPMIqByczotZtTg5m4gJqt78A.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Sun, 24 Mar 2024 05:00:01 GMT</pubDate>
+<pubDate>Sun, 24 Mar 2024 05:00:01 GMT</pubDate>
+</item>
+
+<item>
 <title>📣 #发现频道 AutoTouchpadBloker触摸板防误触工具 https://meta.appinn.net/t/topic/54241</title>
 <link>https://t.me/appinnfeed/10023</link>
 <guid>https://t.me/appinnfeed/10023</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/10023?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />AutoTouchpadBloker触摸板防误触工具<br /><br /><a href="https://meta.appinn.net/t/topic/54241" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54241</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54241">AutoTouchpadBloker触摸板防误触工具</a></b><br /><p>软件名称 AutoTouchpadBloker触摸板防误触工具  应用平台  Windows  推荐类型 【开发者自荐】  一句简介 打字时自动锁定鼠标指针防误点触摸板  应用简介 打字防误触：  打字时检测到“工”字型鼠标指针就会隐藏并锁定鼠标  按住鼠标右键+左键解锁鼠标（或两指单击再单指双击并按住触摸板）  快捷Ctrl键：  单指双击并按住触摸板模拟Ctrl键  比如：用触摸板框选文字后不松开手指然后按c键复制  截图预览：    程序没有界面，点托盘图标设置，Ctrl+Alt+F9退出程序。 …</p><img src="https://cdn4.cdn-telegram.org/file/CcrKa-ShX-y8XABWpwvpIj1nAFw-AQnGhVMoqFJ8nsy56EL_FXDmw4MA1Zq2vci7mtFjH5tEtKADcmW46bo6J_EGq5c3gquFJp_VW9sgIEdDFdjIHQc8eW3LAF7FOZKow73GVWKSi1qK0nBI6bmuOYg0hSv46ONGH9aMt-XUgRP1gUHNRNbhkZAqyxRISRO9Rb45cfrDHsDQZXMLUP1wXmw8Qj28UgL_VDDiqQQy8lyVXrsOg8eDDpd5YaVygZafHuNL1Jy70QkRkngvbDd3hoDcnYVKjX_LKOJX3bUwITkMPMMaLm-E3Fh5WicvcOW05pEJ-c1hNexhBOSyMOTmYA.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Sun, 24 Mar 2024 03:20:01 GMT</pubDate>
-<pubDate>Sun, 24 Mar 2024 03:20:01 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 有什么安卓上可用的点击宏？ https://meta.appinn.net/t/topic/54238</title>
 <link>https://t.me/appinnfeed/10022</link>
@@ -9014,15 +9023,6 @@
 <p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/8981?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />【自荐】NinjaMouse - 免费 macOS App 使用快捷键将鼠标跳到指定显示器<br /><br /><a href="https://meta.appinn.net/t/topic/49868" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/49868</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/49868">【自荐】NinjaMouse - 免费 macOS App 使用快捷键将鼠标跳到指定显示器</a></b><br /><p>如果你的 Mac 连了外接显示器，一定经常遇到鼠标光标丢失、鼠标滑来滑去想移到某个显示器的场景。  NinjaMouse 是一个极简的效率神器，为每个显示器分配快捷键，之后就可以快速跳转鼠标到指定显示器了。</p><img src="https://cdn4.cdn-telegram.org/file/CyEQMICTLQkolp7jztn3kwgWbLm1OMLzFxDvpUI8RaBNMX47JSzGr-YHMBj2ehXEoDonklhIOygUuiKxUgAox-DFaJZH40J7wNFRNzxgSlhVmCr8nj-SB1yWR6suA2ZFwPnvymVgVRINJQ9QudOJleuR9zcq8FbZNwTK7y_jtmNytV8DpT7cnnINzONtQOF8w-5K87cZYkNNqIZ3xszFKHTEQGn3yOEtYND0W989pkgzges69zR2wlm2nzqxHYNPRGWpJ0ylZm5VVNjcjMq-ElN6CnLFeE7JngzIOW3uYMNqhjw00JrvNSYLWsjIcobW_UdmLh-LdDgOErEV3JI5KQ.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Fri, 01 Dec 2023 12:12:01 GMT</pubDate>
-</item>
-<item>
-<title>📣 #发现频道 [开发者自荐]tgbot-upnp 将telegram视频通过upnp协议投屏至其他设备的小工具 https://meta.appinn.net/t/topic/49861</title>
-<link>https://t.me/appinnfeed/8980</link>
-<guid>https://t.me/appinnfeed/8980</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/8980?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />[开发者自荐]tgbot-upnp 将telegram视频通过upnp协议投屏至其他设备的小工具<br /><br /><a href="https://meta.appinn.net/t/topic/49861" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/49861</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/49861">[开发者自荐]tgbot-upnp 将telegram视频通过upnp协议投屏至其他设备的小工具</a></b><br /><p>软件名称 tgbot-upnp  应用平台 windows/linux/docker  推荐类型 【开发者自荐】  一句简介 tgbot-upnp 是一个可以将 telegram 视频通过 upnp 协议投屏至其他设备的 telegram 机器人  应用简介  将 telegram 视频投屏到支持 UPnP (AVTransport) 的设备 无需下载整个视频，支持进度条 自动扫描局域网中所有支持 UPnP (AVTransport) 的设备 支持多语言 较低的内存和cpu占用 支持 Windows、docker运行…</p><img src="https://cdn4.cdn-telegram.org/file/CyEQMICTLQkolp7jztn3kwgWbLm1OMLzFxDvpUI8RaBNMX47JSzGr-YHMBj2ehXEoDonklhIOygUuiKxUgAox-DFaJZH40J7wNFRNzxgSlhVmCr8nj-SB1yWR6suA2ZFwPnvymVgVRINJQ9QudOJleuR9zcq8FbZNwTK7y_jtmNytV8DpT7cnnINzONtQOF8w-5K87cZYkNNqIZ3xszFKHTEQGn3yOEtYND0W989pkgzges69zR2wlm2nzqxHYNPRGWpJ0ylZm5VVNjcjMq-ElN6CnLFeE7JngzIOW3uYMNqhjw00JrvNSYLWsjIcobW_UdmLh-LdDgOErEV3JI5KQ.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Fri, 01 Dec 2023 09:32:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

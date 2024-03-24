@@ -4,18 +4,16 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+
 <item>
 <title>NVIDIA 正在设法大幅提高生成 AI 图像和视频的速度 Nvidia 多伦多人工智能实验室的研究人员正在解决生成图像和视频的时间问题，本周在该公司的 GTC 2024 会议上...</title>
 <link>https://t.me/xhqcankao/9056</link>
 <guid>https://t.me/xhqcankao/9056</guid>
 <content:encoded><![CDATA[
-
 <p><b>NVIDIA 正在设法大幅提高生成 AI 图像和视频的速度</b><br /><br />Nvidia 多伦多人工智能实验室的研究人员正在解决生成图像和视频的时间问题，本周在该公司的 GTC 2024 会议上，他们概述了这项工作的一些成果，展示了旨在实现这一目标的进步更快（因此更经济）生成“噪音”明显更少的图像和更详细的 3D 图像，将时间从几周或几个月缩短为几天或几分钟。<br /><br />对于图像生成，研究人员着眼于加速扩散模型的工作，该模型用于解决生成高保真度高分辨率图像的棘手问题，并且是 OpenAI 的 Dall-E3 等文本到图像模型的基础谷歌的图像。从本质上讲，它们消除了“噪声”——图像原始场景内容中不存在的伪影，但这些伪影可能使图像看起来模糊、像素化、颗粒状或以其他方式表现不佳。<br /><br />—— <a href="https://www.nextplatform.com/2024/03/21/nvidia-research-gives-generative-ai-images-and-3d-a-speed-boost/" rel="noopener" target="_blank">The Next Platform</a></p>
 ]]></content:encoded>
 <pubDate>Sun, 24 Mar 2024 13:15:50 GMT</pubDate>
-<pubDate>Sun, 24 Mar 2024 13:15:50 GMT</pubDate>
 </item>
-
 <item>
 <title>库克称苹果头显产品年内中国上市 在今日 (3月24日) 开幕的中国发展高层论坛2024年年会现场，苹果公司首席执行官库克表示，苹果公司的 Apple Vision Pro 头显产品...</title>
 <link>https://t.me/xhqcankao/9055</link>
@@ -9294,15 +9292,6 @@
 <p><b>苹果公司 M3、M3 Pro 芯片需求量下调</b><br /><br />苹果利空频传，近期供应链传出去年11月发布的 MacBook M3/M3 Pro 芯片需求量下调，市场推测消费力不振使得AI笔记本热潮延长为主要因素，供应链主板、晶圆代工恐受到影响。机构指出，苹果 M3/M3 Pro 采用台积电3纳米制程，恐将冲击3纳米产能利用率，此外，AMD CPU 供应链指称，需求不如外界预期乐观，强力复苏言之尚早。<br /><br />—— <a href="https://www.ctee.com.tw/news/20240220700070-430501" rel="noopener" target="_blank">台湾工商时报</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 20 Feb 2024 03:19:27 GMT</pubDate>
-</item>
-<item>
-<title>由于生成式人工智能 预计2026年搜索引擎搜索量将降低25% 当地时间2月19日，市场分析公司Gartner发布报告称，生成式人工智能已严重威胁传统搜索引擎，预计2026年...</title>
-<link>https://t.me/xhqcankao/8282</link>
-<guid>https://t.me/xhqcankao/8282</guid>
-<content:encoded><![CDATA[
-<p><b>由于生成式人工智能 预计2026年搜索引擎搜索量将降低25%</b><br /><br />当地时间2月19日，市场分析公司Gartner发布报告称，生成式人工智能已严重威胁传统搜索引擎，预计2026年搜索量将下降25%。Gartner副总裁分析师艾伦·安廷表示，“自然搜索和付费搜索是技术营销人员实现认知和需求生成目标的重要渠道。”“生成式人工智能 (GenAI) 解决方案正在成为替代答案引擎，取代以前可能在传统搜索引擎中执行的用户查询。”“随着 GenAI 越来越深入企业的各个方面，这将迫使企业重新思考其营销渠道战略。”<br /><br />—— <a href="https://www.gartner.com/en/newsroom/press-releases/2024-02-19-gartner-predicts-search-engine-volume-will-drop-25-percent-by-2026-due-to-ai-chatbots-and-other-virtual-agents" rel="noopener" target="_blank">Gartner</a></p>
-]]></content:encoded>
-<pubDate>Tue, 20 Feb 2024 03:08:39 GMT</pubDate>
 </item>
 </channel>
 </rss>

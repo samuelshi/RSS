@@ -4,15 +4,14 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+
 <item>
 <title>Linus Torvalds 宣布首个 Linux 内核 6.9 候选发布版 据 9to5linux 报道，Linux 6.9 是 Linux 内核的下一个重要系列，Linus Torvalds 在当地时间3月24日宣布首个...</title>
 <link>https://t.me/xhqcankao/9058</link>
 <guid>https://t.me/xhqcankao/9058</guid>
 <content:encoded><![CDATA[
-
 <p><b>Linus Torvalds 宣布首个 Linux 内核 6.9 候选发布版</b><br /><br />据 9to5linux 报道，Linux 6.9 是 Linux 内核的下一个重要系列，Linus Torvalds 在当地时间3月24日宣布首个候选发布版 (RC) 里程碑可供公开测试。没错，Linux 6.8 发布已经两周了，Linux 内核 6.9 的合并窗口现在已经关闭。这意味着第一个候选发布版 (RC) 开发版本已经可供早期用户、发行版维护者和高端用户使用。根据 Torvalds 的说法，Linux 内核 6.9 看起来是一个“相当正常”的版本，它承诺对 AMD GPU 图形驱动程序进行更多改进，提高计时器的性能，更新工作队列子系统，架构更新，删除旧的 NTFS 代码，核心网络更新、虚拟机和内核改进、工具和文档改进以及许多新驱动程序以提供更好的硬件支持。Linux 内核 6.9 的最终版本预计将于2024年5月中旬发布。<br /><br />—— <a href="https://9to5linux.com/linus-torvalds-announces-the-first-linux-kernel-6-9-release-candidate" rel="noopener" target="_blank">9to5linux</a></p>
 ]]></content:encoded>
-<pubDate>Sun, 24 Mar 2024 22:49:11 GMT</pubDate>
 <pubDate>Sun, 24 Mar 2024 22:49:11 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +19,10 @@
 <link>https://t.me/xhqcankao/9057</link>
 <guid>https://t.me/xhqcankao/9057</guid>
 <content:encoded><![CDATA[
-
 <p><b>亿纬锂能拟建英国最大电动汽车电池工厂</b><br /><br />据知情人士透露，中国汽车电池制造商亿纬锂能即将投资数十亿英镑建造英国最大的超级工厂。据了解，亿纬锂能正在就在英国西米德兰郡的考文垂郊区建造一座产能达 60 GWh 的工厂进行深入谈判。据接近谈判的消息人士透露，该公司最初将承诺投资至少 12 亿英镑建设一座 20 GWh 的千兆工厂。预计后续阶段的工程将把工厂规模扩大到 60 GWh。届时将成为英国最大的超级工厂，预计未来数周将签署相关协议。<br /><br />—— <a href="https://www.thetimes.co.uk/article/chinese-giant-set-to-build-uks-biggest-gigafactory-9g0xmpgnm" rel="noopener" target="_blank">英国泰晤士报</a></p>
 ]]></content:encoded>
 <pubDate>Sun, 24 Mar 2024 22:04:06 GMT</pubDate>
-<pubDate>Sun, 24 Mar 2024 22:04:06 GMT</pubDate>
 </item>
-
 <item>
 <title>NVIDIA 正在设法大幅提高生成 AI 图像和视频的速度 Nvidia 多伦多人工智能实验室的研究人员正在解决生成图像和视频的时间问题，本周在该公司的 GTC 2024 会议上...</title>
 <link>https://t.me/xhqcankao/9056</link>
@@ -9296,24 +9292,6 @@
 <p><b>英国出台指导意见 支持学校全面禁止手机</b><br /><br />英国政府18日出台指导意见，支持校方完全禁止学生在学校使用手机。英国教育界人士对此表示欢迎，认为这一政策将提升学生的学习效率，改善学生在校表现。根据该指导意见，学校可以禁止学生在学校的任何时间和地点使用手机。学校可选择以下4种方法之一禁用手机：禁止带手机到学校；到校后将手机交给老师；到校后将手机锁到指定地点；学生可以自己保管手机，但必须保证任何时候都不使用。这份指导意见说，除非工作需要，否则教师也不应在学生面前使用手机。同时，家长也应该积极参与其中，想要联系学生的时候可以通过学校办公室，而不是直接给学生打电话。<br /><br />—— <a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=15963100606745448300" rel="noopener" target="_blank">央视新闻</a>、<a href="https://www.gov.uk/government/news/government-launches-crackdown-on-mobile-phones-in-schools" rel="noopener" target="_blank">英国政府</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 20 Feb 2024 03:59:02 GMT</pubDate>
-</item>
-<item>
-<title>韩国容器服务 goormIDE 调整计费机制 从2024年2月26日起，将改为积分制，1积分=0.02美元： - 免费用户：每月拥有45积分，只能运行20小时的默认配置（0.5vCPU/1GB...</title>
-<link>https://t.me/xhqcankao/8284</link>
-<guid>https://t.me/xhqcankao/8284</guid>
-<content:encoded><![CDATA[
-<p><b>韩国容器服务 goormIDE 调整计费机制</b><br /><br />从2024年2月26日起，将改为积分制，1积分=0.02美元：<br />- 免费用户：每月拥有45积分，只能运行20小时的默认配置（0.5vCPU/1GB RAM/2GB Disk）；<br />- 会员用户：每月7美元，额外获得45积分，只能运行40小时。<br /><br />此前该服务商采取的是“一段时间无操作便对容器自动休眠”的机制，并未对运行时长进行明确限制，因此免费用户有机会实现长时间白嫖。即将到来的新计费方案结束了这一可能。近年来，由于财务问题和滥用行为增加，<a href="https://t.me/xhqcankao/5567" rel="noopener" target="_blank">Railway</a>、<a href="https://t.me/xhqcankao/6408" rel="noopener" target="_blank">Koyeb</a>、<a href="https://t.me/xhqcankao/7359" rel="noopener" target="_blank">Okteto</a>等免费容器服务陆续关停或削减免费额度，对免费云服务存在的可能提出了质疑。<br /><br />—— <a href="https://ide.goorm.io/pricing/new" rel="noopener" target="_blank">goormIDE</a>  ⁣⁣⁣⁣ <i>via</i> 𝘿𝙀𝙇𝙄𝙏 <span class="emoji">💤</span></p>
-]]></content:encoded>
-<pubDate>Tue, 20 Feb 2024 03:34:33 GMT</pubDate>
-</item>
-<item>
-<title>苹果公司 M3、M3 Pro 芯片需求量下调 苹果利空频传，近期供应链传出去年11月发布的 MacBook M3/M3 Pro 芯片需求量下调，市场推测消费力不振使得AI笔记本热潮延长...</title>
-<link>https://t.me/xhqcankao/8283</link>
-<guid>https://t.me/xhqcankao/8283</guid>
-<content:encoded><![CDATA[
-<p><b>苹果公司 M3、M3 Pro 芯片需求量下调</b><br /><br />苹果利空频传，近期供应链传出去年11月发布的 MacBook M3/M3 Pro 芯片需求量下调，市场推测消费力不振使得AI笔记本热潮延长为主要因素，供应链主板、晶圆代工恐受到影响。机构指出，苹果 M3/M3 Pro 采用台积电3纳米制程，恐将冲击3纳米产能利用率，此外，AMD CPU 供应链指称，需求不如外界预期乐观，强力复苏言之尚早。<br /><br />—— <a href="https://www.ctee.com.tw/news/20240220700070-430501" rel="noopener" target="_blank">台湾工商时报</a></p>
-]]></content:encoded>
-<pubDate>Tue, 20 Feb 2024 03:19:27 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -4,6 +4,17 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>❓ #问题求助 求教，Linux下实时备份硬盘数据到另一个硬盘，有什么方案？ https://meta.appinn.net/t/topic/54382</title>
+<link>https://t.me/appinnfeed/10058</link>
+<guid>https://t.me/appinnfeed/10058</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10058?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />求教，Linux下实时备份硬盘数据到另一个硬盘，有什么方案？<br /><br /><a href="https://meta.appinn.net/t/topic/54382" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54382</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54382">求教，Linux下实时备份硬盘数据到另一个硬盘，有什么方案？</a></b><br /><p>背景 淘汰的Linux主机，想直接拿来做家庭服务器，现有的硬盘数据有点多，没有第三个硬盘可以备份这么多数据，没办法空出来硬盘组软raid。想找个能够实时备份，或者定时备份的方案，从硬盘A备份到硬盘B。  现在用的方案 rsync同步   想换的原因：大量数据频繁写入实在是占用性能，主机掉频严重。  目标 后面会搞raid阵列卡组raid1 。敢问各位大佬，有没有软件方案，让我能不在不删除现有数据的前提下，能够实现一个比较低功耗的方案，将硬盘A的数据备份到硬盘B</p><img src="https://cdn4.cdn-telegram.org/file/Bt4aDHL32zMnPtiSRRwEAHeNhqwW25V95DvZz9mBM8aRC9dCN57e2LMgDD9bmC1stC_vQiATlCpbL2yL131ZyZrH0H02UcsfFPGoU4d38LCUwBEUwOY2lh0S57iWnSNevE6rVhdYpu5rAvMBbp-vdHm8lx1sajf6f1lp7j-3fM2rkwDVx0mHvVsFA3LWhNIuluHmrYEeqKcsyw0jlnMjiAROpkPhadXUyPVUAhXsYRDZffxoWSzmT3H7CJOFMtUXmvpKcv365wUxPBebOtfaTYr0W38fPFWG9Ch8p8XlHjL138hS_u1ObdJlKwRM-vlp1_3MoWdwfWarxtNCJ1y6XA.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Tue, 26 Mar 2024 14:20:01 GMT</pubDate>
+<pubDate>Tue, 26 Mar 2024 14:20:01 GMT</pubDate>
+</item>
 
 <item>
 <title>❓ #问题求助 有没有什么 pdf 阅读器能从字典里自动标注单词的？ https://meta.appinn.net/t/topic/54376</title>

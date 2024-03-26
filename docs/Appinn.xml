@@ -4,15 +4,14 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>❓ #问题求助 求久坐提醒软件 https://meta.appinn.net/t/topic/54257</title>
 <link>https://t.me/appinnfeed/10049</link>
 <guid>https://t.me/appinnfeed/10049</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10049?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />求久坐提醒软件<br /><br /><a href="https://meta.appinn.net/t/topic/54257" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54257</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54257">求久坐提醒软件</a></b><br /><p>腿痛的实在受不了了，走路都困难。  昨天去医院拍了核磁共振，已确诊是腰椎间盘突出压迫坐骨神经，导致坐骨神经痛。  医生建议不能久坐，最多坐一个小时就必须起身活动。  我们这种工作，一坐下就是半天，忘记时间。  求一款能循环提醒休息的软件，最好强制锁屏（自控能力较差），强迫自己离开电脑去活动。</p><img src="https://cdn4.cdn-telegram.org/file/k1Jm43-4SB4X0dLZUkqeaWWI1NxTJ-cOZ64ZDDANAgec14G-or2as_QQGDk5P_Fqc6MLkI_PEBbr3mq5_2U1xH2OdtTXniKjJ8Ewg1JyYDTLk-PAzONaPgK8IYsrhUhE-Qe95CLBKZa_C4YqGAC27C_Adl1MqbqqR3MqeALK5ZxxgsAMiy9A2NS7by8NJ_3yG4VmzDbkIWDnGVYjofRS58dLLeQkRMW1bw66-WvwBEAgDGfLaPVa-ZroUmHoGU6N3NWfCJNu59hsRcznNM2QU21nKyNR_MvIE708-tJwRpcrslmbsYPsk2IIKYOuyCzAfjXAcFbcWH-__2KwcM2nVw.jpg" /></blockquote>
 ]]></content:encoded>
-<pubDate>Tue, 26 Mar 2024 04:44:01 GMT</pubDate>
 <pubDate>Tue, 26 Mar 2024 04:44:01 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +19,10 @@
 <link>https://t.me/appinnfeed/10048</link>
 <guid>https://t.me/appinnfeed/10048</guid>
 <content:encoded><![CDATA[
-
 <p>著名的开源内存数据库 redis <a href="https://redis.com/blog/redis-adopts-dual-source-available-licensing/" rel="noopener" target="_blank">宣布</a>，未来版本将实施双重RSALv2和SSPLv1许可，不再使用BSD许可。新版本将整合之前Redis Stack独有的高级数据类型和处理引擎。<br /><br />从Redis 7.4开始，新策略生效，旨在维持性能和简单性基础，支持现代互联网。Redis通过Redis Stack已实行双重许可;大约一半的下载来自此策略，显示社区接受度高。此许可扩展可进一步发展Redis数据模型、引擎和开发者工具。<br /><br />新许可允许Redis源码保持开放性使用，确保可持续性。它标志着Redis作为统一实时数据平台，提供客户端、工具集和核心产品的新发展阶段。Redis将继续以社区版形式提供代码，方便开发者、客户和合作伙伴。<br /><br />未来版本将统合Redis核心功能与Redis Stack，包括各种数据模型，支持多场景应用，如高性能键/值存储、查询引擎和低延迟向量数据库等。<br /><br />面对挑战，尽管Redis已尝试社区治理并维持开源许可，但商业销售主要通过大型云服务提供商，使得并行多种软件分发与Redis的未来发展相冲突。<br /><br />新许可下，云服务不能免费使用Redis源代码。例如，云服务提供商需与Redis达成协议后方可提供Redis 7.4，保证商业投资和未来创新。</p><img src="https://cdn5.cdn-telegram.org/file/dECi5rCgMVxlSCyy5AO4qj6b1ou7_NNKgiPPnEGpfGGVtwMY6pV73kuuTe3x2cps83OpWre3yNBa2zInMygCKRfTHGyqzEHoQk3aAJWelytjQA4jDK92vCBuBT_iCrm9jeWFJZghqZ2-T7ypsRWBlENNg0WMaG9qVNp0_1iz2L0Svyekcr8yabP14hdKZlQlztUFBHfOiCOCZ3k-PAw0dYKtJsZehnhyl-Ub8a7dcMaCdQogxiBmCR4HmceMen0LrZWZYiAsgsLk5lZaGzbQB5eTppollzll36zYOB1tXypLPXc_JRDS-8sX1EXI-Hxkl8Sfv5S61TyIV1-dFM0XgQ.jpg" />
 ]]></content:encoded>
 <pubDate>Tue, 26 Mar 2024 04:01:57 GMT</pubDate>
-<pubDate>Tue, 26 Mar 2024 04:01:57 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 如何缩小excel文件体积 https://meta.appinn.net/t/topic/54067</title>
 <link>https://t.me/appinnfeed/10047</link>
@@ -9016,24 +9012,6 @@
 <img src="https://cdn5.cdn-telegram.org/file/VmAued4tkZUigyAzNCKULX0XeMwxUKf0h4sOZ4qlAm_Y6wKTD1KwHpAiAIhLKLamCasmdzTsZ2UqD66pVjtdarDSC876xjOwOMJ8wKF31-qvF8G7aAY2HXvvnb7Qdqv2FE02F6xw1ygAWV9RaKE2ghZ3q9RzOqpqECfHOD73HddGR99hDxMiZa4SMzH-hWYxEPAAUHI-HGvB0_V5s4EmMUNrPFuCQbolV6dOBCsp3ONSD0rd3iD4MnM3DeuNQ9-1y0oGBJqlQSxYmBQLR_kK_j3hvT8QzqWJasekGjA5hJoF3a_i-mLlIiODMheApbcNwao4EgGImWzXK81UamYHxg.jpg" />
 ]]></content:encoded>
 <pubDate>Wed, 06 Dec 2023 07:15:02 GMT</pubDate>
-</item>
-<item>
-<title>今天更新了第三例反面教材 https://meta.appinn.net/t/topic/49085 怎么说嘞，学习反面教材也是学习啊</title>
-<link>https://t.me/appinnfeed/9006</link>
-<guid>https://t.me/appinnfeed/9006</guid>
-<content:encoded><![CDATA[
-<p>今天更新了第三例反面教材<br /><br /><a href="https://meta.appinn.net/t/topic/49085" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/49085</a><br /><br />怎么说嘞，学习反面教材也是学习啊</p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/49085">给开发者自荐产品时的一些意见【持续更新】</a></b><br /><p>刚刚的一个提交，在我看到标题后（并没有看产品），就在频道写下了这些话：   我一直觉得开发者自荐的时候，一定要低调，不要「最强」「最好」，毫无理由的拔高了社区用户期待值，一旦产品不如意，就只有批评，没有建议   我觉得是时候建立一个【意见列表】，给参与社区讨论的开发者一些参考，内容建立在真实案例之上。  错误的标题 1. Mac 平台最强休息提醒工具，欢迎体验！  https://meta.appinn.net/t/topic/49084 （可能标题已修改）  最强、结尾的叹号，都不是社区所喜欢的内容。…</p><img src="https://cdn4.cdn-telegram.org/file/b5BKvClo1sq4NDHIWgAtrFyB-NJwY2gR8S2OFyVWZAMi8WQWZhzn2z40hBLw6TocVm_U8uvQ-ASNhLg-rPQE8UrgOnQk7xfcdLIEquf_0aGvSCHgQ5VepdKtpKNjQgrom2UldjZxHFyBdl9bgYj8PKwNC7F_sakZAT3zfO0wXLCuGdgi1YoIWlhVCtq5-bIkULS_lsOUYwZfXywufv7fp_R_Am8FbNPRgLJRPyuao7zBQNEC6yvCMmwWGC1V26wDbUbRyYnxVFf5wOOYZq-dbEH_YfKAopA7fECP02uBKXZXErS5z3URakWxHqAs6ICYSaiyXZPqtjINc7vQeTHWMw.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Wed, 06 Dec 2023 07:08:38 GMT</pubDate>
-</item>
-<item>
-<title>📣 #发现频道 【自荐Tkinter布局助手】适用于python的可视化界面设计利器 https://meta.appinn.net/t/topic/50072</title>
-<link>https://t.me/appinnfeed/9005</link>
-<guid>https://t.me/appinnfeed/9005</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/9005?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />【自荐Tkinter布局助手】适用于python的可视化界面设计利器<br /><br /><a href="https://meta.appinn.net/t/topic/50072" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/50072</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/50072">【自荐Tkinter布局助手】适用于python的可视化界面设计利器</a></b><br /><p>简介 TkinterHelper（Tkinter布局助手）是一款为Tkinter打造，仅需拖拽组件进行布局，所见即所得，非常方便就能做出一个GUI界面，再配合 pyinstaller 库将程序打包成exe，简直是开发小工具的利器。  项目地址 github地址  gitee地址  在线体验 Tkinter布局助手 ~ 一款在线设计仅需拖拽就能生成Tkinter布局的小工具 (pytk.net)  布局助手截图</p><img src="https://cdn4.cdn-telegram.org/file/ClXbXp7sTdChm4Vy8gmil3MIJLTxHVU5G5qBYPS-a_1ksNu5kMOobS97aqTwIbvVPPX_ErcgEKcB1A_NJXXBasFLnsTPagTNOeEy6Ti_DpFK__LxfG7cpG4Aae_I6vP0QECVN6zg_-kWEsxJw8WGsTeG_-gx-Cd-EHE6bfAI7LQjRvqzCyLAL5HbeT9140WWmyUkuu5Liiaw2abREIWScITpuWkzu912gFGdptCkCYW_tnH4ZkpIBzAD11fwSJEVmBCoJq-BTvfX_bhYYqefWh17Dkh448JOjT0Ck2ILDS7nbbFtdeNFMTDmtx_uq51GbwRlUPRptTHDGEhdYH2uug.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Wed, 06 Dec 2023 06:44:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

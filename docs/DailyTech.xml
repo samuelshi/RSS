@@ -5,14 +5,35 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>🖼 #Netflix #Chrome 🎬 记一次 Netflix 错误代码 UI3013 的解决办法 ❓ 上周末《三体》上线，恰好编辑部在之前 Netflix 家庭组翻车后重新开通了 HK 家庭车...</title>
+<link>https://t.me/NewlearnerChannel/12584</link>
+<guid>https://t.me/NewlearnerChannel/12584</guid>
+<content:encoded><![CDATA[
+
+<p><a href="https://t.me/NewlearnerChannel/12584?q=%23Netflix">#Netflix</a> <a href="https://t.me/NewlearnerChannel/12584?q=%23Chrome">#Chrome</a> <br /><br /><span class="emoji">🎬</span> <b>记一次 Netflix 错误代码 UI3013 的解决办法</b><br /><br /><span class="emoji">❓</span> 上周末《三体》上线，恰好编辑部在之前 Netflix 家庭组翻车后重新开通了 HK 家庭车，于是自己开心地点进官网准备看起来。但一番加载后屏幕显示：无法播放，错误代码 UI3013<br /><br /><span class="emoji">😡</span> 于是我着手开始搜索这个错误代码，但 Netflix 官方帮助文档暂时没有相关解释，<a href="https://www.reddit.com/r/netflix/comments/1bjda57/error_code_ui3013/" rel="noopener" target="_blank">Reddit</a> 论坛网友指出：这和浏览器安装的 Netflix 1080P 插件有关<br /><br /><span class="emoji">💡</span> 我想到自己此前确实安装过诸如 <a href="https://t.me/NewlearnerChannel/4588" rel="noopener" target="_blank">Netflix 1080P</a> 和 Super Netflix 等插件，于是果断停用，发现可以正常观看剧集。于是答案就很清晰了：<b>Netflix 官方开始针对一些知名的强制1080P 画质商店扩展或开源项目</b><br /><br /><span class="emoji">👀</span> 但是新问题来了，如果想用 Chrome 等浏览器看 Netflix 1080P 画质怎么办？论坛也给出了回答：使用 fork 著名开源项目的其他项目，并通过手动安装，这样就不会报错<br /><br /><span class="emoji">🤖</span> 最终我使用的是 <a href="https://github.com/DavidBuchanan314/Turbo-Recadmiumator" rel="noopener" target="_blank">Turbo-Recadmiumator</a>，下载后将 src 文件夹手动拖入 Chrome 安装，进入 Netflix 播放页面可以手动指定码率、CDN 等选项，以便获得 1080P 画质。问题圆满解决，这也不是 Netflix 第一次针对类似的增强画质扩展，方法总是有的<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/VYcAxprou0GFNAewG_IFsDhZNruP9xwy87TznXWibqZkJCBCh-1dqmKO4b_o4cTS5tFoIXNzLkJYqxNQAI6wcRudnIqBY5cRMaKQlrPN-vzTIZxx0ygKw0Us2YfDiOZKe6AKhLXxEksaUrjhM3T4bvzwf9xDccZI5szy5V_72vRvOFLLsWSWx7ZRKbXNEmgc1agGg-Rcgjr0JpMYWA_FwURD-tQdjloM0U4MkoqNIQ3E3oARtTEsga7-Ygc7Xz9MWYhoQzvflcA5vPN2jzn0cd3KKRsZGf3Hyu7NeoncjEJWz1-Y0oxPhUV8n5mpixxdm-xmnMWLuFUyQMGXQWc-TA.jpg" />
+]]></content:encoded>
+<pubDate>Tue, 26 Mar 2024 04:04:17 GMT</pubDate>
+<pubDate>Tue, 26 Mar 2024 04:04:17 GMT</pubDate>
+</item>
+<item>
+<title>星链作为一种卫星通讯工具的高效性使得其成为全球日益增长的黑市交易目标 Spacex 的“星链”宣称其高速卫星互联网“几乎可以在地球上的任何地方使用”。在现实世...</title>
+<link>https://t.me/xhqcankao/9087</link>
+<guid>https://t.me/xhqcankao/9087</guid>
+<content:encoded><![CDATA[
+
+<p><b>星链作为一种卫星通讯工具的高效性使得其成为全球日益增长的黑市交易目标</b><br /><br />Spacex 的“星链”宣称其高速卫星互联网“几乎可以在地球上的任何地方使用”。在现实世界中，它的覆盖范围延伸到马斯克的卫星服务没有运营协议的国家，包括专制政权统治的地区。彭博社的一项调查发现，“星链”套件被非法交易和激活的例子比比皆是。这些设备是如何被走私的以及“星链”在黑市上的泛滥供应，都表明其滥用是一个系统性的全球性问题。在饱受十年内战之苦的也门，一名政府官员承认星链被广泛使用，以确保商业和个人通信终端的安全，并规避当前缓慢且常常被审查的互联网服务。位于堪培拉的独立智库澳大利亚战略政策研究所 (ASPI) 国际与安全事务高级研究员埃马·肖蒂斯在谈到星链系统时说道：“这令人深感忧虑，因为它是一个由私人公司运营的不受管控的系统，对于谁能使用它以及它被如何使用没有任何问责制度。”<br /><br />—— <a href="https://www.bloomberg.com/news/features/2024-03-25/elon-musk-s-spacex-sees-starlink-black-market-trade-grow-worldwide" rel="noopener" target="_blank">彭博社</a></p>
+]]></content:encoded>
+<pubDate>Tue, 26 Mar 2024 04:19:23 GMT</pubDate>
+<pubDate>Tue, 26 Mar 2024 04:19:23 GMT</pubDate>
+</item>
+
+<item>
 <title>流媒体 Spotify 在英国测试“视频学习课程” 音乐流媒体服务 Spotify 于当地时间3月25日开始在英国测试新的“视频学习课程”，这是继音乐流媒体、播客和有声读物...</title>
 <link>https://t.me/xhqcankao/9086</link>
 <guid>https://t.me/xhqcankao/9086</guid>
 <content:encoded><![CDATA[
-
 <p><b>流媒体 Spotify 在英国测试“视频学习课程”</b><br /><br />音乐流媒体服务 Spotify 于当地时间3月25日开始在英国测试新的“视频学习课程”，这是继音乐流媒体、播客和有声读物之后的第四类内容。将通过 Spotify 的移动和桌面应用提供来自 BBC Maestro、Skillshare、Thinkific 和 PlayVirtuoso 等第三方平台的视频课程。该流媒体服务提供四个类别的课程：音乐制作、发挥创意、学习商务与健康生活。免费和付费 Spotify 订阅者都可以免费观看每门课程至少两节视频课程，但必须付费才能观看完整课程。<br /><br />—— <a href="https://www.theverge.com/2024/3/25/24110545/spotify-online-courses-learning-video-test-uk-skillshare-bbc-maestro-playvirtuoso" rel="noopener" target="_blank">The Verge</a></p>
 ]]></content:encoded>
-<pubDate>Tue, 26 Mar 2024 03:29:22 GMT</pubDate>
 <pubDate>Tue, 26 Mar 2024 03:29:22 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +41,10 @@
 <link>https://t.me/xhqcankao/9085</link>
 <guid>https://t.me/xhqcankao/9085</guid>
 <content:encoded><![CDATA[
-
 <p><b>上海首批4家企业试点饮料分级标识引导“控糖”</b><br /><br />为了帮助消费者快速简单地辨别饮品中的糖分等情况，上海开始试点饮料营养选择分级标识。上海市疾控中心介绍，“A、B、C、D”营养选择标识根据“非乳源性糖、非糖甜味剂、饱和脂肪、反式脂肪”四种含量，对饮料进行的综合分级。例如，不加糖、不含奶的纯茶饮品属于A类；而中杯、少糖的奶茶是B类；部分风味果茶或风味咖啡属于C类；奶盖茶则属于C或D类。此前法国、澳大利亚、新加坡等国家已推出饮料营养分级。此次，上海率先在国内试点，是基于去年11月1日实施的《上海市爱国卫生与健康促进条例》第二十六条： 要在含糖饮料和酒精饮料的售卖区域来设置健康提示标识。目前，共有4家企业参与饮料分级标识首批试点，范围将从现制茶饮逐步覆盖到瓶装饮料外包装。<br /><br />—— <a href="https://www.thepaper.cn/newsDetail_forward_26812938" rel="noopener" target="_blank">澎湃新闻</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 26 Mar 2024 03:10:24 GMT</pubDate>
-<pubDate>Tue, 26 Mar 2024 03:10:24 GMT</pubDate>
 </item>
-
 <item>
 <title>台积电3nm获苹果、英特尔及AMD频频追单 台积电受惠苹果、英特尔及 AMD 三大客户频频追单，3nm 订单动能强劲，今年逐季看增。台积电向来不评论客户订单动态，据了...</title>
 <link>https://t.me/xhqcankao/9084</link>
@@ -9296,24 +9314,6 @@
 <p><b>微软 Edge 浏览器 Win PC 端支持从移动设备上传文件</b><br /><br />微软电脑端 Edge 浏览器最新稳定版本悄悄加入了“从移动设备上传”功能。用户在使用微软 Edge 中的上传功能时可以直接从手机上传文件。该功能适用于所有网站，并且对文件格式没有任何限制。1、启动 Edge，单击任意网站上的“上传”选项，然后在文件选择器中选择“从移动设备上传”选项。2、使用手机上的相机应用扫描二维码。3、单击Edge 中的“确认”。4、单击上传文件选项。5、浏览手机并选择要上传的文件。6、该文件将被上传到网站。电脑和手机必须处于同 Wi-Fi 网络下。<br /><br />—— <a href="https://www.windowslatest.com/2024/02/20/microsoft-edge-gets-upload-from-mobile-on-windows-11-and-windows-10/" rel="noopener" target="_blank">WindowsLatest</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 21 Feb 2024 07:29:10 GMT</pubDate>
-</item>
-<item>
-<title>亚马逊在印度推出 Bazaar 商店 以低价产品为主 据知情人士透露，亚马逊公司将在印度推出一个新的 Bazaar 商店，以低价的无品牌时尚和生活方式产品为特色。亚马逊...</title>
-<link>https://t.me/xhqcankao/8315</link>
-<guid>https://t.me/xhqcankao/8315</guid>
-<content:encoded><![CDATA[
-<p><b>亚马逊在印度推出 Bazaar 商店 以低价产品为主</b><br /><br />据知情人士透露，亚马逊公司将在印度推出一个新的 Bazaar 商店，以低价的无品牌时尚和生活方式产品为特色。亚马逊 Bazaar 商店已开始对卖家进行入驻培训，并要求他们列出价格低于 600 卢比的无品牌产品，包括服装、手表、鞋子、珠宝和箱包。产品的交付时间可能为两到三天，这与向 Prime 会员提供的快速交付主张不同。<br /><br />—— <a href="https://m.economictimes.com/tech/technology/taking-the-low-price-unbranded-route-amazon-set-to-launch-bazaar/articleshow/107861692.cms" rel="noopener" target="_blank">印度经济时报</a></p>
-]]></content:encoded>
-<pubDate>Wed, 21 Feb 2024 06:49:09 GMT</pubDate>
-</item>
-<item>
-<title>印度尼西亚颁布法规，要求数字平台向新闻媒体机构付费 当地时间2月20日，印度尼西亚总统佐科·维多多表示，他已签署了一项法规，要求数字平台向为其提供内容的新...</title>
-<link>https://t.me/xhqcankao/8314</link>
-<guid>https://t.me/xhqcankao/8314</guid>
-<content:encoded><![CDATA[
-<p><b>印度尼西亚颁布法规，要求数字平台向新闻媒体机构付费</b><br /><br />当地时间2月20日，印度尼西亚总统佐科·维多多表示，他已签署了一项法规，要求数字平台向为其提供内容的新闻媒体机构支付费用。此举旨在为新闻媒体行业和大型科技公司提供公平的竞争环境。印度尼西亚的数字平台包括谷歌、Meta 和一些本地聚合平台。谷歌发言人表示，他们已经与新闻出版商还有当地政府合作，致力于在印度尼西亚建立一个的可持续新闻生态系统。<br /><br />—— <a href="https://www.reuters.com/business/media-telecom/indonesia-issues-regulations-requiring-digital-platforms-pay-media-content-2024-02-20/" rel="noopener" target="_blank">路透社</a></p>
-]]></content:encoded>
-<pubDate>Wed, 21 Feb 2024 06:28:55 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -4,6 +4,17 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>❓ #问题求助 如何自动拒绝USB调试请求 https://meta.appinn.net/t/topic/54389</title>
+<link>https://t.me/appinnfeed/10060</link>
+<guid>https://t.me/appinnfeed/10060</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10060?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />如何自动拒绝USB调试请求<br /><br /><a href="https://meta.appinn.net/t/topic/54389" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54389</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54389">如何自动拒绝USB调试请求</a></b><br /><p>背景：有一台已root的Android 6放单位做打卡机用，为了防止各种原因造成的漏打卡就用了scrcpy，然后就把5555端口映射成60666到公网上方便我随时远程，现在就会经常被扫端口然后弹出授权请求阻碍tasker自动打卡。  需求：由于我需要的调试设备都已经授权完毕，现在想要自动拒绝一切新增的USB调试授权请求，通过模块软件等等任何方式实现都可以。</p><img src="https://cdn4.cdn-telegram.org/file/Bt4aDHL32zMnPtiSRRwEAHeNhqwW25V95DvZz9mBM8aRC9dCN57e2LMgDD9bmC1stC_vQiATlCpbL2yL131ZyZrH0H02UcsfFPGoU4d38LCUwBEUwOY2lh0S57iWnSNevE6rVhdYpu5rAvMBbp-vdHm8lx1sajf6f1lp7j-3fM2rkwDVx0mHvVsFA3LWhNIuluHmrYEeqKcsyw0jlnMjiAROpkPhadXUyPVUAhXsYRDZffxoWSzmT3H7CJOFMtUXmvpKcv365wUxPBebOtfaTYr0W38fPFWG9Ch8p8XlHjL138hS_u1ObdJlKwRM-vlp1_3MoWdwfWarxtNCJ1y6XA.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Wed, 27 Mar 2024 02:20:01 GMT</pubDate>
+<pubDate>Wed, 27 Mar 2024 02:20:01 GMT</pubDate>
+</item>
 
 <item>
 <title>❓ #问题求助 有好用的视频修复软件吗？ https://meta.appinn.net/t/topic/54383</title>

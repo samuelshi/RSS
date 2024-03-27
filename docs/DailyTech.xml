@@ -5,17 +5,26 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>Google Play 上的免费 VPN 应用将 Android 手机变成代理服务器 谷歌 Play 商店上有超过15款免费 VPN 应用被发现使用恶意软件开发工具包，该工具包将安卓设备在不...</title>
+<link>https://t.me/xhqcankao/9116</link>
+<guid>https://t.me/xhqcankao/9116</guid>
+<content:encoded><![CDATA[
+
+<p><b>Google Play 上的免费 VPN 应用将 Android 手机变成代理服务器</b><br /><br />谷歌 Play 商店上有超过15款免费 VPN 应用被发现使用恶意软件开发工具包，该工具包将安卓设备在不知情的情况下变成住宅代理。住宅代理是通过位于家中的设备为其他远程用户路由互联网流量的设备，使流量看起来合法并且不太可能被阻止。<br /><br />HUMAN 的 Satori 威胁情报团队今天发布的一份报告列出了谷歌 Play 商店上的28款应用，这些应用秘密地将安卓设备变成代理服务器。在这28款应用中，有17个被伪装成免费 VPN 软件。<br /><br />Satori 分析师报告称，违规应用均使用 LumiApps 的软件开发工具包 (SDK)，其中包含“ Proxylib ” (一个用于执行代理的 Golang 库)。调查显示，有 28 个应用利用 ProxyLib 库将 Android 设备转换为代理，如下所列：<a href="https://t.me/xhqcankao/9116?comment=518454" rel="noopener" target="_blank">链接<span class="emoji">🔗</span></a><br /><br />—— <a href="https://www.bleepingcomputer.com/news/security/free-vpn-apps-on-google-play-turned-android-phones-into-proxies/" rel="noopener" target="_blank">Bleeping Computer</a></p>
+]]></content:encoded>
+<pubDate>Wed, 27 Mar 2024 11:57:28 GMT</pubDate>
+<pubDate>Wed, 27 Mar 2024 11:57:28 GMT</pubDate>
+</item>
+
+<item>
 <title>🖼 #People #APP #Blog 🐈 中村拓人和他的软件作品 相信频道许多 macOS 用户都了解过 RunCat 这个可爱的菜单栏项目，它的作者正是今天要介绍的中村拓人。中...</title>
 <link>https://t.me/NewlearnerChannel/12591</link>
 <guid>https://t.me/NewlearnerChannel/12591</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://t.me/NewlearnerChannel/12591?q=%23People">#People</a> <a href="https://t.me/NewlearnerChannel/12591?q=%23APP">#APP</a> <a href="https://t.me/NewlearnerChannel/12591?q=%23Blog">#Blog</a><br /><br /><span class="emoji">🐈</span> <b>中村拓人和他的软件作品</b><br /><br />相信频道许多 macOS 用户都了解过 RunCat 这个可爱的菜单栏项目，它的作者正是今天要介绍的中村拓人。中村拓人开发了许多有趣、实用的软件，还记录了一些开发心得<br /><br /><span class="emoji">⚙️</span> <b>软件</b><br /><br />你可以在 <a href="https://kyome.io/?lang=en#worksSection" rel="noopener" target="_blank">这里</a> 看到中村拓人开发的全部软件项目，其中包含一些开源项目、macOS 以及 iOS 软件。在中村拓人还是一名中学生的时候，他第一次接触 iPhone 3G 并决心成为一名软件工程师<br /><br />软件中最有名的莫过于 macOS 菜单栏跑动的猫 —— RunCat，此外他还开发了许多 macOS 系统实用工具（类似 One Switch）以及文字、图像、动画处理工具<br /><br />中村拓人的 iOS 开发不再专注于工具属性，而是关注起 MIDI 键盘、日常轨迹、拍照等更加生活化的场景。此外，他还开发了几个 Web 工具项目<br /><br /><span class="emoji">✏️</span> <b>博客文章</b><br /><br />中村拓人的 <a href="https://zenn.dev/kyome" rel="noopener" target="_blank">博客</a> 主要记录了他开发 macOS 和 iOS 软件中积累的一些心得，如果你也恰好在使用 SwiftUI 开发苹果生态软件，可以阅读一下<br /><br /><span class="emoji">🔮</span> <b>其他</b><br /><br />除了程序开发，中村拓人还有一些其他的爱好，譬如 <a href="https://kyome.io/pazzle/index.html?lang=en" rel="noopener" target="_blank">解密</a>、<a href="https://kyome.io/math/index.html?lang=en" rel="noopener" target="_blank">数学绘图</a> 等。他还在我的世界中通过红石电路搭建了文字处理器、音乐游戏机等，你可以在他主页的最下方找到相关视频<br /><br /><span class="emoji">💡</span>「XXX 和 TA 的 XXX」专题旨在挖掘一些不那么大众的开发者、设计师、生活爱好者，并和大家分享他们的作品。大家可以通过 <a href="https://t.me/NewlearnerChannel/12591?q=%23People">#People</a> 这个 Tag 阅读本专题的往期内容<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/ivBTf9NJylJfm88tHH9Qpyd1jc4-uzyIExXrTTF1AlLAFDNHE-UxVaO6TWrEAXqpM0pAEBcxmJD_OxEvHnQzyGgline4ahdfubDWAkK8ZwUptLxcypXm30QXf3w3Kyc4pQE-DgUgXhMs5QMQGmSdlgmhDW3JfPfluNtbJqSl4CWV7-hxzXSIDgQlN9xSusAWx5yCDHuszXSTyh6hPKq7Ka9FOkX6FVSIgAbytPIrAqwt3FhlS4cedSSOrLkwVptqGe5afo5H0DuKXqqjt8QkJzLd36yjjxcm1IQbx2cVDwh9mMQ9-IakL4ZQWxSmxBcQ0uCcuJ2jiTWkmGMPTfFepw.jpg" />
 ]]></content:encoded>
 <pubDate>Wed, 27 Mar 2024 10:04:36 GMT</pubDate>
-<pubDate>Wed, 27 Mar 2024 10:04:36 GMT</pubDate>
 </item>
-
 <item>
 <title>阿联酋航空：波音新 CEO 必须有工程背景 阿联酋航空公司的首席执行官蒂姆•克拉克表示，这家陷入危机的美国飞机制造商应确保其新任首席执行官拥有工程方面的经验...</title>
 <link>https://t.me/xhqcankao/9115</link>
@@ -9302,15 +9311,6 @@
 <p><b>美国将投入巨资更换港口的中国制造起重机</b><br /><br />美国政府周三采取了一系列旨在改善海事网络安全的行动，其中包括上述举措。这些行动包括美国海岸警卫队发布安全指令，强制要求目前部署在战略海港的外国制造起重机达到某些数字安全要求，总统拜登也发布行政命令，为运营美国港口的计算机网络设定基线网络安全标准。<br /><br />政府官员表示，未来五年内将投资200多亿美元用于港口安全，包括国内货运起重机的生产。这笔资金来自2021年通过的1万亿美元两党基础设施法案，将支持日本三井(Mitsui)的一家美国子公司生产起重机，官员们称这将是30年来首次在美国国内生产起重机。<br /><br />—— <a href="https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%8A%95%E5%85%A5%E5%B7%A8%E8%B5%84%E6%9B%B4%E6%8D%A2%E6%B8%AF%E5%8F%A3%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E8%B5%B7%E9%87%8D%E6%9C%BA-9d82433f" rel="noopener" target="_blank">华尔街日报</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 22 Feb 2024 09:30:00 GMT</pubDate>
-</item>
-<item>
-<title>🖼 中国生育成本报告2024版 https://download.caixin.com/upload/1.pdf 网传的生育成本图，来自这个PDF. 中国0-17岁 平均养育成本是53.8万 作者为育娲人口研究...</title>
-<link>https://t.me/jike_collection/9572</link>
-<guid>https://t.me/jike_collection/9572</guid>
-<content:encoded><![CDATA[
-<p>中国生育成本报告2024版<br /><br /><a href="https://download.caixin.com/upload/1.pdf" rel="noopener" target="_blank">https://download.caixin.com/upload/1.pdf</a><br /><br />网传的生育成本图，来自这个PDF.<br /><br />中国0-17岁  平均养育成本是53.8万<br /><br />作者为育娲人口研究，专家团队：梁建章，任泽平，黄文政，何亚福 <a href="https://t.me/jike_collection/9572?q=%23%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E8%A1%8C%E4%B8%9A%E5%86%85%E5%B9%95">#你不知道的行业内幕</a></p><img src="https://cdn4.cdn-telegram.org/file/XsYlzUHZpx4avCuv_VMjSeE2Cd6mjfYQoXcdfVH7mFtUlaf04RS1LGh1BcU47zu1u4qRu8vT2WvTIkFg2Nyi3D9e2iG3WORdQTzAY-wkVTyNHudwoXhyP1FNno0s7JxQIGENmO-ks2PZJ8q_9U5clUaK6JeK3qUbx4cXrwnx9YII8eQLsE9ttEiTaCyREfEUcm7BskGrYhT0ydEIJLodWCbTfq3syjlJU0h4btXsw429KbE3WNeb4ZFa-tmq7vvH-UkGV1xGXkicKroAIdGwgDkpbwAltWVPxHDr-YXS1XFgfM_UUEZOjjSaYxwAyoL9R9DU12s8tTonXnvDmKzXfw.jpg" />
-]]></content:encoded>
-<pubDate>Thu, 22 Feb 2024 08:09:51 GMT</pubDate>
 </item>
 </channel>
 </rss>

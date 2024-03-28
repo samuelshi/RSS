@@ -5,17 +5,37 @@
 <link>https://t.me/s/appinnfeed</link>
 
 <item>
+<title>[GIF] MangoHud 是一款专为 Linux 系统设计的高性能监控工具，它通过 Vulkan 和 OpenGL 叠加层技术，为用户提供了实时监控 FPS（每秒帧数）、系统温度、CPU 和 G...</title>
+<link>https://t.me/appinnfeed/10080</link>
+<guid>https://t.me/appinnfeed/10080</guid>
+<content:encoded><![CDATA[
+
+<p>MangoHud 是一款专为 Linux 系统设计的高性能监控工具，它通过 Vulkan 和 OpenGL 叠加层技术，为用户提供了实时监控 FPS（每秒帧数）、系统温度、CPU 和 GPU 负载等功能。该工具特别适合游戏玩家和性能调优爱好者使用，帮助他们更好地了解和优化系统性能。<br /><br />### 功能特点<br />- **实时监控**：MangoHud 可以实时显示 FPS、CPU 和 GPU 温度、负载等关键性能指标。<br />- **高度可配置**：用户可以通过配置文件调整显示的信息、位置和样式。<br />- **环境变量支持**：通过环境变量，用户可以快速调整配置，而无需编辑配置文件。<br />- **Vsync 设置**：支持对 OpenGL 和 Vulkan 应用程序的垂直同步（Vsync）进行设置，以优化游戏体验。<br />- **日志记录**：MangoHud 支持记录 FPS 日志，用户可以将日志上传到 <a href="http://flightlessmango.com/" rel="noopener" target="_blank">FlightlessMango.com</a> 进行在线可视化，或使用 <code>mangoplot</code> 工具进行本地分析。<br /><br />### 使用场景<br />MangoHud 适用于需要监控系统性能的多种场景，如游戏、视频播放、渲染任务等。它可以帮助用户发现性能瓶颈，调整系统设置，以获得更流畅的体验。<br /><br />### 注意事项<br />- MangoHud 目前不支持 Windows 操作系统。Windows 用户可能需要寻找其他类似的性能监控工具。<br />- 在使用 MangoHud 时，确保遵循仓库中的指南，正确安装所有依赖项，以避免兼容性问题。<br />- 对于高级用户，MangoHud 提供了丰富的配置选项，可以深入定制监控体验。<br /><br />总结来说，MangoHud 是一款强大的<a href="https://github.com/flightlessmango/MangoHud/blob/master/assets/overlay_example.gif" rel="noopener" target="_blank">https://github.com/flightlessmango/MangoHud/blob/master/assets/overlay_example.gif</a> Linux 系统性能监控工具，它通过提供实时的 FPS 和硬件状态监控，帮助用户优化系统性能。虽然它不支持 Windows 系统，但对于 Linux 用户来说，这是一个非常有价值的工具。<br /><br /><a href="https://github.com/flightlessmango/MangoHud" rel="noopener" target="_blank">https://github.com/flightlessmango/MangoHud</a></p> <video controls="controls" poster="https://cdn5.cdn-telegram.org/file/tdG2oYVJAmD4EGdojsikT5vhN7DWImbIQhBjdoIMZks6LqXWuWRC08Can4gedPFVqqU1vr8K5DSUiyy2UoNRWrTlg-V-_EkFtKeUEuzGFJCDwrQ1mcXayaDT-AnNk6uyIiDWz7bPTOnuKdI6qaWkpWMEEN6Oa7Ig3sQGlVcHuCazdF51_p4V2tYHiBgw_KXXz8Y4ZYgkvNgGGxXBqlKoHJ1tJamshPufvK4u9KogfTUUgFhMn68JVHkAAqc9hNQW__mT20_rqi5I9o6fyiRIZEmI4kd6wvXtjpHaGlrltknFXWaOcFFTJz7mcC8uu4KNhGwXGsTeoy2Y2lYvO38bTw" src="https://cdn5.cdn-telegram.org/file/492caf1d82.mp4?token=igg4DbyxZeb4Nxvy1vwbdsRd2vV9mmOTHmcQIc0zMQHqhQ8pJY3s5kOYmlIQwpevBkyUCS7mx5uFaotCalqvLeKpLi-hlzR0W3IhAr7PQN7r_8Gzm91YD5S9HFbb0kHV-LktQ1RNgIWgW-STcLf0hZ22UEj_Bulg3UbXckmzRRxdzf3sWuF78JLeg2Ab5oip_oQytTUJLu8fXYYdAsqqGIuMPoLYcXIaZ60KeExItZxCnKPl8upVF107PkMcRyD7KdeL8DHM5Nq3QMA63tEPj8Pjxamy11YTheiA2iysDp2WXKhuO3vPJMWO1Z96HEvZyuM_kDIEjpYfi3N6b3HQ3g" style="width: 100%;"></video>
+]]></content:encoded>
+<pubDate>Thu, 28 Mar 2024 02:08:14 GMT</pubDate>
+<pubDate>Thu, 28 Mar 2024 02:08:14 GMT</pubDate>
+</item>
+<item>
+<title>📣 #发现频道 [自荐] ReHabit - 专为养成每日习惯、实现自我提升的习惯管理App https://meta.appinn.net/t/topic/54437</title>
+<link>https://t.me/appinnfeed/10079</link>
+<guid>https://t.me/appinnfeed/10079</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/10079?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />[自荐] ReHabit - 专为养成每日习惯、实现自我提升的习惯管理App<br /><br /><a href="https://meta.appinn.net/t/topic/54437" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54437</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54437">[自荐] ReHabit - 专为养成每日习惯、实现自我提升的习惯管理App</a></b><br /><p>软件名称 ReHabit  应用平台  iOS iPadOS macOS  推荐类型 【开发者自荐】  一句话简介 自动追踪每日目标完成进展，以《高效能人士的七个习惯》中的理论来实践自我提升。  应用简介 任何习惯都是在反复练习或者重复性的经历中形成的，所以不再将目标留在计划中。受《高效能人士的7个习惯》和《要事第一》中理念的启发，ReHabit为了帮助你养成好习惯，提供了自我提升、角色与目标、个人使命宣言等功能。同时，为了降低养成习惯的门槛，还提供了许多自动记录的方式和快捷方式，让你在平常使用手机的时候完成打卡记录。…</p><img src="https://cdn4.cdn-telegram.org/file/GawGadk1aI9QjiSST_P36HNtuIRktHaYYeTBmyJuAUHQQca8EpZNb80nQwM9RTxIn4tx66UOnIuoRxo6YzGpuMQxW-znM7mUaYTMAEQQEg3U5rSRd0qht64w899pP4IxaGiumu238VYQDgqRZKwDwSwfQX5Jo0ALQ6MfR2OWT4f5dCHT8-8muFkKEjbavxTX0dZYFdDowRoQxEtANhXIJZJWwuHAxAlK5y-_2SSsAg9HZSEblpJHImK816vokJx9OwRHOxDb4JO8jmptkAFax_fyRLlEpyLa2cYZ2kU8Zfq79g1RGPvGCqEeiTHHohRzsOcnh87ouS1_bqF3KiqEBw.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Thu, 28 Mar 2024 01:24:01 GMT</pubDate>
+<pubDate>Thu, 28 Mar 2024 01:24:01 GMT</pubDate>
+</item>
+
+<item>
 <title>https://utgd.net/article/9119 您提供的链接是一篇关于如何使用苹果的Numbers应用程序来创建和管理植物养护日志的文章。文章由文刀漢三撰写，主要介绍了作者如...</title>
 <link>https://t.me/appinnfeed/10078</link>
 <guid>https://t.me/appinnfeed/10078</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://utgd.net/article/9119" rel="noopener" target="_blank">https://utgd.net/article/9119</a><br /><br />您提供的链接是一篇关于如何使用苹果的Numbers应用程序来创建和管理植物养护日志的文章。文章由文刀漢三撰写，主要介绍了作者如何通过Numbers来记录浇水、施肥等植物养护信息，以及如何利用Numbers的功能来提高养护植物的效率和便捷性。<br /><br />文章首先强调了绿植在家居环境中的装饰作用，以及养植物的乐趣和挑战。作者提到，随着养护的植物数量增加，记忆每株植物的浇水和施肥时间变得困难。因此，作者需要一种工具来帮助记录和提醒植物的养护活动。<br /><br />在寻找合适的应用程序未果后，作者选择了使用Numbers来自制一个植物养护日志模板。这个模板可以记录以下信息：<br /><br />1. 植物名称<br />2. 浇水记录<br />3. 施肥记录<br />4. 其他养护记录，例如除虫、杀菌、换盆、扦插等<br />5. 距离上次浇水的时间<br /><br />特别值得注意的是，作者利用Numbers的公式和条件高亮显示功能，自动计算并用颜色表示植物的浇水状态。绿色表示安全期，红色表示可能需要浇水的危险区，黄色则是介于两者之间的状态，需要留意盆土情况。<br /><br />文章还介绍了如何格式化日期、快速输入日期以及如何通过iOS的快捷指令小组件将Numbers表格添加到系统桌面，以便快速访问和更新养护日志。<br /><br />总的来说，这篇文章为那些希望通过数字化工具来提高植物养护管理效率的爱好者提供了一个实用的解决方案。通过使用Numbers应用程序，不仅可以有效地记录和跟踪植物的养护活动，还可以通过颜色编码和自动化功能来简化日常养护任务。<br /><br />by kimi AI</p><blockquote><b>#UNTAG</b><br /><b><a href="https://utgd.net/article/9119">用 Numbers 做植物养护日志</a></b><br /><p>绿植是很好的家居点缀，可以让家里多几分生机和盎然。这篇文章将分享我如何用 Numbers 做一个记录浇水、施肥等信息的养护日志。</p><img src="https://cdn4.cdn-telegram.org/file/GhmZFXk7gQH4WlLXca8hH6RyLadyTLXg9wPo94uY92b2GNDwvUF36FlbFpGdMtg7TcsboucyIjBAgS4A3UJYcy-KqV6wBz_Ks-ty-cLF2PraMrQemZEKcOpYdEasYhT1NsVnCQhzBc7CUpe4Fm3t6rbKN4bT9A06mYpHaTIFZu021VAJ_iy7Gp7dIVpMdGLoeWnXRd1jQG_8tLwXuT76Qe24MyqkCb5Pcy9H5vEp_q4Sv7p38A7E6eOywayFmdBanVwKaC4KAvhk-DBlZ65eXQ_801DxxcnQNJTNemdI99KX1L6NIS7bA_5Gw4aQa7Ak2RAdp6iRsuOdWumI2bskhQ.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Thu, 28 Mar 2024 01:04:22 GMT</pubDate>
-<pubDate>Thu, 28 Mar 2024 01:04:22 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 Windows上有没有类似安卓FV悬浮球无障碍取词的工具 https://meta.appinn.net/t/topic/54435</title>
 <link>https://t.me/appinnfeed/10077</link>
@@ -9014,15 +9034,6 @@
 <p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/9037?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />安卓远程控制、多屏协同<br /><br /><a href="https://meta.appinn.net/t/topic/50307" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/50307</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/50307">安卓远程控制、多屏协同</a></b><br /><p>开发者自荐  一款安卓远程控制类软件，名字叫易控，用于安卓远程控制安卓，多屏协同。  目前已进入稳定发展期，功能和使用体验较为完善了，所以来自荐一下，寻求流量。  地址：GitHub - mingzhixian/Easycontrol: 易控，帮助你方便的使用手机远程控制手机。  功能特点：   使用简单 支持音频传输 多设备连接 多设备剪切板同步 多设备共享主控端物理键盘(需配合微信输入法或QQ输入法等输入中文) 低延迟 支持分辨率自适应 良好的旋转支持 支持小窗显示与全屏显示  代码是开源的（我本职…</p><img src="https://cdn4.cdn-telegram.org/file/snaJmoQjxqQQ-uE6NTQYeS3QVrSVG64Y3Dwnhst_Ag2ksoiNYvhKgPefgVtF6AOYhG9NBOZnrH7NDrBLlB9kTq2GsQWdv-VT267SrFtv4tsqf9uBwaXbBeRm9vyKsdRgL79HZh_yn20XOYUb4iJAzmmKHGKbNfVC_v-_qPcLKbwSoWbABEBuhlc9o3r1CvxOhmEXD1GK6ziqyUgrCglZaZpAUl0VR0X3rgWj_HV8OqxvwKladMTq0E0VIcbXwK4H2E-6DJS1ReDy0BG7BUQ_F-JLx11WDh3EvVxTFs1-PXhiz42Fljom2Mwv0EeATqXuEcIZ6kQUpS6ybJuyNm7Ucg.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Wed, 13 Dec 2023 09:12:01 GMT</pubDate>
-</item>
-<item>
-<title>🖼 ?</title>
-<link>https://t.me/appinnfeed/9036</link>
-<guid>https://t.me/appinnfeed/9036</guid>
-<content:encoded><![CDATA[
-<p>?</p><img src="https://cdn5.cdn-telegram.org/file/bbPViWtq8AoW2ukA7yauyUgEr38L_uTjTkVy4N1w3Ipi2mOg0PG1I725g0hUMlkvAsqstPsXG8QalNQj4W90UeM_Zp9q5itvVkPbBmEamyBJH_atvj4lCtl-yBOa6MFtL58f701R3y1iDSKyByfi4vfpRBnGN831f6QV03daLM_bIQGPpSYJH9gwi2h2NciJxiTs6oyZN-9JUmxN10zykRsCUK2ljjlblUjx5z25xp6IoYhnA6Dp_UsfB7ghey5PMYYf_UaPBeSw5lh-jAdAHV2BBiaRUw4IKxF79ahX7nARVGeCtL0d6Bgq8HvoTflI4xJqskZ8VXfHhmiazJCHXw.jpg" />
-]]></content:encoded>
-<pubDate>Wed, 13 Dec 2023 07:39:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

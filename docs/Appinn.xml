@@ -4,6 +4,28 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>❓ #问题求助 JavaScript 求助，如何把自己的 URL 填进去 https://meta.appinn.net/t/topic/54242</title>
+<link>https://t.me/appinnfeed/10090</link>
+<guid>https://t.me/appinnfeed/10090</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10090?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />JavaScript 求助，如何把自己的 URL 填进去<br /><br /><a href="https://meta.appinn.net/t/topic/54242" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54242</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54242">JavaScript 求助，如何把自己的 URL 填进去</a></b><br /><p>最近我在用一个实用的翻译油猴脚本，它按需翻译，不像「沉浸翻译」把整个页面翻译，这个小巧灵活的特性可以节省资源，尤其在使用 AI 翻译的时候。  但是遇到了一个的障碍。这个脚本只支持 OpenAI 官方和其他少数几个 API 地址，这就让我有点小失望了。在 Issue 区也看到有小伙伴提过这个问题，但一直没有解决。我在想，如果能把自己的 API 地址填进去就完美了！  自己动手尝试了修改源码，让它支持自己的 API 地址。但是不起作用  const customGPT = {     //openai: …</p><img src="https://cdn4.cdn-telegram.org/file/YWQb2YkYV8DDlP4b7ACyMoaWU3DE2Law9zmKwRqQIhpUQ9nlNHv_VSjubj-m68-S4-lffkHXPmgz2zsB_ENiUn80tYp8PZwfifyIatiUBVsikbuNy9Dnp1TLB2z-5ZkTbAk_TT3LzaoaLdFRwlk21gBvCAXFx95uYOIo85ajV2v9LezJnJmA4VG5P6DD4XiQfISQI4cOwYGgfqtqtFgBP9H6uugMa5YludnXhSnkokeMpcH38-jCmHI9MBe2VceOUPzKry05jaZ-BT5SO-oDo1t3ay4EIua8ai25qPWKqn04PB_OybQz75r2OU2bD1LReyQfe8qdr_qE_WOCIl4_Mw.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Thu, 28 Mar 2024 12:00:01 GMT</pubDate>
+<pubDate>Thu, 28 Mar 2024 12:00:01 GMT</pubDate>
+</item>
+<item>
+<title>❓ #问题求助 AMD fuck, 狗都不用 https://meta.appinn.net/t/topic/54466</title>
+<link>https://t.me/appinnfeed/10089</link>
+<guid>https://t.me/appinnfeed/10089</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10089?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />AMD fuck, 狗都不用<br /><br /><a href="https://meta.appinn.net/t/topic/54466" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54466</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54466">AMD fuck, 狗都不用</a></b><br /><p>Intel YES, 起因是去年四月份买了台 HX99g 的小主机, 本来考虑 NUC 的听到打算停产担心售后就没考虑了, 之后就是恶梦般的体验, 见识了什么叫做 AMD 狗都不用, 开始 Win10 是长时间休眠卡死, 基本主流带桌面环境的 Linux 也都卡死, 这点小问题还是忍了, 过了几个月更新系统补丁就开始频繁蓝屏, 送去售后说一切 OK, 搞了半天关闭 cpu䜭频后可以正常使用, 但是不能睡眠一睡就死, 前两个月安装了 2024 的两个补丁机器彻底歇菜了, 重装系统什么驱动不打放着就会蓝屏,…</p><img src="https://cdn4.cdn-telegram.org/file/YWQb2YkYV8DDlP4b7ACyMoaWU3DE2Law9zmKwRqQIhpUQ9nlNHv_VSjubj-m68-S4-lffkHXPmgz2zsB_ENiUn80tYp8PZwfifyIatiUBVsikbuNy9Dnp1TLB2z-5ZkTbAk_TT3LzaoaLdFRwlk21gBvCAXFx95uYOIo85ajV2v9LezJnJmA4VG5P6DD4XiQfISQI4cOwYGgfqtqtFgBP9H6uugMa5YludnXhSnkokeMpcH38-jCmHI9MBe2VceOUPzKry05jaZ-BT5SO-oDo1t3ay4EIua8ai25qPWKqn04PB_OybQz75r2OU2bD1LReyQfe8qdr_qE_WOCIl4_Mw.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Thu, 28 Mar 2024 11:20:01 GMT</pubDate>
+<pubDate>Thu, 28 Mar 2024 11:20:01 GMT</pubDate>
+</item>
 
 <item>
 <title>💧 #小众软件 Free Control – 基于 Scrcpy，使用 Windows 控制安卓手机 https://www.appinn.com/free-control-for-android/ Tags: #Windows, #Android, #Scrc...</title>

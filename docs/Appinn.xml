@@ -5,14 +5,24 @@
 <link>https://t.me/s/appinnfeed</link>
 
 <item>
+<title>❓ #问题求助 OBS录屏浏览器中的视频，画面卡住 https://meta.appinn.net/t/topic/54443</title>
+<link>https://t.me/appinnfeed/10081</link>
+<guid>https://t.me/appinnfeed/10081</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10081?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />OBS录屏浏览器中的视频，画面卡住<br /><br /><a href="https://meta.appinn.net/t/topic/54443" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54443</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54443">OBS录屏浏览器中的视频，画面卡住</a></b><br /><p>最近有很多在线会议，在一个网络平台开，我懒得听，想着都录下来之后倍速播放听，或者拖到飞书里给自动转出来字幕  视频部分是选择了浏览器窗口录的：     但OBS录浏览器窗口的时候发现，如果浏览器窗口被另一个最大化的窗口挡住，那么视频画面就停住了，不再变化。  但也不是所有最大化的窗口遮挡都会导致画面停住。我录的是Firefox窗口，会让画面停住的可以是最大化的Firefox窗口、Edge窗口、Office窗口等等，不过PDF-XChange Editor的窗口不会。</p><img src="https://cdn4.cdn-telegram.org/file/EFTPSXCL1lZmfhmmp0lf0XsObSmZu83hJqMZKqyeUyAQ6r70ZqnF-hn9l0nX08xOJrdEKxvEShZgVOeC4ux5Nip3nugW1zvS2bblb9rYEDPxe4IwYrm6X6zzbM4kaFaIxVoKhkeSNwXxH5Gs5Uxf_Mehg3UVHSYv44w0iceHawYrqUz7drdvbw6EUlWe5LK-MSwuwH3CpSw12EgQgFTfAqDqESlp3l11fydrNRPKqRw49hcjz-BMs-jtM05I4LzO8xjdQQ1gLzOt1cfbHXoJI1TApr_tiydw9xuxWn0CU5pHN425CkykqPhGyuERV-CwT_vj-tGgHALPk6dlbEUcHA.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Thu, 28 Mar 2024 03:00:01 GMT</pubDate>
+<pubDate>Thu, 28 Mar 2024 03:00:01 GMT</pubDate>
+</item>
+
+<item>
 <title>[GIF] MangoHud 是一款专为 Linux 系统设计的高性能监控工具，它通过 Vulkan 和 OpenGL 叠加层技术，为用户提供了实时监控 FPS（每秒帧数）、系统温度、CPU 和 G...</title>
 <link>https://t.me/appinnfeed/10080</link>
 <guid>https://t.me/appinnfeed/10080</guid>
 <content:encoded><![CDATA[
-
 <p>MangoHud 是一款专为 Linux 系统设计的高性能监控工具，它通过 Vulkan 和 OpenGL 叠加层技术，为用户提供了实时监控 FPS（每秒帧数）、系统温度、CPU 和 GPU 负载等功能。该工具特别适合游戏玩家和性能调优爱好者使用，帮助他们更好地了解和优化系统性能。<br /><br />### 功能特点<br />- **实时监控**：MangoHud 可以实时显示 FPS、CPU 和 GPU 温度、负载等关键性能指标。<br />- **高度可配置**：用户可以通过配置文件调整显示的信息、位置和样式。<br />- **环境变量支持**：通过环境变量，用户可以快速调整配置，而无需编辑配置文件。<br />- **Vsync 设置**：支持对 OpenGL 和 Vulkan 应用程序的垂直同步（Vsync）进行设置，以优化游戏体验。<br />- **日志记录**：MangoHud 支持记录 FPS 日志，用户可以将日志上传到 <a href="http://flightlessmango.com/" rel="noopener" target="_blank">FlightlessMango.com</a> 进行在线可视化，或使用 <code>mangoplot</code> 工具进行本地分析。<br /><br />### 使用场景<br />MangoHud 适用于需要监控系统性能的多种场景，如游戏、视频播放、渲染任务等。它可以帮助用户发现性能瓶颈，调整系统设置，以获得更流畅的体验。<br /><br />### 注意事项<br />- MangoHud 目前不支持 Windows 操作系统。Windows 用户可能需要寻找其他类似的性能监控工具。<br />- 在使用 MangoHud 时，确保遵循仓库中的指南，正确安装所有依赖项，以避免兼容性问题。<br />- 对于高级用户，MangoHud 提供了丰富的配置选项，可以深入定制监控体验。<br /><br />总结来说，MangoHud 是一款强大的<a href="https://github.com/flightlessmango/MangoHud/blob/master/assets/overlay_example.gif" rel="noopener" target="_blank">https://github.com/flightlessmango/MangoHud/blob/master/assets/overlay_example.gif</a> Linux 系统性能监控工具，它通过提供实时的 FPS 和硬件状态监控，帮助用户优化系统性能。虽然它不支持 Windows 系统，但对于 Linux 用户来说，这是一个非常有价值的工具。<br /><br /><a href="https://github.com/flightlessmango/MangoHud" rel="noopener" target="_blank">https://github.com/flightlessmango/MangoHud</a></p> <video controls="controls" poster="https://cdn5.cdn-telegram.org/file/tdG2oYVJAmD4EGdojsikT5vhN7DWImbIQhBjdoIMZks6LqXWuWRC08Can4gedPFVqqU1vr8K5DSUiyy2UoNRWrTlg-V-_EkFtKeUEuzGFJCDwrQ1mcXayaDT-AnNk6uyIiDWz7bPTOnuKdI6qaWkpWMEEN6Oa7Ig3sQGlVcHuCazdF51_p4V2tYHiBgw_KXXz8Y4ZYgkvNgGGxXBqlKoHJ1tJamshPufvK4u9KogfTUUgFhMn68JVHkAAqc9hNQW__mT20_rqi5I9o6fyiRIZEmI4kd6wvXtjpHaGlrltknFXWaOcFFTJz7mcC8uu4KNhGwXGsTeoy2Y2lYvO38bTw" src="https://cdn5.cdn-telegram.org/file/492caf1d82.mp4?token=igg4DbyxZeb4Nxvy1vwbdsRd2vV9mmOTHmcQIc0zMQHqhQ8pJY3s5kOYmlIQwpevBkyUCS7mx5uFaotCalqvLeKpLi-hlzR0W3IhAr7PQN7r_8Gzm91YD5S9HFbb0kHV-LktQ1RNgIWgW-STcLf0hZ22UEj_Bulg3UbXckmzRRxdzf3sWuF78JLeg2Ab5oip_oQytTUJLu8fXYYdAsqqGIuMPoLYcXIaZ60KeExItZxCnKPl8upVF107PkMcRyD7KdeL8DHM5Nq3QMA63tEPj8Pjxamy11YTheiA2iysDp2WXKhuO3vPJMWO1Z96HEvZyuM_kDIEjpYfi3N6b3HQ3g" style="width: 100%;"></video>
 ]]></content:encoded>
-<pubDate>Thu, 28 Mar 2024 02:08:14 GMT</pubDate>
 <pubDate>Thu, 28 Mar 2024 02:08:14 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +30,10 @@
 <link>https://t.me/appinnfeed/10079</link>
 <guid>https://t.me/appinnfeed/10079</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/10079?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />[自荐] ReHabit - 专为养成每日习惯、实现自我提升的习惯管理App<br /><br /><a href="https://meta.appinn.net/t/topic/54437" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54437</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54437">[自荐] ReHabit - 专为养成每日习惯、实现自我提升的习惯管理App</a></b><br /><p>软件名称 ReHabit  应用平台  iOS iPadOS macOS  推荐类型 【开发者自荐】  一句话简介 自动追踪每日目标完成进展，以《高效能人士的七个习惯》中的理论来实践自我提升。  应用简介 任何习惯都是在反复练习或者重复性的经历中形成的，所以不再将目标留在计划中。受《高效能人士的7个习惯》和《要事第一》中理念的启发，ReHabit为了帮助你养成好习惯，提供了自我提升、角色与目标、个人使命宣言等功能。同时，为了降低养成习惯的门槛，还提供了许多自动记录的方式和快捷方式，让你在平常使用手机的时候完成打卡记录。…</p><img src="https://cdn4.cdn-telegram.org/file/GawGadk1aI9QjiSST_P36HNtuIRktHaYYeTBmyJuAUHQQca8EpZNb80nQwM9RTxIn4tx66UOnIuoRxo6YzGpuMQxW-znM7mUaYTMAEQQEg3U5rSRd0qht64w899pP4IxaGiumu238VYQDgqRZKwDwSwfQX5Jo0ALQ6MfR2OWT4f5dCHT8-8muFkKEjbavxTX0dZYFdDowRoQxEtANhXIJZJWwuHAxAlK5y-_2SSsAg9HZSEblpJHImK816vokJx9OwRHOxDb4JO8jmptkAFax_fyRLlEpyLa2cYZ2kU8Zfq79g1RGPvGCqEeiTHHohRzsOcnh87ouS1_bqF3KiqEBw.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Thu, 28 Mar 2024 01:24:01 GMT</pubDate>
-<pubDate>Thu, 28 Mar 2024 01:24:01 GMT</pubDate>
 </item>
-
 <item>
 <title>https://utgd.net/article/9119 您提供的链接是一篇关于如何使用苹果的Numbers应用程序来创建和管理植物养护日志的文章。文章由文刀漢三撰写，主要介绍了作者如...</title>
 <link>https://t.me/appinnfeed/10078</link>
@@ -9016,24 +9023,6 @@
 <p>一个毫无意义的摩斯代码转换工具。<br /><br />注意视频有声音<br /><br /><a href="https://sinqi.tools/morse" rel="noopener" target="_blank">https://sinqi.tools/morse</a></p> <video controls="controls" poster="https://cdn5.cdn-telegram.org/file/QIt-C9TYXOiOYZ7iZjfZml_lTDoEvzpmRTA6uv_NKY3aJAmJw0OuXrUWbv7oUXTgXQnM7tFnSWaHlEv6__unxfGieF9Vlr-nakiYjnTx4FErFj2CDOHdaCC3IyYRLIHPJEryoHkycvfPqX62A09aP7tP7_e6E8Yvmr2FPcLl6Dba-fp0M6XBoiE70NYcUXptsctDdzFAn5qychNrlMjRSvJB2d46tUnGiwY5QcoP8771wOps6tEeWO7Yuth3LRl2IZ5mDbhKQfhewz-qeYwXe-0xWU7J77_TThRJM7LgPghpV1ux6j5S7iAQjA0Fw_EFObxw3yYI0-w5pak58kjnlA" src="https://cdn5.cdn-telegram.org/file/06dcd11419.mp4?token=iZEmINL4zEw3DiNkB5kpUEnbwxW0Pe2rq4_Q-g-tbJ4oPhPPagQHN-RMNcJdQ9LzVLi6B67pBfEoDUbekjkxHbLJJ6Rb-vEObbyAez_xNYMHmkzlfPcl8y8ueHC--apUxFJO_DTZXISl9I3cvKDITC1AsfoS1m8w1sSETbaeh7KDDPmYD8ylOAM3rJ3_QCYRYVtUhOSjxvnrTcUOm--TjhG7cT7H3A4gKrf3mCwuaeWvWLSkiNX2CK97Hay-e2kZpZC8NDfeAK_0mHgon_pGowYCCgFsDVUld1DNP2Ubb4lAQCouMaQSK5zFOxWsLJB_5F7n-jLQPFcaxeuvmw7NLQ" style="width: 100%;"></video>
 ]]></content:encoded>
 <pubDate>Thu, 14 Dec 2023 03:58:00 GMT</pubDate>
-</item>
-<item>
-<title>💧 #小众软件 宝宝起名软件 – 宝爸开发者用 AI「训练」几十万古诗词，做了一款宝宝起名应用[iPhone] https://www.appinn.com/baobao-qiming/ Tags: #iOS, #iP...</title>
-<link>https://t.me/appinnfeed/9038</link>
-<guid>https://t.me/appinnfeed/9038</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">💧</span> <a href="https://t.me/appinnfeed/9038?q=%23%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6">#小众软件</a><br />宝宝起名软件 – 宝爸开发者用 AI「训练」几十万古诗词，做了一款宝宝起名应用[iPhone]<br /><br /><a href="https://www.appinn.com/baobao-qiming/" rel="noopener" target="_blank">https://www.appinn.com/baobao-qiming/</a><br /><br /><b>Tags</b>: <a href="https://t.me/appinnfeed/9038?q=%23iOS">#iOS</a>, <a href="https://t.me/appinnfeed/9038?q=%23iPhone">#iPhone</a>, <a href="https://t.me/appinnfeed/9038?q=%23%E5%8F%A4%E8%AF%97%E8%AF%8D">#古诗词</a>, <a href="https://t.me/appinnfeed/9038?q=%23%E5%A7%93%E5%90%8D">#姓名</a>, <a href="https://t.me/appinnfeed/9038?q=%23%E5%AE%9D%E5%AE%9D">#宝宝</a>, <a href="https://t.me/appinnfeed/9038?q=%23%E8%B5%B7%E5%90%8D">#起名</a></p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/baobao-qiming/">宝宝起名软件 - 宝爸开发者用 AI「训练」几十万古诗词，做了一款宝宝起名应用[iPhone] - 小众软件</a></b><br /><p>宝宝起名软件是一款用 AI 训练了几十万古诗词之后，开发的宝宝起名应用，它可以结合诗词意境、父母名字组合、特别的信息、寄托希望等几个方面，来生成宝宝名字，免费无内购。@Appinn</p><img src="https://cdn4.cdn-telegram.org/file/fy1zP8AOCtmDQOhWnFfz_Sj28evdYJaXh3o7rgDRJ7GmYtwx8kBm0mGyxUyniqr-_930VRfT9PglYmfP-YvgNMaDQD3D_k-G9kaSfPA30MemSX5kaSG0dICFDZqLY8XITKEbk0hmsbDvD6t_cFo00bCJWn15RoVVWWz0JYsC6Dr-bTt58efxhOnwS7m6ZUkxWLZPa1vgdCDl0IMiA9bNigGcIslN5MvuWJ5MAAkmeCi7R-uTltGgQ_0EGDBhafC1Ovhvg9dh6CdSUUK24_rcisjAC5h8iDckqFMW0bHsfq0ctXmc9iakzZ8FR1E9TaDXCjcdsRn_Z0DCzHZiR_b_Dw.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Wed, 13 Dec 2023 09:12:01 GMT</pubDate>
-</item>
-<item>
-<title>📣 #发现频道 安卓远程控制、多屏协同 https://meta.appinn.net/t/topic/50307</title>
-<link>https://t.me/appinnfeed/9037</link>
-<guid>https://t.me/appinnfeed/9037</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/9037?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />安卓远程控制、多屏协同<br /><br /><a href="https://meta.appinn.net/t/topic/50307" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/50307</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/50307">安卓远程控制、多屏协同</a></b><br /><p>开发者自荐  一款安卓远程控制类软件，名字叫易控，用于安卓远程控制安卓，多屏协同。  目前已进入稳定发展期，功能和使用体验较为完善了，所以来自荐一下，寻求流量。  地址：GitHub - mingzhixian/Easycontrol: 易控，帮助你方便的使用手机远程控制手机。  功能特点：   使用简单 支持音频传输 多设备连接 多设备剪切板同步 多设备共享主控端物理键盘(需配合微信输入法或QQ输入法等输入中文) 低延迟 支持分辨率自适应 良好的旋转支持 支持小窗显示与全屏显示  代码是开源的（我本职…</p><img src="https://cdn4.cdn-telegram.org/file/snaJmoQjxqQQ-uE6NTQYeS3QVrSVG64Y3Dwnhst_Ag2ksoiNYvhKgPefgVtF6AOYhG9NBOZnrH7NDrBLlB9kTq2GsQWdv-VT267SrFtv4tsqf9uBwaXbBeRm9vyKsdRgL79HZh_yn20XOYUb4iJAzmmKHGKbNfVC_v-_qPcLKbwSoWbABEBuhlc9o3r1CvxOhmEXD1GK6ziqyUgrCglZaZpAUl0VR0X3rgWj_HV8OqxvwKladMTq0E0VIcbXwK4H2E-6DJS1ReDy0BG7BUQ_F-JLx11WDh3EvVxTFs1-PXhiz42Fljom2Mwv0EeATqXuEcIZ6kQUpS6ybJuyNm7Ucg.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Wed, 13 Dec 2023 09:12:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

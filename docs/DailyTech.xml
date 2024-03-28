@@ -5,14 +5,35 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>Databricks 发布最大开源大语言模型 DBRX 美国AI初创公司Databricks周三公布，该公司开发的通用大语言模型 DBRX将开源。DBRX在语言理解、编程、数学和逻辑方面轻...</title>
+<link>https://t.me/xhqcankao/9127</link>
+<guid>https://t.me/xhqcankao/9127</guid>
+<content:encoded><![CDATA[
+
+<p><b>Databricks 发布最大开源大语言模型 DBRX</b><br /><br />美国AI初创公司Databricks周三公布，该公司开发的通用大语言模型 DBRX将开源。DBRX在语言理解、编程、数学和逻辑方面轻松击败了Meta的Llama 2-70B、法国MixtralAI公司的Mixtral 和 马斯克旗下xAI开发的Grok-1这类当前流行的开源模型。DBRX 在 30多种不同的最先进模型(SOTA) 基准指标测试中，均优于前述三种大模型。<br /><br />DBRX 使用混合专家架构(MoE) ，拥有16个专家模型，共1320亿参数。该模型使用 3072 英伟达 H100 GPU在12万亿个token的数据集上进行训练，最大支持32k 的上下文窗口。同时，Databrick 也开源了该模型经过指令微调（instruct finetune）的版本。<br /><br />—— <a href="https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm" rel="noopener" target="_blank">Databricks</a>, <a href="https://huggingface.co/collections/databricks/dbrx-6601c0852a0cdd3c59f71962" rel="noopener" target="_blank">HuggingFace</a></p>
+]]></content:encoded>
+<pubDate>Thu, 28 Mar 2024 02:45:05 GMT</pubDate>
+<pubDate>Thu, 28 Mar 2024 02:45:05 GMT</pubDate>
+</item>
+<item>
+<title>调查显示美国人对 ChatGPT 的使用正在增加 皮尤研究中心3月26日发布的一项民意调查显示，美国人对人工智能聊天机器人的使用正在增加。根据二月份进行的一项调查...</title>
+<link>https://t.me/xhqcankao/9126</link>
+<guid>https://t.me/xhqcankao/9126</guid>
+<content:encoded><![CDATA[
+
+<p><b>调查显示美国人对 ChatGPT 的使用正在增加</b><br /><br />皮尤研究中心3月26日发布的一项民意调查显示，美国人对人工智能聊天机器人的使用正在增加。根据二月份进行的一项调查，23%的美国成年人表示他们曾经使用过它，高于2023年7月的18%。调查显示18岁至29岁成年人士中，有43%使用过 ChatGPT，比去年夏天上升了10个百分点。30至49岁和50至64岁年龄段的聊天机器人使用率也略有上升。65岁及以上的美国人中只有6%使用过 ChatGPT。<br /><br />—— <a href="https://www.pewresearch.org/short-reads/2024/03/26/americans-use-of-chatgpt-is-ticking-up-but-few-trust-its-election-information/" rel="noopener" target="_blank">皮尤研究中心</a> （节选）</p>
+]]></content:encoded>
+<pubDate>Thu, 28 Mar 2024 02:19:41 GMT</pubDate>
+<pubDate>Thu, 28 Mar 2024 02:19:41 GMT</pubDate>
+</item>
+
+<item>
 <title>诺贝尔经济学奖得主丹尼尔·卡尼曼去世，享年90岁 以色列裔美国心理学家、诺贝尔经济学奖得主同时也是畅销书《思考，快与慢》的作者丹尼尔·卡尼曼于3月27日去世...</title>
 <link>https://t.me/xhqcankao/9125</link>
 <guid>https://t.me/xhqcankao/9125</guid>
 <content:encoded><![CDATA[
-
 <p><b>诺贝尔经济学奖得主丹尼尔·卡尼曼去世，享年90岁</b><br /><br />以色列裔美国心理学家、诺贝尔经济学奖得主同时也是畅销书《<a href="https://m.douban.com/book/subject/10785583/" rel="noopener" target="_blank">思考，快与慢</a>》的作者丹尼尔·卡尼曼于3月27日去世，享年90岁。<br /><br />—— <a href="https://www.washingtonpost.com/obituaries/2024/03/27/daniel-kahneman-dead/" rel="noopener" target="_blank">华盛顿邮报</a></p>
 ]]></content:encoded>
-<pubDate>Thu, 28 Mar 2024 01:51:03 GMT</pubDate>
 <pubDate>Thu, 28 Mar 2024 01:51:03 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +41,10 @@
 <link>https://t.me/AppleNuts/1952</link>
 <guid>https://t.me/AppleNuts/1952</guid>
 <content:encoded><![CDATA[
-
 <p><b><span class="emoji">🍎</span> Apple 重新发布 iOS 17.4.1<br /></b><br />Apple 重新发布 iOS 17.4.1 (21E237) 编译版本号比上一版本多 1.<br /><br />但重新发布的 iOS 17.4.1 不能通过 OTA 的方式直接升级，只能通过连接电脑的方式让 iTunes 或 macOS 的 Finder 发现更新。当然用户也可以自行下载固件线刷。<br /><br />懒得折腾的可以等下次大版本发布再更新 <span class="emoji">🌚</span></p><img src="https://cdn5.cdn-telegram.org/file/YiAaI91tm_-LOVMkBS8aVk6aC4gHdt_LL9RZi3ipNyOTMJqKyx5dMX32ckjI1sKN4-iZcd8r6gs08VQKP0Q-Tm6VbBLKrtxNmuhlbUr26wdtKIcB75mVtiYOJGP2NKUjKpBDiCxD8lunkWjYibhIZF8RjAfDD_3SutN73efMHBl81nQZEhKTM1pXoGmXgNj89FJo0reBgkBj4lL4fXx2fUIIkLR0jKJJhMzQhlrxaPeeG3ilmvfnZ4btTXJUIHSoq_6BXWXRz3_uTYnU8ZN2eyBmdXIpZ8Ng3p9JzC6QkVleonkWYiG_9kOJln33AKsbH5gWODH8_FW-X-DxeMM7vA.jpg" />
 ]]></content:encoded>
 <pubDate>Thu, 28 Mar 2024 01:38:44 GMT</pubDate>
-<pubDate>Thu, 28 Mar 2024 01:38:44 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 #News ☀️ 自留地早报【3.28】 1⃣️ MacRumors ：苹果供应商京东方已率先成为第四代 6.1 英寸 iPhone SE 的 OLED 面板供应商 2⃣️ TheInformation ：消...</title>
 <link>https://t.me/NewlearnerChannel/12593</link>
@@ -9312,24 +9330,6 @@
 <p><b>日政府拟补贴台积电熊本第二工厂7300亿日元</b><br /><br />共同社22日采访相关人士获悉，日本政府基本决定向台积电将在熊本县建设的第二工厂补贴约7300亿日元 (约合人民币350亿元)。预计近期将公布此事。台积电计划24日举行在熊本县菊阳町建设的第一工厂启用仪式，政府已经决定补贴最多4760亿日元。台积电本月6日公布了第二工厂建设计划。预计加上第一工厂，总投资金额将超过200亿美元。第一工厂将生产制程12至28纳米的产品，而第二工厂可能生产更先进的6纳米产品。<br /><br />—— <a href="https://china.kyodonews.net/news/2024/02/433ff7660f38-7300.html" rel="noopener" target="_blank">共同社</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 22 Feb 2024 15:40:27 GMT</pubDate>
-</item>
-<item>
-<title>索尼正在测试为 PS VR 2 头显添加 PC 支持 虽然 PS VR 2 头显是为 PS5 独占而设计的，但索尼今天透露目前正在测试让 PS VR2 玩家在 PC 上访问其他游戏的能力，以...</title>
-<link>https://t.me/xhqcankao/8359</link>
-<guid>https://t.me/xhqcankao/8359</guid>
-<content:encoded><![CDATA[
-<p><b>索尼正在测试为 PS VR 2 头显添加 PC 支持</b><br /><br />虽然 PS VR 2 头显是为 PS5 独占而设计的，但索尼今天透露目前正在测试让 PS VR2 玩家在 PC 上访问其他游戏的能力，以提供除了通过 PS5 提供的 PS VR2 游戏之外的更多游戏种类。 索尼还计划在 2024 年正式提供此支持。<br /><br />—— <a href="https://blog.playstation.com/2024/02/22/coming-soon-to-ps-vr2-zombie-army-vr-little-cities-bigger-wanderer-the-fragments-of-fate-the-wizards-dark-times-brotherhood-and-more/" rel="noopener" target="_blank">PlayStation 博客</a></p>
-]]></content:encoded>
-<pubDate>Thu, 22 Feb 2024 15:10:01 GMT</pubDate>
-</item>
-<item>
-<title>🖼 这样的支付宝看着就清爽多了。 #大产品小细节</title>
-<link>https://t.me/jike_collection/9573</link>
-<guid>https://t.me/jike_collection/9573</guid>
-<content:encoded><![CDATA[
-<p>这样的支付宝看着就清爽多了。 <a href="https://t.me/jike_collection/9573?q=%23%E5%A4%A7%E4%BA%A7%E5%93%81%E5%B0%8F%E7%BB%86%E8%8A%82">#大产品小细节</a></p><img src="https://cdn4.cdn-telegram.org/file/Q8llflOr54VRMSkjKpJYppc8xKmHdBceQ_gSBZoBthTyxN_aSRI6F_q3koSvxf1LZNhpRGTDB8ryRnh4KC7urBWEP-LTCV4-2SesFMIeRAg9u5wuza3j8aE7dLLPGnbCYw-ttdmzyNiCjQS-VCi_CZdBVbV8iY-WHdmN4_h5wWaGaTq_1dLOzvirNxWVHhV9KGri_2Bu2iHmj60yotkyKYevdrJFydiYQIwh1ufKe52nS2X1Dj9Znge2MYSWnhUyfWv2rIK1WHabH7TOh3DkpsdR0HFEd5S5dVG-zU3I1_tY6MVhfuyeL0-b0O7H5pMxyoKbAO9ceoZH3H-QuyH7tQ.jpg" />
-]]></content:encoded>
-<pubDate>Thu, 22 Feb 2024 14:13:35 GMT</pubDate>
 </item>
 </channel>
 </rss>

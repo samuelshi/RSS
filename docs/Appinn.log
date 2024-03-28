@@ -22072,3 +22072,10 @@ Append: [❓ #问题求助 JavaScript 求助，如何把自己的 URL 填进去 
 Append: [❓ #问题求助 AMD fuck, 狗都不用 https://meta.appinn.net/t/topic/54466](https://t.me/appinnfeed/10089)
 append_entries: 2
 Finish: 2024-03-28 20:01:47
+------------------------------------------------------
+Started: 2024-03-28 21:01:30
+Existing_entries: 1002
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [一个开源的 API 代理工具 https://github.com/blenderskool/diode/](https://t.me/appinnfeed/10091)
+append_entries: 1
+Finish: 2024-03-28 21:01:32

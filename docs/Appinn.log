@@ -22237,3 +22237,10 @@ Append: [🖼 Kimi 的问题似乎是无解的。也不知道他们敢不敢开�
 Append: [https://github.com/eduardoleao052/js-torch JS-Torch 是一个从头开始构建的深度学习 JavaScript 库，严格遵循 PyTorch 的语法。](https://t.me/appinnfeed/10104)
 append_entries: 2
 Finish: 2024-03-29 21:01:37
+------------------------------------------------------
+Started: 2024-03-29 22:01:45
+Existing_entries: 1002
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [Infisical 是开源机密管理平台，团队可以用它来集中 API 密钥、数据库凭证和配置等秘密。 https://github.com/Infisical/infisical](https://t.me/appinnfeed/10106)
+append_entries: 1
+Finish: 2024-03-29 22:01:47

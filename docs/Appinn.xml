@@ -5,14 +5,46 @@
 <link>https://t.me/s/appinnfeed</link>
 
 <item>
+<title>❓ #问题求助 CCFCSP认证第一题奇怪0分 https://meta.appinn.net/t/topic/54512</title>
+<link>https://t.me/appinnfeed/10103</link>
+<guid>https://t.me/appinnfeed/10103</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10103?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />CCFCSP认证第一题奇怪0分<br /><br /><a href="https://meta.appinn.net/t/topic/54512" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54512</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54512">CCFCSP认证第一题奇怪0分</a></b><br /><p>2023年12月的CSP考试第一题，可以直接暴力满分，嵌套三个for循环。自己写的代码在本地可以成功跑出样例，但是在模拟考试里一直显示运行错误。百思不得其解（自己太菜了），求求各位大哥指点一下：  ‘’’  #include &lt;bits/stdc++.h&gt;  using namespace<br />std;  int main(){  int m,n,i,j;  int k,flag=0;  cin&gt;&gt;m&gt;&gt;n;  int home[10][1000]={0},result[10]={0};  for(i=0;i&lt;m;i++){…</p><img src="https://cdn4.cdn-telegram.org/file/H19DiBtbNvqNeaC_Ue0wmawQ6Iiu9jPd_la05yt70vzsj4O9YT8YXSgKE7wWzYd-uvj5j48Cn3In4B-uq9pZGuYO56bLKcvj_bqDf7XofwCgPHWt6PINq7qXYA7_wdEnGskupXfvDAQ4vv_ECdANo1WCxO6LQWjDFyuBlMYbz83CEOuNWFTGf8D9_l6fVABpK35qbmya9W6D3C_sHjKlc0MhgPd2V9-YGhVJH2ItER0-799x3CKedcxZsV5M0kSzTDY4L_BJKjsdvXJ0CQvonJuE4O5b_E_mlIkXh5NlIRYYGUGOGrkaHxCDmjGJ2oLt3ibAoyLkUoQVzYht7heAGw.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Fri, 29 Mar 2024 11:28:01 GMT</pubDate>
+<pubDate>Fri, 29 Mar 2024 11:28:01 GMT</pubDate>
+</item>
+<item>
+<title>❓ #问题求助 求ahk实现打开不同浏览器窗口时自动发送不同快捷键 https://meta.appinn.net/t/topic/54511</title>
+<link>https://t.me/appinnfeed/10102</link>
+<guid>https://t.me/appinnfeed/10102</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10102?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />求ahk实现打开不同浏览器窗口时自动发送不同快捷键<br /><br /><a href="https://meta.appinn.net/t/topic/54511" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54511</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54511">求ahk实现打开不同浏览器窗口时自动发送不同快捷键</a></b><br /><p>如题，打开特定浏览器窗口时发送一次特定快捷键，并且如果关闭窗口再打开可以再次发送，不同浏览器的窗口也类似这样，如果有其他更方便的工具也行，谢谢了。</p><img src="https://cdn4.cdn-telegram.org/file/Mc4uw-yHfzCCjXGOK3ICw70h-_Wb3NdO8QGvVc661QRHbXRjmRbYWLlWOGPOMsD2i_bkJazq_CBJGOht4hLD3gtQlBh9yTGx8KlfuGQFBkoY0B0ja3lIMDExfQp74ueXznnrh_KWZYQjdPXrr3d5DpmlgblVdcTqfagOUOqLMt6i0XKFIgn-3QmGMvnitNHI0B43mXtV4E46Irpret6AaeQaDuS3EJbmvSRBgKixZDmidNFXk263aNfPHGK0xuyOxKw01SG6lNI7HqFexDfp7uIP7irR2yPnqrSwvRbqo633853Q5Ed5xRato_TqQRnmSKKKnFBfvf_qXKSrM-IGEQ.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Fri, 29 Mar 2024 11:16:00 GMT</pubDate>
+<pubDate>Fri, 29 Mar 2024 11:16:00 GMT</pubDate>
+</item>
+<item>
+<title>❓ #问题求助 monica的无限次GPT3.5为什么还会耗尽？ https://meta.appinn.net/t/topic/54509</title>
+<link>https://t.me/appinnfeed/10101</link>
+<guid>https://t.me/appinnfeed/10101</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10101?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />monica的无限次GPT3.5为什么还会耗尽？<br /><br /><a href="https://meta.appinn.net/t/topic/54509" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54509</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54509">monica的无限次GPT3.5为什么还会耗尽？</a></b><br /><p>已经邀请了3个人有了无限GPT3.5的功能了，但是今天用了一阵后，居然提示查询次数用尽？？？ 官方发了反馈也没有回复</p><img src="https://cdn4.cdn-telegram.org/file/Q1IZd7suerLegXZyRb96jzVk9aRYamEz4ROsZKRRWiwt4rXgw8AI1ImtnRv5WXK3XiwANtgg9YlUMd9gZC35YVt9LjjKc_wrB5iEsYWwIAELhKHZIcXyPbFWdLqA_ztVr5sPd-O6WVGQeb5bxsMtJrssnTxSb8IXYdkbHVUN3b31HvoBeSGtF_bQq-sfzr1eZoJN4zGi6O63pnCY67Z4gASDe29df0baZAJGmmYEqflUwyWx9RWAMFhh12dPkqXuoQ05yvs1shMmSTEXP5Ymk96jW2cg7VRNgCaOCTrZfpmhGVPJBLP0S6Lfk-AzthhshCBy3NfsGjghghoDU1QGpQ.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Fri, 29 Mar 2024 11:12:01 GMT</pubDate>
+<pubDate>Fri, 29 Mar 2024 11:12:01 GMT</pubDate>
+</item>
+
+<item>
 <title>📣 #发现频道 全平台（网页）保持屏幕常亮 Keep Screen On【用户推荐】 https://meta.appinn.net/t/topic/54508</title>
 <link>https://t.me/appinnfeed/10100</link>
 <guid>https://t.me/appinnfeed/10100</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/10100?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />全平台（网页）保持屏幕常亮 Keep Screen On【用户推荐】<br /><br /><a href="https://meta.appinn.net/t/topic/54508" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54508</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54508">全平台（网页）保持屏幕常亮 Keep Screen On【用户推荐】</a></b><br /><p>软件名称 Keep Screen On  应用平台 Web  开发者自己这么说  适用场景：临时需要保持屏幕常亮的时候，访问网站并打开开关即可做到  实现原理：使用 nosleep.js，对 PC、Mac、Android、iOS 均有效  来源   介绍 这种小工具，即用即弃，还是网页最方便。就是不知道移动端会不会被杀后台， PC 端能不能在休眠 tab 下保活。  截图</p><img src="https://cdn4.cdn-telegram.org/file/MzNpmn6Jj9trCwtC4ZT_d2HEHxqa2ti20GZ5JTGdSzMZD81dgEYUEZ1jTPFnAriE4V885HDLi80qzkCrD5JszsLhD8GnZUFiLL81WM8QoMisz_aLM041KDGOMSQgZaF74fuOdnCfNJT4yPOd8RwEKVHeW3U1ylJSdzFbEEAP9lFnsqhuzOYreZNSkN32Dsr47MSxTHpMeSNPQpdDvHJsiIFBsDqfnd4RxRzHQn6_L5Ks1UDNyXrmtumyTNgzC-wtSCSYuZKAqrKjYWY8OGXOjSnKSEaY5HHR7ezHR9hiNMP_LX7Y2enSZH4Efwn3k_CRs6lKk3TuM5Hr1wNxilpUFw.jpg" /></blockquote>
 ]]></content:encoded>
-<pubDate>Fri, 29 Mar 2024 10:48:00 GMT</pubDate>
 <pubDate>Fri, 29 Mar 2024 10:48:00 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +52,10 @@
 <link>https://t.me/appinnfeed/10099</link>
 <guid>https://t.me/appinnfeed/10099</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10099?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />真的是小众需求 - 地图打印<br /><br /><a href="https://meta.appinn.net/t/topic/54507" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54507</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54507">真的是小众需求 - 地图打印</a></b><br /><p>把一个市范围的地图，彩色打印，到4x4=16张A4纸上，拼接打印。  要求能打印出道路、行政区划和村庄名称，山区地形的等高线，以及自己在地图上的标记（路线和集合点）  首先百度和高德好像搞不成这种地图，其次不会拼接打印。。。。。。。</p><img src="https://cdn4.cdn-telegram.org/file/Mc4uw-yHfzCCjXGOK3ICw70h-_Wb3NdO8QGvVc661QRHbXRjmRbYWLlWOGPOMsD2i_bkJazq_CBJGOht4hLD3gtQlBh9yTGx8KlfuGQFBkoY0B0ja3lIMDExfQp74ueXznnrh_KWZYQjdPXrr3d5DpmlgblVdcTqfagOUOqLMt6i0XKFIgn-3QmGMvnitNHI0B43mXtV4E46Irpret6AaeQaDuS3EJbmvSRBgKixZDmidNFXk263aNfPHGK0xuyOxKw01SG6lNI7HqFexDfp7uIP7irR2yPnqrSwvRbqo633853Q5Ed5xRato_TqQRnmSKKKnFBfvf_qXKSrM-IGEQ.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Fri, 29 Mar 2024 10:36:00 GMT</pubDate>
-<pubDate>Fri, 29 Mar 2024 10:36:00 GMT</pubDate>
 </item>
-
 <item>
 <title>💧 #小众软件 AFFiNE – 支持 Docker 部署的开源知识库工具｜宣称对标 Notion，一站式知识库、笔记解决方案 https://www.appinn.com/affine/ Tags: #在线应用,...</title>
 <link>https://t.me/appinnfeed/10098</link>
@@ -9016,24 +9045,6 @@
 <p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/9059?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />人脸相识度分类照片的软件<br /><br /><a href="https://meta.appinn.net/t/topic/50433" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/50433</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/50433">人脸相识度分类照片的软件</a></b><br /><p>faceclassify 是一款根据人脸相识度分类照片的软件，其内置高精度人脸识别，检测算法，同时提供了简便的可视化界面，帮助用户快速分类图片  1 下载 百度云盘地址  提取码：j6no  2 本地安装 下载后，本地文件为main.rar,解压main.rar,本地出现main文件夹   进入main文件夹里面，点击 “main.exe”, 稍等一会出现软件主界面     3 软件使用教程 （1）配置系统参数。点击设置，弹出“设置”对话框，并 设置“选择人脸库”，“选择输出文件夹”和“输入文件夹”路径…</p><img src="https://cdn4.cdn-telegram.org/file/uQtcKOWw2aLnQ2gWbToSyzcIIccmbwXtB1ZLp-Wk0a9YtZvytkccgLfhPmK1hj5btkRnnPwQcseU5yEYcvlZ5ukLd04ZfJ_vULcHDnJAdy5TQgKPL4oJUIAjMENxBHFEYzfjg8bNvrVVH2jgynu3ha8ZhfgiltD23ElqWrqw6uPrg2C8LOG7AxVBOEz1a_dW0vPgSewGohAVup_vRDckLNi-e5JtWYxzEIe1gSCz_Wq-m8D_4yerTldkPhgdcgAPnIsjNCDH1nRCklw1hPOlBqZR_BQ07wDpX_Gb4SIivRsaf3o4vlXkV1QRDB-2xv-k7xEk6pDTEszBK1vizIbdZw.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Sat, 16 Dec 2023 14:56:01 GMT</pubDate>
-</item>
-<item>
-<title>❓ #问题求助 有没有除kiwix外的安卓离线维基百科阅读器 https://meta.appinn.net/t/topic/50432</title>
-<link>https://t.me/appinnfeed/9058</link>
-<guid>https://t.me/appinnfeed/9058</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9058?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />有没有除kiwix外的安卓离线维基百科阅读器<br /><br /><a href="https://meta.appinn.net/t/topic/50432" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/50432</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/50432">有没有除kiwix外的安卓离线维基百科阅读器</a></b><br /><p>kiwix这个软件太难用，对中文搜索很不友好，而且自己下载zim文件也不识别，只能从软件内下载，手机端还有没有能读取zim文件的软件呢</p><img src="https://cdn4.cdn-telegram.org/file/uQtcKOWw2aLnQ2gWbToSyzcIIccmbwXtB1ZLp-Wk0a9YtZvytkccgLfhPmK1hj5btkRnnPwQcseU5yEYcvlZ5ukLd04ZfJ_vULcHDnJAdy5TQgKPL4oJUIAjMENxBHFEYzfjg8bNvrVVH2jgynu3ha8ZhfgiltD23ElqWrqw6uPrg2C8LOG7AxVBOEz1a_dW0vPgSewGohAVup_vRDckLNi-e5JtWYxzEIe1gSCz_Wq-m8D_4yerTldkPhgdcgAPnIsjNCDH1nRCklw1hPOlBqZR_BQ07wDpX_Gb4SIivRsaf3o4vlXkV1QRDB-2xv-k7xEk6pDTEszBK1vizIbdZw.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Sat, 16 Dec 2023 14:56:00 GMT</pubDate>
-</item>
-<item>
-<title>📣 #发现频道 【自荐】ASMR视频助眠应用，完全免费，无广告 https://meta.appinn.net/t/topic/50429</title>
-<link>https://t.me/appinnfeed/9057</link>
-<guid>https://t.me/appinnfeed/9057</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/9057?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />【自荐】ASMR视频助眠应用，完全免费，无广告<br /><br /><a href="https://meta.appinn.net/t/topic/50429" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/50429</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/50429">【自荐】ASMR视频助眠应用，完全免费，无广告</a></b><br /><p>【应用名称】： 呐噗助眠  【应用版本】：1.0.1  【应用大小】：25.3M  【适用平台】：安卓  【官网下载】：https://napnapu.com  【说明】： 视频支持后台播放与定时功能，完全免费，无广告，页面简介,资源丰富，持续更新,国内外知名ASMR博主都搜得到！！！  【应用截图】</p><img src="https://cdn4.cdn-telegram.org/file/N3oMov9wPiRj3WcBBvJa9WM5IBUaWjjtjCJTJXiG7-hPMsSdZQ4oR1b7TxG3Q9tPur0DAf-1opr9ausbpFHtFHZrxjg4Ty-p9ieMdYSoGDMq9UU4esXsSs8ovMjCiIN209p5-g8UvUHi6tGTxtF4kST5MtWfROoBA-VFzjvKpK7GygVlz3qZxWTnh5pUYQfrt8mY68oWCy5qD5gRz5wc49sfLvlHXBQ07RmIdkpDsUhrfIZ_YFErwzoQKHl7km5FD4ovyA9nu1jqZMW5e8QzDwhvS4mpMhKWrYhAbz69jPEMeU2pohvvuOfdwtX6sZe2lFMA9j0D5NcKWhHkhavNSA.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Sat, 16 Dec 2023 13:36:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

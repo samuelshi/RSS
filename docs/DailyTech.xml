@@ -4,6 +4,32 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+<item>
+<title>↩️ 黑客潜伏两年后向 xz-utils 添加后门影响多个 Linux 发行版 本周五 Red Hat 警告用户在最新版本的 xz-utils 数据压缩工具和库中发现了一个后门。这些恶意代...</title>
+<link>https://t.me/xhqcankao/9192</link>
+<guid>https://t.me/xhqcankao/9192</guid>
+<content:encoded><![CDATA[
+
+<div class="rsshub-quote"><blockquote>
+                                    <p><a href="https://t.me/xhqcankao/9191"><b>风向旗参考快讯</b>:</a></p>
+                                    
+                                    <p>广泛使用的 Linux 实用程序中发现的后门会破坏加密的 SSH 连接  研究人员在压缩工具中发现了一个恶意后门，该后门已进入广泛使用的 Linux 发行版，包括来自 Red Hat 和 Debian 的发行版。  据发现该压缩实用程序的开发人员 Andres Freund称，名为xz Utils 的压缩实用程序在 5.6.0 和 5.6.1 版本中引入了恶意代码。目前还没有关于这些版本被合并到主要 Linux 发行版的任何生产版本中的已知报告，但Red Hat和Debian都报告说，最近发布的 Beta…</p>
+                                </blockquote></div><p><b>黑客潜伏两年后向 xz-utils 添加后门影响多个 Linux 发行版</b><br /><br />本周五 Red Hat 警告用户在最新版本的 xz-utils 数据压缩工具和库中发现了一个后门。这些恶意代码旨在允许未经授权的访问，而且这些受影响的版本已经被多个 Linux 发行版合并，但 RHEL 不受此影响。Red Hat 目前正在跟踪此供应链安全问题，编号为 <a href="https://nvd.nist.gov/vuln/detail/CVE-2024-3094" rel="noopener" target="_blank">CVE-2024-3094</a>，严重性评分为 10/10 。<br /><br />xz 是被 Linux 发行版广泛使用的压缩格式之一， xz-utils (LZMA-utils)是一个开源项目，2022 年起有个名为 Jia Tan 的账号开始向该项目贡献代码，然后逐步接手该项目成为项目的主要贡献者，也是该项目的当前唯一活跃贡献者。恶意代码经过混淆，只能在完整的下载包中找到，而无法在 Git 发行版中找到，因为缺少触发后门构建过程的 M4 宏。当前尚不确定该恶意代码的具体目的。<br /><br />—— <a href="https://www.redhat.com/en/blog/urgent-security-alert-fedora-41-and-rawhide-users" rel="noopener" target="_blank">Red Hat</a></p>
+]]></content:encoded>
+<pubDate>Sat, 30 Mar 2024 04:00:02 GMT</pubDate>
+<pubDate>Sat, 30 Mar 2024 04:00:02 GMT</pubDate>
+</item>
+<item>
+<title>广泛使用的 Linux 实用程序中发现的后门会破坏加密的 SSH 连接 研究人员在压缩工具中发现了一个恶意后门，该后门已进入广泛使用的 Linux 发行版，包括来自 Red H...</title>
+<link>https://t.me/xhqcankao/9191</link>
+<guid>https://t.me/xhqcankao/9191</guid>
+<content:encoded><![CDATA[
+
+<p><b>广泛使用的 Linux 实用程序中发现的后门会破坏加密的 SSH 连接</b><br /><br />研究人员在压缩工具中发现了一个恶意后门，该后门已进入广泛使用的 Linux 发行版，包括来自 Red Hat 和 Debian 的发行版。<br /><br />据发现该压缩实用程序的开发人员 Andres Freund称，名为xz Utils 的压缩实用程序在 5.6.0 和 5.6.1 版本中引入了恶意代码。目前还没有关于这些版本被合并到主要 Linux 发行版的任何生产版本中的已知报告，但Red Hat和Debian都报告说，最近发布的 Beta 版本至少使用了一个后门版本，特别是在 Fedora 40 和 Fedora Rawhide 和 Debian 中测试、不稳定和实验分布。Arch Linux 的稳定版本也受到影响。然而，该发行版并未在生产系统中使用。<br /><br />由于该后门是在 xz Utils 的恶意版本添加到 Linux 生产版本之前就被发现的，因此“它并没有真正影响现实世界中的任何人”，安全公司 Analygence 的高级漏洞分析师 Will Dormann 在接受在线采访时表示。“但这只是因为坏演员的马虎行为导致它很早就被发现了。如果没有被发现，这对世界来说将是灾难性的。”<br /><br />—— <a href="https://arstechnica.com/security/2024/03/backdoor-found-in-widely-used-linux-utility-breaks-encrypted-ssh-connections/" rel="noopener" target="_blank">arstechnica</a></p>
+]]></content:encoded>
+<pubDate>Sat, 30 Mar 2024 03:47:42 GMT</pubDate>
+<pubDate>Sat, 30 Mar 2024 03:47:42 GMT</pubDate>
+</item>
 
 <item>
 <title>美国爱荷华州化肥泄漏导致60英里河流中几乎所有鱼类死亡 美国官员称，本月爱荷华州发生的化肥泄漏事件导致两州60英里长的河流中大部分水生生物灭绝，造成约78.9...</title>

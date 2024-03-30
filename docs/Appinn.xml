@@ -4,15 +4,14 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>❓ #问题求助 如何在 VNC 窗口使用电脑的输入法快捷输入中文？ https://meta.appinn.net/t/topic/54544</title>
 <link>https://t.me/appinnfeed/10113</link>
 <guid>https://t.me/appinnfeed/10113</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10113?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />如何在 VNC 窗口使用电脑的输入法快捷输入中文？<br /><br /><a href="https://meta.appinn.net/t/topic/54544" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54544</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54544">如何在 VNC 窗口使用电脑的输入法快捷输入中文？</a></b><br /><p>是这样的，我使用 Docker 部署了 TinyMediaManager 管理大片，但是 TinyMediaManager 镜像里并没有安装中文输入法。目前我是通过先在记事本打字，然后复制进 VNC 窗口里。  给 Docker 里安装输入法固然可行，但是吧，词库和输入习惯问题真的很头疼，并且如果这么做的话类似的镜像都要装一遍。  有没有工具可以按下快捷键就会弹出一个输入框，然后自动启动中文输入法，我输入问文字后点确定焦点就会回到VNC窗口，然后自动发送 Ctrl+V，粘贴文本，这样就可以使用 PC 上的输入法快捷输入文字了。</p><img src="https://cdn4.cdn-telegram.org/file/RSr1XxqEdKpD1uAlM3f10ZCBcfjPya5_B-zxg6RM92ohbkCx5aAFc9ouJ0H695xLOy8jxZEWeHv9e4kWDfRlZDT846gTsegJbUXwNugHwLskT9TEJZPLzLQKNU0WIHiMFtpe8pvFbGxoiWKee7YNUW_XIqYiyOfTu43pCla5Scp55pTrz6jyV5RTZrntJkloKC3m5g4qGw1ihoJW_MMTvA0KjawiW48bvcp1JrnlOfjqFl8JLZiEZNLZQJj5NNzwJB7Pr5ZXf_SuWCwpoESNaczejy_rNCW0Icv_Tnx_rGhGUllS-javTrhbSrRQWjRlpyD0w8nikoEa8KlARAmB6w.jpg" /></blockquote>
 ]]></content:encoded>
-<pubDate>Sat, 30 Mar 2024 08:36:01 GMT</pubDate>
 <pubDate>Sat, 30 Mar 2024 08:36:01 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +19,10 @@
 <link>https://t.me/appinnfeed/10112</link>
 <guid>https://t.me/appinnfeed/10112</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10112?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />多开win10的应用有哪些方法？<br /><br /><a href="https://meta.appinn.net/t/topic/54545" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54545</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54545">多开win10的应用有哪些方法？</a></b><br /><p>1111111111</p><img src="https://cdn4.cdn-telegram.org/file/RSr1XxqEdKpD1uAlM3f10ZCBcfjPya5_B-zxg6RM92ohbkCx5aAFc9ouJ0H695xLOy8jxZEWeHv9e4kWDfRlZDT846gTsegJbUXwNugHwLskT9TEJZPLzLQKNU0WIHiMFtpe8pvFbGxoiWKee7YNUW_XIqYiyOfTu43pCla5Scp55pTrz6jyV5RTZrntJkloKC3m5g4qGw1ihoJW_MMTvA0KjawiW48bvcp1JrnlOfjqFl8JLZiEZNLZQJj5NNzwJB7Pr5ZXf_SuWCwpoESNaczejy_rNCW0Icv_Tnx_rGhGUllS-javTrhbSrRQWjRlpyD0w8nikoEa8KlARAmB6w.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Sat, 30 Mar 2024 08:36:01 GMT</pubDate>
-<pubDate>Sat, 30 Mar 2024 08:36:01 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 有没有能够修让windows程序（游戏）暂停并保存当前状态的软件？ https://meta.appinn.net/t/topic/54542</title>
 <link>https://t.me/appinnfeed/10111</link>
@@ -9016,24 +9012,6 @@
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9072?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />我记得我之前见过一个网站，他给你分配一个邮箱，后面你用邮箱时可以在邮箱地址里随意添加前缀后缀，他都能给你重定向到分配给你的这个邮箱里，大家知道是哪个网址吗？<br /><br /><a href="https://meta.appinn.net/t/topic/50482" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/50482</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/50482">我记得我之前见过一个网站，他给你分配一个邮箱，后面你用邮箱时可以在邮箱地址里随意添加前缀后缀，他都能给你重定向到分配给你的这个邮箱里，大家知道是哪个网址吗？</a></b><br /><img src="https://cdn4.cdn-telegram.org/file/tki-7X23nI599_eMhkWr5qZG1MPpzIfi-qNsd4QdOWilFTkfSFGn1pXmRpRPonAe15xuiTtR1fapx86C_fCPu5x1PneOjwpMvlcKiEi0_UTAcbQO7u35qGo03Dwn6Bj6pe5ttOmaqVnbfAruaaleDrLkmeLbV6ydzhLu7jS4QQlfU8MOvVputW83GqYnbvOOh0dMgAluj7buQfNe_cECUcjxNLkT8aPSf2Si1jeYixzdPRr9Y3_0NXrfUMprmDCdgSA4ryAF8lW2X96xizZgKf2f6ZlpxCPeKRMYr3JAzS-f0c9d4KCEIeLXvjMRj1vHIWLZCCgJgZAvEX0MsI4pog.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Mon, 18 Dec 2023 08:00:01 GMT</pubDate>
-</item>
-<item>
-<title>📣 #发现频道 我做了一个在手机灵动岛&amp;锁屏看实时网速/步数/CPU/照片...的软件 https://meta.appinn.net/t/topic/50480</title>
-<link>https://t.me/appinnfeed/9071</link>
-<guid>https://t.me/appinnfeed/9071</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/9071?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />我做了一个在手机灵动岛&amp;锁屏看实时网速/步数/CPU/照片...的软件<br /><br /><a href="https://meta.appinn.net/t/topic/50480" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/50480</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/50480">我做了一个在手机灵动岛&amp;锁屏看实时网速/步数/CPU/照片...的软件</a></b><br /><p>我做了一个在手机灵动岛&amp;锁屏看实时网速/步数/下班倒计时/跑步距离/照片/待办/倒计时/手机使用次数/帧率…的软件   Island Widgets  的作用： 提醒您 ：  准时下班 每天运动 陪伴家人 保持体重 放下手机 每日待办 当前网速 手机使用强度 实时热搜 现在天气 …  初衷 鉴于iPhone灵动岛的特性，无论在使用任何App，灵动岛会一直在屏幕的上方，如何不装饰一下，那它就一直是个像药丸形状小黑条常驻在那里，为了让其物尽其用，我做了一个App：Island Widgets ，在灵动岛和锁屏上显示…</p><img src="https://cdn4.cdn-telegram.org/file/tki-7X23nI599_eMhkWr5qZG1MPpzIfi-qNsd4QdOWilFTkfSFGn1pXmRpRPonAe15xuiTtR1fapx86C_fCPu5x1PneOjwpMvlcKiEi0_UTAcbQO7u35qGo03Dwn6Bj6pe5ttOmaqVnbfAruaaleDrLkmeLbV6ydzhLu7jS4QQlfU8MOvVputW83GqYnbvOOh0dMgAluj7buQfNe_cECUcjxNLkT8aPSf2Si1jeYixzdPRr9Y3_0NXrfUMprmDCdgSA4ryAF8lW2X96xizZgKf2f6ZlpxCPeKRMYr3JAzS-f0c9d4KCEIeLXvjMRj1vHIWLZCCgJgZAvEX0MsI4pog.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Mon, 18 Dec 2023 07:08:01 GMT</pubDate>
-</item>
-<item>
-<title>🔁 新增官方模块：HTTP Download Optimization 一些软件更新系统采用了 HTTP 切片下载的方法。由于切片非常小且 Surge 需要对每个HTTP请求执行规则确定和其他...</title>
-<link>https://t.me/appinnfeed/9070</link>
-<guid>https://t.me/appinnfeed/9070</guid>
-<content:encoded><![CDATA[
-<p>Forwarded From <b><a href="https://t.me/SurgeTestFlightFeed/87">Surge TestFlight Feed</a></b></p><p><b>新增官方模块：HTTP Download Optimization</b><br />一些软件更新系统采用了 HTTP 切片下载的方法。由于切片非常小且 Surge 需要对每个HTTP请求执行规则确定和其他处理，当HTTP请求数量非常大时，这可能会导致显著的性能影响。启用此选项后，相关请求将被视为 raw TCP，以避免HTTP引擎的开销。<br />目前可对：Steam, Windows Update, Microsoft Store, Xbox 等下载服务生效，将持续更新。</p>
-]]></content:encoded>
-<pubDate>Mon, 18 Dec 2023 06:37:43 GMT</pubDate>
 </item>
 </channel>
 </rss>

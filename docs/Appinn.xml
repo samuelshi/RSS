@@ -4,15 +4,14 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>❓ #问题求助 有没有能够修让windows程序（游戏）暂停并保存当前状态的软件？ https://meta.appinn.net/t/topic/54542</title>
 <link>https://t.me/appinnfeed/10111</link>
 <guid>https://t.me/appinnfeed/10111</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10111?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />有没有能够修让windows程序（游戏）暂停并保存当前状态的软件？<br /><br /><a href="https://meta.appinn.net/t/topic/54542" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54542</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54542">有没有能够修让windows程序（游戏）暂停并保存当前状态的软件？</a></b><br /><p>想要的感觉类似微软的这个，quickresume。  可以把程序关闭并完全保存当前状态（存到内存中或者是硬盘力），然后启动就能直接开玩！</p><img src="https://cdn4.cdn-telegram.org/file/RSr1XxqEdKpD1uAlM3f10ZCBcfjPya5_B-zxg6RM92ohbkCx5aAFc9ouJ0H695xLOy8jxZEWeHv9e4kWDfRlZDT846gTsegJbUXwNugHwLskT9TEJZPLzLQKNU0WIHiMFtpe8pvFbGxoiWKee7YNUW_XIqYiyOfTu43pCla5Scp55pTrz6jyV5RTZrntJkloKC3m5g4qGw1ihoJW_MMTvA0KjawiW48bvcp1JrnlOfjqFl8JLZiEZNLZQJj5NNzwJB7Pr5ZXf_SuWCwpoESNaczejy_rNCW0Icv_Tnx_rGhGUllS-javTrhbSrRQWjRlpyD0w8nikoEa8KlARAmB6w.jpg" /></blockquote>
 ]]></content:encoded>
-<pubDate>Sat, 30 Mar 2024 06:28:01 GMT</pubDate>
 <pubDate>Sat, 30 Mar 2024 06:28:01 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +19,10 @@
 <link>https://t.me/appinnfeed/10110</link>
 <guid>https://t.me/appinnfeed/10110</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10110?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />有没有能让任何程序的界面使用dark mode的方法？<br /><br /><a href="https://meta.appinn.net/t/topic/54541" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54541</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54541">有没有能让任何程序的界面使用dark mode的方法？</a></b><br /><p>win10自带的darkmode过于黑了，而且对很多的.exe界面，包括windows自带的，都无效</p><img src="https://cdn4.cdn-telegram.org/file/RSr1XxqEdKpD1uAlM3f10ZCBcfjPya5_B-zxg6RM92ohbkCx5aAFc9ouJ0H695xLOy8jxZEWeHv9e4kWDfRlZDT846gTsegJbUXwNugHwLskT9TEJZPLzLQKNU0WIHiMFtpe8pvFbGxoiWKee7YNUW_XIqYiyOfTu43pCla5Scp55pTrz6jyV5RTZrntJkloKC3m5g4qGw1ihoJW_MMTvA0KjawiW48bvcp1JrnlOfjqFl8JLZiEZNLZQJj5NNzwJB7Pr5ZXf_SuWCwpoESNaczejy_rNCW0Icv_Tnx_rGhGUllS-javTrhbSrRQWjRlpyD0w8nikoEa8KlARAmB6w.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Sat, 30 Mar 2024 06:24:01 GMT</pubDate>
-<pubDate>Sat, 30 Mar 2024 06:24:01 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 请推荐一款完全离线使用的待办事项PC软件 https://meta.appinn.net/t/topic/54531</title>
 <link>https://t.me/appinnfeed/10109</link>
@@ -9016,24 +9012,6 @@
 <p>Forwarded From <b><a href="https://t.me/SurgeTestFlightFeed/87">Surge TestFlight Feed</a></b></p><p><b>新增官方模块：HTTP Download Optimization</b><br />一些软件更新系统采用了 HTTP 切片下载的方法。由于切片非常小且 Surge 需要对每个HTTP请求执行规则确定和其他处理，当HTTP请求数量非常大时，这可能会导致显著的性能影响。启用此选项后，相关请求将被视为 raw TCP，以避免HTTP引擎的开销。<br />目前可对：Steam, Windows Update, Microsoft Store, Xbox 等下载服务生效，将持续更新。</p>
 ]]></content:encoded>
 <pubDate>Mon, 18 Dec 2023 06:37:43 GMT</pubDate>
-</item>
-<item>
-<title>💧 #小众软件 Latest – 开源、免费，Mac 软件管理器，可检查 Mac 绝大多数软件更新 https://www.appinn.com/max-codes-latest/ Tags: #macOS, #软件管理器</title>
-<link>https://t.me/appinnfeed/9069</link>
-<guid>https://t.me/appinnfeed/9069</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">💧</span> <a href="https://t.me/appinnfeed/9069?q=%23%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6">#小众软件</a><br />Latest – 开源、免费，Mac 软件管理器，可检查 Mac 绝大多数软件更新<br /><br /><a href="https://www.appinn.com/max-codes-latest/" rel="noopener" target="_blank">https://www.appinn.com/max-codes-latest/</a><br /><br /><b>Tags</b>: <a href="https://t.me/appinnfeed/9069?q=%23macOS">#macOS</a>, <a href="https://t.me/appinnfeed/9069?q=%23%E8%BD%AF%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8">#软件管理器</a></p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/max-codes-latest/">Latest - 开源、免费，Mac 软件管理器，可检查 Mac 绝大多数软件更新 - 小众软件</a></b><br /><p>Latest 是一款开源、免费的 Mac 软件管理器，用来检查你的 Mac 电脑里安装的“所有软件”是否有更新，以及更新日志。推荐给“更新强迫症”用户 <span class="emoji">😂</span> @Appinn</p><img src="https://cdn4.cdn-telegram.org/file/gt2N382qWNYGqXDesmwfJmE7kDqWZmaisCRQYarYonYB6Swpw5A_Xg2t6uz8wRewCq_w6etEgEGB_QpCx2SD5fnrGdmOsXq_TAI-MQZg7ienQrKHTMcbCdGT5hvn_DZ1y8L9ldk8kRMWQwDiQux1yyQS22LjPUR57K56q17ddwPG4MAi_hRq-5CiFYjGxa0uOR90YtCd4bobsAqeNoX0trj2lYJhvxNhYXzfgRvTpO0Hi-iGQPhm0Oadlp0DQhnRxTYlRvrtr09lnnCCjrPF_KP9He9w7M27SASHfaNKj0GB5PSHRWtGCqIL0WuninXy5BkxmaskrMPR5Dy_NJqLlg.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Mon, 18 Dec 2023 04:08:01 GMT</pubDate>
-</item>
-<item>
-<title>📣 #发现频道 冷门但流量惊人的一些网站！- 独立产品灵感周刊 DecoHack #057 https://meta.appinn.net/t/topic/50466</title>
-<link>https://t.me/appinnfeed/9068</link>
-<guid>https://t.me/appinnfeed/9068</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/9068?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />冷门但流量惊人的一些网站！- 独立产品灵感周刊 DecoHack #057<br /><br /><a href="https://meta.appinn.net/t/topic/50466" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/50466</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/50466">冷门但流量惊人的一些网站！- 独立产品灵感周刊 DecoHack #057</a></b><br /><p>本周刊记录有趣好玩的独立产品设计开发相关内容，每周发布，往期内容同样精彩，感兴趣的伙伴可以点击订阅我的周刊。为保证每期都能收到，建议邮件订阅。欢迎通过 Twitter 私信推荐或投稿。   <span class="emoji">💻</span> 产品推荐 1. Drawing Pics Drawing Pics是一个mac端本地的AI画图工具，对配置没什么太大要求，主打快速、无额外成本运行在您的电脑上。它提供了Figma一样的设计体验，并支持txt2img、img2img、草图控制等功能。Drawing Pics使用先进模型进行草图绘制，支持不同风格，并…</p><img src="https://cdn4.cdn-telegram.org/file/tki-7X23nI599_eMhkWr5qZG1MPpzIfi-qNsd4QdOWilFTkfSFGn1pXmRpRPonAe15xuiTtR1fapx86C_fCPu5x1PneOjwpMvlcKiEi0_UTAcbQO7u35qGo03Dwn6Bj6pe5ttOmaqVnbfAruaaleDrLkmeLbV6ydzhLu7jS4QQlfU8MOvVputW83GqYnbvOOh0dMgAluj7buQfNe_cECUcjxNLkT8aPSf2Si1jeYixzdPRr9Y3_0NXrfUMprmDCdgSA4ryAF8lW2X96xizZgKf2f6ZlpxCPeKRMYr3JAzS-f0c9d4KCEIeLXvjMRj1vHIWLZCCgJgZAvEX0MsI4pog.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Sun, 17 Dec 2023 23:28:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

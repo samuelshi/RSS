@@ -4,6 +4,28 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>📣 #发现频道 【开发者自荐】星伴 - 人际关系管理 iOS App https://meta.appinn.net/t/topic/54552</title>
+<link>https://t.me/appinnfeed/10115</link>
+<guid>https://t.me/appinnfeed/10115</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/10115?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />【开发者自荐】星伴 - 人际关系管理 iOS App<br /><br /><a href="https://meta.appinn.net/t/topic/54552" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54552</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54552">【开发者自荐】星伴 - 人际关系管理 iOS App</a></b><br /><p>前言 一切事都少不了人的参与，无论是在历史的洪流中，还是在遐想无限的未来，“人”总在叙事的主线。我发现过去的一些记录可能少了对具体的人的连接，于是我决定开发这样一款 App，以人作为事件核心来记录生活。  App 名字 星伴 - 点点星光，常常相伴  我对这款 App 有几个期待：  <span class="emoji">❤</span> 我不想它成为负担，而是大家愿意，无论在难过还是开心的时候，翻翻它，记录点东西。给到你力量，或是一点点安慰。别忘了你身边还有一群可爱的人，在支持你，爱着你。 <span class="emoji">🌄</span> 或许，我是说或许，能够让你多注意到身边的人，视线从自身多移…</p><img src="https://cdn4.cdn-telegram.org/file/RSr1XxqEdKpD1uAlM3f10ZCBcfjPya5_B-zxg6RM92ohbkCx5aAFc9ouJ0H695xLOy8jxZEWeHv9e4kWDfRlZDT846gTsegJbUXwNugHwLskT9TEJZPLzLQKNU0WIHiMFtpe8pvFbGxoiWKee7YNUW_XIqYiyOfTu43pCla5Scp55pTrz6jyV5RTZrntJkloKC3m5g4qGw1ihoJW_MMTvA0KjawiW48bvcp1JrnlOfjqFl8JLZiEZNLZQJj5NNzwJB7Pr5ZXf_SuWCwpoESNaczejy_rNCW0Icv_Tnx_rGhGUllS-javTrhbSrRQWjRlpyD0w8nikoEa8KlARAmB6w.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Sat, 30 Mar 2024 12:24:00 GMT</pubDate>
+<pubDate>Sat, 30 Mar 2024 12:24:00 GMT</pubDate>
+</item>
+<item>
+<title>❓ #问题求助 Win10FTP服务的传输速度问题 https://meta.appinn.net/t/topic/54551</title>
+<link>https://t.me/appinnfeed/10114</link>
+<guid>https://t.me/appinnfeed/10114</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10114?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />Win10FTP服务的传输速度问题<br /><br /><a href="https://meta.appinn.net/t/topic/54551" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54551</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54551">Win10FTP服务的传输速度问题</a></b><br /><p>Windows 10 LTSC，内网千兆的网络，使用系统自带的FTP服务器，发现速度总是不能稳定在90MBps以上，有时候起步是100MBps，然后就一直往下掉到20+MBps；有的时候直接起步就是20+MBps，怎么也上不去。   用了如下命令进行设置，没有什么效果：  netsh int tcp set global autotuninglevel=restricted netsh interface tcp set heuristics disabled   再把服务器换成了FileZilla Server，问题还是依旧。…</p><img src="https://cdn4.cdn-telegram.org/file/RSr1XxqEdKpD1uAlM3f10ZCBcfjPya5_B-zxg6RM92ohbkCx5aAFc9ouJ0H695xLOy8jxZEWeHv9e4kWDfRlZDT846gTsegJbUXwNugHwLskT9TEJZPLzLQKNU0WIHiMFtpe8pvFbGxoiWKee7YNUW_XIqYiyOfTu43pCla5Scp55pTrz6jyV5RTZrntJkloKC3m5g4qGw1ihoJW_MMTvA0KjawiW48bvcp1JrnlOfjqFl8JLZiEZNLZQJj5NNzwJB7Pr5ZXf_SuWCwpoESNaczejy_rNCW0Icv_Tnx_rGhGUllS-javTrhbSrRQWjRlpyD0w8nikoEa8KlARAmB6w.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Sat, 30 Mar 2024 12:04:01 GMT</pubDate>
+<pubDate>Sat, 30 Mar 2024 12:04:01 GMT</pubDate>
+</item>
 
 <item>
 <title>❓ #问题求助 如何在 VNC 窗口使用电脑的输入法快捷输入中文？ https://meta.appinn.net/t/topic/54544</title>

@@ -4,6 +4,28 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>❓ #问题求助 如何在 VNC 窗口使用电脑的输入法快捷输入中文？ https://meta.appinn.net/t/topic/54544</title>
+<link>https://t.me/appinnfeed/10113</link>
+<guid>https://t.me/appinnfeed/10113</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10113?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />如何在 VNC 窗口使用电脑的输入法快捷输入中文？<br /><br /><a href="https://meta.appinn.net/t/topic/54544" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54544</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54544">如何在 VNC 窗口使用电脑的输入法快捷输入中文？</a></b><br /><p>是这样的，我使用 Docker 部署了 TinyMediaManager 管理大片，但是 TinyMediaManager 镜像里并没有安装中文输入法。目前我是通过先在记事本打字，然后复制进 VNC 窗口里。  给 Docker 里安装输入法固然可行，但是吧，词库和输入习惯问题真的很头疼，并且如果这么做的话类似的镜像都要装一遍。  有没有工具可以按下快捷键就会弹出一个输入框，然后自动启动中文输入法，我输入问文字后点确定焦点就会回到VNC窗口，然后自动发送 Ctrl+V，粘贴文本，这样就可以使用 PC 上的输入法快捷输入文字了。</p><img src="https://cdn4.cdn-telegram.org/file/RSr1XxqEdKpD1uAlM3f10ZCBcfjPya5_B-zxg6RM92ohbkCx5aAFc9ouJ0H695xLOy8jxZEWeHv9e4kWDfRlZDT846gTsegJbUXwNugHwLskT9TEJZPLzLQKNU0WIHiMFtpe8pvFbGxoiWKee7YNUW_XIqYiyOfTu43pCla5Scp55pTrz6jyV5RTZrntJkloKC3m5g4qGw1ihoJW_MMTvA0KjawiW48bvcp1JrnlOfjqFl8JLZiEZNLZQJj5NNzwJB7Pr5ZXf_SuWCwpoESNaczejy_rNCW0Icv_Tnx_rGhGUllS-javTrhbSrRQWjRlpyD0w8nikoEa8KlARAmB6w.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Sat, 30 Mar 2024 08:36:01 GMT</pubDate>
+<pubDate>Sat, 30 Mar 2024 08:36:01 GMT</pubDate>
+</item>
+<item>
+<title>❓ #问题求助 多开win10的应用有哪些方法？ https://meta.appinn.net/t/topic/54545</title>
+<link>https://t.me/appinnfeed/10112</link>
+<guid>https://t.me/appinnfeed/10112</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10112?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />多开win10的应用有哪些方法？<br /><br /><a href="https://meta.appinn.net/t/topic/54545" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54545</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54545">多开win10的应用有哪些方法？</a></b><br /><p>1111111111</p><img src="https://cdn4.cdn-telegram.org/file/RSr1XxqEdKpD1uAlM3f10ZCBcfjPya5_B-zxg6RM92ohbkCx5aAFc9ouJ0H695xLOy8jxZEWeHv9e4kWDfRlZDT846gTsegJbUXwNugHwLskT9TEJZPLzLQKNU0WIHiMFtpe8pvFbGxoiWKee7YNUW_XIqYiyOfTu43pCla5Scp55pTrz6jyV5RTZrntJkloKC3m5g4qGw1ihoJW_MMTvA0KjawiW48bvcp1JrnlOfjqFl8JLZiEZNLZQJj5NNzwJB7Pr5ZXf_SuWCwpoESNaczejy_rNCW0Icv_Tnx_rGhGUllS-javTrhbSrRQWjRlpyD0w8nikoEa8KlARAmB6w.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Sat, 30 Mar 2024 08:36:01 GMT</pubDate>
+<pubDate>Sat, 30 Mar 2024 08:36:01 GMT</pubDate>
+</item>
 
 <item>
 <title>❓ #问题求助 有没有能够修让windows程序（游戏）暂停并保存当前状态的软件？ https://meta.appinn.net/t/topic/54542</title>

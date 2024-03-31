@@ -5,14 +5,24 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>日本和欧盟合作开发用于芯片和电动汽车的尖端材料 日经新闻获悉，日本和欧盟计划在芯片和电动汽车电池等领域的关键材料研发上正式展开合作，部分原因是为了减少...</title>
+<link>https://t.me/xhqcankao/9202</link>
+<guid>https://t.me/xhqcankao/9202</guid>
+<content:encoded><![CDATA[
+
+<p><b>日本和欧盟合作开发用于芯片和电动汽车的尖端材料<br /></b><br />日经新闻获悉，日本和欧盟计划在芯片和电动汽车电池等领域的关键材料研发上正式展开合作，部分原因是为了减少对中国的依赖。欧盟委员会负责创新和研究的专员伊利亚娜·伊万诺娃在接受采访时透露了四月份建立合作框架的计划。在暂称为“先进材料对话”的框架下，双方将定期讨论合作提案，主要是在秘书处之间展开讨论。日本和欧洲从事尖端材料研究的机构也将参与其中。欧盟要求双方共同努力。伊万诺娃指出，合作可能包括可再生能源、交通、建筑和电子产品等领域的材料。双方设想的一个具体领域是钠离子电池的开发，钠离子电池被视为电动汽车下一代颇具前景的动力来源。这种电池不使用中国掌控的稀有金属，并且比传统电池的生产成本更低。欧盟还希望利用日本在金属纳米粒子方面的知识，这可以提高太阳能电池板的转换效率。<br /><br />—— <a href="https://asia.nikkei.com/Business/Materials/Japan-and-EU-to-develop-cutting-edge-materials-for-chips-and-EVs" rel="noopener" target="_blank">日经亚洲</a></p>
+]]></content:encoded>
+<pubDate>Sun, 31 Mar 2024 04:31:29 GMT</pubDate>
+<pubDate>Sun, 31 Mar 2024 04:31:29 GMT</pubDate>
+</item>
+
+<item>
 <title>在 OpenAI 公司不知情的情况下其旗下创业基金控制人曾登记为虚构人物 在 2023 年的一段时间内，负责管理 OpenAI 旗下 1.75 亿美元创业投资基金的负责人似乎是虚...</title>
 <link>https://t.me/xhqcankao/9201</link>
 <guid>https://t.me/xhqcankao/9201</guid>
 <content:encoded><![CDATA[
-
 <p><b>在 OpenAI 公司不知情的情况下其旗下创业基金控制人曾登记为虚构人物</b><br /><br />在 2023 年的一段时间内，负责管理 OpenAI 旗下 1.75 亿美元创业投资基金的负责人似乎是虚构的。大约在2023年4月，有人伪造了文件，将 OpenAI 投资基金的管理人登记为一个并不存在的人 Jacob Thomas Vespers，以及同一天创建的公司 Vespers Inc.&nbsp;。文件中提供的地址指向加州圣安娜的一个住宅区，但该小区物业方否认与此事有任何关联。而 OpenAI 方面也表示，用于任命该假人负责人的文件是“完全捏造”的，公司在2023年7月被记者询问才得知此事。<br /><br />在加州，故意向政府机构提交虚假文件属于重罪，但 OpenAI 表示当时并未向当局举报，整起事件的动机尚不清楚。而在2023年5月24日，该公司在另一份提交给美国证券交易委员会的文件中将 Sam Altman 列为该基金的管理人。该公司于2023年8月向加州提交了另外一份正式文件，其中没有列出任何人担任 OpenAI 初创基金的经理。<br /><br />—— <a href="https://www.businessinsider.com/who-is-running-openais-startup-fund-2024-3" rel="noopener" target="_blank">商业内幕</a></p>
 ]]></content:encoded>
-<pubDate>Sun, 31 Mar 2024 03:47:11 GMT</pubDate>
 <pubDate>Sun, 31 Mar 2024 03:47:11 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +30,10 @@
 <link>https://t.me/xhqcankao/9200</link>
 <guid>https://t.me/xhqcankao/9200</guid>
 <content:encoded><![CDATA[
-
 <p><b>xz-utils包的供应链攻击的部分细节</b><br /><br />经过两日，以下是部分讨论<br /><br />Victor Zhou<br /><br />英文技术社区纷纷惊呼世界躲过了核弹攻击。中文圈除了几个安全大神以外好像讨论的人少<br /><br />2024年3月29日也就是大约24小时前前曝出一个重要的开源库xz植入后门，差点进入稳定版主流linux发行。意味着控制这个后门的人能打开全球几乎所有服务器。攻击者潜伏2.5年，取得开源库主开发的信任，用看似人畜无害的几步植入了一个非常难以觉察的后门。500毫秒露出的马脚。xz和所有下游厂商安全研究都没第一个发现，只因另一个开源贡献者PostgreSQL的Andres在进行性能分析的时候发现了500毫秒的延时才得以暴露。<br /><br />难以觉察到什么程度呢？例子一：攻击数据是伪装成测试数据并且直接源代码编译的时候还不会调用，只有在打包编译上才会调用。例子二：攻击者在一个很隐秘的地方加了一个看似不小心遗落的句号（真的就是一个句号！！！）就把一个重要的安全防范措施绕过了。<br /><br />一个句号绕过的安全措施，就好像用一根树枝开锁一样。这真是“飞花落叶皆可伤人”的黑客版。<br /><br /><br />大liu<br /><br />刚读完了这两篇关于 xz-utils 包的供应链攻击说明，攻击者潜伏了三年，很精彩，只差一点点就可以往众多 Linux 发行版的 sshd 注入后门，可用于绕过密钥验证，后果不堪设想。<br />概括：<br />1. 攻击者 JiaT75 (Jia Tan) 于 2021 年注册了 GitHub 账号，之后积极参与 xz 项目的维护，并逐渐获取信任，获得了直接 commit 代码的权利。<br />2. JiaT75 在最近几个月的一次 commit 中，悄悄加入了 bad-3-corrupt_lzma2.xz 和 good-large_compressed.lzma 两个看起来人畜无害的测试用二进制数据，然而在编译脚本中，在特定条件下会从这两个文件中读取内容对编译结果进行修改，致使编译结果和公开的源代码不一致。<br />3. 目前初步的研究显示，注入的代码会使用 glibc 的 IFUNC 去 Hook OpenSSH 的 RSA_public_decrypt 函数，致使攻击者可以通过构造特定的验证数据绕过 RSA 签名验证。（具体细节还在分析中）<br />4. 只要是同时使用了 liblzma 和 OpenSSH 的程序就会受到影响，最直接的目标就是 sshd，使得攻击者可以构造特定请求，绕过密钥验证远程访问。<br />5. 受影响的 xz-utils 包已经被并入 Debian testing 中进行测试，攻击者同时也在尝试并入 fedora 和 ubuntu。 <br />6. 幸运的是，注入的代码似乎存在某种 Bug，导致特定情况下 sshd 的 CPU 占用飙升。被一位安全研究人员注意到了，顺藤摸瓜发现了这个阴谋并报告给 oss-security，致使此事败漏。<br />如果不是因为这个 Bug，那么这么后门有不低的概率被并入主流发行版的 stable 版本，恐怕会是一件前所未有的重大安全事件。<br /><br />另外从一些细节能看出来攻击者非常用心：<br />1. 攻击者抢在 ubuntu beta freeze 的几天前才尝试让新版本并入，以期望减少在测试期间被发现的时间。<br />2. xz-utils 项目的原维护者 Lasse Collin (Larhzu)，有着定期进行 internet breaks 的习惯，而且最近正在进行，导致这些变动他并没有 review 的机会，即使到现在也没能联系上他本人。这可能也是攻击者选定 xz-utils 项目的原因之一。<br /><br />更多的细节还在被分析中，目前 GitHub 已经关停了整个 xz 项目。<br /><br /><br /><a href="https://t.me/xhqcankao/9200?q=%23%E7%BB%86%E8%8A%82%E6%98%AF%E9%AD%94%E9%AC%BC">#细节是魔鬼</a> <a href="https://t.me/xhqcankao/9200?q=%23xz">#xz</a>-utils</p>
 ]]></content:encoded>
 <pubDate>Sun, 31 Mar 2024 03:03:36 GMT</pubDate>
-<pubDate>Sun, 31 Mar 2024 03:03:36 GMT</pubDate>
 </item>
-
 <item>
 <title>Temu 因用户数据担忧已撤回在法国和英国的促销活动 拼多多旗下中国跨境在线零售商 Temu 的一项促销活动在欧洲社交媒体上疯传，参与者最多可获得50英镑，但必须同...</title>
 <link>https://t.me/xhqcankao/9199</link>
@@ -9304,24 +9311,6 @@
 <p><b>三星在 MWC 展示 Galaxy Ring 的实体产品</b><br /><br />三于在世界移动大会（MWC 2024）上以实体形式展示了 Galaxy Ring，并透露了一些额外的细节。 该设备以健康和保健为中心，将有铂银、金色和陶瓷黑三种颜色。今天记者不被允许进行拍摄，它是个与其他智能戒指相似的，相对偏厚的凹形戒指。 考虑到里面藏有电子设备，额外的厚度并不奇怪。不过，它比预期的要轻，尺寸为 5 至 13，并在表带内标记为 S 至 XL。 电池的大小（以及充电之间的时间）将根据大小而变化，范围从 14.5mAh 到 21.5mAh。根据三星的博客，该戒指将根据心率、运动和呼吸来跟踪睡眠和生理周期，然后据此为用户提供建议。基于以上数据，用户可以通过一个名为“我的活力得分”的新工具了解自己是否处于最佳状态。 <br /><br />—— <a href="https://www.theverge.com/2024/2/26/24082729/samsung-has-big-ambitions-for-the-galaxy-ring" rel="noopener" target="_blank">The Verge</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 26 Feb 2024 08:25:09 GMT</pubDate>
-</item>
-<item>
-<title>🖼 #GitHub情报 #iOS 老司机 iOS 周报 2024-02-26 这周份的 iOS Markdown 周报，适合爱好者和 iOS 开发人员，每周为大家带来最新的 iOS 新闻资讯，开发信息 �...</title>
-<link>https://t.me/NewlearnerChannel/12452</link>
-<guid>https://t.me/NewlearnerChannel/12452</guid>
-<content:encoded><![CDATA[
-<p><a href="https://t.me/NewlearnerChannel/12452?q=%23GitHub%E6%83%85%E6%8A%A5">#GitHub情报</a> <a href="https://t.me/NewlearnerChannel/12452?q=%23iOS">#iOS</a> <br /><br /><a href="https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23278" rel="noopener" target="_blank">老司机 iOS 周报 2024-02-26</a><br /><br />这周份的 iOS Markdown 周报，适合爱好者和 iOS 开发人员，每周为大家带来最新的 iOS 新闻资讯，开发信息<br /><br /><span class="emoji">📘</span> 本期简介：<br /><br /><span class="emoji">🆕</span> <a href="https://developer.apple.com/news/?id=fxu2qp7b" rel="noopener" target="_blank">App Store Connect upload requirement starts April 29</a><br /><span class="emoji">🐢</span> <a href="https://mp.weixin.qq.com/s/JRdT4vJutvNZ66uqqjYEPg" rel="noopener" target="_blank">Flutter 3.19.0 系列更新</a><br /><span class="emoji">🐕</span> <a href="https://github.com/LLLLLayer/Headphone-Motion" rel="noopener" target="_blank">通过 Headphone Motion 访问 AirPods 的头部跟踪数据</a><br /><span class="emoji">🐕</span> <a href="https://www.swift.org/blog/mlx-swift/" rel="noopener" target="_blank">On-device ML research with MLX and Swift</a><br /><span class="emoji">🐕</span> <a href="https://www.emergetools.com/blog/posts/DyldInterposing" rel="noopener" target="_blank">Code Injection with Dyld Interposing</a><br /><span class="emoji">🐎</span> <a href="https://www.swiftuifieldguide.com/" rel="noopener" target="_blank">The SwiftUI Field Guide</a><br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/oPfPxmWM1zSe9Vfu6N2CmrmM6BZmUtikZEF6raCHlnbOu4AU90vcZQVFsIH8VX6ma3YAaDDPCan178ofbty7-NXLAPhccsoEl8DmK1pQUcAKRH_pfC69xQIElwn8YgpuYD-9jb1pgXnXjMmxEncXKNVn4vWzOTp64fGriKfNI0st9VXECcZ1p5loEJoqCW-8FiPyeKJKZYgryzOnDq_jquJ-nECGP0MqzFOatO_P7WO_c4A2m_AUdAesb50E15DV3XeV5-WUriphw4dsFy6VTfR7VZ_SiUmxlWA1aN-YxP0xEA2xbuI7F1Q9zFuUZbzShlLkZYvxQKBWPm6C1tcGmg.jpg" />
-]]></content:encoded>
-<pubDate>Mon, 26 Feb 2024 07:01:53 GMT</pubDate>
-</item>
-<item>
-<title>沙特推出首个国家级元宇宙平台 据沙特通讯社报道，沙特阿拉伯文化部在2月22日沙特建国日发布了首个国家级元宇宙平台，其动态数字环境允许全世界用户通过参加模拟...</title>
-<link>https://t.me/xhqcankao/8431</link>
-<guid>https://t.me/xhqcankao/8431</guid>
-<content:encoded><![CDATA[
-<p><b>沙特推出首个国家级元宇宙平台</b><br /><br />据沙特通讯社报道，沙特阿拉伯文化部在2月22日沙特建国日发布了首个国家级元宇宙平台，其动态数字环境允许全世界用户通过参加模拟活动来发现沙特的文化遗产。该平台能提供完全身临其境的、基于网络的体验，可通过多种设备访问，包括手机、VR 头显和电脑。文化部称该平台得到了 GMI 人工智能系统的支持，以及与 droppGroup 的合作利用了 Hyperledger Fabric 2.5 区块链技术。该平台将提供沉浸式文化体验，如历史漫步、音乐、艺术、历史、烹饪艺术、手工艺，甚至包括迷你视频游戏的专门区域。沙特的活动也将在该部的元宇宙平台上进行直播，例如沙特建国日的交响音乐会。<br /><br />该平台现已提供全球访问：<a href="https://cup.moc.gov.sa/" rel="noopener" target="_blank">https://cup.moc.gov.sa/</a><br /><br />—— <a href="https://www.arabnews.com/node/2465806/amp" rel="noopener" target="_blank">阿拉伯新闻</a></p>
-]]></content:encoded>
-<pubDate>Mon, 26 Feb 2024 07:54:43 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -22781,3 +22781,10 @@ Existing_entries: 1000
 Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2024-04-02 09:24:52
+------------------------------------------------------
+Started: 2024-04-02 10:09:28
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [❓ #问题求助 MDB数据批量导出TXT https://meta.appinn.net/t/topic/54652](https://t.me/appinnfeed/10147)
+append_entries: 1
+Finish: 2024-04-02 10:09:29

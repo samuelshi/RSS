@@ -4,18 +4,16 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+
 <item>
 <title>由于新的反垃圾邮件准则 Gmail 将部分 Outlook 邮件标记为垃圾邮件 当前一些 Outlook 用户在向 Gmail 邮箱发送电子邮件时，邮件会被阻止并标记为垃圾邮件。此问...</title>
 <link>https://t.me/xhqcankao/9283</link>
 <guid>https://t.me/xhqcankao/9283</guid>
 <content:encoded><![CDATA[
-
 <p><b>由于新的反垃圾邮件准则 Gmail 将部分 Outlook 邮件标记为垃圾邮件</b><br /><br />当前一些 Outlook 用户在向 Gmail 邮箱发送电子邮件时，邮件会被阻止并标记为垃圾邮件。此问题仅影响使用非标准 Outlook[.]com 域（例如  <code>@hotmail.fr</code> 或 <code>@outlook.sk</code>）的用户。微软<a href="https://support.microsoft.com/en-gb/office/fixes-or-workarounds-for-recent-issues-on-outlook-com-8c95d913-d96b-4065-9171-e1fa44b03ff5#ID0E0BC0-button" rel="noopener" target="_blank">建议</a>受影响的用户创建一个 Outlook[.]com 别名并使用该地址联系 Gmail 用户。这是一个临时解决方案，但也是当前微软提供的唯一解决方案。<br /><br />根本原因似乎是谷歌最近实施了更严格的<a href="https://support.google.com/mail/answer/188131" rel="noopener" target="_blank">反垃圾邮件准则</a>。这些准则旨在通过要求群发邮件者达到特定阈值并验证其邮件的真实性来打击垃圾邮件和网络钓鱼行为。而微软可能违反了其中的部分更严格的规定，例如发送者验证。<br /><br />—— <a href="https://www.theregister.com/2024/04/03/outlookcom_blocked_by_gmail/" rel="noopener" target="_blank">The Register</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 03 Apr 2024 20:38:01 GMT</pubDate>
-<pubDate>Wed, 03 Apr 2024 20:38:01 GMT</pubDate>
 </item>
-
 <item>
 <title>亚马逊将在云计算部门裁员数百人 亚马逊公司的云部门(AWS)正在裁员数百人，这将影响销售和营销员工以及为实体店开发技术的团队。亚马逊网络服务发言人周三在一份...</title>
 <link>https://t.me/xhqcankao/9282</link>
@@ -9306,15 +9304,6 @@
                                 </blockquote></div><p><b>Brave 浏览器的 Leo AI 助手现已向安卓用户开放</b><br /><br />2月29日消息，Brave 浏览器正在向所有安卓用户推出人工智能助手 Leo。该助手允许用户提出问题、翻译页面、总结页面、创建内容等。Brave 表示 Leo 将在未来几周内登陆 iOS 设备。<br /><br />—— <a href="https://techcrunch.com/2024/02/29/braves-leo-ai-assistant-is-now-available-to-android-users/" rel="noopener" target="_blank">Techcrunch</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 29 Feb 2024 15:41:37 GMT</pubDate>
-</item>
-<item>
-<title>谷歌将 Stack Overflow 的知识库引入 Gemini for Google Cloud 开发者问答网站 Stack Overflow 今天推出了一项新计划，人工智能公司将能通过一个新的 OverflowAP...</title>
-<link>https://t.me/xhqcankao/8513</link>
-<guid>https://t.me/xhqcankao/8513</guid>
-<content:encoded><![CDATA[
-<p><b>谷歌将 Stack Overflow 的知识库引入 Gemini for Google Cloud</b><br /><br />开发者问答网站 Stack Overflow 今天推出了一项新计划，人工智能公司将能通过一个新的 OverflowAPI 访问其知识库。此项目的首个合作伙伴是谷歌，它将使用 Stack Overflow 的数据来丰富谷歌云的 Gemini，并在谷歌云控制台中提供经过验证的 Stack Overflow 答案。与此同时，Stack Overflow 将与谷歌合作，为其平台带来更多 AI 驱动的功能，这一过程在去年推出 OverflowAI 时就已开始，但还未正式确定正式产品的功能。谷歌和 Stack Overflow 计划在四月份的谷歌云 Next 会议上预览这些集成。<br /><br />—— <a href="https://techcrunch.com/2024/02/29/google-brings-stack-overflows-knowledge-base-to-gemini/" rel="noopener" target="_blank">TechCrunch</a></p>
-]]></content:encoded>
-<pubDate>Thu, 29 Feb 2024 15:01:58 GMT</pubDate>
 </item>
 </channel>
 </rss>

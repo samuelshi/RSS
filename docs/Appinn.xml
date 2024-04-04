@@ -5,17 +5,26 @@
 <link>https://t.me/s/appinnfeed</link>
 
 <item>
+<title>❓ #问题求助 Win10FTP服务的传输速度问题 https://meta.appinn.net/t/topic/54551</title>
+<link>https://t.me/appinnfeed/10171</link>
+<guid>https://t.me/appinnfeed/10171</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10171?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />Win10FTP服务的传输速度问题<br /><br /><a href="https://meta.appinn.net/t/topic/54551" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54551</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54551">Win10FTP服务的传输速度问题</a></b><br /><p>Windows 10 LTSC，内网千兆的网络，使用系统自带的FTP服务器，发现速度总是不能稳定在90MBps以上，有时候起步是100MBps，然后就一直往下掉到20+MBps；有的时候直接起步就是20+MBps，怎么也上不去。   用了如下命令进行设置，没有什么效果：  netsh int tcp set global autotuninglevel=restricted netsh interface tcp set heuristics disabled   再把服务器换成了FileZilla Server，问题还是依旧。…</p><img src="https://cdn4.cdn-telegram.org/file/By5R7F8rqpTDdcESs9vd4SYqrMZzX5yZWIhS3YMLziIuVmYnVOfvtEdB7Fbnvf-nLB5c3iOL1z3atLogOL7zAdS-13ym_-W_TlBBLHq35NPF28v3cd3oyalfdni6vFIRqrOnkE0nwJKb2bl9LthPilM0S_QV7OGn9v8m8hoSLjr-2VjpX80wrB9iO7uHqfOhJmJwAOocNnKp7K-eYNQQLAhnm253oYcW2m0i3WzLyUNaY1mjd0HPfobwQRx2s4gfsxthA0umCSpsGkPP40YL21fAou3XkqUh7NO8c43yTS-Wq04hQZ-pGUn6jbKnnZZBU3YvkKNQ9weOdxrAbVqv8A.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Thu, 04 Apr 2024 03:08:00 GMT</pubDate>
+<pubDate>Thu, 04 Apr 2024 03:08:00 GMT</pubDate>
+</item>
+
+<item>
 <title>❓ #问题求助 讨论 AutoHotkey V1 升 V2 的必要性 https://meta.appinn.net/t/topic/54749</title>
 <link>https://t.me/appinnfeed/10170</link>
 <guid>https://t.me/appinnfeed/10170</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10170?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />讨论 AutoHotkey V1 升 V2 的必要性<br /><br /><a href="https://meta.appinn.net/t/topic/54749" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54749</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54749">讨论 AutoHotkey V1 升 V2 的必要性</a></b><br /><p>先说我的结论：如果你只把 ahk 当作一个工具，V1 足矣。如果你希望在掌握 ahk 的同时进入编程世界，你应该尝试 V2。如果你是纯新手，同样应该 V2，ahk 的主流都在使用 V2，包括维护者、核心成员、各大佬。  简单来说，V1 更像某个软件的使用手册，你精通 PS，却很难了解处理图片的原理。V1 很难被定义为普通的编程语言，V2 则向常规语言靠拢，更严谨，也更现代。如果你熟悉 V2，你会发现 JavaScript、python 脚本并不难理解。  值得一提的是，最近 lexikos 宣布 V1 的生命周期已经结束。…</p><img src="https://cdn4.cdn-telegram.org/file/By5R7F8rqpTDdcESs9vd4SYqrMZzX5yZWIhS3YMLziIuVmYnVOfvtEdB7Fbnvf-nLB5c3iOL1z3atLogOL7zAdS-13ym_-W_TlBBLHq35NPF28v3cd3oyalfdni6vFIRqrOnkE0nwJKb2bl9LthPilM0S_QV7OGn9v8m8hoSLjr-2VjpX80wrB9iO7uHqfOhJmJwAOocNnKp7K-eYNQQLAhnm253oYcW2m0i3WzLyUNaY1mjd0HPfobwQRx2s4gfsxthA0umCSpsGkPP40YL21fAou3XkqUh7NO8c43yTS-Wq04hQZ-pGUn6jbKnnZZBU3YvkKNQ9weOdxrAbVqv8A.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Thu, 04 Apr 2024 02:48:01 GMT</pubDate>
-<pubDate>Thu, 04 Apr 2024 02:48:01 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 重做系统能避免惠普在系统里安装它的软件吗？ https://meta.appinn.net/t/topic/54745</title>
 <link>https://t.me/appinnfeed/10169</link>
@@ -9014,15 +9023,6 @@
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9128?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />有啥软件能把小图片拼接成大图，效果就像这样<br /><br /><a href="https://meta.appinn.net/t/topic/50691" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/50691</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/50691">有啥软件能把小图片拼接成大图，效果就像这样</a></b><br /><p>[7XNkP6k0oK25hnRvpXtY_1082094967]</p><img src="https://cdn4.cdn-telegram.org/file/FV3wX7XpYiQ4ibyyRN2nWLYb2EgEZlmfzHre5GSA4FhPxLp80anXg7zUi32URnNmC4l5DyBDkKYCB0wzDm_DNVxa7KylU9e6yZxBgKaA_tkNndge-dF42e0nLvqMeE-7FUYcXOfAkLlFKlkHXL0yrF-wuTtd7rov09FR4LKkv8tZ4xo8NayNISV7v5LGr1LLrw3VaTK5DAvM6nJ8aT8FJKb8KgkhuQ0s9RA0Cck62i3BCjpXnG8M2f6t62L64GDiDMXU_ohZdMSCQfIh2Ea174WINsHdQFG8T6h6seBG0x76ivyoAeLAG1mwhyvuj54rM0IX3QKMH6GKFOjpqXYHAQ.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Sat, 23 Dec 2023 08:12:01 GMT</pubDate>
-</item>
-<item>
-<title>💧 #小众软件 76 款国产软件 5 折起，国货之光优惠庆典现已开启 https://www.appinn.com/76-apps-cn-better/ Tags: #团购, #国货之光, #数码荔枝</title>
-<link>https://t.me/appinnfeed/9127</link>
-<guid>https://t.me/appinnfeed/9127</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">💧</span> <a href="https://t.me/appinnfeed/9127?q=%23%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6">#小众软件</a><br />76 款国产软件 5 折起，国货之光优惠庆典现已开启<br /><br /><a href="https://www.appinn.com/76-apps-cn-better/" rel="noopener" target="_blank">https://www.appinn.com/76-apps-cn-better/</a><br /><br /><b>Tags</b>: <a href="https://t.me/appinnfeed/9127?q=%23%E5%9B%A2%E8%B4%AD">#团购</a>, <a href="https://t.me/appinnfeed/9127?q=%23%E5%9B%BD%E8%B4%A7%E4%B9%8B%E5%85%89">#国货之光</a>, <a href="https://t.me/appinnfeed/9127?q=%23%E6%95%B0%E7%A0%81%E8%8D%94%E6%9E%9D">#数码荔枝</a></p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/76-apps-cn-better/">76 款国产软件 5 折起，国货之光优惠庆典现已开启 - 小众软件</a></b><br /><p>即将过去的 2023 年，是不断崛起的一年。众多国产商品的推出，让大家感受到了国货的魅力与品质。</p><img src="https://cdn4.cdn-telegram.org/file/AjRJqxiTKNw6wqJjHW9b8p5_vindLJTaahazCbBJ3SzZxtnxj2UNcqW8Jor6sdW59qy1NMR514nnYhOqcWnemzGa5WoMZmPV-ipzYZ3G2kiS1NztwLL7bejv3P5ctBRROUUajfmQh2iH-qMU49KGobQIwgBLdymKjx59FhSKv_dX4Yeukag5BobkxGqQI5-7BxJBsmjKPhspXBk7ndgWwU1_4WnXzcMAFBE41Dw7d_phHYdTtCUyv4d49Oh4BVLAqH2m53pxnjmbUUbZIMxFAUpTZL_OHSfS8V69r4BD9DXGqI0gfraaV-e29VqQ60gq5-8shO_ZBrTcu4g9TWKn4A.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Sat, 23 Dec 2023 03:32:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

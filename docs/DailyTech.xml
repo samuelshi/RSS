@@ -4,18 +4,16 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+
 <item>
 <title>Google Books 正在索引人工智能生成的低质量内容 Google Books 是索引已出版的资料的服务，已成为学术界必不可少的工具。但该工具正在索引会出现在搜索结果中的...</title>
 <link>https://t.me/xhqcankao/9336</link>
 <guid>https://t.me/xhqcankao/9336</guid>
 <content:encoded><![CDATA[
-
 <p><b>Google Books 正在索引人工智能生成的低质量内容</b><br /><br />Google Books 是索引已出版的资料的服务，已成为学术界必不可少的工具。但该工具正在索引会出现在搜索结果中的低质量、人工智能生成的书籍，并且可能会影响 Google Ngram 查看器，这是研究人员用来追踪历史上语言使用情况的重要工具。<br /><br />在 Google 图书中搜索与 ChatGPT 生成的答案相关的术语“截至我上次知识更新”，会返回数十本包含该短语的书籍。其中一些书籍涉及 ChatGPT、机器学习、AI 和其他相关主题，并包含该短语，因为它们正在讨论 ChatGPT 及其输出，这些书似乎是由人类撰写的。然而，搜索结果的前八页中的大多数书籍似乎都是 AI 生成的，并且与 AI 主题无关。<br /><br />—— <a href="https://www.reuters.com/business/yellen-launches-contentious-meetings-chinese-excess-production-threat-2024-04-05/" rel="noopener" target="_blank">404Media</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 05 Apr 2024 17:22:11 GMT</pubDate>
-<pubDate>Fri, 05 Apr 2024 17:22:11 GMT</pubDate>
 </item>
-
 <item>
 <title>因中国电动汽车激烈竞争特斯拉取消低成本汽车计划 据三位知情人士以及路透社看到的公司消息称，特斯拉取消了长期承诺的廉价汽车，投资者一直指望它能推动特斯拉...</title>
 <link>https://t.me/xhqcankao/9335</link>
@@ -9294,15 +9292,6 @@
 <p><b>WhatsApp 已经开始测试第三方聊天互操作性支持</b><br /><br />在2024年3月在欧盟生效的《数字市场法案 (DMA)》中，消息应用 WhatsApp 被指定为看门人 (Gatekeeper) 应用，意味着它必须开放第三方互操作性，例如为第三方消息应用添加单独的收发功能。虽然 WhatsApp 目前并未正式回应会如何遵守 DMA ，但最新的 WhatsApp Android <code>2.24.5.18</code> 测试版更新表明其正在测试这一功能。<br /><br />WhatsApp 正在添加一个激活界面，在用户选择前显示：“您正在通过 WhatsApp 以外的方式向某人发送消息。 第三方应用可能使用不同的端到端加密。” 它还警告其他应用“可能会以不同的方式处理您的数据”。并且 WhatsApp 正在开发专门用于第三方聊天的聊天信息屏幕。需要注意的是，此功能是可选的，如果用户希望使用它，则需要手动激活互操作性服务。<br /><br />—— <a href="https://www.forbes.com/sites/davidphelan/2024/03/02/whatsapps-surprise-ground-breaking-new-feature-is-coming-sooner-than-expected/" rel="noopener" target="_blank">福布斯</a></p>
 ]]></content:encoded>
 <pubDate>Sat, 02 Mar 2024 23:30:35 GMT</pubDate>
-</item>
-<item>
-<title>谷歌正在为 Chromebook 准备一个通用的“应用程序商城” Chromebook 或 ChromeOS 事实上可以安装多种不同类型的应用：PWA应用、Chrome插件应用、Linux应用以及An...</title>
-<link>https://t.me/xhqcankao/8561</link>
-<guid>https://t.me/xhqcankao/8561</guid>
-<content:encoded><![CDATA[
-<p><b>谷歌正在为 Chromebook 准备一个通用的“应用程序商城”</b><br /><br />Chromebook 或 ChromeOS 事实上可以安装多种不同类型的应用：PWA应用、Chrome插件应用、Linux应用以及Android应用等，以及还可以从Steam安装游戏。但在大多数情况下，用户无法在一个地方找到所有这些应用程序。 为了帮助解决至少其中一些问题，谷歌似乎准备推出一个专门的“应用商城（App Mall）”来帮助用户找到新的应用程序。 在当前的早期测试期间，ChromeOS “App Mall” 将被隐藏在 chrome://flags 中“ChromeOS App Mall”的测试标记后面，其描述为“启用一能够发现并安装其他应用程序的应用程序。”<br /><br />—— <a href="https://9to5google.com/2024/03/01/google-app-mall-for-chromebooks/" rel="noopener" target="_blank">9to5Google</a></p>
-]]></content:encoded>
-<pubDate>Sat, 02 Mar 2024 16:51:08 GMT</pubDate>
 </item>
 </channel>
 </rss>

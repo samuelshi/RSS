@@ -4,12 +4,12 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+
 <item>
 <title>↩️ NASA 已查明旅行者1号通信问题的原因并正在研究解决方案 工程师们在研究先前无法解读的数据后已经确认，自去年 11 月以来，NASA 旅行者 1 号上的一台计算机...</title>
 <link>https://t.me/xhqcankao/9337</link>
 <guid>https://t.me/xhqcankao/9337</guid>
 <content:encoded><![CDATA[
-
 <div class="rsshub-quote"><blockquote>
                                     <p><a href="https://t.me/xhqcankao/8843"><b>风向旗参考快讯</b>:</a></p>
                                     
@@ -17,9 +17,7 @@
                                 </blockquote></div><p><b>NASA 已查明旅行者1号通信问题的原因并正在研究解决方案</b><br /><br />工程师们在研究先前无法解读的数据后已经确认，自去年 11 月以来，NASA 旅行者 1 号上的一台计算机的一小部分(大约3%)内存损坏，导致该航天器向地球发送无法读取的数据。这台计算机被称为飞行数据子系统 (FDS)，负责在遥测调制单元 (TMU) 和无线电发射器将数据发送到地球之前打包探测器的科学和工程数据。有两种可能性导致该问题：一是该芯片可能被来自太空的高能粒子击中；二是它在 46 年的使用后已经磨损了。<br /><br />尽管这可能需要数周甚至数月的时间，但工程师们乐观地认为，他们可以找到一种方法，让 FDS 在没有受损内存硬件的情况下正常运行，这将使旅行者 1 号能够再次开始发回科学和工程数据。<br /><br />—— <a href="https://blogs.nasa.gov/voyager/2024/04/04/engineers-pinpoint-cause-of-voyager-1-issue-are-working-on-solution/" rel="noopener" target="_blank">NASA</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 05 Apr 2024 19:03:55 GMT</pubDate>
-<pubDate>Fri, 05 Apr 2024 19:03:55 GMT</pubDate>
 </item>
-
 <item>
 <title>Google Books 正在索引人工智能生成的低质量内容 Google Books 是索引已出版的资料的服务，已成为学术界必不可少的工具。但该工具正在索引会出现在搜索结果中的...</title>
 <link>https://t.me/xhqcankao/9336</link>
@@ -9298,15 +9296,6 @@
 <p><b>苹果公司收到关于 iCloud 的反垄断集体诉讼</b><br /><br />一项在美国加州新提出的集体诉讼称，苹果“将其 iCloud 价格提高到该服务几乎能产生纯利润的程度”。原告在提交给法庭的文件中指控，苹果只允许 iCloud 管理设备备份和其他存储需求，从而“操纵竞争环境”。诉讼称：“苹果强制使用 iCloud 存储受限文件没有任何技术或安全理由。”  “苹果做出这样的区分只是为了减少竞争并使其 iCloud 产品相对于竞争对手的云平台更具优势。”原告还提到了苹果智能手机的主要竞争对手三星，三星向消费者提供了 Samsung Drive，但同时也让消费者可以选择向 Google Drive 进行完全备份。如果当前已购买 iCloud 存储的用户对于该诉求感兴趣，也可以加入诉讼。<br /><br />—— <a href="https://9to5mac.com/2024/03/02/icloud-5gb-limit-class-action-lawsuit/" rel="noopener" target="_blank">9to5mac</a></p>
 ]]></content:encoded>
 <pubDate>Sun, 03 Mar 2024 00:39:16 GMT</pubDate>
-</item>
-<item>
-<title>WhatsApp 已经开始测试第三方聊天互操作性支持 在2024年3月在欧盟生效的《数字市场法案 (DMA)》中，消息应用 WhatsApp 被指定为看门人 (Gatekeeper) 应用，意味...</title>
-<link>https://t.me/xhqcankao/8562</link>
-<guid>https://t.me/xhqcankao/8562</guid>
-<content:encoded><![CDATA[
-<p><b>WhatsApp 已经开始测试第三方聊天互操作性支持</b><br /><br />在2024年3月在欧盟生效的《数字市场法案 (DMA)》中，消息应用 WhatsApp 被指定为看门人 (Gatekeeper) 应用，意味着它必须开放第三方互操作性，例如为第三方消息应用添加单独的收发功能。虽然 WhatsApp 目前并未正式回应会如何遵守 DMA ，但最新的 WhatsApp Android <code>2.24.5.18</code> 测试版更新表明其正在测试这一功能。<br /><br />WhatsApp 正在添加一个激活界面，在用户选择前显示：“您正在通过 WhatsApp 以外的方式向某人发送消息。 第三方应用可能使用不同的端到端加密。” 它还警告其他应用“可能会以不同的方式处理您的数据”。并且 WhatsApp 正在开发专门用于第三方聊天的聊天信息屏幕。需要注意的是，此功能是可选的，如果用户希望使用它，则需要手动激活互操作性服务。<br /><br />—— <a href="https://www.forbes.com/sites/davidphelan/2024/03/02/whatsapps-surprise-ground-breaking-new-feature-is-coming-sooner-than-expected/" rel="noopener" target="_blank">福布斯</a></p>
-]]></content:encoded>
-<pubDate>Sat, 02 Mar 2024 23:30:35 GMT</pubDate>
 </item>
 </channel>
 </rss>

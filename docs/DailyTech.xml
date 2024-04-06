@@ -4,12 +4,12 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+
 <item>
 <title>↩️ 华硕因未按承诺提供 bootloader 解锁工具而向 Zenfone 买家退款 英国的一起索赔案件中一位 Zenfone 手机买家在华硕违背承诺后获得全额退款。今年3月份，居...</title>
 <link>https://t.me/xhqcankao/9346</link>
 <guid>https://t.me/xhqcankao/9346</guid>
 <content:encoded><![CDATA[
-
 <div class="rsshub-quote"><blockquote>
                                     <p><a href="https://t.me/xhqcankao/6907"><b>风向旗参考快讯</b>:</a></p>
                                     
@@ -17,9 +17,7 @@
                                 </blockquote></div><p><b>华硕因未按承诺提供 bootloader 解锁工具而向 Zenfone 买家退款</b><br /><br />英国的一起索赔案件中一位 Zenfone 手机买家在华硕违背承诺后获得全额退款。今年3月份，居住在英国的一位 Zenfone 手机买家蒂莫西(化名)在英国小额索赔法院起诉华硕，称该公司违反了为其手机提供 bootloader 解锁支持的承诺。在当地时间4月5日，蒂莫西向新闻媒体提供了法庭案件的文件以及华硕已经和解的证据。在和解协议中，蒂莫西(化名)获得了手机全额退款(700英镑)和法庭申请费(70英镑)，总计770英镑。如果遇到类似的问题，此案例证明您也有机会获得退款。<br /><br />—— <a href="https://www.androidauthority.com/asus-bootloader-unlock-settlement-3431818/" rel="noopener" target="_blank">AndroidAuthority</a></p>
 ]]></content:encoded>
 <pubDate>Sat, 06 Apr 2024 02:35:28 GMT</pubDate>
-<pubDate>Sat, 06 Apr 2024 02:35:28 GMT</pubDate>
 </item>
-
 <item>
 <title>Instagram 从广告中赚到的钱比 YouTube 还多，而且多年来一直如此 在 Meta 公司于当地时间4月5日提交的一项动议中，试图驳回美国联邦贸易委员会的垄断指控，其中...</title>
 <link>https://t.me/xhqcankao/9345</link>
@@ -9306,15 +9304,6 @@
 <p><b>北美州即将迎来2024年4月8日的“全日食”</b><br /><br />2024年4月8日周一，日全食带将穿过北美洲，(基里巴斯部分区域和托克劳看到的日偏食在4月9日)。新月当天 (即朔日)，地球上观测到月球和太阳的角距离极小，此时月球如果恰好在月球交点附近，穿过太阳和地球之间，与地球、太阳接近一直线，则会出现日食。月球本影接触地表而使该区域完全得不到阳光，就会形成日全食，同时在本影两侧数千公里的半影范围内遮挡部分阳光，形成日偏食。此次日全食将会经过墨西哥、美国、加拿大，日偏食则将覆盖大洋洲东部、北美洲绝大部分及周边部分地区。<br /><br />—— <a href="https://zh.m.wikipedia.org/wiki/2024%E5%B9%B44%E6%9C%888%E6%97%A5%E6%97%A5%E9%A3%9F" rel="noopener" target="_blank">维基百科</a></p>
 ]]></content:encoded>
 <pubDate>Sun, 03 Mar 2024 11:41:09 GMT</pubDate>
-</item>
-<item>
-<title>AI 开源开发平台 Hugging Face 存在托管的恶意代码 安全公司 JFrog 的研究人员周四在一份报告中表示，上传到人工智能开发平台 Hugging Face 的代码在用户计算机...</title>
-<link>https://t.me/xhqcankao/8568</link>
-<guid>https://t.me/xhqcankao/8568</guid>
-<content:encoded><![CDATA[
-<p><b>AI 开源开发平台 Hugging Face 存在托管的恶意代码</b><br /><br />安全公司 JFrog 的研究人员周四在一份报告中表示，上传到人工智能开发平台 Hugging Face 的代码在用户计算机上秘密安装了后门和其他类型的恶意软件。研究人员表示，他们总共发现大约 100 个提交内容在下载并加载到最终用户设备上时执行了隐藏的和不需要的操作。 大多数被标记的机器学习模型（所有这些模型都没有被 Hugging Face 检测到）似乎是研究人员或好奇的用户上传的良性概念证明。研究人员表示，其中大约10个是“真正恶意的”，因为它们在加载时执行的操作实际上损害了用户的安全，例如创建一个可以从互联网远程访问并完全控制用户设备的反向 Shell 。 Hugging Face 已删除了所有 JFrog 标记的模型。这是继 PyPI, NPM 和 GitHub 之后又一个被发现受到水坑攻击（Watering Hole Attack）的开发平台，虽然并不让人太意外。<br /><br />—— <a href="https://arstechnica.com/security/2024/03/hugging-face-the-github-of-ai-hosted-code-that-backdoored-user-devices/" rel="noopener" target="_blank">Ars Technica</a></p>
-]]></content:encoded>
-<pubDate>Sun, 03 Mar 2024 11:10:15 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -5,17 +5,26 @@
 <link>https://t.me/s/appinnfeed</link>
 
 <item>
+<title>❓ #问题求助 使用clang编译C++（C）后不显示命令行窗口的办法？ https://meta.appinn.net/t/topic/54864</title>
+<link>https://t.me/appinnfeed/10204</link>
+<guid>https://t.me/appinnfeed/10204</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10204?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />使用clang编译C++（C）后不显示命令行窗口的办法？<br /><br /><a href="https://meta.appinn.net/t/topic/54864" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54864</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54864">使用clang编译C++（C）后不显示命令行窗口的办法？</a></b><br /><p>RT, 在一开始学c的时候，咱们都知道  #include &lt;stdio.h&gt; int main(int argc, char *argv[]){     printf("hello world");     return 0; }  上面这个编译出来的main.exe（只说windows平台）是会显示一个黑乎乎的窗口的，但是有时候不需要这个黑色窗口，仅凭快捷键与弹出的通知与用户交互，这时候怎么隐藏这个黑色控制台窗口呢？  不同编译器 MSVC #include &lt;windows.h&gt; #pragma comment(…</p><img src="https://cdn4.cdn-telegram.org/file/prZ7EVpICz187PdGX6mj20SJwMoBlJif3JeBuYdpzWI2MQNNOj71JT-DUTYYhSTQ71uEgeh3RNumoR3VaV-XQdc5lSz5zVZQbYtJj4yhHfFlENw-KKoB5Sud1MzE8fQ6cshFl9cVpxHDFPhmkXXviMrsckj8JYkeBBMFGUjCZuvHKl6J_MfQfGVFM54qmM4257I1HiO4I0Qfbrq3jVCi2SiVhZ_smbK5GOly5u7xNMt-5GWOJdfVNlj-Lby09z3rp3iYJM49aQv6k22FvcWcFPRJfpB9Y74ri2PZFSrZcKKgoXdlU3X6ojAUCii2hjKay2Lqo_99rdDgFrtesEREhg.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Sun, 07 Apr 2024 12:24:01 GMT</pubDate>
+<pubDate>Sun, 07 Apr 2024 12:24:01 GMT</pubDate>
+</item>
+
+<item>
 <title>❓ #问题求助 多邻国学英语或者日语效果怎么样，零基础那种？ https://meta.appinn.net/t/topic/54863</title>
 <link>https://t.me/appinnfeed/10203</link>
 <guid>https://t.me/appinnfeed/10203</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10203?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />多邻国学英语或者日语效果怎么样，零基础那种？<br /><br /><a href="https://meta.appinn.net/t/topic/54863" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54863</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54863">多邻国学英语或者日语效果怎么样，零基础那种？</a></b><br /><p>如标题所问，它可以当成一个主用的学外语软件吗，还是只能起到锦上添花的作用？  另外，这只小绿鸟怎么老了，<span class="emoji">😃</span></p><img src="https://cdn4.cdn-telegram.org/file/O3IovYpq8E7xp-6oTMHEN-T33nWfqDwzmGoHdmCsr0-UvvgFEQYBgIZUlCy9qS_okWIWj1C7E9gpP-w2ynze6SDF0oxFe4Hj15dDErdz1Kz3Hjgx_-3RQuBkbhAmfDYtcFUb-IVwFD_1TK69UMlXGDqvW-I_T1yCozTvYUXjhQoYZ2xI8Wq5gBTmK2c2jy_nPI5KpBhQ4cX6AW3ZdUkyqAYDhnCTmAkWuMm5z9rglEOZ74gR3QvKym1vwVylV99tpCEE0JC2lyBDZh5KmNpdLnXgQymoISTfa9jb4SP81QIhdbuRgd3g-3U1A4h1XzaO8aLw9Md9hTcXhjnF72z5ew.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Sun, 07 Apr 2024 11:16:01 GMT</pubDate>
-<pubDate>Sun, 07 Apr 2024 11:16:01 GMT</pubDate>
 </item>
-
 <item>
 <title>📣 #发现频道 【自荐】带壳截图神器 NiceShots 迎来重大更新! https://meta.appinn.net/t/topic/54862</title>
 <link>https://t.me/appinnfeed/10202</link>
@@ -9014,15 +9023,6 @@
 <p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/9160?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />「Todo计划」专注清单+萌宠养成，专注力与效率的双重提升神器！<br /><br /><a href="https://meta.appinn.net/t/topic/50813" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/50813</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/50813">「Todo计划」专注清单+萌宠养成，专注力与效率的双重提升神器！</a></b><br /><p>你是否曾在繁杂的工作中感到力不从心，是否曾在无数个待办事项中迷失自我？  现在，一款全新的APP即将改变你的生活，它就是——「Todo计划」。  「Todo计划」是一款独特的养成系统应用，它将专注力训练与萌宠养成完美结合，让你在专注训练的同时，也能体验到萌宠养成的乐趣。  这款APP不仅具有丰富的萌宠养成样式，更创新性地加入了用户行为与萌宠行为之间的互动，让你的萌宠养成之旅更加有趣、富有挑战性。     在「Todo计划」中，你的萌宠将拥有多种行为，包括家里的行为和学校的行为。  这些行为会根据你的用户…</p><img src="https://cdn4.cdn-telegram.org/file/e5ZKhqQXox3P_LHL_oo8U_gS8EE_oWNfTmZ4EYvaAAO5vGsAMGLXCxwt3fz_yQ0tVnNXuzcB9clFIfGhJ38ognBo1UTkRgPtz1lMUWqHG0cFAYsszZCM5q3blE1-83Bv1rTkg8Vg648lgYp0_LlGzjwarpfjvyVyGsXY1S5pq2h7BGYUVw-FZ4aM1wtuKN_izvFzpZZbEH8b-ARLD69MYpgxgvZeNsWgvM8b6UUJllB7XoWTFnAgmRkTuJ4rC1dvcDzRfbLoJjl6u6Vq_9BUUgJm7M61zko6d6GnwuY04lu8mSGfRGP2ZJz_Zic17Lm4zWxQryfI8853n7Yaaggo_Q.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Wed, 27 Dec 2023 07:24:01 GMT</pubDate>
-</item>
-<item>
-<title>💧 #小众软件 饭碗警告 – 将邮件/WebHook 转发至电话、短信、IM 通知 https://www.appinn.com/fwalert/ Tags: #在线应用, #Telegram, #webhook, #推送, #转发...</title>
-<link>https://t.me/appinnfeed/9159</link>
-<guid>https://t.me/appinnfeed/9159</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">💧</span> <a href="https://t.me/appinnfeed/9159?q=%23%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6">#小众软件</a><br />饭碗警告 – 将邮件/WebHook 转发至电话、短信、IM 通知<br /><br /><a href="https://www.appinn.com/fwalert/" rel="noopener" target="_blank">https://www.appinn.com/fwalert/</a><br /><br /><b>Tags</b>: <a href="https://t.me/appinnfeed/9159?q=%23%E5%9C%A8%E7%BA%BF%E5%BA%94%E7%94%A8">#在线应用</a>, <a href="https://t.me/appinnfeed/9159?q=%23Telegram">#Telegram</a>, <a href="https://t.me/appinnfeed/9159?q=%23webhook">#webhook</a>, <a href="https://t.me/appinnfeed/9159?q=%23%E6%8E%A8%E9%80%81">#推送</a>, <a href="https://t.me/appinnfeed/9159?q=%23%E8%BD%AC%E5%8F%91">#转发</a>, <a href="https://t.me/appinnfeed/9159?q=%23%E9%82%AE%E4%BB%B6">#邮件</a></p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/fwalert/">饭碗警告 - 将邮件/WebHook 转发至电话、短信、IM 通知 - 小众软件</a></b><br /><p>饭碗警告是一个非常实用的信息转发工具，它能够将你收到的邮件、WebHook 推送转发至电话、短信、Telegram 通知、App 通知，甚至再转发到邮件，或者 WebHook。@Appinn</p><img src="https://cdn4.cdn-telegram.org/file/AcNLG9sHni58zAcUOxKbifVJ52EHqJ1ppd_6WtLCLzkPAMxRIMeNnfTsmhkeCLJl32SBSyVCOPf3cwyaBVzGC67wM-dKL6jYU1hx9QzZBf0BxD4L1SnuVOhsO6gJaXPXZp6iO2R003FDky1SZKl04EPdMlljG7CLHaSiPH9Y5eeyHHCJY5cNoVQ4EuKF5cQ4L9gD3iQ5hxJpQ-ZUCOEtRRc2ymGVpFKEEJPf9vjCYdt1Ypq-TINdFXzbWkGeOdV4ZnEnK7aztPymUxR28PIKE6OfFKCar-CZNpdTItpWbmFiusgS08cAUQpHawBVJdi8NMMysshyd4yK7UkWZjIwBg.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Wed, 27 Dec 2023 07:00:03 GMT</pubDate>
 </item>
 </channel>
 </rss>

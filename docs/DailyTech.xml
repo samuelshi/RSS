@@ -4,18 +4,16 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+
 <item>
 <title>🖼 ✏️ 被推迟的 iPad Pro 和 iPad Air 根据内部的朋友的消息，可以确定机型存在搭载 M3，同时存在的还有 iPad Air 以及适配两款的 Magic Keyboard。可能因为...</title>
 <link>https://t.me/AppleNuts/1957</link>
 <guid>https://t.me/AppleNuts/1957</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">✏️</span> <b>被推迟的 iPad Pro 和 iPad Air</b><br /><br />根据内部的朋友的消息，可以确定机型存在搭载 M3，同时存在的还有 iPad Air 以及适配两款的 Magic Keyboard。可能因为产能问题被不断推迟。<br /><br />原计划 3 月初发布，但是内部得到的消息是推迟发布。目前预估可能会在 5 月发布。<br /><br /><span class="emoji">🫥</span> <b>以下消息未被证实，仅供参考</b><br />* 新的 iPad Air 会搭配 M2 芯片<br />* 新款 iPad Pro 是 OLED 屏幕，且可以选择屏幕材质（磨砂雾面），并支持 MagSafe 充电<br />* 支持捏合手势的 Apple Pencil 3<br /><br />近期<b>不建议</b>购买 iPad Pro 和 iPad Air 机型，如有有换机计划可以考虑根据使用需求和频率准备挂在二手市场啦。</p><img src="https://cdn5.cdn-telegram.org/file/HumX-sqM8uIffDfGrIkbqrTg98mGUFdjzHdJfzdPQkc27NMCPdeGY9YjpVOKgrtheu30UwThmzgUFYoaEo8aoakFkqFXUDhrW5rW8wxRzlz9w2UggPorueX5GxKzXp5CTkxZ0xC-HfDe5qaYpubK2z3tMvMWsyTbpP_SCXSdEcQJgckI67qF8wc2kYa8xJ9fxu13XSYxWsMd1Gl63aF49jqBHOnsbKuPL09LNJtOcpSOSczpMUKT_nhVSZ7bdncNhNdrjKQlnAacLLauMOteM4cMN2_00YnC0gKu2AOR2MO-K756_0kT2imET3rn_Dj0Feepd1Zzrko2yNVMA_wS9g.jpg" />
 ]]></content:encoded>
 <pubDate>Mon, 08 Apr 2024 11:09:41 GMT</pubDate>
-<pubDate>Mon, 08 Apr 2024 11:09:41 GMT</pubDate>
 </item>
-
 <item>
 <title>美国向台积电亚利桑那州工厂项目提供 116 亿美元资金 根据拜登政府周一宣布的一项初步协议，台积电亚利桑那州子公司将获得高达 66 亿美元的美国政府资助。根据这...</title>
 <link>https://t.me/xhqcankao/9381</link>
@@ -9294,15 +9292,6 @@
 <p><b>Nvidia 禁止使用转译层让 CUDA 软件在其他芯片上运行</b><br /><br />Nvidia 现在已禁止使用转译层在其他硬件平台上运行基于 CUDA 的软件。CUDA 11.5 中的一条新条款写道：“您不得对使用软件元素生成的输出的任何部分进行逆向工程、反编译或反汇编，以将此类输出工件转换为目标非 Nvidia 平台。”这似乎是为了阻止 ZLUDA 计划，一个让其他平台兼容 CUDA 的转译层。更重要的是，可以阻止中国 GPU 制造商利用带有转译层的 CUDA 代码。虽然 Nvidia 可能短期内无法阻止所有人在其他硬件平台上运行 CUDA ，然而该公司已经为此设置法律障碍。<br /><br />—— <a href="https://www.tomshardware.com/pc-components/gpus/nvidia-bans-using-translation-layers-for-cuda-software-to-run-on-other-chips-new-restriction-apparently-targets-zluda-and-some-chinese-gpu-makers" rel="noopener" target="_blank">Tom's Hardware</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 04 Mar 2024 16:26:35 GMT</pubDate>
-</item>
-<item>
-<title>TikTok 在欧洲 DMA 生效截止日期之前推出数据可移植性 API TikTok 正在推出数据可移植性 API，以帮助其遵守新的欧洲法规，特别是数据可移植性和互操作性。该规定...</title>
-<link>https://t.me/xhqcankao/8599</link>
-<guid>https://t.me/xhqcankao/8599</guid>
-<content:encoded><![CDATA[
-<p><b>TikTok 在欧洲 DMA 生效截止日期之前推出数据可移植性 API</b><br /><br />TikTok 正在推出数据可移植性 API，以帮助其遵守新的欧洲法规，特别是数据可移植性和互操作性。该规定旨在对抗过去社交网络闻名的传统“围墙花园”方法。去年 9 月，欧盟指定了 TikTok 母公司字节跳动为数字市场“看门人”之一。 尽管 TikTok/字节跳动继续对给予其看门人地位的决定提出异议，但目前它必须遵守3月6日生效的各种 DMA 义务。<br /><br />新的 API 允许第三方开发人员，在用户授权的情况下，构建将数据从 TikTok 传输到其他应用程序的管道，并可配置为定期或一次性转移。 通过 API，开发人员可以请求访问“所有可用数据”或单个类别，包括 TikTok 帖子和个人资料数据、活动和私信。而且，该API仅适用于欧洲经济区（EEA）的用户，因此开发者必须能够区分其区域的细分市场。<br /><br />—— <a href="https://techcrunch.com/2024/03/04/tiktok-rolls-out-data-portability-api-ahead-of-europes-dma-regulatory-deadline/" rel="noopener" target="_blank">TechChurch</a></p>
-]]></content:encoded>
-<pubDate>Mon, 04 Mar 2024 16:08:54 GMT</pubDate>
 </item>
 </channel>
 </rss>

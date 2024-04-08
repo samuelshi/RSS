@@ -4,18 +4,16 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>❓ #问题求助 求替代finalshell https://meta.appinn.net/t/topic/54871</title>
 <link>https://t.me/appinnfeed/10209</link>
 <guid>https://t.me/appinnfeed/10209</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10209?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />求替代finalshell<br /><br /><a href="https://meta.appinn.net/t/topic/54871" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54871</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54871">求替代finalshell</a></b><br /><p>finalshell 很方便, 尤其是文件夹操作, 并且双击文件可以用外置文件编辑器编辑.  不过发现个问题: 我服务器上有个log文件, 我在finalshell中tail这个文件, 显示出内容. 并且这个log文件用crontab每分钟自动删减, 只保留一万行 . 发现finalshell内存占用越来越大, 接近2G. 而且cpu占用也不低.  求替代. 要求也可以进行文件夹操作, 也可以用外部编辑器</p><img src="https://cdn4.cdn-telegram.org/file/prZ7EVpICz187PdGX6mj20SJwMoBlJif3JeBuYdpzWI2MQNNOj71JT-DUTYYhSTQ71uEgeh3RNumoR3VaV-XQdc5lSz5zVZQbYtJj4yhHfFlENw-KKoB5Sud1MzE8fQ6cshFl9cVpxHDFPhmkXXviMrsckj8JYkeBBMFGUjCZuvHKl6J_MfQfGVFM54qmM4257I1HiO4I0Qfbrq3jVCi2SiVhZ_smbK5GOly5u7xNMt-5GWOJdfVNlj-Lby09z3rp3iYJM49aQv6k22FvcWcFPRJfpB9Y74ri2PZFSrZcKKgoXdlU3X6ojAUCii2hjKay2Lqo_99rdDgFrtesEREhg.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Sun, 07 Apr 2024 23:48:01 GMT</pubDate>
-<pubDate>Sun, 07 Apr 2024 23:48:01 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 寻求一份MultiDesk 12.6的捐赠版没有2个连接数的限制。 https://meta.appinn.net/t/topic/54870</title>
 <link>https://t.me/appinnfeed/10208</link>
@@ -9014,15 +9012,6 @@
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9166?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />寻一个文本转语音工具<br /><br /><a href="https://meta.appinn.net/t/topic/50850" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/50850</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/50850">寻一个文本转语音工具</a></b><br /><p>要求稳定,质量高,参考 ChatGPT 语音效果, 支持生成长段语音(用于给影视解说配音)  可付费.</p><img src="https://cdn4.cdn-telegram.org/file/ZCtKImSn6zcW11Yyq7wujWYaey0JDFHBL5Gw1qH-s8yqm__YrSV693jnxsIpA6eofYbeRSqHERXOwg8aNYswV8w4BhoexWlnbRz0QFQErVxPToEnrSZJH0jt7aGawohpNtwtebLO7jotryXcorfctzly5bAiWLJrYjAZCPcjkgiQzwcneTxHNgyaXinB5bJ9HMu3UOrLc81HnVRRnwWhANMsCt0nubCQKPaMkdhkyPvfIL01zPjGYaf2c2bJmlENQ33fpNN5mREEd2zcXLisB9M6ITWvzVLKwhqkJJvjgjEW2DWwstsLLqeJb83BCw4doFpee6NJiJwf4GMr3-KaXw.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Thu, 28 Dec 2023 03:04:01 GMT</pubDate>
-</item>
-<item>
-<title>📣 #发现频道 【工具自荐】Drawing Prompt: 辅助生成AI绘图英文提示词 https://meta.appinn.net/t/topic/50838</title>
-<link>https://t.me/appinnfeed/9165</link>
-<guid>https://t.me/appinnfeed/9165</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/9165?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />【工具自荐】Drawing Prompt: 辅助生成AI绘图英文提示词<br /><br /><a href="https://meta.appinn.net/t/topic/50838" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/50838</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/50838">【工具自荐】Drawing Prompt: 辅助生成AI绘图英文提示词</a></b><br /><p>网址：Drawing Prompt  producthunt: Drawing Prompt - AI enhanced prompts generator for every artist | Product Hunt  解决的问题：   stable diffusion和midjourney等文生图工具已经很强大，但提示词工程并非人人都擅长 很多模型主要以英文语料训练，其他语种的提示词生成效果不佳，对非英语母语人群不友好  免费，无需登陆即可使用。网站的功能：    提示词扩充：给一两个主体词（非英…</p><img src="https://cdn4.cdn-telegram.org/file/LlByYRCCZD3-1T4958g3QY4uLvXN9eqGUYVlga7dmNvkEmRtTdxJQ8kykzv-Ucy_6l1WPV-UDCHNppOlwJGX_Qb_JucISPde0waml5MSGUbSIL7GT1k7lzhtAFu3cajXo0l1nr4RHRkyxqhZPRw8cHOxJg8dGizzQJlyiJy87iyXnXx803305lkc8zJ3RUMUKqMwZ83-EWsdWr9N20VduykJT6TGZxrEXcSIeeosgHSF6m3oXeI2BeOjeHMECH-KgDOSBfA_2v0FYA6alrYl1aLTRDNOajjtqx_4F-HzBvh_Svxiqf9As_M_4P5egQRrq2DXCn0bQ9KVZSfVSjjlqQ.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Wed, 27 Dec 2023 23:24:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

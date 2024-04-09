@@ -23861,3 +23861,10 @@ Existing_entries: 1001
 Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2024-04-09 09:23:06
+------------------------------------------------------
+Started: 2024-04-09 10:07:43
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [❓ #问题求助 Foobar2000 如何自动按专辑分类？ https://meta.appinn.net/t/topic/54926](https://t.me/appinnfeed/10220)
+append_entries: 1
+Finish: 2024-04-09 10:07:45

@@ -5,14 +5,24 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>谷歌推出基于 Arm 的数据中心处理器 Axion 和下一代 TPU 芯片 谷歌周二在其年度云计算会议上公布了其下一代数据中心 AI 加速芯片 TPU 的细节，并宣布推出自行设...</title>
+<link>https://t.me/xhqcankao/9413</link>
+<guid>https://t.me/xhqcankao/9413</guid>
+<content:encoded><![CDATA[
+
+<p><b>谷歌推出基于 Arm 的数据中心处理器 Axion 和下一代 TPU 芯片</b><br /><br />谷歌周二在其年度云计算会议上公布了其下一代数据中心 AI 加速芯片 TPU 的细节，并宣布推出自行设计的基于 Arm 架构的数据中心 CPU。<br /><br />谷歌的张量处理单元 (TPU) 是英伟达制造的先进 AI 芯片的少数可行替代品之一，但开发人员只能通过谷歌云访问它们，而不能直接购买。谷歌表示，下一代 TPU v5p 芯片可在 8,960 个芯片的芯片集群中运行，原始性能可达到上一代 TPU 的两倍。为了确保芯片组以最佳性能运行，谷歌采用了液体冷却技术。TPU v5p 将于周二在 Google Cloud 正式发布。<br /><br />谷歌计划通过 Google Cloud 提供被称为 Axion 的基于 Arm 的 CPU。Axion 芯片的性能比通用 Arm 芯片高出 30%，比英特尔和 AMD 生产的当前一代 x86 芯片高出 50%。Axion 已在多项 Google 服务中使用，并计划于“今年晚些时候”向公众开放。<br /><br />—— <a href="https://www.wsj.com/tech/google-expands-in-house-chip-efforts-in-costly-ai-battle-3121c852" rel="noopener" target="_blank">华尔街日报</a></p>
+]]></content:encoded>
+<pubDate>Tue, 09 Apr 2024 12:29:28 GMT</pubDate>
+<pubDate>Tue, 09 Apr 2024 12:29:28 GMT</pubDate>
+</item>
+
+<item>
 <title>马斯克的星链终端何以落入美国的敌人之手 马斯克曾在 X 上表示，据他所知，没有任何终端被直接或间接出售给俄罗斯，而且这些终端即便出现在俄罗斯境内也无法使用...</title>
 <link>https://t.me/xhqcankao/9412</link>
 <guid>https://t.me/xhqcankao/9412</guid>
 <content:encoded><![CDATA[
-
 <p><b>马斯克的星链终端何以落入美国的敌人之手</b><br /><br />马斯克曾在 X 上表示，据他所知，没有任何终端被直接或间接出售给俄罗斯，而且这些终端即便出现在俄罗斯境内也无法使用。华尔街日报追踪了星链在众多俄罗斯在线零售平台上的销售情况，包括一些与美国 eBay 卖家有关联的平台。并还采访了俄罗斯和苏丹的中间商和转售商，并跟随了向前线运送 SpaceX 硬件的俄罗斯志愿者团体。<br /><br />华尔街日报的调查发现，星链硬件存在一个暗中的供应链，为非洲、东南亚和阿联酋的秘密交易提供支持，将数以千计披萨盒大小的白色设备送达一些美国对手手中。交易商在允许使用星链的国家注册该硬件，然后许多终端用户使用星链的漫游功能连接卫星。在俄罗斯，中间商有时从 eBay、美国以及包括中亚、迪拜或东南亚黑市在内的其他地方购买硬件，然后走私到俄罗斯。<br /><br />据一位知情人士透露，俄罗斯为在前线部署星链已准备了一年左右。今年年初，俄罗斯弄清如何在其他国家注册星链设备后，开始广泛使用这些终端。<br /><br />—— <a href="https://cn.wsj.com/articles/%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E6%98%9F%E9%93%BE%E7%BB%88%E7%AB%AF%E5%A6%82%E4%BD%95%E6%B5%81%E5%85%A5%E7%BE%8E%E5%9B%BD%E6%95%8C%E4%BA%BA%E6%89%8B%E4%B8%AD-fec0ba51" rel="noopener" target="_blank">华尔街日报</a> （节选）</p>
 ]]></content:encoded>
-<pubDate>Tue, 09 Apr 2024 11:51:35 GMT</pubDate>
 <pubDate>Tue, 09 Apr 2024 11:51:35 GMT</pubDate>
 </item>
 <item>
@@ -20,10 +30,8 @@
 <link>https://t.me/xhqcankao/9411</link>
 <guid>https://t.me/xhqcankao/9411</guid>
 <content:encoded><![CDATA[
-
 <p><b>微软投资29亿美元建设日本AI数据中心</b><br /><br />微软公司总裁 Brad Smith 表示，微软将扩大其在日本的数据中心，该公司将在两年内投资 29 亿美元，推出用于人工智能的最新数据中心，以响应东京为人工智能提供更多计算能力的呼声。目前正值日本首相岸田文雄访问华盛顿之际，微软预计将在未来几个小时内宣布其投资计划。随着日本政府开始利用生成式人工智能，微软将建立一个系统来管理日本国内的个人数据和机密信息。<br /><br />—— <a href="https://www.nikkei.com/article/DGXZQOGN060CF0W4A400C2000000/" rel="noopener" target="_blank">日经新闻</a></p>
 ]]></content:encoded>
-<pubDate>Tue, 09 Apr 2024 11:51:25 GMT</pubDate>
 <pubDate>Tue, 09 Apr 2024 11:51:25 GMT</pubDate>
 </item>
 <item>
@@ -31,13 +39,10 @@
 <link>https://t.me/xhqcankao/9410</link>
 <guid>https://t.me/xhqcankao/9410</guid>
 <content:encoded><![CDATA[
-
 <p><b>X 向全球 iPhone 用户推出 Passkeys 支持</b><br /><br />社交平台 X 9日凌晨宣布，Passkeys 现在已经作为 iPhone 全球用户的登录选项提供了。X 于今年早些时候推出了 Passkeys 支持，但该选项仅限于美国的 iOS 用户。现在社交媒体平台上的任何人都可以使用它们。与密码相比，Passkeys 更易于使用且更安全。<br /><br />—— <a href="https://www.macrumors.com/2024/04/09/x-rolls-out-passkeys-support-globally-ios/" rel="noopener" target="_blank">MacRumors</a>、<a href="https://x.com/Safety/status/1777415876620472799" rel="noopener" target="_blank">X</a></p><img src="https://cdn5.cdn-telegram.org/file/FpIz9HkDL31495ZfN4LwazeAgx799ZbuWFY2vKbLeXWhw6Vj3cs4DPBLlnDcIDfVMZBsegzvhGTC_t2Xc7kFdtYvGwFDauGCtn-3xPdIOU4TVXRsWjwB4GQNl7kxhmwwclpw1lpNljNGZvoAGaWZsi1Y-kCbbLckHvsblewxY0XVcUqu8XIkIglY-u7B15T6rUIkzhYWlAQY0RcCthJZ7uWBb2712UGZpfYDOqsJbAM8ARAAtprmYUWhsy5g7LwVjNlTWYuDbQdkr98R0o9yUQLxs0Q_FFCnhgd-RotmaOOX5iaJCaOHg_JBq-uzar-Q_XYMaSSOB_h7fz7GlK_q-g.jpg" />
 ]]></content:encoded>
 <pubDate>Tue, 09 Apr 2024 11:21:30 GMT</pubDate>
-<pubDate>Tue, 09 Apr 2024 11:21:30 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 #Readwise #AI #APP 🔗 Readwise Reader 更新：中文 AI 摘要、自订 Ghostreader prompts 🔖 一站式的阅读工具 Reader 迎来了有感更新。以往在 Reader ...</title>
 <link>https://t.me/NewlearnerChannel/12632</link>
@@ -9298,33 +9303,6 @@
 <p><a href="https://t.me/NewlearnerChannel/12487?q=%23Design">#Design</a> <a href="https://t.me/NewlearnerChannel/12487?q=%23Web">#Web</a><br /><br /><span class="emoji">🎨</span> <b>Trending Design：一窥 X 平台上的设计流行趋势</b><br /><br /><span class="emoji">🔗</span>：<a href="https://trending.design/" rel="noopener" target="_blank">Web</a><br /><br /><span class="emoji">👀</span> 不知道你一开始注册 X（原 Twitter）的目的是什么？我的话是想要寻找一些新鲜的事物和人。几年下来，X 给我的时间轴推荐也变成了对我量身定制的样子<br /><br /><span class="emoji">📷</span> 我喜欢看摄影和设计作品，一张张鲜活的图片传递出来的，有人文、有设计、有观点、有美学。人是视觉动物，好的设计传递出来的新鲜感，能够让我感到满足<br /><br /><span class="emoji">💡</span> 除了关注的一些人以及时间轴的推荐，还有其他方法快速便捷地看到 X 上好的设计作品吗？今天要介绍的 Trending Design 就能满足这一点，我愿称之为「设计酒精」<br /><br /><span class="emoji">😍</span> 进入网页后看到的是瀑布流的布局设计，往下滚动即可看到丰富多彩的设计作品，移动光标可以查看作者，点击可以回到原 post 一窥究竟。祝你们用「设计酒精」度过空虚无聊的时刻<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/GOFPMNkyxCuWNlb7cg0LIp4GtwF5cf-4gVDAr1-8XB_29rn-1Z1Ap7U3u3FpGuyUjReeH-ua9X6zUoK21JszOByOZc4oNP0lqeYAQpfszLX-FjQv85yItY59_157JBKSXQj2HUEUgxz3NVqaFHnjKEbgK2zdGGSX0_Qb7Spsvc5lFqmvDWLeJCYip7kndxvnSLzbBEik9-2O_XSXBrPMZdQaYOh_jpWWvYf8iPu6m3G5Do2z7NgQ2oQaDUxhpXDsLq_VZ4DLEAtypiP5t8bGld6PKhzHlYJLEEMrJT4SogA7GRHXWFR7N7uK3l1JwM4732PdlIT9bdG3zRDD61Lm8Q.jpg" />
 ]]></content:encoded>
 <pubDate>Tue, 05 Mar 2024 04:01:39 GMT</pubDate>
-</item>
-<item>
-<title>2024年3月6日 🌍资讯快读 1、国家发改委：开展“人工智能+”行动，持续推进核聚变等前沿技术研究开发 https://36kr.com/newsflashes/2676163553736198 2、青海...</title>
-<link>https://t.me/jike_collection/9619</link>
-<guid>https://t.me/jike_collection/9619</guid>
-<content:encoded><![CDATA[
-<p>2024年3月6日<br /><span class="emoji">🌍</span>资讯快读<br />1、国家发改委：开展“人工智能+”行动，持续推进核聚变等前沿技术研究开发<br /><a href="https://36kr.com/newsflashes/2676163553736198" rel="noopener" target="_blank">https://36kr.com/newsflashes/2676163553736198</a><br />2、青海玉树州杂多县发生5.3级地震，震源深度10千米<br /><a href="https://www.thepaper.cn/newsDetail_forward_26558192" rel="noopener" target="_blank">https://www.thepaper.cn/newsDetail_forward_26558192</a><br />3、华为与vivo签订全球专利交叉许可协议<br /><a href="https://36kr.com/newsflashes/2676164820989702" rel="noopener" target="_blank">https://36kr.com/newsflashes/2676164820989702</a><br />4、彭博将从2025年1月起将印度纳入新兴市场债券指数<br /><a href="https://www.jiemian.com/article/10879057.html" rel="noopener" target="_blank">https://www.jiemian.com/article/10879057.html</a><br />5、日本政府据悉将凭借特定技能制度在5年间接纳80万外籍劳动者<br /><a href="https://www.jiemian.com/article/10878394.html" rel="noopener" target="_blank">https://www.jiemian.com/article/10878394.html</a><br />6、印度要求科技公司发布生成式 AI 工具之前，需先获得政府许可<br /><a href="https://www.pingwest.com/w/292952" rel="noopener" target="_blank">https://www.pingwest.com/w/292952</a><br /><br /><span class="emoji">👬</span>即刻镇小报<br />1、重磅：超越 GPT-4 ，新一代 Claude 3 震撼来临<br /><a href="https://m.okjike.com/originalPosts/65e5dd4e164d89e601020824" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/65e5dd4e164d89e601020824</a><br />2、做了一期播客节目，简单聊聊AI大模型、阿里和CVC<br /><a href="https://m.okjike.com/originalPosts/65e6c32412ed2fda686d781b" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/65e6c32412ed2fda686d781b</a><br />3、今年是海外旅居4年之后，第一次在国内过年<br /><a href="https://m.okjike.com/originalPosts/65e5d60338849f879ff0fe75" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/65e5d60338849f879ff0fe75</a><br />4、聊聊小团队做短剧业务的制作成本和发行<br /><a href="https://m.okjike.com/originalPosts/65dc03ea6d9f19063190efb1" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/65dc03ea6d9f19063190efb1</a><br />5、发现Vision Pro真的可能会极大的改变汽车视频媒体<br /><a href="https://m.okjike.com/originalPosts/65e5f1ce9185c305d1d7bf65" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/65e5f1ce9185c305d1d7bf65</a><br /><br />今日即刻镇小报内容来自 <a href="https://t.me/Szhans" target="_blank">@Szhans</a> @rosicky311_明浩 <a href="https://t.me/Summer" target="_blank">@Summer</a>-traveller @罗舜偉 <a href="https://t.me/JackieLXX" target="_blank">@JackieLXX</a> ，感谢以上即友的创作与分享。 <a href="https://t.me/jike_collection/9619?q=%23%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88">#一觉醒来发生了什么</a></p><blockquote><b>36Kr</b><br /><b><a href="https://www.36kr.com/newsflashes/2676163553736198">国家发改委：开展“人工智能+”行动，持续推进核聚变等前沿技术研究开发-36氪</a></b><br /><p>36氪获悉，国家发改委发布2024年国民经济和社会发展计划草案。其中提到，以科技创新引领现代化产业体系建设，加快形成新质生产力。提升科技创新能力，部署实施一批国家重大科技项目。积极培育发展新兴产业和未来产业，打造生物制造、商业航天、新材料、低空经济等新增长引擎。开展“人工智能+”行动，加快氢能等未来能源产业创新发展，持续推进核聚变等前沿技术研究开发。</p><img src="https://cdn4.cdn-telegram.org/file/dN16FgbnKHiDf4B3ebqZYrBuBGFvMtXeIohx8YyXC3QmyjeVlXnfbnrayIqvocpyGIr9VQnZt9Gf8LtFdch6suvmU9oDLaWA4-PIPzn0A2psNXs_xRPwjpIhR__enxdP9nJ1tJV_O_vHkhzQRbmxmaQxC4NZYXxaw-ajllnEFkRalf01fl8FO1syQENIA9QdSqJk2Qn7Ec6XJSsc1y-7j6-L5bWPQGJhJERtrGx3sQh_TWHdlJtQyDivnhSy9bvo2boPuAUF17oTTZxWV9GdYwx9mEvUaTW8UaNxefn_DnjpC-F8xaWf5ac1CynQUxZkDltLjjWy282M_KpZly2s-w.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Wed, 06 Mar 2024 00:09:11 GMT</pubDate>
-</item>
-<item>
-<title>🖼 原来老罗马人是真的在浴室沉思。 #无用但有趣的冷知识</title>
-<link>https://t.me/jike_collection/9616</link>
-<guid>https://t.me/jike_collection/9616</guid>
-<content:encoded><![CDATA[
-<p></p><div class="tgme_widget_message_text js-message_text" dir="auto">原来老罗马人是真的在浴室沉思。 <a href="https://t.me/jike_collection/9616?q=%23%E6%97%A0%E7%94%A8%E4%BD%86%E6%9C%89%E8%B6%A3%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86">#无用但有趣的冷知识</a></div><p></p><img src="https://cdn4.cdn-telegram.org/file/bRmJ8rRzxuBGGyXQnsn-_JFkWNCC_gQwt6LdWi_DOiATxZ162JApV7Z3mD4C5LHaJrxtNcD0_zqYVL9TLo4klZdw5NWtoU80hcDEqkAcHy2l9U41txmPy7goOtUuw0_xcvQIYbJocCp9AXOvZe8347kJWGynJh3_RBMNPWlGWPY9PfMV0ftPrjro_ptH-O4jYMkuB_8oHY4dK8uBY_ovdqGuiPbLSpppXxKl7N7-m-xeePvl6_4Gy-k8tnP8c94ipQ35cQgo4gkgb_G3XsllXvwxe8Whu0IrvSmD0UM8vwDY6GrRMHHoUKiWNJhFc0zjRBxSbazykopWPIulSmzmlQ.jpg" /><img src="https://cdn4.cdn-telegram.org/file/Yx8Jjjlbim_-mCRt2Q5xMfBqFF5xGHwT5uMc9WEpMiyQ_k5NKmACCLf9psK0dS_AVY7mYXlzu54gi7_QVkYr6ATmgttZqQJRHMJSO3nQywIYdYBoFgabiOUdzT35UXunnM1_cgdpFuvy8P5cSYogKIoWLSjjhLXqQc1BHvDoGCKJErp3l6AsGOIbwUDl966sZwfpSzNn0UyRXG8j7Ocg6Lp4PEyhMkp-W7mn0CszY0hRnnqGWKiswpyxshNVS3UlmqMjTKzXRj75tIPVi-tbdkBEjgL11RrHpIu2AZD3mpKYtcKWDDmzwNfwT5R2ikVTc9TE83jxuOH1w1CpFajfgg.jpg" /><img src="https://cdn4.cdn-telegram.org/file/OdkYGoxs68KnUxXzCxG7dXauPPb44ni0IdMlt3kAvJLFnkaNotO_dIYEKDAWUoH5cZycdOm2LS5NVuhTOgVJ-bHVSnzYpx7VS5Db0JoHaj_O8BpmLELiwqoTLIgxfad2oWLgH_rd6Ny6ZTQVxZdmSUe_x62q-yIagugUz2hWi2j2xOhXaRx60NWhLbgMfLYny04OU5qUsIpWTwRVyiqQaWVdcKz0MKBiXLkXoqWJrifEDT2EgGJrwwLNyX_IuhQ8NoFNr3khH7YQt248k4qwT0DAM7H_A88XZJzljHQ4Kl7gYFyTNAjOoFsuXHAjMXKXbz2Mx-Mhb_LKj5vXstZghg.jpg" />
-]]></content:encoded>
-<pubDate>Tue, 05 Mar 2024 13:42:36 GMT</pubDate>
-</item>
-<item>
-<title>🖼 娃哈哈又立一功 #大产品小细节</title>
-<link>https://t.me/jike_collection/9615</link>
-<guid>https://t.me/jike_collection/9615</guid>
-<content:encoded><![CDATA[
-<p>娃哈哈又立一功 <a href="https://t.me/jike_collection/9615?q=%23%E5%A4%A7%E4%BA%A7%E5%93%81%E5%B0%8F%E7%BB%86%E8%8A%82">#大产品小细节</a></p><img src="https://cdn4.cdn-telegram.org/file/biz-ajg8EJqP4WY_QWPGe-cF3SvOioPtqEwXON0ayqxFrpjrXvEIcT9tCrTvMpiq5wYJdjtRP-nRDxz6JC7ds9n8Ylea-QA9SdjU2tW8FOJi7Dgm_GV2C_bx5x9g--6_j6B33QFSKNxVvkB4Rk_abQG6Hh_EhkgtFPUIafbSdFqGrZURmci2GGASP5qUhGUUUyyK8JmAh8kkTZWM4VGqlfLeRsIumeV7efxZ2gwlWOoJnDLJowUCj1sUDcLV2Gt5NFvs-d3vaH1FRvPfx7P5pkazB0yymC-hk9pQfzuU3UTdMbcKlbKFWiZkRLTk1wHcFrkCyzYx1SmPlaDW2RexSw.jpg" />
-]]></content:encoded>
-<pubDate>Tue, 05 Mar 2024 10:09:56 GMT</pubDate>
 </item>
 </channel>
 </rss>

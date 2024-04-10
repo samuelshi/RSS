@@ -5,17 +5,26 @@
 <link>https://t.me/s/appinnfeed</link>
 
 <item>
+<title>🧐 #阅读 I18nglish（自动i18n）：将英文单词按照 i18n 的规则自动缩写 https://meta.appinn.net/t/topic/54989</title>
+<link>https://t.me/appinnfeed/10236</link>
+<guid>https://t.me/appinnfeed/10236</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">🧐</span> <a href="https://t.me/appinnfeed/10236?q=%23%E9%98%85%E8%AF%BB">#阅读</a><br />I18nglish（自动i18n）：将英文单词按照 i18n 的规则自动缩写<br /><br /><a href="https://meta.appinn.net/t/topic/54989" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54989</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54989">I18nglish（自动i18n）：将英文单词按照 i18n 的规则自动缩写</a></b><br /><p>比如：   i18n = internationalization k8n = Kubernetes  i和n是它的首尾字母，18则是中间的字符数量。  这个项目，就是把英文单词缩写成首位字母中间数字。    来自微博的 Microsoft-Edge-Dev 同学推荐。</p><img src="https://cdn4.cdn-telegram.org/file/vZsxYhaKphiJWswcZ1nJwktGIs9UwcqjQLa_i8IWue8RMnOVd_6veAMhW1QiMVuf7Puqp04MhmhDYTYYz9pM2BWDg81Suf_C2vVBO5QfkviNDuh9jOSg3ygRrg1BfCEynQONjer9QeG3SdXkuswXpZCUO18-i5Gtnu0wgDJ_pqKHcsTWH32lg3zO2AzaojI6-3i8l-uOCtUpaenD7NWo4JV1OzxSGlbRvYoXm9pxW2u_7fMpahirqVlnEvgZcIrjpbC_2ieZlOyzK9ErUDE0FYh0c3FaGmJTPOTszwumdkMLOPJatNCk1JpKyGBxhlRhZTo9pLlw1g5M7NRpY5MNHQ.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Wed, 10 Apr 2024 12:28:00 GMT</pubDate>
+<pubDate>Wed, 10 Apr 2024 12:28:00 GMT</pubDate>
+</item>
+
+<item>
 <title>🧐 #阅读 Video-subtitle-remover (VSR) - 基于 AI，去除视频中的硬字幕｜需要 NVIDIA 显卡 https://meta.appinn.net/t/topic/54985</title>
 <link>https://t.me/appinnfeed/10235</link>
 <guid>https://t.me/appinnfeed/10235</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">🧐</span> <a href="https://t.me/appinnfeed/10235?q=%23%E9%98%85%E8%AF%BB">#阅读</a><br />Video-subtitle-remover (VSR) - 基于 AI，去除视频中的硬字幕｜需要 NVIDIA 显卡<br /><br /><a href="https://meta.appinn.net/t/topic/54985" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54985</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54985">Video-subtitle-remover (VSR) - 基于 AI，取出视频中的硬字幕｜需要 NVIDIA 显卡</a></b><br /><p>效果：      最低配置   GPU：GTX 1060 或以上显卡    CPU: 支持 AVX 指令集      来自开源社区的推荐。</p><img src="https://cdn4.cdn-telegram.org/file/vZsxYhaKphiJWswcZ1nJwktGIs9UwcqjQLa_i8IWue8RMnOVd_6veAMhW1QiMVuf7Puqp04MhmhDYTYYz9pM2BWDg81Suf_C2vVBO5QfkviNDuh9jOSg3ygRrg1BfCEynQONjer9QeG3SdXkuswXpZCUO18-i5Gtnu0wgDJ_pqKHcsTWH32lg3zO2AzaojI6-3i8l-uOCtUpaenD7NWo4JV1OzxSGlbRvYoXm9pxW2u_7fMpahirqVlnEvgZcIrjpbC_2ieZlOyzK9ErUDE0FYh0c3FaGmJTPOTszwumdkMLOPJatNCk1JpKyGBxhlRhZTo9pLlw1g5M7NRpY5MNHQ.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Wed, 10 Apr 2024 11:40:00 GMT</pubDate>
-<pubDate>Wed, 10 Apr 2024 11:40:00 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 鉴于 Bing 给了一条鱼（favicon），这就换上试试： https://meta.appinn.net/t/topic/54405</title>
 <link>https://t.me/appinnfeed/10233</link>
@@ -9014,15 +9023,6 @@
 <p>Forwarded From <b><a href="https://t.me/trantor_library/640">川陀大学图书馆</a></b></p><p><b>在 Linux 上，你可以把屏幕旋转22度使用</b><br /><br />Linux也许是<a href="https://x.com/d_feldman/status/1740108692203430006" rel="noopener" target="_blank">唯一支持对角线显示器模式的操作系统</a>，你可以根据自己的喜好进行自定义设置。一位名为<a href="https://sprocketfox.io/xssfox/2021/12/02/xrandr/" rel="noopener" target="_blank">xssfox</a>的Linux开发者提出了22度旋转的计算机显示方案，并认为这是最适合软件开发的屏幕方向。<br /><br />通过使用Linux的<a href="https://wiki.archlinux.org/title/Xrandr" rel="noopener" target="_blank">xrandr</a>工具，xssfox测试了各种不同的屏幕旋转角度，最终发现22度向左倾斜的角度在长宽比为32:9的显示器上提供了最佳的工作屏幕空间，并解决了80列限制的问题。<br /><br />对于拥有相同长宽比的显示器，22度的角度也可能适用。其他具有非传统显示器旋转需求的用户可以使用xssfox的javascript计算器生成相应的xrandr命令。<br /><br /><code>参考</code>：<a href="https://sprocketfox.io/xssfox/2021/12/02/xrandr/" rel="noopener" target="_blank">@（xssfox）</a>；<a href="https://x.com/d_feldman/status/1740108692203430006" rel="noopener" target="_blank">X（@）</a><br /><code>来源</code>：<a href="https://www.tomshardware.com/monitors/linux-is-the-only-os-to-support-diagonal-pc-monitor-mode-dev-champions-the-case-for-22-degree-rotation-computing" rel="noopener" target="_blank">Tom's Hardware</a><br /><code>档案</code>：<a href="https://t.me/trantor_archive/341" rel="noopener" target="_blank">20231230003</a><br /><br /><span class="emoji">🏷️</span> <a href="https://t.me/appinnfeed/9191?q=%23A_%E6%8A%A5%E9%81%93">#A_报道</a> <a href="https://t.me/appinnfeed/9191?q=%23B_%E6%BA%AF%E6%BA%90">#B_溯源</a> <a href="https://t.me/appinnfeed/9191?q=%23C_%E6%91%98%E8%A6%81">#C_摘要</a> <a href="https://t.me/appinnfeed/9191?q=%23D_%E5%BC%80%E5%8F%91">#D_开发</a> <a href="https://t.me/appinnfeed/9191?q=%23D_%E5%B7%A5%E5%85%B7">#D_工具</a> <a href="https://t.me/appinnfeed/9191?q=%23E_%E8%8B%B1%E6%96%87">#E_英文</a><br /><span class="emoji">📅</span> 2023年12月29日</p><img src="https://cdn5.cdn-telegram.org/file/ib0WA_UjVwLK-CT1ssTYRLg43MUl2woVDtVqIbiCWJ3SP8I9tig52MaVUE3cJAS5JGO8pgYXwJVmQLBEaicz7ShEQ6qr0s1ExHMdyQrku1-uxLBe2YB3RObgaoj7t6c2xYnw6bk89uOJms9nRhrR58wFSAKB7j4iFleloG5Eq3XOxNkBMO3TYqy_n5_sAW7JI373BOCqTcIcphaIrFyISBOnoN9ItW7VtqPrOnptZtH3xePoRdAyzVqAebwLIpu07Nuy9lG-ZWOrvvYQgrMI6zVr7f8nmdVUAAJAdnvMJklKPqYRY-4iPViGdCGOd6wsaL8UMC41NLUixgn0KqDeEg.jpg" />
 ]]></content:encoded>
 <pubDate>Sun, 31 Dec 2023 09:22:47 GMT</pubDate>
-</item>
-<item>
-<title>❓ #问题求助 求软件，windows下管理不同软件的网络使用 https://meta.appinn.net/t/topic/50963</title>
-<link>https://t.me/appinnfeed/9190</link>
-<guid>https://t.me/appinnfeed/9190</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9190?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />求软件，windows下管理不同软件的网络使用<br /><br /><a href="https://meta.appinn.net/t/topic/50963" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/50963</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/50963">求软件，windows下管理不同软件的网络使用</a></b><br /><p>比如，可以设置软件的优先级，设置软件占用带宽，</p><img src="https://cdn4.cdn-telegram.org/file/Hg3SDb7CyPIEsE5O-7K-DTmqANYfOP8rn3afpEKHGsJVYy2kDsi5AisXKOkULCdjR8Z6ijfXg5kaMSjtNd1994DOwKOq93H2rkUue3C8BDWIwxYgHkS0VNU2yMd24--ubpVaaG3KmgryIgi8pjDNEqS9OtY2ul7zaUr-8Jsb6vlxenoI5P9caV2QkCrYkroPGoMEK1ke2QPsNHvMfLfMTWJAzcr9N2yKjmzY02SLm5s0jZIhqfMiGjm946kpJYPxJ6mjio55RVuUIhjX_b0EFgsDCL337Z_tmVzP1dMIl1PPnEbq8BMTq34piysE0NdNE-Sv2HrsrV21FvSqU6gKcQ.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Sun, 31 Dec 2023 09:00:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

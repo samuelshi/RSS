@@ -25470,3 +25470,10 @@ Existing_entries: 1000
 Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2024-04-19 22:01:36
+------------------------------------------------------
+Started: 2024-04-19 23:01:30
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [❓ #问题求助 RSS订阅源初次导入的feed能否覆盖目标网页的过往所有内容？ https://meta.appinn.net/t/topic/55424](https://t.me/appinnfeed/10360)
+append_entries: 1
+Finish: 2024-04-19 23:01:31

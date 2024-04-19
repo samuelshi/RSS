@@ -4,15 +4,14 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>❓ #问题求助 请教 ffmpeg 命令编写：多个音轨和字幕流转换为特定格式和质量 https://meta.appinn.net/t/topic/55381</title>
 <link>https://t.me/appinnfeed/10356</link>
 <guid>https://t.me/appinnfeed/10356</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10356?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />请教 ffmpeg 命令编写：多个音轨和字幕流转换为特定格式和质量<br /><br /><a href="https://meta.appinn.net/t/topic/55381" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/55381</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/55381">请教 ffmpeg 命令编写：多个音轨和字幕流转换为特定格式和质量</a></b><br /><p>是这样的，我下载了很多电影，但每个电影的音轨数量和字幕流都不一样，想用ffmpeg转格式压缩。  需求是：视频参数为：X265格式，Const.Qualty: Quality=25，Preset=Medium。  音频参数为：AAC格式，遍历每个音轨，质量模式。q=1。字幕保持不变。  ffmpeg -i 001.mkv -c:v libx265 -crf 25 -preset medium -c:a aac -q:a 0.64 -c:s copy 002.mkv  但只有第一个音轨、第一个字幕流被转换…</p><img src="https://cdn4.cdn-telegram.org/file/OwZ_n1tmxq9pjmSz2t4hqVHrbbOXWvXE5AZbmuV9LJjGFawrregjwMPSvtzqw905tfwyJWTE63Nk_g3UUxLgoHcM94DYx7KkSiaVjupm0B1k9JRwuSMGy6Z_ukDPUsX34UXOLb4CrbzmjgHvvJHZ2zzpLfX8I8qRMEuUn3bzXX48hJRQGENcm_wLwXtwoxtu76zJ1UPpxnURFnmBDS69oHAojs6CqA6venSdGHHFTyjkFHhu335TM6yXMoqs1bwCKjiU_MfciFs_Tf4BPJsD8Vo1da6soQti4w-klT9aL2BIM-jT2VEkfectGapNNajtDEyw8N0xhnmv8urpp2RFXw.jpg" /></blockquote>
 ]]></content:encoded>
-<pubDate>Fri, 19 Apr 2024 07:52:01 GMT</pubDate>
 <pubDate>Fri, 19 Apr 2024 07:52:01 GMT</pubDate>
 </item>
 <item>
@@ -20,10 +19,8 @@
 <link>https://t.me/appinnfeed/10355</link>
 <guid>https://t.me/appinnfeed/10355</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">💧</span> <a href="https://t.me/appinnfeed/10355?q=%23%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6">#小众软件</a><br />Pretty Snap – 截图美化工具：让普通截图骚气与专业并存[Web]<br /><br /><a href="https://www.appinn.com/pretty-snap/" rel="noopener" target="_blank">https://www.appinn.com/pretty-snap/</a><br /><br /><b>Tags</b>: <a href="https://t.me/appinnfeed/10355?q=%23%E6%9C%AA%E5%88%86%E7%B1%BB">#未分类</a></p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/pretty-snap/">Pretty Snap - 截图美化工具：让普通截图骚气与专业并存[Web] - 小众软件</a></b><br /><p>Pretty Snap 是一款在线的截图美化工具，能够为普通的截图添加渐变色背景、模糊阴影、圆角以及水印，简单易用，让你的截图骚气与专业并存。@Appinn</p><img src="https://cdn4.cdn-telegram.org/file/H53pHl8hZIq1KxOmoB1NfyNeksbyprCF2TgwgCF5H2e717vWQOTS476bchH9e3znfQ59-4Z0FCJbr5k7wLEmb52LPbgFdnKjNh83kAbs2Y9UON5qDiSidFBgGHVT1gdWdyJlQzTS2hqfJ2SVpc1pfD6uXmXocVXLn4DPrIrb_6aa1uAlxPJG7ngztvwt3erJhunooM3_STh3BIeF4Pw7bcz5KnmhlDKU1tbmGImy7KzKezjh2q3kXwCZvvvyhqM9jmZB2qyk8WA7E_W3nWuU_QfRIOpZVbr9bsjWw3ueo1Zh5mgjdlWcubKgWSQOcgDUNdzEFQvAhp_Q-0XJNce3Rg.jpg" /></blockquote>
 ]]></content:encoded>
-<pubDate>Fri, 19 Apr 2024 07:48:01 GMT</pubDate>
 <pubDate>Fri, 19 Apr 2024 07:48:01 GMT</pubDate>
 </item>
 <item>
@@ -31,10 +28,8 @@
 <link>https://t.me/appinnfeed/10354</link>
 <guid>https://t.me/appinnfeed/10354</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10354?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />谁知道 <a href="http://ddzimu.com/" rel="noopener" target="_blank">ddzimu.com</a> 下载的字幕如何解码？<br /><br /><a href="https://meta.appinn.net/t/topic/55399" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/55399</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/55399">谁知道 ddzimu.com 下载的字幕如何解码？</a></b><br /><p>这个站点下载的字幕好奇怪，即不是压缩包，用所有编码都不正确。  我用AutoHotkey遍历了所有编码，都不正确  buf := FileRead('C:\Users\x\Downloads\American.Horror.Story.S12E01.zh%26en.srt.srt', "RAW")  loop 165001 <br />try <br />{ <br /><br />st := StrGet(buf.ptr, buf.size, 'CP' A_Index) <br /><br />if StrLen(st) &gt; 200 <br /><br /><br />MsgBox A_Index…</p><img src="https://cdn4.cdn-telegram.org/file/OwZ_n1tmxq9pjmSz2t4hqVHrbbOXWvXE5AZbmuV9LJjGFawrregjwMPSvtzqw905tfwyJWTE63Nk_g3UUxLgoHcM94DYx7KkSiaVjupm0B1k9JRwuSMGy6Z_ukDPUsX34UXOLb4CrbzmjgHvvJHZ2zzpLfX8I8qRMEuUn3bzXX48hJRQGENcm_wLwXtwoxtu76zJ1UPpxnURFnmBDS69oHAojs6CqA6venSdGHHFTyjkFHhu335TM6yXMoqs1bwCKjiU_MfciFs_Tf4BPJsD8Vo1da6soQti4w-klT9aL2BIM-jT2VEkfectGapNNajtDEyw8N0xhnmv8urpp2RFXw.jpg" /></blockquote>
 ]]></content:encoded>
-<pubDate>Fri, 19 Apr 2024 07:12:01 GMT</pubDate>
 <pubDate>Fri, 19 Apr 2024 07:12:01 GMT</pubDate>
 </item>
 <item>
@@ -42,13 +37,10 @@
 <link>https://t.me/appinnfeed/10353</link>
 <guid>https://t.me/appinnfeed/10353</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/10353?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />Newcar-现代化的动画引擎(Skia+WebAssembly+WebGL)<br /><br /><a href="https://meta.appinn.net/t/topic/55402" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/55402</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/55402">Newcar-现代化的动画引擎(Skia+WebAssembly+WebGL)</a></b><br /><p>Newcar介绍 Newcar是一个现代化的前端动画引擎，基于CanvasKit-WASM，在Skia的WebAssembly版本的加持下，既保证了它的性能，又带来了强大的绘图功能  特点  高度可自定义化的API 链式语法，区别于传统动画引擎和游戏引擎需要将物体保存为变量的方式，链式语法会让开发效率更高 拥有类似于Vue的diff算法的内核，进一步保证了动画的效率和“按需更新”的进行  4.可以在浏览器上运行，也可以配合ffmpeg在本地（nodejs）上运行  未来计划  可以从项目根目录下的mod…</p><img src="https://cdn4.cdn-telegram.org/file/OwZ_n1tmxq9pjmSz2t4hqVHrbbOXWvXE5AZbmuV9LJjGFawrregjwMPSvtzqw905tfwyJWTE63Nk_g3UUxLgoHcM94DYx7KkSiaVjupm0B1k9JRwuSMGy6Z_ukDPUsX34UXOLb4CrbzmjgHvvJHZ2zzpLfX8I8qRMEuUn3bzXX48hJRQGENcm_wLwXtwoxtu76zJ1UPpxnURFnmBDS69oHAojs6CqA6venSdGHHFTyjkFHhu335TM6yXMoqs1bwCKjiU_MfciFs_Tf4BPJsD8Vo1da6soQti4w-klT9aL2BIM-jT2VEkfectGapNNajtDEyw8N0xhnmv8urpp2RFXw.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Fri, 19 Apr 2024 07:04:01 GMT</pubDate>
-<pubDate>Fri, 19 Apr 2024 07:04:01 GMT</pubDate>
 </item>
-
 <item>
 <title>Downie 在 iOS 上的测试版： https://testflight.apple.com/join/HmSMtIcF</title>
 <link>https://t.me/appinnfeed/10352</link>
@@ -9020,42 +9012,6 @@
 <p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/9315?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />AnyMoney - 物品管理与记账的结合（内购限免）<br /><br /><a href="https://meta.appinn.net/t/topic/51433" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/51433</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/51433">AnyMoney - 物品管理与记账的结合（内购限免）</a></b><br /><p>软件名称  AnyMoney  应用平台  iOS 15.0+  推荐类型  开发者自荐  应用特色  当花钱购买物品时，记录支出同时录入物品，当出售这个物品时，记录收入同时删除这个物品，这样金钱的流动就被完整记录下来了，同时也满足了收集整理爱好者对物品管理的需求。  应用简介   分类预算，二级预算，按照每月、每周、每年或者一次性来设置金额，精确控制消费。 多种资产管理，资产或负债帐户的设计，轻松覆盖现金、银行卡、信用卡、网络平台帐户、贷款、借出、借入等多种个人资产类型。 交易、资产帐户、预算全部支持…</p><img src="https://cdn4.cdn-telegram.org/file/BfyO13cz4H1C9TmoOQjpHKKdRM9WPH-8bkngIBEtlpnnSHNexcjIVMrPx-cCPhVYWXtyOMfqzqc4A53aECeUQ-1fdKueQhG5_8XDcGeRLp_W5g0xwBiF8eESDs6sLGHTLSxzNfKKwy9NwLZTXnI5msiVaeUQABJowSg3wckT4jUh2pryHVZojS7lknRZCklWH4ZbU5oEqTWZw3GmB44ke3XrSz0LVGtB6mQUD1cell0AXoRYxHDn2GYRM8g7Wj3RSEbm5qmTUjzfQvsdqbyzXRmN2975Qvc0WuW6byX-O6C6ib5XuJ3yKVE3lezLfnTmy-04CuwtayvSz1LGl9kmTQ.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Mon, 15 Jan 2024 06:28:01 GMT</pubDate>
-</item>
-<item>
-<title>📣 #发现频道 7款虚拟桌面软件横评！GoScreen Win98时代的虚拟桌面还那么给力？！ https://meta.appinn.net/t/topic/51430</title>
-<link>https://t.me/appinnfeed/9314</link>
-<guid>https://t.me/appinnfeed/9314</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/9314?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />7款虚拟桌面软件横评！GoScreen Win98时代的虚拟桌面还那么给力？！<br /><br /><a href="https://meta.appinn.net/t/topic/51430" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/51430</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/51430">7款虚拟桌面软件横评！GoScreen Win98时代的虚拟桌面还那么给力？！</a></b><br /><p>7款虚拟桌面软件横评！GoScreen Win98时代的虚拟桌面还那么给力？！ 由于上个文章因为权限不够，所以干脆令立个新帖子了！  Windows虚拟桌面的问题  开了虚拟桌面，但是每个虚拟桌面上的图标是一样的，离谱不？你在B桌面删除了桌面的图标，结果A桌面也没了！ 虚拟桌面只有左上角有缩略图，而且还是小小的一块，如何区分与管理处于不同虚拟桌面的窗口？ 默认的虚拟桌面没有虚拟桌面切换指示，当前处于什么桌面环境根本分不清。  非独立虚拟桌面工具 Desktops (英文)(更新是不会更新的)(免费)(第三方虚拟桌面增强)…</p><img src="https://cdn4.cdn-telegram.org/file/BfyO13cz4H1C9TmoOQjpHKKdRM9WPH-8bkngIBEtlpnnSHNexcjIVMrPx-cCPhVYWXtyOMfqzqc4A53aECeUQ-1fdKueQhG5_8XDcGeRLp_W5g0xwBiF8eESDs6sLGHTLSxzNfKKwy9NwLZTXnI5msiVaeUQABJowSg3wckT4jUh2pryHVZojS7lknRZCklWH4ZbU5oEqTWZw3GmB44ke3XrSz0LVGtB6mQUD1cell0AXoRYxHDn2GYRM8g7Wj3RSEbm5qmTUjzfQvsdqbyzXRmN2975Qvc0WuW6byX-O6C6ib5XuJ3yKVE3lezLfnTmy-04CuwtayvSz1LGl9kmTQ.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Mon, 15 Jan 2024 03:48:01 GMT</pubDate>
-</item>
-<item>
-<title>📣 #发现频道 Iconce - 快速生成炫丽的svg图标 https://meta.appinn.net/t/topic/51419</title>
-<link>https://t.me/appinnfeed/9313</link>
-<guid>https://t.me/appinnfeed/9313</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/9313?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />Iconce - 快速生成炫丽的svg图标<br /><br /><a href="https://meta.appinn.net/t/topic/51419" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/51419</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/51419">Iconce - 快速生成炫丽的svg图标</a></b><br /><p>简介 Iconce (https://iconce.com/) 是一个SVG图标合成工具，在几秒钟内生成丰富多彩的SVG图标。将表情符号、gif和svg图标合并为一个svg，支持添加动画效果。  预览图   欢迎来体验呀~</p><img src="https://cdn4.cdn-telegram.org/file/EQj0Q6QTeQQxyVDWuKiOB0XvD8mINp8pjpkUp4S5sENblqFtxcwC5SMfD3Hv98SOsTzCIl3uLGYCabyPLrhaNpDJNTP-UlR_uAvzB1UB2rCy_AG2eED0qddzt2UPYhpztuiIy8b1qIfApxEchphFsCtYmVVshTwVk2n3KVlGh1RWlTXyhVzl02sP56Z0QYchDW4DeWu6VhzHSTW1uRikHGlc8s26WOnnWZPQXYTmvfhxa3fZKBl4Heo93CMCKS3VwsT5UOcyFujjet6Shkd1-vgN4p36kPnsfEhXGZk9m-sxP-SLeOgvVyWX6339Dpu77Sa2nJbHBZkM8ZgIod1QlQ.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Sun, 14 Jan 2024 13:56:01 GMT</pubDate>
-</item>
-<item>
-<title>💧 #小众软件 Tree.FM – 收听世界各地的森林之音｜39 座森林的真实录音 https://www.appinn.com/tree-fm/ Tags: #在线应用, #Chrome, #在云里的真实世界, #森...</title>
-<link>https://t.me/appinnfeed/9312</link>
-<guid>https://t.me/appinnfeed/9312</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">💧</span> <a href="https://t.me/appinnfeed/9312?q=%23%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6">#小众软件</a><br /><a href="http://tree.fm/" rel="noopener" target="_blank">Tree.FM</a> – 收听世界各地的森林之音｜39 座森林的真实录音<br /><br /><a href="https://www.appinn.com/tree-fm/" rel="noopener" target="_blank">https://www.appinn.com/tree-fm/</a><br /><br /><b>Tags</b>: <a href="https://t.me/appinnfeed/9312?q=%23%E5%9C%A8%E7%BA%BF%E5%BA%94%E7%94%A8">#在线应用</a>, <a href="https://t.me/appinnfeed/9312?q=%23Chrome">#Chrome</a>, <a href="https://t.me/appinnfeed/9312?q=%23%E5%9C%A8%E4%BA%91%E9%87%8C%E7%9A%84%E7%9C%9F%E5%AE%9E%E4%B8%96%E7%95%8C">#在云里的真实世界</a>, <a href="https://t.me/appinnfeed/9312?q=%23%E6%A3%AE%E6%9E%97">#森林</a>, <a href="https://t.me/appinnfeed/9312?q=%23%E7%99%BD%E5%99%AA%E9%9F%B3">#白噪音</a></p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/tree-fm/">Tree.FM - 收听世界各地的森林之音｜39 座森林的真实录音 - 小众软件</a></b><br /><p>Tree.FM 是一个比较新奇的在线服务和 Chrome 扩展，它能让你收听遍布在世界各地的 39 座森林的真实录音，打开浏览器开始听，就这么简单。@Appinn</p><img src="https://cdn4.cdn-telegram.org/file/Q3ycJ_PsLL3uOpCm48RsSeMvYFPXC5TySmi7dX6BThbZu7QMFKtInkYhYPYYsRqyDpqo94I1uuaCphBNAE1ZDPUrUVzJ_5PXj3wX4xPcfSY0J9ie4kUZnGBI1UR9k2cayY7xxTXX7Hp89WTWcE4cGrSlN8n7T1YDkV2SGsYsRpukByGbt4mKgCQt_gCVRwYYUWJoGUZGf3z1G_QNyJ090apGt6MGyoiPDphjSzxsztaUF1hb-NpRhADG1kKNOvnC1TXPZw5PNb936VHxx33ApFWmFqPi3kmSrKae5EuAAV0Euy8lKYo8MIRvmmMnKU0ZSgxXrXAnld4Qib1y9v2V-Q.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Sun, 14 Jan 2024 12:12:01 GMT</pubDate>
-</item>
-<item>
-<title>💧 #小众软件 Xterminal – 跨平台开发工具：SSH 客户端，不止是终端，还支持 CPU、内存、网络监控，快捷动作等 https://www.appinn.com/xterminal/ Tags: #Wi...</title>
-<link>https://t.me/appinnfeed/9311</link>
-<guid>https://t.me/appinnfeed/9311</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">💧</span> <a href="https://t.me/appinnfeed/9311?q=%23%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6">#小众软件</a><br />Xterminal – 跨平台开发工具：SSH 客户端，不止是终端，还支持 CPU、内存、网络监控，快捷动作等<br /><br /><a href="https://www.appinn.com/xterminal/" rel="noopener" target="_blank">https://www.appinn.com/xterminal/</a><br /><br /><b>Tags</b>: <a href="https://t.me/appinnfeed/9311?q=%23Windows">#Windows</a>, <a href="https://t.me/appinnfeed/9311?q=%23linux">#linux</a>, <a href="https://t.me/appinnfeed/9311?q=%23macOS">#macOS</a>, <a href="https://t.me/appinnfeed/9311?q=%23SSH">#SSH</a>, <a href="https://t.me/appinnfeed/9311?q=%23%E5%BC%80%E5%8F%91">#开发</a>, <a href="https://t.me/appinnfeed/9311?q=%23%E7%BB%88%E7%AB%AF">#终端</a></p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/xterminal/">Xterminal - 跨平台开发工具：SSH 客户端，不止是终端，还支持 CPU、内存、网络监控，快捷动作等 - 小众软件</a></b><br /><p>Xterminal 是一款功能强大的跨平台开发工具，支持 Windows、macOS、Linux 系统，它在 SSH 客户端的基础之上，整合了自动补全、密钥管理、笔记、云端仓库、监控工具，快捷动作等功能。@Appinn</p><img src="https://cdn4.cdn-telegram.org/file/QYE5wBV1N2NovgKdCdCyiEGbOsAm2ZMavhqcmcESz5xZmdlqNdMhUzFaw2KZYo42PG2z7CKliZ4ucjxCql9VYVTHeQBzQju6q7qSpBIIH197bImWXqUcuFfFW6lM6GNwHFlJnzx5_jComgWnAirj6G2-Ll_xblS0k9MQE8Xeb_SSZndpnqwXrKoatIRAbX9mUw9JP0Kw31-cf3rCSSAf6jZPrz2u38ULk9UvEBi5mtfWU4_C1sP8cVUKnni6syRLFcoO0YVYLvDtXcKAxhCYM6kqmyAh_KaQKlkONhBtDzVR8nn3anCkwzwAH4y4w0NY4fCWZI1aHN388xO9V_OJrA.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Sun, 14 Jan 2024 10:00:03 GMT</pubDate>
 </item>
 </channel>
 </rss>

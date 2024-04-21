@@ -4,6 +4,17 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>❓ #问题求助 请教如何写一个 firefox uc 下载脚本 https://meta.appinn.net/t/topic/55460</title>
+<link>https://t.me/appinnfeed/10373</link>
+<guid>https://t.me/appinnfeed/10373</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10373?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />请教如何写一个 firefox uc 下载脚本<br /><br /><a href="https://meta.appinn.net/t/topic/55460" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/55460</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/55460">请教如何写一个 firefox uc 下载脚本</a></b><br /><p>我想参考 benzBrake 大佬的 downloadPlus_ff98.uc.js，写一个接管下载的 UC 脚本。  与 downloadPlus_ff98.uc.js 不同的是，我计划编译一个 dll，这个 uc 脚本除了把 url 和 Response header 输入给 dll，什么都不需要做。显示界面、判断是否下载，多线程下载之类的问题，都是这个 dll 负责。  因为我能写 dll，但不会 JavaScript。JavaScript 也能看懂一二，但 firefox 的内部 js 变量和回调也太复杂了。…</p><img src="https://cdn4.cdn-telegram.org/file/CiUDS88UyMmuKkW3ha27o4bjTHRTQb7QcxUGftG19nXGty93drj9jHjf2cMVweV3hObMlggRyE5N75x2T4xrHlZrsLQAgAWJu63FXA_vDKvirGyx15l2mE7NV72cMpxBu8O6vKyF8TIMrORUzJpt5_UZ2VbgvER1HAoqOqP5_Hwh1QLjeoayBCe-h5O7hqcQsv2tcWCo35qmdjMHLwVzv7XqQR5XoLXtvGQPeUNMEv2c06huV6X7IMdlbnchRJVWMluSC86otSxkbS69pCHqYgzMtnWe-dW7JtI79lnkkadvS4ZXG_5WF4E7C079GVQN9hJG-tolECJ3Ynlygudu4A.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Sun, 21 Apr 2024 10:12:01 GMT</pubDate>
+<pubDate>Sun, 21 Apr 2024 10:12:01 GMT</pubDate>
+</item>
 
 <item>
 <title>💧 #小众软件 disky – 找到安卓手机里最大的磁盘大盗 https://www.appinn.com/disky-for-android/ Tags: #Android, #大文件, #存储空间, #磁盘空间</title>

@@ -4,6 +4,28 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>❓ #问题求助 复杂网络下如何做VNC中继？ https://meta.appinn.net/t/topic/55563</title>
+<link>https://t.me/appinnfeed/10393</link>
+<guid>https://t.me/appinnfeed/10393</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10393?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />复杂网络下如何做VNC中继？<br /><br /><a href="https://meta.appinn.net/t/topic/55563" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/55563</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/55563">复杂网络下如何做VNC中继？</a></b><br /><p>我目前的网络环境大致如下图所示，绿色圈里的是我有管理权限的设备     其中：  内网IP/CIDR=10.0.0.0/8，固定内网IP为10.11.12.13  内网路由器WAN IP设置为10.11.12.13且打开了DHCP，也就是说无线网卡获取到的是192.168.1.0/24段的地址，而不是10.0.0.0/8段的地址，如果非必要，需要保持这样不做更改  需求是能在不连接内网路由器的情况下VNC到内网的设备  已失败方案：  1.UltraVNC repeater，看了下官网的说明，大概是需要…</p><img src="https://cdn4.cdn-telegram.org/file/ljkQ593IEjC058dE9J4NYVM0EtvauyTrwSPj3fCFk4NqJKm74bcB56SdV16khr7v-muG3K5p8d0fT7EPFc4AR3m1Y5MkJpsIPzCpGtjPKtPqX4ZhZV42ese61ly8i9njz-ALCxxC-UYaMUxHf3jHmseYhhUfl3L3W6xzfFhlHiWSQ9AFFOXXorb75vaiPNR1yg9UzNgodrJlQ8iqI8WuSYIIalaWXS0yCxDAc74uZVZ-JPLI9WhhMe0DgFTRevRiRZ3JojlfHMFJk0ltWVSUQ-uAxxUZ114EpMKxu3DDbeqO-NpB5yN2IgEyZSnR2IQPGu1cBIazGv8Ml5-ql46O5w.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Tue, 23 Apr 2024 07:24:01 GMT</pubDate>
+<pubDate>Tue, 23 Apr 2024 07:24:01 GMT</pubDate>
+</item>
+<item>
+<title>❓ #问题求助 mpv播放非C:盘中视频的时候硬盘灯闪的特别快？ https://meta.appinn.net/t/topic/55562</title>
+<link>https://t.me/appinnfeed/10392</link>
+<guid>https://t.me/appinnfeed/10392</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10392?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />mpv播放非C:盘中视频的时候硬盘灯闪的特别快？<br /><br /><a href="https://meta.appinn.net/t/topic/55562" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/55562</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/55562">mpv播放非C:盘中视频的时候硬盘灯闪的特别快？</a></b><br /><p>C:是系统盘，Nvram ssd，不闪，即使拖动一个30G的视频都不闪  其他盘有sata ssd，也有机械盘，正常播放时都会一直闪闪，频率大概是每秒3次  系统上装有primocache，开了所有盘的读写缓存。但是disable了也没区别  用process monitor看了下磁盘行为大概都是这样：</p><img src="https://cdn4.cdn-telegram.org/file/YQ8LchGctGwVIkWf2g2IkiBLO2pIRqh_SkpgljPgOtpOLZZxZBYp3fcL2Ph7395heXB7lfblISsuEEp30DiZqml7T6FGgsWIzzOVkKlQVpuOWD8xdUmI7a3ziUrFBVjJa9wdyKW5eULL46pCSMR7IxLczsS8XltA9p-WjNzp75dQYhDQPYEq3Ugon7-iQ-Ru0nvBphaqf15VptP1idyyBfYXUMFxRSYFwimv-jWh3rN_c0N9GGfqyJdeUeMTykhKTbS5NeeDIospeQivSMhaULMdPr3aPRzoWDSH1dSxWqTbroml-E4iefwfi5d4qX6xLWo4I__WDjw8ydU8KGCmgw.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Tue, 23 Apr 2024 07:20:01 GMT</pubDate>
+<pubDate>Tue, 23 Apr 2024 07:20:01 GMT</pubDate>
+</item>
 
 <item>
 <title>❓ #问题求助 请问各位大佬有没有好用的进程优化软件 https://meta.appinn.net/t/topic/55557</title>

@@ -5,17 +5,26 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>对多家中国公司的拼音键盘应用程序分析发现可能向网络窃听者泄露击键内容的漏洞 我们（公民实验室）分析了常见云端拼音输入法的安全性，包含百度、荣耀、华为、...</title>
+<link>https://t.me/xhqcankao/9758</link>
+<guid>https://t.me/xhqcankao/9758</guid>
+<content:encoded><![CDATA[
+
+<p><b>对多家中国公司的拼音键盘应用程序分析发现可能向网络窃听者泄露击键内容的漏洞</b><br /><br />我们（公民实验室）分析了常见云端拼音输入法的安全性，包含百度、荣耀、华为、讯飞、OPPO、三星、腾讯等九家厂商，并分析了它们发送用户输入内容到云端的过程是否含有安全缺陷。分析结果指出，九家厂商中，有八家输入法软件包含严重漏洞，使我们得以完整破解厂商设计用于保护用户输入内容的加密法。亦有部分厂商并未使用任何加密法保护用户输入内容。综合本研究和我们先前研究中发现的搜狗输入法漏洞，我们估计至多有十亿用户受到这些漏洞影响。基于下述原因，我们认为用户输入的内容可能已经遭到大规模收集：<br /><br />·这些漏洞影响了广泛的用户群体<br />·用户在键盘中输入的信息极为敏感<br />·发现这些漏洞不需要高深技术<br />·五眼联盟过去曾利用中国应用程序中类似的漏洞施行监控<br /><br />在我们测试的九家厂商的应用程序中，仅有华为的产品未发现任何上传用户输入内容至云端相关的安全问题，其余每一家厂商都至少有一个应用程序含有漏洞，使得被动型网络攻击者得以监看用户输入的完整内容。<br /><br />—— <a href="https://citizenlab.ca/2024/04/%E6%95%B2%E6%95%B2%E6%89%93%E6%89%93%E4%B8%80%E7%B3%BB%E5%88%97%E4%BA%91%E7%AB%AF%E8%BE%93%E5%85%A5%E6%B3%95%E6%BC%8F%E6%B4%9E%E4%BD%BF%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%E8%80%85%E5%BE%97-zh-cn/" rel="noopener" target="_blank">公民实验室</a> （<a href="https://citizenlab.ca/2024/04/vulnerabilities-across-keyboard-apps-reveal-keystrokes-to-network-eavesdroppers/" rel="noopener" target="_blank">完整报告</a>）</p>
+]]></content:encoded>
+<pubDate>Tue, 23 Apr 2024 13:47:24 GMT</pubDate>
+<pubDate>Tue, 23 Apr 2024 13:47:24 GMT</pubDate>
+</item>
+
+<item>
 <title>🖼 #News 🌌 自留地晚报 【4.23】 1️⃣ MacRumors 报道称，苹果公司继续通过收购扩充其 AI 领域实力，去年 12 月收购法国 Datakalab 公司 2️⃣ MacRumors ...</title>
 <link>https://t.me/NewlearnerChannel/12699</link>
 <guid>https://t.me/NewlearnerChannel/12699</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://t.me/NewlearnerChannel/12699?q=%23News">#News</a><br /><br /><span class="emoji">🌌</span> 自留地晚报 【4.23】<br /><br /><span class="emoji">1️⃣</span> <a href="https://www.macrumors.com/2024/04/22/apple-acquires-french-ai-company/" rel="noopener" target="_blank">MacRumors</a> 报道称，苹果公司继续通过收购扩充其 AI 领域实力，去年 12 月收购法国 Datakalab 公司<br /><br /><span class="emoji">2️⃣</span> <a href="https://www.macrumors.com/2024/04/22/ipad-air-stock-running-low/" rel="noopener" target="_blank">MacRumors</a> 报道称，为了给新款 iPad Air 让路，苹果零售店开始有针对性地减少现有 iPad Air 的零售库存<br /><br /><span class="emoji">3️⃣</span> <a href="https://9to5google.com/2024/04/22/android-15-beta-1-1-pixel/" rel="noopener" target="_blank">9to5Google</a> 报道称，谷歌发布安卓 15 Beta 1.1 测试版，修复 NFC 问题<br /><br /><span class="emoji">4️⃣</span> <a href="https://www.sammobile.com/news/samsung-smart-monitor-m5-m7-m8-2024-launched-south-korea-price/" rel="noopener" target="_blank">Sammobile</a> 报道称，三星推出 2024 款 M5 / M7 / M8 智能显示器，内置 AI 芯片，可优化通话体验、采样提高画质<br /><br /><span class="emoji">5️⃣</span> <a href="https://www.theverge.com/2024/4/22/24137334/xbox-vr-headset-microsoft-meta-quest-limited-edition" rel="noopener" target="_blank">TheVerge</a> 报道称，以 Xbox 为灵感，Meta 将和微软合作推出限量版 Quest 头显<br /><br /><span class="emoji">6️⃣</span> <a href="https://news.samsung.com/global/samsung-electronics-begins-industrys-first-mass-production-of-9th-gen-v-nand" rel="noopener" target="_blank">三星半导体</a> 今日宣布，其第九代 V-NAND 1Tb TLC 产品开始量产，比三星上一代产品提高约 50% 的位密度<br /><br /><span class="emoji">7️⃣</span> <a href="https://news.xbox.com/en-us/2024/04/22/ign-x-idxbox-digital-showcase-returns/" rel="noopener" target="_blank">微软</a> 宣布 4 月 30 日凌晨举行 ID@Xbox 游戏展示会，介绍《辛特堡传说》等独立游戏<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/A-dlxkcPbm0UQI3xAQNPNFp-O8pdYlBzXwDu70aHV8jQP7tPEvdWNwp_PJhHyGzTIl71zBDimqQql-jkCQMN_Ieoe7ZHEgBlskOguvoumj2V4VkhU4wqZW5zBQc7VwLvd7K1LXNz9lFDthxbTkxmHOQKQ9fmjUNv25742BgxzoOB-EL5rvT8V_L9Kw1HQDG9ZSrA9-zm_IXS_McnAniHXBR2I5-zZFgeF6tQFabTuM9UwtKTUBNGWvTSQVM9sgwy3VUHepJYcDjTMnd0085QwjU3DWzgvXLQvGpvwYsLukWUemF0K3qEybNtEcbtHFwE2UEmC38RV9-t0OCtU_g43g.jpg" />
 ]]></content:encoded>
 <pubDate>Tue, 23 Apr 2024 13:01:11 GMT</pubDate>
-<pubDate>Tue, 23 Apr 2024 13:01:11 GMT</pubDate>
 </item>
-
 <item>
 <title>微软推出其规模最小的人工智能模型 Phi-3 微软推出了其轻量级人工智能模型 Phi-3 Mini 的下一个版本，这是该公司计划发布的三款小型模型中的第一款。Phi-3 Mini ...</title>
 <link>https://t.me/xhqcankao/9757</link>
@@ -9218,15 +9227,6 @@
 <p><b>星链去年年底首次实现盈利但暂时不考虑IPO</b><br /><br />SpaceX 首席财务官 Bret Johnsen 周二在一次行业会议上表示，今年不会对其星链 (Starlink) 部门进行首次公开募股(IPO)，当前工作优先事项中也不包含该计划，“这个计划可能还需要很多年” 。 他还表示，星链部门去年年底首次实现盈利，但拒绝提供更多细节。此前 SpaceX 首席执行官马斯克曾表示，星链拥有可预测的现金流之前，IPO 并没有实际意义。<br /><br />此外，SpaceX 首席运营官 Shotwell 还表示，SpaceX 将很快将其星链卫星激光链路商业化，并将向竞争对手出售可加速太空通信的卫星激光链路组件，并正在与潜在客户进行讨论。今年 SpaceX 将尝试为龙飞船安装激光通信模块，实现高效空间通信，借由星链网络连接到互联网。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-03-19/spacex-s-shotwell-downplays-potential-stock-listing-for-starlink" rel="noopener" target="_blank">彭博社</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 20 Mar 2024 01:24:09 GMT</pubDate>
-</item>
-<item>
-<title>🖼 #News ☀️ 自留地早报【3.20】 1️⃣ The Verge ：YouTube 新规：上传视频需标注是否为 AI 制作，包括合成配音 / 换脸等 2⃣️ 9to5Google ：谷歌旗下可穿...</title>
-<link>https://t.me/NewlearnerChannel/12554</link>
-<guid>https://t.me/NewlearnerChannel/12554</guid>
-<content:encoded><![CDATA[
-<p><a href="https://t.me/NewlearnerChannel/12554?q=%23News">#News</a><br /><br /><span class="emoji">☀️</span> 自留地早报【3.20】<br /><br /><span class="emoji">1️⃣</span> <a href="https://www.theverge.com/2024/3/18/24104743/youtube-ai-generated-content-disclosure-label" rel="noopener" target="_blank">The Verge</a> ：YouTube 新规：上传视频需标注是否为 AI 制作，包括合成配音 / 换脸等<br /><br /><span class="emoji">2⃣️</span> <a href="https://9to5google.com/2024/03/17/google-fitbit-rebrand/" rel="noopener" target="_blank">9to5Google</a> ：谷歌旗下可穿戴品牌 Fitbit 更新标志为 Google Fitbit，弃用 Fitbit by Google 标志<br /><br /><span class="emoji">3⃣️</span> <a href="https://news.skhynix.com.cn/sk-hynix-begins-volume-production-of-industry-first-hbm3e/" rel="noopener" target="_blank">SK海力士</a> 宣布 HBM3E内存现已量产，月内将供货给英伟达使用<br /><br /><span class="emoji">4⃣️</span> <a href="https://weibo.com/1771925961/O5KikiQDA" rel="noopener" target="_blank">小米集团</a> 2023 年营收 2709.7 亿元，经调整净利润大增 126.3%<br /><br /><span class="emoji">5⃣️</span> <a href="https://9to5google.com/2024/03/18/google-pixel-8a-fcc/" rel="noopener" target="_blank">9to5Google</a> ：谷歌 Pixel 8a 手机昨日通过 FCC 认证，包括 GKV4X、G8HHN、G6GPR、G576D 四个型号；该手机的三维尺寸为：152.0 x 73.0 x 9.0mm<br /><br /><span class="emoji">6⃣️</span> <a href="https://dronedj.com/2024/03/18/dji-avata-2-fcc-release/" rel="noopener" target="_blank">DroneDJ</a> ：大疆 DJI Avata 2 穿越无人机 / 配套摇杆备案信息泄露，有望 4 月发布<br /><br /><span class="emoji">7⃣️</span> <a href="https://gamerant.com/game-studios-ai-unity-survey-report/" rel="noopener" target="_blank">Gamerant</a> ：Unity 调查显示超六成游戏工作室采用 AI 进行开发<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn1.cdn-telegram.org/file/MntH238Lnr1zEJPZvKspxC0Fawjn6jpg36fV1l1igD5l4VA_A1eXOVLZInZ_o6gI0Yl53re119fKwnrLgtqzpIZpI71kB55eILsGToJb3MWV0eiBgARw1hCkkVv-IGrIqRSEe_BsIBoHp4jzg516aunYsyaK40TNmkPFF1Nl45JNXhkVb_pITYl1OakxXQlw8GE1MtMpWLdgO3g5xOb2x3A31CRjrdCqf-C7oOISwK16M0SQUxA6WM31uCWjHp1SrY2DCHMdqlU94EaUI_0b62YqGjLtToNbvkI68ceFrcyG-OP5FL6GBVV9pqpWjlsqQkJifp8zWKzKcRi-P8c7cg.jpg" />
-]]></content:encoded>
-<pubDate>Wed, 20 Mar 2024 01:00:52 GMT</pubDate>
 </item>
 </channel>
 </rss>

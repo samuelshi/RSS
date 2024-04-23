@@ -4,15 +4,14 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>❓ #问题求助 复杂网络下如何做VNC中继？ https://meta.appinn.net/t/topic/55563</title>
 <link>https://t.me/appinnfeed/10393</link>
 <guid>https://t.me/appinnfeed/10393</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10393?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />复杂网络下如何做VNC中继？<br /><br /><a href="https://meta.appinn.net/t/topic/55563" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/55563</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/55563">复杂网络下如何做VNC中继？</a></b><br /><p>我目前的网络环境大致如下图所示，绿色圈里的是我有管理权限的设备     其中：  内网IP/CIDR=10.0.0.0/8，固定内网IP为10.11.12.13  内网路由器WAN IP设置为10.11.12.13且打开了DHCP，也就是说无线网卡获取到的是192.168.1.0/24段的地址，而不是10.0.0.0/8段的地址，如果非必要，需要保持这样不做更改  需求是能在不连接内网路由器的情况下VNC到内网的设备  已失败方案：  1.UltraVNC repeater，看了下官网的说明，大概是需要…</p><img src="https://cdn4.cdn-telegram.org/file/ljkQ593IEjC058dE9J4NYVM0EtvauyTrwSPj3fCFk4NqJKm74bcB56SdV16khr7v-muG3K5p8d0fT7EPFc4AR3m1Y5MkJpsIPzCpGtjPKtPqX4ZhZV42ese61ly8i9njz-ALCxxC-UYaMUxHf3jHmseYhhUfl3L3W6xzfFhlHiWSQ9AFFOXXorb75vaiPNR1yg9UzNgodrJlQ8iqI8WuSYIIalaWXS0yCxDAc74uZVZ-JPLI9WhhMe0DgFTRevRiRZ3JojlfHMFJk0ltWVSUQ-uAxxUZ114EpMKxu3DDbeqO-NpB5yN2IgEyZSnR2IQPGu1cBIazGv8Ml5-ql46O5w.jpg" /></blockquote>
 ]]></content:encoded>
-<pubDate>Tue, 23 Apr 2024 07:24:01 GMT</pubDate>
 <pubDate>Tue, 23 Apr 2024 07:24:01 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +19,10 @@
 <link>https://t.me/appinnfeed/10392</link>
 <guid>https://t.me/appinnfeed/10392</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10392?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />mpv播放非C:盘中视频的时候硬盘灯闪的特别快？<br /><br /><a href="https://meta.appinn.net/t/topic/55562" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/55562</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/55562">mpv播放非C:盘中视频的时候硬盘灯闪的特别快？</a></b><br /><p>C:是系统盘，Nvram ssd，不闪，即使拖动一个30G的视频都不闪  其他盘有sata ssd，也有机械盘，正常播放时都会一直闪闪，频率大概是每秒3次  系统上装有primocache，开了所有盘的读写缓存。但是disable了也没区别  用process monitor看了下磁盘行为大概都是这样：</p><img src="https://cdn4.cdn-telegram.org/file/YQ8LchGctGwVIkWf2g2IkiBLO2pIRqh_SkpgljPgOtpOLZZxZBYp3fcL2Ph7395heXB7lfblISsuEEp30DiZqml7T6FGgsWIzzOVkKlQVpuOWD8xdUmI7a3ziUrFBVjJa9wdyKW5eULL46pCSMR7IxLczsS8XltA9p-WjNzp75dQYhDQPYEq3Ugon7-iQ-Ru0nvBphaqf15VptP1idyyBfYXUMFxRSYFwimv-jWh3rN_c0N9GGfqyJdeUeMTykhKTbS5NeeDIospeQivSMhaULMdPr3aPRzoWDSH1dSxWqTbroml-E4iefwfi5d4qX6xLWo4I__WDjw8ydU8KGCmgw.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Tue, 23 Apr 2024 07:20:01 GMT</pubDate>
-<pubDate>Tue, 23 Apr 2024 07:20:01 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 请问各位大佬有没有好用的进程优化软件 https://meta.appinn.net/t/topic/55557</title>
 <link>https://t.me/appinnfeed/10391</link>
@@ -9016,24 +9012,6 @@
 <p><span class="emoji">💧</span> <a href="https://t.me/appinnfeed/9350?q=%23%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6">#小众软件</a><br />最离谱的敲木鱼：没有最扯，只有更扯｜真的可以敲木鱼了<br /><br /><a href="https://www.appinn.com/wooden-fish/" rel="noopener" target="_blank">https://www.appinn.com/wooden-fish/</a><br /><br /><b>Tags</b>: <a href="https://t.me/appinnfeed/9350?q=%23%E5%9C%A8%E7%BA%BF%E5%BA%94%E7%94%A8">#在线应用</a>, <a href="https://t.me/appinnfeed/9350?q=%23%E8%B6%A3%E5%91%B3%E8%BD%AF%E4%BB%B6">#趣味软件</a>, <a href="https://t.me/appinnfeed/9350?q=%23%E5%BD%93%E6%97%B6%E6%88%91%E5%B0%B1%E9%9C%87%E6%83%8A">#当时我就震惊</a>, <a href="https://t.me/appinnfeed/9350?q=%23%E6%90%9E%E7%AC%91">#搞笑</a>, <a href="https://t.me/appinnfeed/9350?q=%23%E6%9C%A8%E9%B1%BC">#木鱼</a>, <a href="https://t.me/appinnfeed/9350?q=%23%E7%A6%BB%E8%B0%B1">#离谱</a>, <a href="https://t.me/appinnfeed/9350?q=%23%E7%AB%9F%E7%84%B6%E8%BF%98%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7">#竟然还可以这样</a></p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/wooden-fish/">最离谱的敲木鱼：没有最扯，只有更扯｜真的可以敲木鱼了 - 小众软件</a></b><br /><p>我对移动端的交互方式做了一些改进，移除了手指点击的模式，改用手机陀螺仪的数据进行交互，效果就是，在手机上打开页面之后，你需要&nbsp;把你的手机想象成敲木鱼的棒子，上下挥动手机才能敲击木鱼。</p><img src="https://cdn4.cdn-telegram.org/file/brtmRHDwAKRDqANplF1hzd-6RGRBwqWVT6FqpoDvYBz9bfzQ--5EQEsAMM7rFsK_A9itSnnolXkf-Pv_QN6i3mJigNZHmTZmM_aQ6JReAuRMKRP_ixQK85KojhnRLV4BW1B2a2W6RHpYHfAP-ohasiVZjUaW9dqF4Z9CjQwtdGuZ79YPHrGMXqIms4zYFkkrgKvaAU3nEM5jg-aRLMg-Uq-ORTHJ7h8kgfbDXlVnCF0Xr-fsXT2pw6VgD3XolbNkQjpmRzLcfKJNIuKQIopZ_SbQn8KRlwRlMjjYO3ohlhhpIa735bOBZ1tHPafjzDgcZeOKGuPicOH_0TLK5zUjjw.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Thu, 18 Jan 2024 12:04:01 GMT</pubDate>
-</item>
-<item>
-<title>📣 #发现频道 导航网站开源，简单配置即可拥有你的导航网站 https://meta.appinn.net/t/topic/51754</title>
-<link>https://t.me/appinnfeed/9349</link>
-<guid>https://t.me/appinnfeed/9349</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/9349?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />导航网站开源，简单配置即可拥有你的导航网站<br /><br /><a href="https://meta.appinn.net/t/topic/51754" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/51754</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/51754">导航网站开源，简单配置即可拥有你的导航网站</a></b><br /><p>这是我上个月做的一个导航网站的源码：   https://www.fre123.com 还有一些信息流页面： 技术周刊精选推荐 - fre123 免费资源共享平台  一些朋友觉得网站样式还不错，也想自己搭建一套，于是我便开源出来，配置下 json 即可基于 vercel 快速构建自己的导航网站。  开源地址：   fre123-nav：导航页面源码 fre123-info-flow：信息流页面源码 搭建教程  效果图：</p><img src="https://cdn4.cdn-telegram.org/file/ZL2NTczl-65Ya0Pl_0uUZp4P1BS94Hhw8lELqyG6EYRG-eNlD9hA0Sf6eyxvjkqzsBB3T_1l2Vud0qV3L3wZyL5e2XuLXo3tjbQILJ0DHvyDccU1WN3_PNcaBqdcRg0tWxnrXtRR1wSmtCyz5erbM2aNQz5OXsDS3zeJjkPDLqf520LGu78JAeHUTpBNhkCYgrXbBKIhm2Q_Lq1eoS4xTTPoYIdpl9HiwyxGu2S5qHZY9PzOkOF1IJX2b51TPATkTbrXSrAL_I6HumvUVoTaiGpKiT_eAIe1SUom2m1M9iiYHP4bIX0QBGRNfaf4hcvZrT1LgYAsZd56i9jzjTNM5Q.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Thu, 18 Jan 2024 10:36:01 GMT</pubDate>
-</item>
-<item>
-<title>📣 #发现频道 Kikoeru——Go开发的跨平台同人音声媒体整理和播放软件 https://meta.appinn.net/t/topic/51701</title>
-<link>https://t.me/appinnfeed/9348</link>
-<guid>https://t.me/appinnfeed/9348</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/9348?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />Kikoeru——Go开发的跨平台同人音声媒体整理和播放软件<br /><br /><a href="https://meta.appinn.net/t/topic/51701" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/51701</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/51701">Kikoeru——Go开发的跨平台同人音声媒体整理和播放软件</a></b><br /><p>软件名称 Kikoeru  应用平台  Windows macOS Linux  推荐类型 【开发者自荐】  应用简介 Kikoeru是一款使用Go开发的跨平台同人音声媒体整理和播放软件。  功能介绍  自动从DLsite爬取音声元数据，支持所有作品类型（RJ/BJ/VJ），包括已下架的作品。 强大的个性化搜索功能，支持多关键字、多标签检索，支持对搜索结果二级筛选过滤。 支持多种格式的字幕显示，.lrc 、.srt 、.vtt 以及 .ass，支持字幕偏移。  应用截图     官方网站  GitHub…</p><img src="https://cdn4.cdn-telegram.org/file/ZL2NTczl-65Ya0Pl_0uUZp4P1BS94Hhw8lELqyG6EYRG-eNlD9hA0Sf6eyxvjkqzsBB3T_1l2Vud0qV3L3wZyL5e2XuLXo3tjbQILJ0DHvyDccU1WN3_PNcaBqdcRg0tWxnrXtRR1wSmtCyz5erbM2aNQz5OXsDS3zeJjkPDLqf520LGu78JAeHUTpBNhkCYgrXbBKIhm2Q_Lq1eoS4xTTPoYIdpl9HiwyxGu2S5qHZY9PzOkOF1IJX2b51TPATkTbrXSrAL_I6HumvUVoTaiGpKiT_eAIe1SUom2m1M9iiYHP4bIX0QBGRNfaf4hcvZrT1LgYAsZd56i9jzjTNM5Q.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Thu, 18 Jan 2024 07:36:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

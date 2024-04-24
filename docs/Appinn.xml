@@ -4,18 +4,16 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>🖼 今天测试将论坛的分类加入 Activity 算不成功吧...发消息提示 delivery: no recipients，这就很奇怪了 P.S. 各位别试着关注了，我还没搞定...接受不到</title>
 <link>https://t.me/appinnfeed/10405</link>
 <guid>https://t.me/appinnfeed/10405</guid>
 <content:encoded><![CDATA[
-
 <p>今天测试将论坛的分类加入 Activity 算不成功吧...发消息提示 delivery: no recipients，这就很奇怪了<br /><br />P.S. 各位别试着关注了，我还没搞定...接受不到</p><img src="https://cdn5.cdn-telegram.org/file/DecxNJgcLlNs9bcC_QghvPFbvZ83Y0QPTjANRkrGuLBjpFdtDeGuU9WR69iupfRMyTfev7JMiWBndXii-s5zEEbwT4CsaZzr54pw9igSLSULbfnZIH9eglf6cIZi4wwsbn381YfKDJtBVKlgMcq2J5qumahJxB_j8N2BtkgOiZ4ISX_LmA_Z4jzv0pJ-X57xDBBsptKwv94U0NcsVvRcTc9_Nq4hIKR0O2yKksddlZ9t93GYHTDvR3k06mhTIrEeiF0wxBu3WR90sbMOv7N3xPaXvebgzcu14Mo90ofuA9upbILNHzu2j9ok0U_9-M5zmD-f6nokzmIc9ffXc5jLKQ.jpg" />
 ]]></content:encoded>
 <pubDate>Wed, 24 Apr 2024 03:02:21 GMT</pubDate>
-<pubDate>Wed, 24 Apr 2024 03:02:21 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 [windows端的hook] 找不到类似mac端的给文件创建一个唯一URL的软件 https://meta.appinn.net/t/topic/55595</title>
 <link>https://t.me/appinnfeed/10404</link>
@@ -9014,15 +9012,6 @@
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9362?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />求一个支持 Android 且支持本地回显 SSH 客户端<br /><br /><a href="https://meta.appinn.net/t/topic/51830" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/51830</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/51830">求一个支持 Android 且支持本地回显 SSH 客户端</a></b><br /><p>如题，想找一个 SSH 客户端  必须：   支持 Android 支持本地回显（或者类似 Termux 下面那个本地输入框一样的功能，缓解延迟影响）  最好：   支持 Linux 能云同步密钥、主机 能一键输入密码  加分项：   开源 界面好看  之前是一直在用 Termius，但不支持 本地回显，延迟高的情况下编辑不及时很难受。而且它 Linux 只支持 .deb 和 snap，甚至 snap 版还不支持在 SFTP 浏览器里打开本地文件夹  F-Droid 上还找到 ConnectBot，是开…</p><img src="https://cdn4.cdn-telegram.org/file/Prbr-3uJtP3H981tWKYhuDQ19mQV84QgbE554yseUXQCjZZutXcqm2Ll61XOJaBhNkWEMBVzviHLuJG0dwV3TIgdgrc5poi0vf0XIAt5tUR9cc3e-Dhx0ZoJ6ZkwjUEtUY5AtFXi7ne9T23YgapPpYWpNUTba9vixC269vuhd150sdjg0gLic8o6Tg_pUsjd9XR66Kg4W1WEthBNdV_ht6wOtRW1qx8g0i0W959YtpaNVyKGg1nGtX2adAdnr2KHewpEaYcNcP2aT_zfavSfoeGyVC8DJXtJiyKJ0WLQXwEgNObwBRQwag0_fSG6aqAd2uyg2pHn6LdzswXzz3xo5w.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Fri, 19 Jan 2024 15:04:00 GMT</pubDate>
-</item>
-<item>
-<title>❓ #问题求助 有没有办法筛选文件名乱码的文件？ https://meta.appinn.net/t/topic/51829</title>
-<link>https://t.me/appinnfeed/9361</link>
-<guid>https://t.me/appinnfeed/9361</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9361?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />有没有办法筛选文件名乱码的文件？<br /><br /><a href="https://meta.appinn.net/t/topic/51829" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/51829</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/51829">有没有办法筛选文件名乱码的文件？</a></b><br /><p>有一定数量的文件，一部分的文件名是有意义的，由中文、日文、或英文以及数字、点、下划线构成的，格式十分混乱；另一部分的文件名是类似哈希值的乱码，由字母数字以及一些符号组成，人类不可读。  有没有什么办法把其中文件名乱码的文件筛选出来？含有中文日文的好说，由英文数字及符号组成的想不到方便的办法与乱码区分，上语义识别成本也太高了。</p><img src="https://cdn4.cdn-telegram.org/file/Prbr-3uJtP3H981tWKYhuDQ19mQV84QgbE554yseUXQCjZZutXcqm2Ll61XOJaBhNkWEMBVzviHLuJG0dwV3TIgdgrc5poi0vf0XIAt5tUR9cc3e-Dhx0ZoJ6ZkwjUEtUY5AtFXi7ne9T23YgapPpYWpNUTba9vixC269vuhd150sdjg0gLic8o6Tg_pUsjd9XR66Kg4W1WEthBNdV_ht6wOtRW1qx8g0i0W959YtpaNVyKGg1nGtX2adAdnr2KHewpEaYcNcP2aT_zfavSfoeGyVC8DJXtJiyKJ0WLQXwEgNObwBRQwag0_fSG6aqAd2uyg2pHn6LdzswXzz3xo5w.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Fri, 19 Jan 2024 15:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

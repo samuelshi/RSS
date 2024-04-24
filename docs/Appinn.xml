@@ -5,17 +5,26 @@
 <link>https://t.me/s/appinnfeed</link>
 
 <item>
+<title>🖼 今天测试将论坛的分类加入 Activity 算不成功吧...发消息提示 delivery: no recipients，这就很奇怪了 P.S. 各位别试着关注了，我还没搞定...接受不到</title>
+<link>https://t.me/appinnfeed/10405</link>
+<guid>https://t.me/appinnfeed/10405</guid>
+<content:encoded><![CDATA[
+
+<p>今天测试将论坛的分类加入 Activity 算不成功吧...发消息提示 delivery: no recipients，这就很奇怪了<br /><br />P.S. 各位别试着关注了，我还没搞定...接受不到</p><img src="https://cdn5.cdn-telegram.org/file/DecxNJgcLlNs9bcC_QghvPFbvZ83Y0QPTjANRkrGuLBjpFdtDeGuU9WR69iupfRMyTfev7JMiWBndXii-s5zEEbwT4CsaZzr54pw9igSLSULbfnZIH9eglf6cIZi4wwsbn381YfKDJtBVKlgMcq2J5qumahJxB_j8N2BtkgOiZ4ISX_LmA_Z4jzv0pJ-X57xDBBsptKwv94U0NcsVvRcTc9_Nq4hIKR0O2yKksddlZ9t93GYHTDvR3k06mhTIrEeiF0wxBu3WR90sbMOv7N3xPaXvebgzcu14Mo90ofuA9upbILNHzu2j9ok0U_9-M5zmD-f6nokzmIc9ffXc5jLKQ.jpg" />
+]]></content:encoded>
+<pubDate>Wed, 24 Apr 2024 03:02:21 GMT</pubDate>
+<pubDate>Wed, 24 Apr 2024 03:02:21 GMT</pubDate>
+</item>
+
+<item>
 <title>❓ #问题求助 [windows端的hook] 找不到类似mac端的给文件创建一个唯一URL的软件 https://meta.appinn.net/t/topic/55595</title>
 <link>https://t.me/appinnfeed/10404</link>
 <guid>https://t.me/appinnfeed/10404</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10404?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />[windows端的hook] 找不到类似mac端的给文件创建一个唯一URL的软件<br /><br /><a href="https://meta.appinn.net/t/topic/55595" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/55595</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/55595">[windows端的hook] 找不到类似mac端的给文件创建一个唯一URL的软件</a></b><br /><p>[windows端的hook] 找不到类似mac端的给文件创建一个唯一URL的软件   mac端可以通过 hook , devonthink等软件 给每个文件,文件夹 提供一个唯一的URL id, 通过 URL Schemer link ,唤起这个软件从而快速找到该文件 这个URL Schemer 在windows也是支持的, 但是就是找不到这样的软件提供这个功能…  (另外 极端情况下 要考虑 多个windows电脑通过 云盘同步文件后, 不同的绝对路径 (毕竟网盘的安装位置很难保证一致), 也能使用同一个…</p><img src="https://cdn4.cdn-telegram.org/file/lRWlqDf4RaRVtm3bKJ2ISxX1cJkll6iST4dfxk--G5V1mIMb75EeUaPNhzY9nWWORZB-n0Z4gdYO-wW1q0tRavYerq_NPtysC3jX8LLn8AZVjCSKAj8O0IjcCX2N6ZdxXYKyOR7a-5rgzixP1tXeGyVNRVAUCAEQp_or4G1gQk_jXw4SzS7I1zEM_2F1U8jub_hQvEud_-_SXJvgOdqYGCU2QFr6CHEIuMt7pOQhe3yxYdlV9uTG_O00x_xa_CVCGy-eZ4013gZ9vDHY0DaaGiAiJ2v-hJhGFi4tpYO4vvIVqUPw_4cCyaD2xNpjtar364S-qvKLgu-G15N7bPTpYQ.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Wed, 24 Apr 2024 02:28:01 GMT</pubDate>
-<pubDate>Wed, 24 Apr 2024 02:28:01 GMT</pubDate>
 </item>
-
 <item>
 <title>📣 #发现频道 【自荐】做了一款找搭子活动app https://meta.appinn.net/t/topic/55593</title>
 <link>https://t.me/appinnfeed/10403</link>
@@ -9014,15 +9023,6 @@
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9361?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />有没有办法筛选文件名乱码的文件？<br /><br /><a href="https://meta.appinn.net/t/topic/51829" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/51829</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/51829">有没有办法筛选文件名乱码的文件？</a></b><br /><p>有一定数量的文件，一部分的文件名是有意义的，由中文、日文、或英文以及数字、点、下划线构成的，格式十分混乱；另一部分的文件名是类似哈希值的乱码，由字母数字以及一些符号组成，人类不可读。  有没有什么办法把其中文件名乱码的文件筛选出来？含有中文日文的好说，由英文数字及符号组成的想不到方便的办法与乱码区分，上语义识别成本也太高了。</p><img src="https://cdn4.cdn-telegram.org/file/Prbr-3uJtP3H981tWKYhuDQ19mQV84QgbE554yseUXQCjZZutXcqm2Ll61XOJaBhNkWEMBVzviHLuJG0dwV3TIgdgrc5poi0vf0XIAt5tUR9cc3e-Dhx0ZoJ6ZkwjUEtUY5AtFXi7ne9T23YgapPpYWpNUTba9vixC269vuhd150sdjg0gLic8o6Tg_pUsjd9XR66Kg4W1WEthBNdV_ht6wOtRW1qx8g0i0W959YtpaNVyKGg1nGtX2adAdnr2KHewpEaYcNcP2aT_zfavSfoeGyVC8DJXtJiyKJ0WLQXwEgNObwBRQwag0_fSG6aqAd2uyg2pHn6LdzswXzz3xo5w.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Fri, 19 Jan 2024 15:00:00 GMT</pubDate>
-</item>
-<item>
-<title>💧 #小众软件 Photor – 在线美化截图工具：添加背景、阴影、圆角、标注、箭头等 https://www.appinn.com/photor-screenshot/ Tags: #在线应用, #圆角, #截图,...</title>
-<link>https://t.me/appinnfeed/9360</link>
-<guid>https://t.me/appinnfeed/9360</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">💧</span> <a href="https://t.me/appinnfeed/9360?q=%23%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6">#小众软件</a><br />Photor – 在线美化截图工具：添加背景、阴影、圆角、标注、箭头等<br /><br /><a href="https://www.appinn.com/photor-screenshot/" rel="noopener" target="_blank">https://www.appinn.com/photor-screenshot/</a><br /><br /><b>Tags</b>: <a href="https://t.me/appinnfeed/9360?q=%23%E5%9C%A8%E7%BA%BF%E5%BA%94%E7%94%A8">#在线应用</a>, <a href="https://t.me/appinnfeed/9360?q=%23%E5%9C%86%E8%A7%92">#圆角</a>, <a href="https://t.me/appinnfeed/9360?q=%23%E6%88%AA%E5%9B%BE">#截图</a>, <a href="https://t.me/appinnfeed/9360?q=%23%E6%A0%87%E6%B3%A8">#标注</a>, <a href="https://t.me/appinnfeed/9360?q=%23%E9%98%B4%E5%BD%B1">#阴影</a></p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/photor-screenshot/">Photor - 在线美化截图工具：添加背景、阴影、圆角、标注、箭头等 - 小众软件</a></b><br /><p>Photor 是一个简单易用的在线美化截图工具，它可以为截图添加背景颜色、阴影和圆角，还能直接在截图上标注，包括方块、圆圈、文字、箭头等。让你的截图与众不同。@Appinn</p><img src="https://cdn4.cdn-telegram.org/file/Y_D4iRrHvLUr997dM52kIO73QSuXODeHmEJEwI1m1xxDoOdGN6rdzk-xq3eAzTuRYZ3hNwXhPjcTjSdWJsS63LRt8lszcSCrPG73NGyTlrb1BBO4U27B_s3byHhI8VkbPPfhI1edXfB7ICHZ9Ps77UShC2ThoDaLMRapa4ZJ6xF1ec_5HDQmqHmakuToLWPlKYKXmtdctgwNYpFOhVnZze9iL_gPg1Q2Yahwu2tTBX92Rcsi4zMpDw3gVklbpI4gmaCDqrdoX2PMEu1l1xFiNsvn5F2_rrNA2JV70hDm71YgpGLWCMhtqPij0UzQwqhhh_aOuyo2aIjVjTzObak9Jg.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Fri, 19 Jan 2024 10:08:02 GMT</pubDate>
 </item>
 </channel>
 </rss>

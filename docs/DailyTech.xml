@@ -5,17 +5,26 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>日本内阁会议敲定对IT巨头监管法案 日本政府26日在内阁会议上，敲定了《智能手机特定软件竞争促进法案》，旨在对在智能手机APP市场处于垄断状态的IT巨头实施监管...</title>
+<link>https://t.me/xhqcankao/9841</link>
+<guid>https://t.me/xhqcankao/9841</guid>
+<content:encoded><![CDATA[
+
+<p><b>日本内阁会议敲定对IT巨头监管法案</b><br /><br />日本政府26日在内阁会议上，敲定了《智能手机特定软件竞争促进法案》，旨在对在智能手机APP市场处于垄断状态的IT巨头实施监管。新法案规定IT巨头有义务向竞争对手开放APP商店和支付系统的运营。通过促进自由竞争，有望让普通用户享受到APP降价、选项增多等益处。新法案考虑的是在智能手机基本操作系统 (OS) 和APP商店领域占有巨大市场份额的美国谷歌和苹果公司。将防止新加入企业遭遇不公对待等。对于违反行为，则征收日本国内相关销售额的20%。现有的《反垄断法》把限制竞争行为视作“排他性私人垄断”，征收销售额的6%。新法案则提升至超过3倍，若未见改善迹象，则可以上调至30%。有关同样的监管，欧盟3月率先全面导入了禁止优待自家服务的《数字市场法》(DMA)。日本将与欧洲统一步调，加强对IT巨头的监管。<br /><br />—— <a href="https://china.kyodonews.net/news/2024/04/39ac9b1bce50-it.html" rel="noopener" target="_blank">共同社</a></p>
+]]></content:encoded>
+<pubDate>Fri, 26 Apr 2024 09:32:28 GMT</pubDate>
+<pubDate>Fri, 26 Apr 2024 09:32:28 GMT</pubDate>
+</item>
+
+<item>
 <title>WhatsApp 告诉德里高等法院 如果被要求破解加密将退出印度 WhatsApp 4月25日告诉德里高等法院，如果被要求破解信息加密，这个受欢迎的消息平台将退出印度。Whats...</title>
 <link>https://t.me/xhqcankao/9840</link>
 <guid>https://t.me/xhqcankao/9840</guid>
 <content:encoded><![CDATA[
-
 <p><b>WhatsApp 告诉德里高等法院 如果被要求破解加密将退出印度</b><br /><br />WhatsApp 4月25日告诉德里高等法院，如果被要求破解信息加密，这个受欢迎的消息平台将退出印度。WhatsApp 的律师卡里亚对法官表示：“作为一个平台，我们要说的是，如果我们被要求破解加密，那么 WhatsApp 将会关闭。”卡里亚补充说，人们使用该消息平台是因为它能保证隐私，而且消息是端到端加密的。德里高等法院正在听取 WhatsApp 及其母公司 Meta 对2021年《信息技术(中介指南和数字媒体道德规范)规则》提出质疑的请愿书，该规则要求社交媒体中介机构必须确保消息应用能够追踪聊天记录，并在法院的命令下采取措施来确定信息的最初发布者。该消息平台称，这破坏了内容加密以及用户的隐私。还违反了印度宪法所保障的用户基本权利。代表政府的律师辛格辩称，指导方针的目的是为了追踪信息的发布者。他认为，最终，必须有某种机制来追踪消息，因为这是当前的需要。经过简短的辩论后，高等法院要求达成平衡，并于8月14日对该案进行进一步聆讯。<br /><br />—— <a href="https://m.economictimes.com/news/india/whatsapp-tells-delhi-hc-it-will-shut-down-if-forced-to-break-encryption/amp_articleshow/109600138.cms" rel="noopener" target="_blank">印度经济时报</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 26 Apr 2024 08:38:36 GMT</pubDate>
-<pubDate>Fri, 26 Apr 2024 08:38:36 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 #Movies #TV 🎬 Newlearnerの自留地「流媒体周报」#146 🔍 重点关注 ▎日本朝日电视台公布「世界动画歌曲总选举」结果 🔗：完整榜单 • 日本前三：《...</title>
 <link>https://t.me/NewlearnerChannel/12713</link>
@@ -9206,15 +9215,6 @@
 <p><b>苹果研究人员探索放弃“Siri”短语，改用人工智能聆听</b><br /><br />据周五 (3月22日) 发表的一篇论文称，苹果公司的研究人员正在研究是否有可能利用 AI 来检测用户何时在对 iPhone 等设备说话，从而消除对“Siri”等触发短语的技术需求。在一项上传到 Arxiv 且未经同行评审的研究中，研究人员使用智能手机捕获的语音以及来背景噪声的声学数据来训练一个大型语言模型，以寻找可能表明用户何时需要设备帮助的模式。论文中研究人员写道：“该模型部分基于 OpenAI 的 GPT-2 版本构建，因为它相对轻量级，可以在智能手机等设备上运行。”论文描述了用于训练模型的超过129小时的数据和额外的文本数据，但没有说明训练集的录音来源。据领英个人资料，七位作者中有六位列出他们的隶属关系为苹果公司，其中三人在该公司的 Siri 团队工作。论文称，结果令人鼓舞。该模型能够比纯音频或纯文本模型做出更准确的预测，并且随着模型规模的扩大而进一步改进。<br /><br />—— <a href="https://www.technologyreview.com/2024/03/22/1090090/apple-researchers-explore-dropping-siri-phrase-amp-listening-with-ai-instead/" rel="noopener" target="_blank">麻省理工科技评论</a>、<a href="https://arxiv.org/abs/2403.14438" rel="noopener" target="_blank">Arxiv</a></p>
 ]]></content:encoded>
 <pubDate>Sun, 24 Mar 2024 00:54:35 GMT</pubDate>
-</item>
-<item>
-<title>荷兰法院下令互联网服务提供商屏蔽“安娜的档案”和“LibGen” 由于荷兰当地的反盗版组织“荷兰娱乐业权利保护组织 (BREIN)”的请求，荷兰鹿特丹法院下令互联网...</title>
-<link>https://t.me/xhqcankao/9050</link>
-<guid>https://t.me/xhqcankao/9050</guid>
-<content:encoded><![CDATA[
-<p><b>荷兰法院下令互联网服务提供商屏蔽“安娜的档案”和“LibGen”</b><br /><br />由于荷兰当地的反盗版组织“荷兰娱乐业权利保护组织 (BREIN)”的请求，荷兰鹿特丹法院下令互联网服务提供商屏蔽影子图书馆“安娜的档案”和“LibGen”。荷兰鹿特丹法院发布了一项所谓的“动态”封锁令，这意味着如果网站将来切换到新的域名和 IP 地址，版权持有者可以更新目标域名和 IP 地址。这也适用于镜像网站并提高封锁的有效性，因为无需返回法庭。此前，互联网提供商荷兰皇家电信对这些“动态”命令提出了质疑，认为其范围过于宽泛。然而，法院驳回了这一论点，指出该过程迄今为止尚未导致任何重大问题。荷兰娱乐业权利保护组织称，谷歌因其要求，从荷兰的搜索结果中完全删除了所有对荷兰法院下令封锁网站的索引。<br /><br />—— <a href="https://torrentfreak.com/dutch-court-orders-isp-to-block-annas-archive-and-libgen-240322/" rel="noopener" target="_blank">Torrentfreak</a></p>
-]]></content:encoded>
-<pubDate>Sat, 23 Mar 2024 22:38:51 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -5,17 +5,26 @@
 <link>https://t.me/s/appinnfeed</link>
 
 <item>
+<title>这篇文章是由一位参与开发Rust语言Webauthn库的开发者所写，主要内容是关于Passkeys技术及其用户体验的问题。这位开发者对Passkeys技术抱有失望的态度，因为他认...</title>
+<link>https://t.me/appinnfeed/10438</link>
+<guid>https://t.me/appinnfeed/10438</guid>
+<content:encoded><![CDATA[
+
+<p>这篇文章是由一位参与开发Rust语言Webauthn库的开发者所写，主要内容是关于Passkeys技术及其用户体验的问题。这位开发者对Passkeys技术抱有失望的态度，因为他认为这项技术并没有达到最初的预期，即成为结束密码时代的解决方案。<br /><br /><a href="https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/" rel="noopener" target="_blank">https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/</a><br /><br />Apple Keychain问题：作者的伴侣在使用家庭灯光控制系统时，因为Apple Keychain删除了正在使用的Passkey，导致无法登录。<br /><br />标准开放性问题：Webauthn标准的开放性不如预期，Chrome浏览器的开发受Google严格控制，导致一些重要的安全功能（如Authenticator Selection Extension）未能实现。<br /><br />市场控制：Passkeys被用作一种锁定用户于特定平台的手段，特别是当用户的凭证无法被提取或导出时，这限制了用户的选择。<br /><br />用户体验不佳：Chrome和Safari在推动使用混合认证（如caBLE）时，用户体验差，有时甚至不如传统密码。<br /><br />Android平台问题：Android在某些情况下不会激活安全密钥，导致用户无法使用他们选择的设备。<br /><br />用户困境：在技术论坛上，用户报告了多种问题，包括安全密钥无法注册、平台错误、密钥创建问题等，这些问题表明了用户在使用Passkeys时的困境。<br /><br />个人建议：作者推荐使用密码管理器，并建议将Passkeys存储在用户可控的密码管理器中，而不是平台控制的存储中。<br /><br />企业用途：尽管存在问题，作者认为在企业环境中，有认证的安全密钥仍有其用途，但需要注意避免供应商锁定。</p>
+]]></content:encoded>
+<pubDate>Fri, 26 Apr 2024 13:32:47 GMT</pubDate>
+<pubDate>Fri, 26 Apr 2024 13:32:47 GMT</pubDate>
+</item>
+
+<item>
 <title>🖼 有同学发现了前几天介绍的打包文件镜像工具 DwarFS 的一个新用法： 打包成 "mp4"后上传阿里云😂 https://meta.appinn.net/t/topic/55703</title>
 <link>https://t.me/appinnfeed/10437</link>
 <guid>https://t.me/appinnfeed/10437</guid>
 <content:encoded><![CDATA[
-
 <p>有同学发现了前几天介绍的打包文件镜像工具 DwarFS 的一个新用法：<br /><br />打包成 "mp4"后上传阿里云<span class="emoji">😂</span><br /><a href="https://meta.appinn.net/t/topic/55703" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/55703</a></p><img src="https://cdn5.cdn-telegram.org/file/fy22XYlYOGvSezLNQ5YIF_la_777mltBdWfrKcZ3G0Kfrp0WzfvhX1KmTCMYEt2hq-BPop5gn0Elh17-ZvmwyqP5RT_vo_9zKEV1kKa02eAQeFAlzOThoTfUXTHe6ju9owlWaAECCRqNlHGZvxMhDR-xiXCDBK5w9yhNlQsB3w2kIG8CsNrEnwZiCDEZUtGhkNmP38qi8E2zKVaChANZNU1WMq9zIpTRpGmFm48OptxhprYbnomXULXsBJnjyMBZAov_gKzQaqMFGLvBUG9nlk-lsafBt-xoDMgWCfiD1KeHGb2orkV8UrAIzy4DW8M0qMl9F6lP78JJnWRla0SdnQ.jpg" />
 ]]></content:encoded>
 <pubDate>Fri, 26 Apr 2024 12:20:53 GMT</pubDate>
-<pubDate>Fri, 26 Apr 2024 12:20:53 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 有没有在桌面平台支持浏览动态照片的软件 https://meta.appinn.net/t/topic/55701</title>
 <link>https://t.me/appinnfeed/10436</link>
@@ -9014,15 +9023,6 @@
 <p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/9391?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />【自荐送码】小停顿：一个陪你记录更多、实现更多「治愈小事」的 App<br /><br /><a href="https://meta.appinn.net/t/topic/51957" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/51957</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/51957">【自荐送码】小停顿：一个陪你记录更多、实现更多「治愈小事」的 App</a></b><br /><p>软件名称 小停顿  应用平台 iOS / Android  推荐类型 【开发者自荐】  一句简介 小停顿是一款陪伴用户记录更多，同时实现更多「治愈小事」的 App，当你打开 App 后点击 +1，即可记下每一件治愈小事，同时具有事件统计功能，帮助用户回顾这周看了几次云，这个月逛了几次展。  主要功能     温暖可爱画风：46件治愈小事，都变成温柔清新的插画，陪你一起放松下来。 1秒极简记录：选中事件插画，点击「+1」，即可完成记录。不打开App，在桌面小组件上也可完成。 统计回顾：每周 / 每月 / …</p><img src="https://cdn4.cdn-telegram.org/file/uIW_CaoHit-jawooRCwyEd20o0Z6gsmvhW5CBSHna7PM_ZtPzH4jjStpmv6lI9EXRUreu7AZImBh7URdP6fMDY2CFE9dNXJXS3fo3t2d9Z4wY8UlHp8RgYmc9EQBSCNruj_70pN-lT-kPzWHgnvAocxtWtCLHh-7wYWGCYMlio5TJZud1ywfTC-v3OgP2ncKHgWzPEOTDz5vLZkUAG4TRFxJM9m8oKqypB7XvmZkjilSHttnyFLIUmzZbK81pp6GrDM_woBLfLIzALYJP-VxFoie0aML5mphnQD0VzJp7hdYQ015hbGYZOsoAkAYXQ8UqT0VGnsUL6edz4a91295YA.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Tue, 23 Jan 2024 03:24:01 GMT</pubDate>
-</item>
-<item>
-<title>图片素材采集工具 零泉 开始支持采集 Midjourney 和 Stable Diffusion，并能同步采集关键词和内置翻译功能，支持编辑和修改 https://meta.appinn.net/t/topic/51...</title>
-<link>https://t.me/appinnfeed/9390</link>
-<guid>https://t.me/appinnfeed/9390</guid>
-<content:encoded><![CDATA[
-<p>图片素材采集工具 零泉 开始支持采集 Midjourney 和 Stable Diffusion，并能同步采集关键词和内置翻译功能，支持编辑和修改<br /><br /><a href="https://meta.appinn.net/t/topic/51689" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/51689</a><br /><br />视频：<br /><br /><a href="https://www.bilibili.com/video/BV1u5411v7SF/" rel="noopener" target="_blank">https://www.bilibili.com/video/BV1u5411v7SF/</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/51689">支持采集Midjourney和Stable Diffusion啦，同步采集关键词和内置翻译功能，支持编辑和修改，欢迎体验！</a></b><br /><p><span class="emoji">😀</span></p><img src="https://cdn4.cdn-telegram.org/file/k-QPZa91ZLNXsYOPWKfBwUcaMCOCuIarOWVbv_FuyDVFbqLUy8t3XCplOkWcLIIg21GnjakqW8cWYVv3GrxCUPXlsPlrXdx8Q4lay2p3pQkg_G1HH7WkPmRHrD60Nz4BFbOD28hRNI_38T0Rn6bDLnhFOViQuQupWe0E4TfEhOEHhw9qs9CAf9hHsatKaXqh2M1v8x6uEj-5y5yIzakwKgqeYHdREOPRUEBp7CGy38Gfsi7vBZa0Ztm8RfT6zSk0L_evzfNLjvE88hyg_Xo_OHYgT-YdCWy88L3lRN7lWT_Wnhl-OY9gUKsymlpwVBODpHZujMaehm1ts5eQb51iLQ.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Tue, 23 Jan 2024 03:20:13 GMT</pubDate>
 </item>
 </channel>
 </rss>

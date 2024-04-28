@@ -4,6 +4,17 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>📣 #发现频道 Regex_pics_del，一个根据正则分类并自动删除重复与较小项的软件 https://meta.appinn.net/t/topic/55801</title>
+<link>https://t.me/appinnfeed/10457</link>
+<guid>https://t.me/appinnfeed/10457</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/10457?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />Regex_pics_del，一个根据正则分类并自动删除重复与较小项的软件<br /><br /><a href="https://meta.appinn.net/t/topic/55801" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/55801</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/55801">Regex_pics_del，一个根据正则分类并自动删除重复与较小项的软件</a></b><br /><p>regex_pics_del 开源地址：   警告 本程序仅适用于图片等常规文件，代码文件等不在考虑范围内  原理 程序使用了正则表达式对文件（通常是图片）的文件名（不含后缀）的匹配项进行分组，通过遍历每组内的文件大小删除较小的文件，对于大小相同的文件将比较sha3_256值，相同的将自动删除  使用方法： &lt;程序地址.exe&gt; &lt;正则表达式&gt; &lt;要匹配的组&gt; &lt;文件夹（仅允许一个）&gt;  示例： 现有如下图片： D:\Downloads\UI_Codex\UI_Codex_Scenery_CYCengY…</p><img src="https://cdn4.cdn-telegram.org/file/Wrga0kA_JhXDYV__xlSO2XhNPo0eGDuRSkFhYVyFFdtVM3GyTVp2XrVcGS2XA7HAB1QUd0P0wBVsij19JgWdLSZ0iIYysYvjaBompVf3OtnwksVOHwJ1991XY0mSEGl3cEwWHXRFUlTgHNf9BpqBJCWRX-eWyNOBAEyZ0USjipDGXHL9LEKBubsxmxIB_rL62KrKfdQV-vA-d_WgvpbBJ5YKnd1h0d2aNfUuTyBzl0FXJKlC8zMbuzaYzkSkfhzp5NzRX7AAvLZow3rvd4L4_iprTl0EjuIgtLef5dNfTQ_-Tz1674wZDERITrQXJRnSbacRyHVdkAjHCHB-jBCOXg.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Sun, 28 Apr 2024 16:40:01 GMT</pubDate>
+<pubDate>Sun, 28 Apr 2024 16:40:01 GMT</pubDate>
+</item>
 
 <item>
 <title>📣 #发现频道 【自荐】免费无注册yes/no随机生成器，帮助你随机选择 https://meta.appinn.net/t/topic/55797</title>

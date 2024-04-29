@@ -5,17 +5,26 @@
 <link>https://t.me/s/appinnfeed</link>
 
 <item>
+<title>这是一个将 rss 内容源当作搜索引擎的项目，它能自动爬 rss 然后添加到数据库中，实现指定内容搜索，搭建了一个： https://s.appinn.net/ 包括小众软件和论坛的 ...</title>
+<link>https://t.me/appinnfeed/10459</link>
+<guid>https://t.me/appinnfeed/10459</guid>
+<content:encoded><![CDATA[
+
+<p>这是一个将 rss 内容源当作搜索引擎的项目，它能自动爬 rss 然后添加到数据库中，实现指定内容搜索，搭建了一个：<br /><br /><a href="https://s.appinn.net/" rel="noopener" target="_blank">https://s.appinn.net/</a><br /><br />包括小众软件和论坛的 rss，尝试一下。<br /><br />很多内容搜不到，因为没有历史内容<br /><br />关键词也不是很完整，好多搜不到 <span class="emoji">😂</span></p><blockquote><b>s.appinn.net</b><br /><b><a href="https://s.appinn.net/">OpenOrb</a></b><br /><p>A curated search engine for Atom and RSS feeds.</p></blockquote>
+]]></content:encoded>
+<pubDate>Mon, 29 Apr 2024 01:52:09 GMT</pubDate>
+<pubDate>Mon, 29 Apr 2024 01:52:09 GMT</pubDate>
+</item>
+
+<item>
 <title>📣 #发现频道 开源免费的全平台服务器监控及SSH客户端 https://meta.appinn.net/t/topic/55805</title>
 <link>https://t.me/appinnfeed/10458</link>
 <guid>https://t.me/appinnfeed/10458</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/10458?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />开源免费的全平台服务器监控及SSH客户端<br /><br /><a href="https://meta.appinn.net/t/topic/55805" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/55805</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/55805">开源免费的全平台服务器监控及SSH客户端</a></b><br /><p>软件名称 ServerBox - server status &amp; toolbox app using Flutter  应用平台  Windows MacOS iOS Android Linux  推荐类型 【用户推荐】  因为昨天看见有人推ServerCat，我很反感这种把开源的东西打包上架收高价的行为，所以推了这个。打包上架的确需要工作量，收个几块钱辛苦费也没啥，我没事也赞助一下开源项目，但是收好几百就有点儿不要脸了吧？  以下简介都是从GitHub上复制来的，用之前看wiki，需要装服务端。  一句简介…</p><img src="https://cdn4.cdn-telegram.org/file/jbxE4H42HPbcXCRgm0pUm-yrwSiV7h6uy2Jknw6Ua5kG7-T-p7qjYHpJQC6VydUZAa-DUuos_BUPH5QdkgtMG7_ZVSyhgHpNbq5GzlEnZWui1XyVQuUR2lbuRcT3f6gNtBmRtSY0t18AKsXiSyrKDZfAbeCWVD-RGErq7LCl6_4SbD6HAKLfpkQlfr5uO7Ya9W3_Tw7OZD6f-5cskxiynmJc7pKfOm9Tq5wQmffZj_EqKzEhWABb3RSnpaOWzvYM0z-I9i-NRZh0XRgdAqjZ3-ZBuwgE9s9NPqnBRVyXTd9PvKqseLHDcMOzbFPZN00mS9p9PHmehsfdxzQFymEOuQ.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Mon, 29 Apr 2024 01:04:01 GMT</pubDate>
-<pubDate>Mon, 29 Apr 2024 01:04:01 GMT</pubDate>
 </item>
-
 <item>
 <title>📣 #发现频道 Regex_pics_del，一个根据正则分类并自动删除重复与较小项的软件 https://meta.appinn.net/t/topic/55801</title>
 <link>https://t.me/appinnfeed/10457</link>
@@ -9014,15 +9023,6 @@
 <p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/9412?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />7款虚拟桌面软件横评！GoScreen Win98时代的虚拟桌面还那么给力？！<br /><br /><a href="https://meta.appinn.net/t/topic/51430" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/51430</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/51430">7款虚拟桌面软件横评！GoScreen Win98时代的虚拟桌面还那么给力？！</a></b><br /><p>7款虚拟桌面软件横评！GoScreen Win98时代的虚拟桌面还那么给力？！ 由于上个文章因为权限不够，所以干脆令立个新帖子了！  Windows虚拟桌面的问题  开了虚拟桌面，但是每个虚拟桌面上的图标是一样的，离谱不？你在B桌面删除了桌面的图标，结果A桌面也没了！ 虚拟桌面只有左上角有缩略图，而且还是小小的一块，如何区分与管理处于不同虚拟桌面的窗口？ 默认的虚拟桌面没有虚拟桌面切换指示，当前处于什么桌面环境根本分不清。  非独立虚拟桌面工具 Desktops (英文)(更新是不会更新的)(免费)(第三方虚拟桌面增强)…</p><img src="https://cdn4.cdn-telegram.org/file/nKZgDTubGwmeBjeeJjJbGJnqfoJVNzY2Z-YpbEypQLWC-fFCgpECuojcSSoA3Fe90XwODFyV3lcKSZvcpkLX2QSl9CuNHEyYwXpfBL7xqiJhj0Y4RPAfOhoRtpNiltNQBnviYJAu6Y5GUhCgWqr06dmSpjV07J1Zn0D1tqhWvCBOrUX9BciRhA-kEurOM9OEIX2ZdKqzBl-T4wyQUIYnU8dy0lefKf_du6FyGtWCkxXxwVCKGy8PRauuFmz59MrXZrwk5GnX9pbnK5WKvnV5tGcbEI1kIrH7xBIOt0Q4Wi5D_4wGNO-UsGzp18PRv-ffQjdiTjaYvSg34Ww-TlYs0w.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Wed, 24 Jan 2024 13:28:01 GMT</pubDate>
-</item>
-<item>
-<title>❓ #问题求助 有邮箱数据导出软件吗？我发现其实可以用邮箱作为笔记软件。 https://meta.appinn.net/t/topic/52026</title>
-<link>https://t.me/appinnfeed/9411</link>
-<guid>https://t.me/appinnfeed/9411</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9411?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />有邮箱数据导出软件吗？我发现其实可以用邮箱作为笔记软件。<br /><br /><a href="https://meta.appinn.net/t/topic/52026" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/52026</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/52026">有邮箱数据导出软件吗？我发现其实可以用邮箱作为笔记软件。</a></b><br /><p>当邮箱的数据可以导出到本地时，也可以拿来当作笔记软件，当然不能导出时，就是云端笔记了。  邮箱作为笔记软件具备以下功能：多设备登陆与同步（网页或客户端），废纸篓（已删除），笔记本（文件夹），图片与附件，定时提醒（定时邮件）、两处备份（发件人与收件人）。  发件人发送图片还可选择压缩图片。  空间还可以，一般5g大小，微软的有15G，存储文字为主也足够用了。</p><img src="https://cdn4.cdn-telegram.org/file/nKZgDTubGwmeBjeeJjJbGJnqfoJVNzY2Z-YpbEypQLWC-fFCgpECuojcSSoA3Fe90XwODFyV3lcKSZvcpkLX2QSl9CuNHEyYwXpfBL7xqiJhj0Y4RPAfOhoRtpNiltNQBnviYJAu6Y5GUhCgWqr06dmSpjV07J1Zn0D1tqhWvCBOrUX9BciRhA-kEurOM9OEIX2ZdKqzBl-T4wyQUIYnU8dy0lefKf_du6FyGtWCkxXxwVCKGy8PRauuFmz59MrXZrwk5GnX9pbnK5WKvnV5tGcbEI1kIrH7xBIOt0Q4Wi5D_4wGNO-UsGzp18PRv-ffQjdiTjaYvSg34Ww-TlYs0w.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Wed, 24 Jan 2024 11:28:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

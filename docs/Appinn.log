@@ -26866,3 +26866,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Append: [📣 #发现频道 开源免费的全平台服务器监控及SSH客户端 https://meta.appinn.net/t/topic/55805](https://t.me/appinnfeed/10458)
 append_entries: 1
 Finish: 2024-04-29 09:24:44
+------------------------------------------------------
+Started: 2024-04-29 10:10:29
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [这是一个将 rss 内容源当作搜索引擎的项目，它能自动爬 rss 然后添加到数据库中，实现指定内容搜索，搭建了一个： https://s.appinn.net/ 包括小众软件和论坛的 ...](https://t.me/appinnfeed/10459)
+append_entries: 1
+Finish: 2024-04-29 10:10:30

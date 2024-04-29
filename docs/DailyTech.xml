@@ -5,14 +5,39 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>🖼 #Python潮流周刊 🐬🐬🐬 第 48 期 🐬🐬🐬 🦄文章&amp;教程 ① 公布 py2wasm：将 Python 程序转换为 Wasm ② 对比 Ruby 与 Python 的 for 循环 ③...</title>
+<link>https://t.me/NewlearnerChannel/12729</link>
+<guid>https://t.me/NewlearnerChannel/12729</guid>
+<content:encoded><![CDATA[
+
+<p><a href="https://t.me/NewlearnerChannel/12729?q=%23Python%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A">#Python潮流周刊</a> <br /><br /><span class="emoji">🐬</span><span class="emoji">🐬</span><span class="emoji">🐬</span>&nbsp; <a href="https://xiaobot.net/post/630a4d3c-500c-4486-b51c-4f1e8231375c" rel="noopener" target="_blank">第 48 期</a>&nbsp; <span class="emoji">🐬</span><span class="emoji">🐬</span><span class="emoji">🐬</span><br /><br /><span class="emoji">🦄</span>文章&amp;教程 <br /><br />① 公布 py2wasm：将 Python 程序转换为 Wasm<br />② 对比 Ruby 与 Python 的 for 循环<br />③ Python 小陷阱：strip、lstrip、rstrip 删除内容比预期的多<br />④ 用 Python 讲解进程间通信的核心机制<br />⑤ PEP 745 – Python 3.14 的发布计划<br />⑥ Python 不同数据结构的时间复杂度<br />⑦ 从第一性原理出发理解 Django<br />⑧ Python 线程池的源码实现分析与相关问题探讨<br />⑨ 如何用 Python 设计和实现插件架构？<br />⑩ 浅谈 Python、Go、Rust 的异常处理<br />⑪ mpmetrics 内存管理的设计<br />⑫ 编程语言中分号的起源和优点<br /><br /><span class="emoji">🐿️</span>项目&amp;资源 <br /><br />① llama3：Meta Llama 3 的官方仓库<br />② llama3-Chinese-chat：Llama3 中文仓库，各种聚合资料<br />③ reader：将 URL 转换为对 LLM 友好的文本<br />④ tasktiger：基于 Redis 的 Python 任务队列<br />⑤ utt：用 Python 编写的简易命令行时间跟踪器<br />⑥ simone：将 YouTube 视频转换为文章进行发布<br />⑦ h11：用纯 Python 实现的 HTTP/1.1 库<br />⑧ browser-hub：浏览器包装器，可运行多个浏览器实例<br />⑨ lingua-py：极准确的自然语言检测库<br />⑩ photo-similarity-search：基于苹果芯片的照片相似度 Web 应用<br />⑪ Windrecorder：记录屏幕内容，实现记忆搜索<br /><br /><span class="emoji">👀</span><a href="https://xiaobot.net/post/630a4d3c-500c-4486-b51c-4f1e8231375c" rel="noopener" target="_blank">阅读全文</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="emoji">🤝</span><a href="https://github.com/chinesehuazhou/python-weekly" rel="noopener" target="_blank">欢迎投稿</a><br /><br /><span class="emoji">🐱</span>频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/WtyCv0MBN3B0Z_Dko67EGlXjPmd2gB3vKNyt8z1OVYNs1v_S9VE-IxiFfdgQkHKaUUovE2Hxcqvp5ujbDb95HLSPfGUJbd8XZSO88zwB8D63kRvV7tqZ_TCSN9JKZnFlQ7eDWAZVmfQpf_sxoJCYh7cjpO3I0k0Qo3Nzcn3vcJq_GJPCKFHu5rylB_8RSl2Mx3Lwb8KOSLdojENv2v8BISxHbiifnB-cdi3NGhHTHFdyXnTCxJ5VOkBb7BX1M9qGKQHoG6Tga04h4gY0mHrynOF07fAP3_64yJ5U87NbWVv8jcZd9KVeSENhpnCIltGJBigCIxXsd20e_Aj9YP7ctg.jpg" />
+]]></content:encoded>
+<pubDate>Mon, 29 Apr 2024 10:00:19 GMT</pubDate>
+<pubDate>Mon, 29 Apr 2024 10:00:19 GMT</pubDate>
+</item>
+<item>
+<title>↩️ 马斯克结束短暂但收获丰富的中国行程 科技亿万富翁特斯拉首席执行官埃隆马斯克周一登上了从北京起飞的飞机。此前，他在北京短暂停留并见证了特斯拉公司获得...</title>
+<link>https://t.me/xhqcankao/9909</link>
+<guid>https://t.me/xhqcankao/9909</guid>
+<content:encoded><![CDATA[
+
+<div class="rsshub-quote"><blockquote>
+                                    <p><a href="https://t.me/xhqcankao/9906"><b>风向旗参考快讯</b>:</a></p>
+                                    
+                                    <p>中国初步批准特斯拉在中国推出全自动驾驶软件的计划  中国官员告诉特斯拉，北京已初步批准该公司在该国推出其“全自动驾驶”（FSD）软件功能的计划。这家美国电动汽车制造商将根据中国科技巨头百度提供的地图和导航功能部署其自动驾驶服务，这些知情人士表示。该合作伙伴关系为特斯拉扫清了其在中国提供驾驶辅助系统的重要监管障碍。与百度的交易已经得到批准，彭博社此前报道了该交易。  —— 华尔街日报</p>
+                                </blockquote></div><p><b>马斯克结束短暂但收获丰富的中国行程</b><br /><br />科技亿万富翁特斯拉首席执行官埃隆马斯克周一登上了从北京起飞的飞机。此前，他在北京短暂停留并见证了特斯拉公司获得中国当局一项关键的数据安全许可。至于 FSD（全自动驾驶）技术是否在中国实现落地应用，特斯拉官方尚未公布相关信息，但消息人士称北京方面已经初步批准了特斯拉的计划。据统计，此次马斯克的中国之行仅持续了大约24小时，他的私人飞机于13:17起飞，飞往美国阿拉斯加的安克雷奇。马斯克还确认品牌旗下全新入门级车型Model 2将于2025年上市开售，其项目名称为“Redwood”。<br /><br />—— <a href="https://www.france24.com/en/live-news/20240429-musk-leaves-beijing-after-tesla-wins-key-china-security-clearance" rel="noopener" target="_blank">法新社</a></p>
+]]></content:encoded>
+<pubDate>Mon, 29 Apr 2024 09:21:18 GMT</pubDate>
+<pubDate>Mon, 29 Apr 2024 09:21:18 GMT</pubDate>
+</item>
+
+<item>
 <title>英国金融时报与 OpenAI 签署许可协议 英国《金融时报》已与 OpenAI 达成协议，授权其内容并开发人工智能工具，这是最新与这家人工智能公司合作的新闻机构。英国...</title>
 <link>https://t.me/xhqcankao/9908</link>
 <guid>https://t.me/xhqcankao/9908</guid>
 <content:encoded><![CDATA[
-
 <p><b>英国金融时报与 OpenAI 签署许可协议</b><br /><br />英国《金融时报》已与 OpenAI 达成协议，授权其内容并开发人工智能工具，这是最新与这家人工智能公司合作的新闻机构。英国金融时报在一份新闻稿中写道，ChatGPT 用户将看到其文章的摘要、引述和链接。任何返回来自金融时报信息的提示都将归功于该出版物。作为回报，OpenAI 将与该新闻机构合作开发新的人工智能产品。许可协议财务条款尚未公开。<br /><br />—— <a href="https://www.theverge.com/2024/4/29/24141869/financial-times-licensing-deal-openai-news" rel="noopener" target="_blank">TheVerge</a>、<a href="https://techcrunch.com/2024/04/29/openai-inks-strategic-tie-up-with-uks-financial-times-including-content-use/" rel="noopener" target="_blank">Techcrunch</a></p>
 ]]></content:encoded>
-<pubDate>Mon, 29 Apr 2024 08:31:51 GMT</pubDate>
 <pubDate>Mon, 29 Apr 2024 08:31:51 GMT</pubDate>
 </item>
 <item>
@@ -20,7 +45,6 @@
 <link>https://t.me/AppleNuts/1951</link>
 <guid>https://t.me/AppleNuts/1951</guid>
 <content:encoded><![CDATA[
-
 <div class="rsshub-quote"><blockquote>
                                     <p><a href="https://t.me/AppleNuts/1950"><b> Apple Nuts</b>:</a></p>
                                     <p><small>WWDC24 定档  WWDC24 将在北京时间 6 月 11 日凌晨召开。</small></p>
@@ -28,9 +52,7 @@
                                 </blockquote></div><p>仔细观察的话，可以发现本次宣传画是的双 W 写法是 VVV 的方式<br /><br />猜猜暗示什么 <span class="emoji">😼</span></p>
 ]]></content:encoded>
 <pubDate>Wed, 27 Mar 2024 03:09:25 GMT</pubDate>
-<pubDate>Wed, 27 Mar 2024 03:09:25 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 #GitHub情报 #iOS 老司机 iOS 周报 2024-04-29 这周份的 iOS Markdown 周报，适合爱好者和 iOS 开发人员，每周为大家带来最新的 iOS 新闻资讯，开发信息 �...</title>
 <link>https://t.me/NewlearnerChannel/12728</link>
@@ -9212,24 +9234,6 @@
 <p><b>韩国军方拟在2030年前发射约60颗小型微型侦察卫星</b><br /><br />据韩国军方多名消息人士27日透露，军方正在推进在2030年前研制发射50至60颗小型和微型侦察卫星的计划。据消息，韩军计划通过“425项目”争取在2025年前成功研发5颗中型侦察卫星，之后再研制发射10至20颗小卫星和40多颗微卫星，从而把侦察卫星重访周期缩到30分钟以内。中型侦察卫星 (重量800至1000千克) 将由美国“猎鹰9”号运载火箭携带发射，小卫星 (重量500千克以下) 和微卫星 (重量100千克以下) 则将由韩国自研固体燃料运载火箭携带发射。据悉，小型和微型侦察卫星分别于2026年至2028年和2028年至2030年发射升空。<br /><br />—— <a href="https://m-cn.yna.co.kr/view/ACK20240327001900881?input=tw" rel="noopener" target="_blank">韩联社</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 27 Mar 2024 04:36:48 GMT</pubDate>
-</item>
-<item>
-<title>🖼 #iOS #macOS #APP 🗺️ Facades：一份属于 Apple 产品爱好者的寻宝地图 🔗 Web | App Store ℹ️ 关于 Facades - 由曾推出 Bento、BitMaps 等产品的 Mi...</title>
-<link>https://t.me/NewlearnerChannel/12589</link>
-<guid>https://t.me/NewlearnerChannel/12589</guid>
-<content:encoded><![CDATA[
-<p><a href="https://t.me/NewlearnerChannel/12589?q=%23iOS">#iOS</a> <a href="https://t.me/NewlearnerChannel/12589?q=%23macOS">#macOS</a> <a href="https://t.me/NewlearnerChannel/12589?q=%23APP">#APP</a> <br /><br /><span class="emoji">🗺️</span>&nbsp;<b>Facades：一份属于 Apple 产品爱好者的寻宝地图</b><br /><br /><span class="emoji">🔗</span>&nbsp;<a href="https://departmentmap.store/facades" rel="noopener" target="_blank">Web |</a>&nbsp;<a href="https://apps.apple.com/app/id6443868157" rel="noopener" target="_blank">App Store</a>&nbsp;<br /><br /><span class="emoji">ℹ️</span>&nbsp;<b>关于 Facades</b><br /><br />- 由曾推出 <a href="https://apps.apple.com/app/id1672652751" rel="noopener" target="_blank">Bento、</a><a href="https://apps.apple.com/app/id6477943497" rel="noopener" target="_blank">BitMaps</a>&nbsp;等产品的 <a href="https://departmentmap.store/" rel="noopener" target="_blank">Michael Steeber</a>&nbsp;打造的一款 Apple Store 零售店探索指南 App；<br />- 完全免费。「Facades 是一本带你深入了解心仪 Apple Store 的实用指南，让你浏览、发现并收藏超过 500 家零售店目录」；<br />- 大小仅 7 MB，提供 iPhone、iPad、Mac、Vision 版本，支持运行在 iOS / iPadOS 17.0、macOS 14.0、visionOS 1.0 及更高版本上。<br /><br /><span class="emoji">✨</span>&nbsp;<b>功能亮点</b><br /><br />- 收录自 2001 年 5 月 19 日以来的每家 Apple Store，并支持通过门店特色、设计风格、地理位置、开业年份等规则进行筛选；<br />- 当访问一座拥有多家 Apple Store 的城市时，可将希望到访的门店添加进愿望清单，并在地图上快速规划路线；<br />- 记录去过的每一家 Apple Store，并为每次到访添加文字记录、保存成图片（Visit Receipts），除此之外，所有的到访记录也能以 CSV 表格、图片的形式分享。<br /><br /><span class="emoji">👀</span>&nbsp;<b>我的看法</b><br /><br />相信对于大部分 Apple 产品爱好者来说，Apple Store 是一个每当路过都会造访的地方，哪怕并无添新的计划，也忍不住进店把玩一番。9ToMac 的前撰稿人 Steeber 则干脆为此做了一本「图鉴」——Facades，为各位作「寻宝地图」及「百科全书」之用。<br /><br /><span class="emoji">📁</span>&nbsp;本文首发于 Humanitech <a href="https://t.me/humanitech" rel="noopener" target="_blank">频道</a>&nbsp;，图文版见 <a href="https://www.xiaohongshu.com/explore/65faed25000000000d00d4df" rel="noopener" target="_blank">小红书</a>&nbsp;。<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/XUXBIPm0i8zBJ8hO7tHOltmQAEVQmG_EJa9i4rLNzzhDbv0zlWG8b2ux77nl22oV2CbD2w8OQCoImZxq7a9uVMMyAq8FJC1AcZh1gOiDyQh6kf7HAX-n2qtPufi8SaIUQrY8JwBGxfohukayECswHJIl2RQUg42M6GDZl3ORgq8TjDj_Frfob1NvYNhIdfAElTozFsxRVVZSZplesTicNqFi4kSoUYk-lUFdSee3mLTKRxRWxsnAsK48F1jsVJODYfpCKkKUBwO27zeOywKpWmBLs_QXqzevE_A2nJ1ndWWnPecO_8auSkKMbuV9FIdmtN0XVaMBhsxGBQ6Pv34CBg.jpg" />
-]]></content:encoded>
-<pubDate>Wed, 27 Mar 2024 04:00:00 GMT</pubDate>
-</item>
-<item>
-<title>AI 正在创造极具风味的未来啤酒 研究员首先测量了 250 种啤酒的 226 种化学特性，包括常见的酿造参数，如酒精含量、异 α 酸、pH、糖浓度以及 200 多种风味化合...</title>
-<link>https://t.me/xhqcankao/9107</link>
-<guid>https://t.me/xhqcankao/9107</guid>
-<content:encoded><![CDATA[
-<p><b>AI 正在创造极具风味的未来啤酒</b><br /><br />研究员首先测量了&nbsp;250 种啤酒的 226 种化学特性，包括常见的酿造参数，如酒精含量、异 α 酸、pH、糖浓度以及 200 多种风味化合物。接着让不同的品酒师对 50 种感官属性进行定量评估 (95% 结果一致)。最后从酒类评分网站收集了超过 180000 条消费者评论。<br /><br />通过这些数据，研究员训练了 10 个不同的机器学习模型。这些模型可以识别化学特征、风味和消费者认知之间的复杂联系，并根据化学特征准确预测复杂的食品特征和消费者的欣赏程度，添加这些意想不到的化合物将会产生全新的"爆款"饮料。这项研究为开发具有卓越风味的新型定制食品奠定了基础。<br /><br />—— <a href="https://www.nature.com/articles/s41467-024-46346-0" rel="noopener" target="_blank">Nature</a></p>
-]]></content:encoded>
-<pubDate>Wed, 27 Mar 2024 03:48:51 GMT</pubDate>
 </item>
 </channel>
 </rss>

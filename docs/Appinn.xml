@@ -4,18 +4,16 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>❓ #问题求助 有没有在singlefile保存前全部展开知乎所有回答和所有评论的脚本？ https://meta.appinn.net/t/topic/55912</title>
 <link>https://t.me/appinnfeed/10481</link>
 <guid>https://t.me/appinnfeed/10481</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10481?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />有没有在singlefile保存前全部展开知乎所有回答和所有评论的脚本？<br /><br /><a href="https://meta.appinn.net/t/topic/55912" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/55912</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/55912">有没有在singlefile保存前全部展开知乎所有回答和所有评论的脚本？</a></b><br /><p>知乎现在不能用waybackmarchine做archive了，只好用singlefile  目前遇到的问题是评论要点个按钮才能全部展开，而且页面是翻到底部才加载下一页</p><img src="https://cdn4.cdn-telegram.org/file/Hx7zmt974Qvid4fJZSBTwqR0SUk9V7y6aBqvnhauMZsB72PmXfivQ7RU70FEnSydTvNBckMe4GVjl_IQtE1vGUtdjurW9UBJN74-huLczZQfHq6mdCF8s7cFYE4suk6dUlV2AtLQRmSZ7WJAbWm-5EOrirm-zCixx117CNjiY6xOUPlsuwzH6a7RgZxdTSJQ7UC6qjEsqU_jN79589LlnSzqryE0KdJIVIftASLzGO4R-q_EWZxkjh5mfoWIaW3BGPV1CW1Al_iw9ITHMXRjh4KIqk3qh0f8zP_Y8p0e3ERVROCul2g3A8t-7vO_HpuzsNqN28tmrpNecsp0mgOgSA.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Wed, 01 May 2024 18:08:01 GMT</pubDate>
-<pubDate>Wed, 01 May 2024 18:08:01 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 求老照片修复软件或AI修复工具 https://meta.appinn.net/t/topic/55911</title>
 <link>https://t.me/appinnfeed/10480</link>
@@ -9014,15 +9012,6 @@
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9434?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />有什么方式可以记录使用dns解析的结果呢<br /><br /><a href="https://meta.appinn.net/t/topic/52093" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/52093</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/52093">有什么方式可以记录使用dns解析的结果呢</a></b><br /><p>比如，用114作为dns，我想知道这个dns对我每个域名请求的解析结果，该用什么工具或者如何操作？</p><img src="https://cdn4.cdn-telegram.org/file/D4sDovDQMVM9b2ARzTdGuFvqSHLvCfLKWeXB9_LuGuw8qoEGbteYMykkzEJ7gVAwNnc4e6rAcR4lUn1eoayGEzbmle3vnKjjScqM1UqEcAIGc-w3OWDfXdxGi2RMhzJc8CY22m1naVOWu5D40vakS30Q3nocqE8jGFSI8niQ5yOHP15_am4ozK4jU7ysclB_VZs9ma7vM3lK7l9bBWiy2CasXqMb04aCyWCzdvkILVzj-7XVW29VsVvom80xgQL3838BHR63xltWvYKHfAMzA1TV_oK_c2MXfDDW7gDjZcMWz3N_PzIQGI8XvpZkK7o_WJ-7Yb3RPIoTx61HRVmpEA.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Sat, 27 Jan 2024 08:04:01 GMT</pubDate>
-</item>
-<item>
-<title>❓ #问题求助 求能清理 AppData 下 Local 和 Roaming 中各种无用文件的工具 https://meta.appinn.net/t/topic/52090</title>
-<link>https://t.me/appinnfeed/9433</link>
-<guid>https://t.me/appinnfeed/9433</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9433?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />求能清理 AppData 下 Local 和 Roaming 中各种无用文件的工具<br /><br /><a href="https://meta.appinn.net/t/topic/52090" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/52090</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/52090">求能清理 AppData 下 Local 和 Roaming 中各种无用文件的工具</a></b><br /><p>最近清理 C 盘，WizTree 扫了以下发现 Local 无拓展名文件高达 8G+，几乎全是 electron 应用的 Cache 贡献的。有没有定向删除这种缓存和临时文件的工具？  这才是刚重装系统半年的量。</p><img src="https://cdn4.cdn-telegram.org/file/p6GLWhLuCAs6Ar2erTZ0wTAf0RpH_b15smQj6YgZkvrELb5x6yTUO8EKh0vW26e8ckNwKo9hGfTK-Kxx1_B8uNIwzhbwxYpVEmdfkKWpeTuwLp8JRfqu7W98tbYrH9xgBqXnnUas-txIxWX7uFxWLRkM981OFt8d1pLbmwCGEPVSSRyYj0EkbF9Z29GzCv7e9cg3bPSr34hdZA5wfiUWBocnqLRRzEQNE8Lxq_OAopTsqcJVwY3XF7cUvpl8ZYvS_JKTklm0nXgiN1PDszEJf4bkGRzyaqYQXsN_SnnvRPajsFHhJi65qa3133dKzOVp5ledPU8-K0mjlkaCXRCSjw.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Sat, 27 Jan 2024 05:20:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

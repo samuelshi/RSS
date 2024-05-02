@@ -5,17 +5,26 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>华为向 Optica 基金会的研究竞赛提供资助 中国华为技术有限公司正在通过位于美国华盛顿的 Optica 基金会资助包括哈佛大学在内的美国大学的尖端研究。据文件和知...</title>
+<link>https://t.me/xhqcankao/9997</link>
+<guid>https://t.me/xhqcankao/9997</guid>
+<content:encoded><![CDATA[
+
+<p><b>华为向 Optica 基金会的研究竞赛提供资助</b><br /><br />中国华为技术有限公司正在通过位于美国华盛顿的 Optica 基金会资助包括哈佛大学在内的美国大学的尖端研究。据文件和知情人士透露，华为公司是该研究竞赛的唯一资助者，这项竞赛自2022年成立以来已颁发了数百万美元的奖金，并吸引了来自世界各地科学家的数百份提案，其中包括那些已禁止其研究人员与该公司合作的美国顶尖大学的科学家。这项竞赛由 Optica 基金会管理，该基金会是非营利专业协会美国光学学会的一个分支机构，其成员对光学的研究为通信、生物医学诊断和激光等技术奠定了基础。尽管华为公司过去几年被美国制裁，但华为公司仍保持了在资助国际研究方面的领先地位。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-05-02/huawei-secretly-backs-us-based-research-with-millions-in-prizes-through-dc-group" rel="noopener" target="_blank">彭博社</a></p>
+]]></content:encoded>
+<pubDate>Thu, 02 May 2024 10:37:32 GMT</pubDate>
+<pubDate>Thu, 02 May 2024 10:37:32 GMT</pubDate>
+</item>
+
+<item>
 <title>🖼 更多 Spotify 免费用户现在需要为歌词付费 Spotify 早在去年9月份开始针对部分免费用户测试歌词显示每月次数限制，并鼓励免费用户升级到 Premium 套餐。该...</title>
 <link>https://t.me/xhqcankao/9996</link>
 <guid>https://t.me/xhqcankao/9996</guid>
 <content:encoded><![CDATA[
-
 <p><b>更多 Spotify 免费用户现在需要为歌词付费</b><br /><br />Spotify 早在去年9月份开始针对部分免费用户测试歌词显示每月次数限制，并鼓励免费用户升级到 Premium 套餐。该变化现在似乎正在广泛推出，因为过去几天许多免费用户都在抱怨此事。虽然从商业角度来看，将歌词功能锁定在付费墙后面是有意义的。但为了推动更多用户订阅 Spotify Premium，针对免费套餐的限制正逐渐使该服务变得难以使用。<br /><br />—— <a href="https://www.androidauthority.com/spotify-premium-lyrics-3439096/" rel="noopener" target="_blank">Androidauthority</a></p><img src="https://cdn5.cdn-telegram.org/file/rOxnf2Ygcp9W0S4NW-4TYh5Tew3ySdk7YewZQYZxTyPTVPPp53tVi9kYyMop7LzfnsVpU0BB9qyc6ir-B0-9__AX-q2tHxB9sOPc97WYt721-8bNHACp_LTtRsfD1o-ldYn225M1E6ts4598Ee7ZNlMAS-Ig_znY_ndHoxxfrtAbtu5fABMER9wbXzFy-DsNwnAbB1uXwBclLDkGiTEahkX7W0Xj4IIx59ZjpGa34PBkPcQCw-O4ewRmYdVaZr6Xg5UN-ai5FhFj14hWcNLswRkBS6a9yNjYA-ATC7vj68LfYzVEUAbGegHLy28YtrOfkIBS7_Kh4LVxp2Z-rlIKoA.jpg" />
 ]]></content:encoded>
 <pubDate>Thu, 02 May 2024 09:18:21 GMT</pubDate>
-<pubDate>Thu, 02 May 2024 09:18:21 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 三星的 Good Lock 应用现已在谷歌 Play 商店上架 三星令人印象深刻的 One UI 定制套件 Good Lock 现已在谷歌 Play 商店上架。在此前，Good Lock 及其模块仅...</title>
 <link>https://t.me/xhqcankao/9994</link>
@@ -9210,15 +9219,6 @@
 <p><b>广泛使用的 Linux 实用程序中发现的后门会破坏加密的 SSH 连接</b><br /><br />研究人员在压缩工具中发现了一个恶意后门，该后门已进入广泛使用的 Linux 发行版，包括来自 Red Hat 和 Debian 的发行版。<br /><br />据发现该压缩实用程序的开发人员 Andres Freund称，名为xz Utils 的压缩实用程序在 5.6.0 和 5.6.1 版本中引入了恶意代码。目前还没有关于这些版本被合并到主要 Linux 发行版的任何生产版本中的已知报告，但Red Hat和Debian都报告说，最近发布的 Beta 版本至少使用了一个后门版本，特别是在 Fedora 40 和 Fedora Rawhide 和 Debian 中测试、不稳定和实验分布。Arch Linux 的稳定版本也受到影响。然而，该发行版并未在生产系统中使用。<br /><br />由于该后门是在 xz Utils 的恶意版本添加到 Linux 生产版本之前就被发现的，因此“它并没有真正影响现实世界中的任何人”，安全公司 Analygence 的高级漏洞分析师 Will Dormann 在接受在线采访时表示。“但这只是因为坏演员的马虎行为导致它很早就被发现了。如果没有被发现，这对世界来说将是灾难性的。”<br /><br />—— <a href="https://arstechnica.com/security/2024/03/backdoor-found-in-widely-used-linux-utility-breaks-encrypted-ssh-connections/" rel="noopener" target="_blank">arstechnica</a></p>
 ]]></content:encoded>
 <pubDate>Sat, 30 Mar 2024 03:47:42 GMT</pubDate>
-</item>
-<item>
-<title>美国爱荷华州化肥泄漏导致60英里河流中几乎所有鱼类死亡 美国官员称，本月爱荷华州发生的化肥泄漏事件导致两州60英里长的河流中大部分水生生物灭绝，造成约78.9...</title>
-<link>https://t.me/xhqcankao/9190</link>
-<guid>https://t.me/xhqcankao/9190</guid>
-<content:encoded><![CDATA[
-<p><b>美国爱荷华州化肥泄漏导致60英里河流中几乎所有鱼类死亡</b><br /><br />美国官员称，本月爱荷华州发生的化肥泄漏事件导致两州60英里长的河流中大部分水生生物灭绝，造成约78.9万条鱼死亡。密苏里州的一位官员在调查了损失情况后表示，爱荷华州西南部尼什纳博特纳河的河岸上布满了鱼的尸体，透过河水可以看到死鱼。爱荷华州官员表示，此次鱼群死亡事件起因是爱荷华州西南部雷德奥克的农业企业 NEW Cooperative 的一个储罐阀门在一个周末被打开。爱荷华州自然资源部于3月11日获悉泄漏事件，本周表示，26.5万加仑液氮肥料泄漏到排水沟和东尼什纳博特纳河中，该河流入尼什纳博特纳河，然后流入密苏里河。<br /><br />—— <a href="https://www.nytimes.com/2024/03/29/us/iowa-spill-fish-kill.html" rel="noopener" target="_blank">纽约时报</a></p>
-]]></content:encoded>
-<pubDate>Sat, 30 Mar 2024 01:41:05 GMT</pubDate>
 </item>
 </channel>
 </rss>

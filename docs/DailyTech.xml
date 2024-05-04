@@ -5,17 +5,26 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>苹果财季销售额下降，因iphone及中国业务持续低迷 苹果公司的财季收入在过去六个财季中第五次下降，受到iPhone销售下滑和来自中国智能手机竞争对手的新竞争拖累...</title>
+<link>https://t.me/xhqcankao/10036</link>
+<guid>https://t.me/xhqcankao/10036</guid>
+<content:encoded><![CDATA[
+
+<p><b>苹果财季销售额下降，因iphone及中国业务持续低迷</b><br /><br />苹果公司的财季收入在过去六个财季中第五次下降，受到iPhone销售下滑和来自中国智能手机竞争对手的新竞争拖累。尽管如此，苹果公司股价在盘后交易中仍上涨了逾7%，该公司授权回购1,100亿美元股票，并暗示当前财季的收入将实现增长。此外，虽然截至3月当季销售额和利润均有所下降，但表现略好于分析师的预期。<br /><br />中国本土领军企业华为自从重新进入高端手机领域以来，发展势头迅猛。根据Counterpoint Research的数据，华为在中国的智能手机销量比上年增长近70%，而苹果公司的销量则下降了19%。苹果公司首席财务官Luca Maestri在接受采访时说：“中国是世界上竞争最激烈的市场，我们对我们的地位有信心。”<br /><br />—— <a href="https://cn.wsj.com/articles/%E8%8B%B9%E6%9E%9C%E8%B4%A2%E5%AD%A3%E9%94%80%E5%94%AE%E9%A2%9D%E4%B8%8B%E9%99%8D-%E5%9B%A0iphone%E5%8F%8A%E4%B8%AD%E5%9B%BD%E4%B8%9A%E5%8A%A1%E6%8C%81%E7%BB%AD%E4%BD%8E%E8%BF%B7-7abc117a" rel="noopener" target="_blank">华尔街日报</a></p>
+]]></content:encoded>
+<pubDate>Sat, 04 May 2024 03:52:29 GMT</pubDate>
+<pubDate>Sat, 04 May 2024 03:52:29 GMT</pubDate>
+</item>
+
+<item>
 <title>苹果 Vision 标准版头显将于2024年10月定型 华尔街见闻从供应链独家获悉，苹果 Vision 标准版头显 (Vision Pro 的大众版) 将于今年10月定型：重量将是 Vision Pr...</title>
 <link>https://t.me/xhqcankao/10035</link>
 <guid>https://t.me/xhqcankao/10035</guid>
 <content:encoded><![CDATA[
-
 <p><b>苹果 Vision 标准版头显将于2024年10月定型</b><br /><br />华尔街见闻从供应链独家获悉，苹果 Vision 标准版头显 (Vision Pro 的大众版) 将于今年10月定型：重量将是 Vision Pro 的2/3约400克，供应链将按千万量级准备。Vision 标准版原定于2025年秋季 (约9月) 发布，现在苹果可能将之提前至2025年6月发布。<br /><br />—— <a href="https://wallstreetcn.com/livenews/2701450" rel="noopener" target="_blank">华尔街见闻</a></p>
 ]]></content:encoded>
 <pubDate>Sat, 04 May 2024 02:43:20 GMT</pubDate>
-<pubDate>Sat, 04 May 2024 02:43:20 GMT</pubDate>
 </item>
-
 <item>
 <title>比尔·盖茨仍在幕后积极参与微软的运营 自 2021 年以来，在被指控对女性员工有不当行为后，盖茨在公开场合几乎完全退出了微软的视野。事实上，《商业内幕》了解...</title>
 <link>https://t.me/xhqcankao/10034</link>
@@ -9218,15 +9227,6 @@
 <p><a href="https://t.me/NewlearnerChannel/12612?q=%23Python%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A">#Python潮流周刊</a> <br /><br /><span class="emoji">🐬</span><span class="emoji">🐬</span><span class="emoji">🐬</span>&nbsp; <a href="https://pythoncat.top/posts/2024-03-30-weekly" rel="noopener" target="_blank">第 44 期</a>&nbsp; <span class="emoji">🐬</span><span class="emoji">🐬</span><span class="emoji">🐬</span><br /><br /><b>特别提醒：</b>赠书 5 本《明解Python算法与数据结构》，详情见原文<br /><br /><span class="emoji">🦄</span>文章&amp;教程 <br /><br />① 蒙特利尔效应：为什么编程语言需要有风格沙皇<br />② 去中心化的边缘计算平台<br />③ 设计一个纯 Python Web 框架<br />④ 修复 PyPy 增量 GC 中的 一个 bug<br />⑤ 复活 PyMiniRacer，Python 中的 V8<br />⑥ Python 与 Javascript 进行数据通信<br />⑦ 更适合慢函数调用的 Python 缓存实现<br />⑧ 使用 Collectfasta 加速 Django 的 collectstatic 命令<br />⑨ 用原生 Python 扩展和 Dispatch 实现分布式协程<br />⑩ 使用 Numba 加快代码速度的错误方法<br />⑪ 关于优化 Django 系统检查框架<br />⑫ 大数定律，为什么去赌场是个坏主意<br /><br /><span class="emoji">🐿️</span>项目&amp;资源 <br /><br />① mojo：Mojo 编程语言开源了<br />② Suno-API：基于 Python 和 FastAPI 的非官方 Suno API<br />③ blacken-docs：对文档中的 Python 代码块上运行“black”<br />④ pathvalidate：用于规范化/验证字符串，例如文件名和文件路径<br />⑤ LunarLink: 基于HttpRunner + Django + Vue + Element UI 的接口自动化测试平台<br />⑥ leaping：轻量级的 Python 测试调试器<br />⑦ keepyourmouthshut：用 AI 能力录制播客<br />⑧ MoneyPrinterTurbo：利用AI大模型，一键生成高清短视频<br />⑨ AIOS：LLM 代理操作系统<br />⑩ LaVague：使用大行动模型框架实现自动化<br />⑪ Gmeek：一个完全使用 Github 的博客框架<br />⑫ posthog：提供开源产品分析、会话录制、功能标记和 A/B 测试<br />⑬ devika：Cognition AI 的 Devin 的开源替代品<br /><br /><span class="emoji">👀</span><a href="https://pythoncat.top/posts/2024-03-30-weekly" rel="noopener" target="_blank">阅读全文</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="emoji">🤝</span><a href="https://github.com/chinesehuazhou/python-weekly" rel="noopener" target="_blank">欢迎投稿</a><br /><br /><span class="emoji">🐱</span>频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/C7X7bFv6GXWRBFyZkLSXncKQN-hNLk32t7WQwEjLixhbgNEtuPLRbGmYl6EL6nIKdPEqlWXaYunVNLbiTrHtLWPiKU-qZrNyTpaDieu9DYkbnPvgaoA2m97CUUTZshSBHCcIK0sBlw7TroHaZpKU8sOg3RF4BIfNmxhCt861cuMjjRtt16uP_80voiJueX5gGxm63067s0zU0cb5hPWapkFZaIYKKETwor3j1Z1FFr4dNI4Uo4BW9AQbeGRaI-In9QBWaLq2bEbQlbxjFH8dkefAz-LYyMcSSsY95rJ2Y3k9CvYbkx1BImB7ocubvlpokCfeNmV6EUs0Vo8jwNt2gg.jpg" />
 ]]></content:encoded>
 <pubDate>Mon, 01 Apr 2024 10:00:47 GMT</pubDate>
-</item>
-<item>
-<title>微软将在反垄断审查中在全球范围内拆分 Teams 和 Office 美国科技巨头微软周一表示，将在全球范围内将其聊天和视频应用 Teams 与 Office 产品分拆销售与运营。六...</title>
-<link>https://t.me/xhqcankao/9216</link>
-<guid>https://t.me/xhqcankao/9216</guid>
-<content:encoded><![CDATA[
-<p><b>微软将在反垄断审查中在全球范围内拆分 Teams 和 Office</b><br /><br />美国科技巨头微软周一表示，将在全球范围内将其聊天和视频应用 Teams 与 Office 产品分拆销售与运营。六个月前，微软在欧洲已将这两款产品分拆运营，以避免欧盟可能的反垄断罚款。自 Salesforce 旗下的团队协作沟通工具 Slack 于2020年投诉以来，欧盟委员会一直在调查微软捆绑 Office 和 Teams 的行为。微软发言人表示：“为了确保客户的知情权，我们正在将去年采取的将 Teams 从欧洲经济区和瑞士的 Microsoft 365 和 Office 365 中分离出来的措施，推广到全球客户。”“这样做也是为了回应欧盟委员会的反馈意见，在跨国公司希望实现跨区域采购标准化时提供更大的灵活性。”从4月1日开始，客户可以继续当前的许可协议、续订、更新或切换到新产品与服务。<br /><br />—— <a href="https://www.reuters.com/technology/microsoft-separate-teams-office-globally-amid-antitrust-scrutiny-2024-04-01/" rel="noopener" target="_blank">路透社</a></p>
-]]></content:encoded>
-<pubDate>Mon, 01 Apr 2024 08:33:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

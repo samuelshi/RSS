@@ -4,6 +4,28 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+<item>
+<title>Threads为所有用户推出了引用控制功能 社交平台 Threads 用户现在可以更好地控制谁可以引用他们的帖子。这是对一个功能的完善，该功能已允许 Threads 用户限制谁...</title>
+<link>https://t.me/xhqcankao/10044</link>
+<guid>https://t.me/xhqcankao/10044</guid>
+<content:encoded><![CDATA[
+
+<p><b>Threads为所有用户推出了引用控制功能</b><br /><br />社交平台 Threads 用户现在可以更好地控制谁可以引用他们的帖子。这是对一个功能的完善，该功能已允许 Threads 用户限制谁可以回复他们的帖子。该社交平台上个月概述了其引用控制的计划，昨晚 Instagram 负责人<a href="https://www.threads.net/@mosseri/post/C6hmM-DvK_R/?xmt=AQGzQRbClB4LkvnCwZAs8rc89qCvrEysDlFxHJTjtOitag" rel="noopener" target="_blank">亚当·莫塞里</a>宣布该功能对所有用户可用。莫塞里写道：“我希望这将有助于保持 Threads 成为一个更积极的地方，并让人们更多地控制他们的体验。” <br /><br />—— <a href="https://techcrunch.com/2024/05/04/farewell-dunks-threads-launches-quote-controls-for-all-users/" rel="noopener" target="_blank">Techcrunch</a></p>
+]]></content:encoded>
+<pubDate>Sat, 04 May 2024 21:11:13 GMT</pubDate>
+<pubDate>Sat, 04 May 2024 21:11:13 GMT</pubDate>
+</item>
+<item>
+<title>安卓DNS流量可能会在VPN隧道外泄漏 瑞典 VPN 运营商 Mullvad 发文称，最近注意到安卓上存在多个潜在的 DNS 泄漏问题。这些泄漏源自安卓本身的漏洞，并且仅影响某...</title>
+<link>https://t.me/xhqcankao/10042</link>
+<guid>https://t.me/xhqcankao/10042</guid>
+<content:encoded><![CDATA[
+
+<p><b>安卓DNS流量可能会在VPN隧道外泄漏</b><br /><br />瑞典 VPN 运营商 Mullvad 发文称，最近注意到安卓上存在多个潜在的 DNS 泄漏问题。这些泄漏源自安卓本身的漏洞，并且仅影响某些应用。已确定安卓操作系统可能泄漏 DNS 流量的场景：<i>1、如果 VPN 处于活动状态且未配置任何 DNS 服务器。2、当 VPN 应用重新配置隧道或被强制停止/崩溃的短暂时间内。</i>泄漏似乎仅限于直接调用C函数 getaddrinfo。使用这种方式解析域名的应用会在上述情况下造成泄漏。尚未发现仅使用 Android API (如 DnsResolver) 的应用造成的泄漏。无论是否启用“始终开启的 VPN”和“屏蔽未使用 VPN 的所有连接”，上述情况均适用，这不是预期的操作系统行为，因此应在操作系统的上游进行修复。并确认这些泄漏发生在多个版本的安卓中，包括最新版本安卓14。<br /><br />—— <a href="https://mullvad.net/en/blog/dns-traffic-can-leak-outside-the-vpn-tunnel-on-android" rel="noopener" target="_blank">Mullvad</a></p>
+]]></content:encoded>
+<pubDate>Sat, 04 May 2024 12:16:19 GMT</pubDate>
+<pubDate>Sat, 04 May 2024 12:16:19 GMT</pubDate>
+</item>
 
 <item>
 <title>🖼 SpaceX 公布舱外活动宇航服 在不早于 2024 年夏季发射的北极星黎明任务中，乘组人员将从龙飞船执行 SpaceX 的首次舱外活动，这也是有史以来第一次商业宇航...</title>

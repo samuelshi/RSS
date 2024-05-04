@@ -4,15 +4,14 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+
 <item>
 <title>Threads为所有用户推出了引用控制功能 社交平台 Threads 用户现在可以更好地控制谁可以引用他们的帖子。这是对一个功能的完善，该功能已允许 Threads 用户限制谁...</title>
 <link>https://t.me/xhqcankao/10044</link>
 <guid>https://t.me/xhqcankao/10044</guid>
 <content:encoded><![CDATA[
-
 <p><b>Threads为所有用户推出了引用控制功能</b><br /><br />社交平台 Threads 用户现在可以更好地控制谁可以引用他们的帖子。这是对一个功能的完善，该功能已允许 Threads 用户限制谁可以回复他们的帖子。该社交平台上个月概述了其引用控制的计划，昨晚 Instagram 负责人<a href="https://www.threads.net/@mosseri/post/C6hmM-DvK_R/?xmt=AQGzQRbClB4LkvnCwZAs8rc89qCvrEysDlFxHJTjtOitag" rel="noopener" target="_blank">亚当·莫塞里</a>宣布该功能对所有用户可用。莫塞里写道：“我希望这将有助于保持 Threads 成为一个更积极的地方，并让人们更多地控制他们的体验。” <br /><br />—— <a href="https://techcrunch.com/2024/05/04/farewell-dunks-threads-launches-quote-controls-for-all-users/" rel="noopener" target="_blank">Techcrunch</a></p>
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 21:11:13 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 21:11:13 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +19,10 @@
 <link>https://t.me/xhqcankao/10042</link>
 <guid>https://t.me/xhqcankao/10042</guid>
 <content:encoded><![CDATA[
-
 <p><b>安卓DNS流量可能会在VPN隧道外泄漏</b><br /><br />瑞典 VPN 运营商 Mullvad 发文称，最近注意到安卓上存在多个潜在的 DNS 泄漏问题。这些泄漏源自安卓本身的漏洞，并且仅影响某些应用。已确定安卓操作系统可能泄漏 DNS 流量的场景：<i>1、如果 VPN 处于活动状态且未配置任何 DNS 服务器。2、当 VPN 应用重新配置隧道或被强制停止/崩溃的短暂时间内。</i>泄漏似乎仅限于直接调用C函数 getaddrinfo。使用这种方式解析域名的应用会在上述情况下造成泄漏。尚未发现仅使用 Android API (如 DnsResolver) 的应用造成的泄漏。无论是否启用“始终开启的 VPN”和“屏蔽未使用 VPN 的所有连接”，上述情况均适用，这不是预期的操作系统行为，因此应在操作系统的上游进行修复。并确认这些泄漏发生在多个版本的安卓中，包括最新版本安卓14。<br /><br />—— <a href="https://mullvad.net/en/blog/dns-traffic-can-leak-outside-the-vpn-tunnel-on-android" rel="noopener" target="_blank">Mullvad</a></p>
 ]]></content:encoded>
 <pubDate>Sat, 04 May 2024 12:16:19 GMT</pubDate>
-<pubDate>Sat, 04 May 2024 12:16:19 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 SpaceX 公布舱外活动宇航服 在不早于 2024 年夏季发射的北极星黎明任务中，乘组人员将从龙飞船执行 SpaceX 的首次舱外活动，这也是有史以来第一次商业宇航...</title>
 <link>https://t.me/xhqcankao/10043</link>
@@ -9216,24 +9212,6 @@
 <p><b>三星的语音助手 Bixby 即将获得生成式人工智能升级</b><br /><br />三星公司的一位高管告诉 CNBC，三星可能会在其语音助手 Bixby 中添加生成人工智能技术，以增强其设备的吸引力。Bixby 于2017年随三星 Galaxy S8 智能手机推出。该软件提供了多种功能，包括实时翻译或餐厅推荐。但语音助手的对话性通常较弱，只能依靠用户提问并获得答案。三星执行副总裁崔元俊向 CNBC 表示：“我认为我们必须重新定义 Bixby 的角色，以便 Bixby 能够配备生成式人工智能”，并补充说它需要“更智能”并且能够更自然地进行交流。<br /><br />—— <a href="https://www.theverge.com/2024/4/1/24118253/samsung-galaxy-ai-bixby-voice-assistant" rel="noopener" target="_blank">CNBC</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 02 Apr 2024 00:24:53 GMT</pubDate>
-</item>
-<item>
-<title>游戏《铁拳》系列制作人原田胜弘不断收到添加华夫饼屋战斗舞台的请求 华夫饼屋是美国的一家连锁餐厅，这家24/7连锁店不仅是您可以在凌晨3点订购早餐组合的地方，...</title>
-<link>https://t.me/xhqcankao/9224</link>
-<guid>https://t.me/xhqcankao/9224</guid>
-<content:encoded><![CDATA[
-<p><b>游戏《铁拳》系列制作人原田胜弘不断收到添加华夫饼屋战斗舞台的请求</b><br /><br />华夫饼屋是美国的一家连锁餐厅，这家24/7连锁店不仅是您可以在凌晨3点订购早餐组合的地方，而且众所周知，不守规矩的顾客会随时准备打架 (有时还扔椅子)。鉴于其因深夜斗殴而臭名昭著的场景，它正是《铁拳8》等格斗游戏的完美背景——显然，粉丝们一直在询问。这导致铁拳系列制作人原田胜弘本周末在 X 上发帖询问华夫饼屋的请求是怎么回事？<br /><br />“好吧，我只会问一次这个请求，”原田胜弘发帖说。 “为什么有些社区向我发送‘华夫饼屋’的请求？请务必解释请求的依据，包括原始故事、历史和背景。我期待有更多了解的人给出解释。”原田又转贴回复感谢大家的解释并表示理解，但接着说：“餐厅既拥有商标权，也拥有餐厅的经营权，所以如果连锁餐厅总部拒绝接受我的提议，就不会实现。”<br /><br />—— <a href="https://twitter.com/Harada_TEKKEN/status/1774054319094153644" rel="noopener" target="_blank">原田胜弘</a>、<a href="https://www.engadget.com/tekken-director-apparently-keeps-getting-requests-to-add-a-waffle-house-stage-211913943.html" rel="noopener" target="_blank">Engadget</a></p>
-]]></content:encoded>
-<pubDate>Mon, 01 Apr 2024 23:16:33 GMT</pubDate>
-</item>
-<item>
-<title>谷歌同意销毁以无痕模式收集的浏览数据 根据当地时间4月1日向加州联邦法院提交的集体诉讼和解协议，谷歌同意销毁或取消识别用户在隐私浏览“无痕模式”下收集的...</title>
-<link>https://t.me/xhqcankao/9223</link>
-<guid>https://t.me/xhqcankao/9223</guid>
-<content:encoded><![CDATA[
-<p><b>谷歌同意销毁以无痕模式收集的浏览数据</b><br /><br />根据当地时间4月1日向加州联邦法院提交的集体诉讼和解协议，谷歌同意销毁或取消识别用户在隐私浏览“无痕模式”下收集的数十亿条网络浏览数据记录。和解协议还将要求该公司更多地披露其如何以无痕模式收集信息，并对未来的数据收集施加限制。如果得到加州联邦法官的批准，该和解协议可能适用于1.36亿谷歌用户。2020 年的诉讼是由谷歌账户持有人提起的，他们指控该公司通过无痕浏览功能非法跟踪他们的行为。根据周一的法庭文件，该提案价值50亿美元，计算方法是确定谷歌已存储并将被迫销毁的数据以及将被阻止收集的数据的价值。谷歌需要处理2023年12月及更早时间在无痕浏览模式下收集的数据。任何未彻底删除的数据都必须进行去标识化处理。<br /><br />—— <a href="https://www.theverge.com/2024/4/1/24117929/google-incognito-browsing-data-delete-class-action-settlement" rel="noopener" target="_blank">Theverge</a></p>
-]]></content:encoded>
-<pubDate>Mon, 01 Apr 2024 22:42:21 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -5,17 +5,37 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>微软发现影响多款数亿次下载量安卓应用的安全漏洞 微软在 Android 应用中发现了与自定义意图 (Custom Intents) 有关的漏洞，并将其命名为“Dirty Stream”，该漏...</title>
+<link>https://t.me/xhqcankao/10054</link>
+<guid>https://t.me/xhqcankao/10054</guid>
+<content:encoded><![CDATA[
+
+<p><b>微软发现影响多款数亿次下载量安卓应用的安全漏洞</b><br /><br />微软在 Android 应用中发现了与自定义意图 (Custom Intents) 有关的漏洞，并将其命名为“Dirty Stream”，该漏洞可使恶意应用覆盖易受攻击的应用主目录中的文件。此漏洞模式的影响包括任意代码执行和身份凭证窃取。该漏洞与用于安卓应用间共享数据的内容提供程序系统有关，如果开发者没有正确实现该功能，就会产生暴露应用中的敏感数据。<br /><br />微软在谷歌 Play 商店中发现了多个存在漏洞的应用，这些应用的安装量累积超过40亿次，其中至少有四个应用的安装量超过5亿。其中被发现的应用示例是小米文件管理器 (安装量超过10亿) 和 WPS Office (安装量超过5亿)。截至2024年2月，微软已通知的应用开发者均已发布修复程序，并建议用户保持其设备和已安装的应用为最新版本。<br /><br />—— <a href="https://www.microsoft.com/en-us/security/blog/2024/05/01/dirty-stream-attack-discovering-and-mitigating-a-common-vulnerability-pattern-in-android-apps/" rel="noopener" target="_blank">微软博客</a></p>
+]]></content:encoded>
+<pubDate>Sun, 05 May 2024 09:49:36 GMT</pubDate>
+<pubDate>Sun, 05 May 2024 09:49:36 GMT</pubDate>
+</item>
+<item>
+<title>韩美商定合作应对中国光伏产能外溢问题 韩国和美国政府近期就合作应对“中国光伏产业过剩产能外溢至全球”问题达成共识，以保护两国太阳能发电产业免受其影响。...</title>
+<link>https://t.me/xhqcankao/10053</link>
+<guid>https://t.me/xhqcankao/10053</guid>
+<content:encoded><![CDATA[
+
+<p><b>韩美商定合作应对中国光伏产能外溢问题</b><br /><br />韩国和美国政府近期就合作应对“中国光伏产业过剩产能外溢至全球”问题达成共识，以保护两国太阳能发电产业免受其影响。韩国外交部经济外交协调官金希相3日接受韩联社电话采访时表示，韩美两国政府上月30日在美国休斯敦举行的第十次韩美能源安全对话中探讨了合作应对中国光伏产业产能过剩问题的方案。会上初步研讨了两种方案，一是各国采取进口管制应对中方过度补贴；另一种是韩美合作研发技术实力更强的产品。美国财政部部长珍妮特·耶伦上月访华期间也曾对中方在电动汽车和太阳能电池板等领域的巨额补贴问题表示关切。<br /><br />—— <a href="https://m-cn.yna.co.kr/view/ACK20240505000200881?input=tw" rel="noopener" target="_blank">韩联社</a></p>
+]]></content:encoded>
+<pubDate>Sun, 05 May 2024 09:17:47 GMT</pubDate>
+<pubDate>Sun, 05 May 2024 09:17:47 GMT</pubDate>
+</item>
+
+<item>
 <title>美国军事基地发现假冒的思科网络设备 美国司法部5月2日宣布，佛罗里达州一名居民因经营销售假冒思科网络设备而被判处78个月监禁。Onur Aksoy 在2013年8月至2022...</title>
 <link>https://t.me/xhqcankao/10052</link>
 <guid>https://t.me/xhqcankao/10052</guid>
 <content:encoded><![CDATA[
-
 <p><b>美国军事基地发现假冒的思科网络设备</b><br /><br />美国司法部5月2日宣布，佛罗里达州一名居民因经营销售假冒思科网络设备而被判处78个月监禁。Onur Aksoy 在2013年8月至2022年4月期间，利用至少19家公司和大约15家亚马逊店面、10家eBay店面和直销店来销售数以万计的计算机网络设备。他从中国和香港进口产品，并使用假冒的思科包装、标签和文件将其作为全新正品出售。通过售假他获得了1亿美元的收入。据政府官员称，他向国防部出售了假冒的思科产品，这些产品在许多军事基地和各种系统中被发现。2023年6月5日 Onur Aksoy 承认两项起诉罪名，指控他与他人合谋贩运假货、邮件欺诈和电汇欺诈。对他的判决于5月1日宣判，包括向思科支付1亿美元赔偿金、4万美元罚款和三年监督释放。<br /><br />—— <a href="https://arstechnica.com/information-technology/2024/05/counterfeit-cisco-gear-ended-up-in-us-military-bases-used-in-combat-operations/" rel="noopener" target="_blank">Arstechnica</a></p>
 ]]></content:encoded>
 <pubDate>Sun, 05 May 2024 08:13:13 GMT</pubDate>
-<pubDate>Sun, 05 May 2024 08:13:13 GMT</pubDate>
 </item>
-
 <item>
 <title>自动驾驶激光雷达制造商 Luminar 裁员20% 当地时间5月3日，自动驾驶汽车激光雷达传感器制造商 Luminar 宣布，计划裁员20%，同时对其生产流程进行更广泛的重组。...</title>
 <link>https://t.me/xhqcankao/10051</link>
@@ -9214,15 +9234,6 @@
 <p>2024年4月2日<br /><span class="emoji">🌍</span>资讯快读<br />1、重庆一女子砍伤婆婆后将3岁幼子抛下楼，已被警方控制<br /><a href="https://www.jiemian.com/article/10991299.html" rel="noopener" target="_blank">https://www.jiemian.com/article/10991299.html</a><br />2、商务部在重庆召开外资企业圆桌会<br /><a href="https://www.jiemian.com/article/10994496.html" rel="noopener" target="_blank">https://www.jiemian.com/article/10994496.html</a><br />3、人身保险产品2024版“负面清单”下发，新增禁令指向“费率及精算”<br /><a href="https://www.jiemian.com/article/10992741.html" rel="noopener" target="_blank">https://www.jiemian.com/article/10992741.html</a><br />4、外交部介绍达苏恐袭善后处理：5名遇难中国同胞遗体回国<br /><a href="https://www.jiemian.com/article/10992363.html" rel="noopener" target="_blank">https://www.jiemian.com/article/10992363.html</a><br />5、外交部：中日专家就福岛核污染水排海开展了建设性的技术对话<br /><a href="https://www.jiemian.com/article/10992235.html" rel="noopener" target="_blank">https://www.jiemian.com/article/10992235.html</a><br />6、中缅警方首次在缅北木姐地区开展联合打击行动，352名中国籍电信网络诈骗犯罪嫌疑人被移交我方<br /><a href="https://www.jiemian.com/article/10990793.html" rel="noopener" target="_blank">https://www.jiemian.com/article/10990793.html</a><br /><br /><span class="emoji">👬</span>即刻镇小报<br />1、如何有效听播客？分享我的播客管理流<br /><a href="https://m.okjike.com/originalPosts/65fb8bf1164d89e6019b33d7" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/65fb8bf1164d89e6019b33d7</a><br />2、一个在 GitHub 上霸榜三天的小项目（已清仓）<br /><a href="https://m.okjike.com/originalPosts/65f8ec0b9185c305d13ca331" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/65f8ec0b9185c305d13ca331</a><br />3、普通人的破局指南<br /><a href="https://m.okjike.com/originalPosts/65e5dbfe4ca8842da70a1059" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/65e5dbfe4ca8842da70a1059</a><br />4、苹果推出零基础 Swift 编程入门课程<br /><a href="https://m.okjike.com/originalPosts/660a57b9a922aa28d088db67" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/660a57b9a922aa28d088db67</a><br />5、贵州美食的小推荐<br /><a href="https://m.okjike.com/originalPosts/660a373e9185c305d17d1de3" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/660a373e9185c305d17d1de3</a><br /><br />今日即刻镇小报内容来自 @有趣的自律大人 <a href="https://t.me/khtsu7" target="_blank">@khtsu7</a> <a href="https://t.me/ChatV" target="_blank">@ChatV</a> @PriceTag应用推荐 @栗子圆 ，感谢以上即友的创作与分享。 <a href="https://t.me/jike_collection/9706?q=%23%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88">#一觉醒来发生了什么</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 02 Apr 2024 03:09:24 GMT</pubDate>
-</item>
-<item>
-<title>苹果 Vision Pro 头显美国单周销量约1.5万台 华尔街见闻从供应链独家获悉，受益于门店的高转化率和应用内容的快速增长，苹果 Vision Pro 头显在美国市场实现单周...</title>
-<link>https://t.me/xhqcankao/9233</link>
-<guid>https://t.me/xhqcankao/9233</guid>
-<content:encoded><![CDATA[
-<p><b>苹果 Vision Pro 头显美国单周销量约1.5万台</b><br /><br />华尔街见闻从供应链独家获悉，受益于门店的高转化率和应用内容的快速增长，苹果 Vision Pro 头显在美国市场实现单周销量约1.5万台。截至3月31日，美国市场 Vision Pro 头显总销量约37万台+。<br /><br />—— <a href="https://wallstreetcn.com/livenews/2653330" rel="noopener" target="_blank">华尔街见闻</a></p>
-]]></content:encoded>
-<pubDate>Tue, 02 Apr 2024 03:59:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

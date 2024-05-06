@@ -4,15 +4,14 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+
 <item>
 <title>英特尔将在日本和美国实现半导体后端流程自动化 英特尔将为芯片制造自动化组建日本团队，并与欧姆龙、雅马哈电机以及材料供应商 Resonac 和信越化学等14家日本企...</title>
 <link>https://t.me/xhqcankao/10086</link>
 <guid>https://t.me/xhqcankao/10086</guid>
 <content:encoded><![CDATA[
-
 <p><b>英特尔将在日本和美国实现半导体后端流程自动化</b><br /><br />英特尔将为芯片制造自动化组建日本团队，并与欧姆龙、雅马哈电机以及材料供应商 Resonac 和信越化学等14家日本企业将在日本联合开发制造技术，将半导体封装等“后端工序”实现自动化。该集团预计将投资数百亿日元，目标是到 2028 年实现技术。在未来几年，该集团将建立一条全自动化生产线，并使生产工艺标准化。当前全球38%的后端工艺产能在中国，而芯片客户要求降低供应链的中国风险。<br /><br />—— <a href="https://www.nikkei.com/article/DGXZQOUC266L30W4A420C2000000/" rel="noopener" target="_blank">日经新闻</a></p>
 ]]></content:encoded>
-<pubDate>Mon, 06 May 2024 16:54:47 GMT</pubDate>
 <pubDate>Mon, 06 May 2024 16:54:47 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +19,10 @@
 <link>https://t.me/xhqcankao/10085</link>
 <guid>https://t.me/xhqcankao/10085</guid>
 <content:encoded><![CDATA[
-
 <p><b>微软将推出自研新大模型 MAI-1 与谷歌和 OpenAI 竞争</b><br /><br />微软正在公司内部训练一个新的人工智能模型，其规模足以与谷歌、Anthropic，乃至 OpenAI 的先进模型相抗衡。新模型内部代号为 MAI-1 ，由前谷歌 AI 负责人 Mustafa Suleyman 领导开发。 Suleyman 曾担任初创公司 Inflection 的 CEO，今年 3 月微软以 6.5 亿美元收购该公司后加入微软。<br /><br />MAI-1 可能会基于 Inflection 的训练数据与技术，但据两名知情的微软员工透露，新模型与 Inflection 公司原有的模型 Pi 是两个不同项目。相关人士称，MAI-1 的规模“远大于”微软此前训练过的任何开源模型，将有约 5,000 亿参数，意味着它将需要更强算力及训练数据，同时也会具备更高的成本。<br /><br />—— <a href="https://www.theinformation.com/articles/meet-mai-1-microsoft-readies-new-ai-model-to-compete-with-google-openai" rel="noopener" target="_blank">The Information</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 06 May 2024 16:17:04 GMT</pubDate>
-<pubDate>Mon, 06 May 2024 16:17:04 GMT</pubDate>
 </item>
-
 <item>
 <title>Stack Overflow 与 OpenAI 签署协议 为其模型提供数据 人工智能公司 OpenAI 正在与程序员问答平台 Stack Overflow 合作，以提高其生成式人工智能模型在编程相关...</title>
 <link>https://t.me/xhqcankao/10084</link>
@@ -9216,24 +9212,6 @@
 <p><b>马斯克旗下社交平台 𝕏 任命新的首席安全官</b><br /><br />马斯克的社交媒体平台 𝕏 任命了一位新的首席安全官。目前该公司试图与广告客户重建关系。目前任职 𝕏 的 Kylie McRoberts 将成为新的首席安全官，她之前的工作内容包括平台安全和暴力或裸露等敏感内容的标签。她将监督负责维护 𝕏 的政策和开发新功能的团队。该公司还表示，已同时聘请 Yale Cohen 为品牌安全和广告客户解决方案主管。<br /><br />—— <a href="https://cn.wsj.com/articles/%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84x%E5%B9%B3%E5%8F%B0%E4%BB%BB%E5%91%BD%E6%96%B0%E9%A6%96%E5%B8%AD%E5%AE%89%E5%85%A8%E5%AE%98-f1993b3e" rel="noopener" target="_blank">华尔街日报</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 03 Apr 2024 08:40:13 GMT</pubDate>
-</item>
-<item>
-<title>中国在芯片技术方面悄然取得进展，以减少对先进 ASML 光刻机的依赖 据知情人士透露，中国的北方华创科技集团上个月开始研发光刻系统，中国本土的半导体设备制造...</title>
-<link>https://t.me/xhqcankao/9265</link>
-<guid>https://t.me/xhqcankao/9265</guid>
-<content:encoded><![CDATA[
-<p><b>中国在芯片技术方面悄然取得进展，以减少对先进 ASML 光刻机的依赖</b><br /><br />据知情人士透露，中国的北方华创科技集团上个月开始研发光刻系统，中国本土的半导体设备制造商试图在不使用荷兰巨头阿斯麦最新设备的情况下生产先进芯片，这一突破可能会挫败美国遏制中国芯片制造能力的企图。这些努力涉及中国半导体供应链的多个参与者，并取得了初步研究进展，华为技术有限公司上个月申请的一项专利披露了一种称为“自对准四重图案化 (SAQP)”的技术，该技术通过在硅片上多次蚀刻线路，提高晶体管密度，进而增强芯片性能。这项专利结合了先进的蚀刻和光刻技术，“可以提高电路图案设计的自由度”。彭博社曾报道，利用 SAQP 技术，使用深紫外光刻 (DUV) 设备中国就可以制造出5纳米级芯片，而无需只有阿斯麦尔才能供应的更先进的极紫外 (EUV) 设备。知情人士透露，北方华创去年12月就拟定计划，要于今年3月开始研发光刻系统。北方华创发言人表示，报道的消息并不准确，但没有进一步说明详情。<br /><br />—— <a href="https://www.scmp.com/tech/tech-war/article/3257442/tech-war-china-quietly-making-progress-new-techniques-cut-reliance-advanced-asml-lithography" rel="noopener" target="_blank">南华早报</a></p>
-]]></content:encoded>
-<pubDate>Wed, 03 Apr 2024 08:15:45 GMT</pubDate>
-</item>
-<item>
-<title>🖼 #Games #News 🎯 2024 年 3 月新游盘点 Markon Review | sspai 📝 栏目简介：从作者个人角度出发，挑选一些本月新发售的游戏作品/内容做简要介绍、评论...</title>
-<link>https://t.me/NewlearnerChannel/12621</link>
-<guid>https://t.me/NewlearnerChannel/12621</guid>
-<content:encoded><![CDATA[
-<p><a href="https://t.me/NewlearnerChannel/12621?q=%23Games">#Games</a> <a href="https://t.me/NewlearnerChannel/12621?q=%23News">#News</a><br /><br /><span class="emoji">🎯</span> <b>2024 年 3 月新游盘点<br /><br /></b><a href="https://markonreview.com/2024/03/31/2024-mar-upcoming-games/" rel="noopener" target="_blank">Markon Review</a> | <a href="https://sspai.com/post/87696" rel="noopener" target="_blank">sspai</a> <br /><br /><span class="emoji">📝</span> <b>栏目简介：</b>从作者个人角度出发，挑选一些本月新发售的游戏作品/内容做简要介绍、评论，不保证收录覆盖面、<b>并不意味着推荐</b>，涵盖了各主流平台，期待能有勾起你兴趣的内容或探讨。另，欢迎光临笔者的<b>游戏行业新闻推送频道</b> <a href="https://t.me/markonreview_express" target="_blank">@markonreview_express</a>。<br /><br /><span class="emoji">📡</span> <b>一类关注：<br /><br /></b>• <b>《龙之信条 2》（Dragon’s Dogma 2）</b>：「这个游戏里的每一处都是有意为之。」——伊津野英昭，《龙之信条 2》游戏总监<br />• <b>《浪人崛起》（Rise of the Rōnin）</b>：Team NINJA 全新力作，聚焦日本幕府时代末期、西方强行打开日本国门背景下，德川幕府、倒幕派之间的冲突。<br />• <b>《Open Roads》</b>：在摆脱了开发团队内部的毒性环境影响后，创作者们以 The Open Roads Team 之名为我们献上本作。<br />• <b>《Llamasoft: The Jeff Minter Story》</b>：聚焦英国游戏设计师 Jeff Minter 及其多部作品的交互式纪录片，来自《The Making of Karateka》开发商 Digital Eclipse。<br /><br /><span class="emoji">💡</span> <b>更多瞩目</b>：<br /><br />• 《史力奇奇遇记：姆明山谷之歌》（Snufkin: Melody of Moominvalley）<br />• 《SUMMERHOUSE》<br />• 《碧姬公主 表演时刻！》（Princess Peach: Showtime!）<br />• 《噩梦初醒》（REVEIL）<br />• 《Bulwark: Falconeer Chronicles》<br />• 《Death of a Wish》<br />• 《有氧拳击 feat. 初音未来 -和 Miku 一起锻炼-》（Fitness Boxing feat. Hatsune Miku）<br /><br /><b><span class="emoji">🕹</span> 最近玩过：</b> <br /><br />• 《TOEM》<br />• 《超阈限空间》（Superliminal）<br />• 《毁灭战士》（Doom, 1993）<br />• 《Steve Reich's Clapping Music》<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/rRB7VCxn3IGUYlfkxRXcFHkvbjAy9VYNH5roAd2IaGHYEZ4ejbKHiLnKrlwTW_JfCzAWCGR4eDiXNMA_2Oq3zQxqWxsbFtSHF_st0g5gevZzXyRJBVKC9Ztmb6KjLp4ElFcrndgZAvPQwkMFh4Y2yYXeyCO9oQuG91XOiMv-wbDb-l4xTuilxKFOmmv48-4BUyqCcyXyey7Vf-8xvXOiBBpVfCZUen-cI5EFA0slpkyXAfWjS5xnEGq6BJWvHUN9mRszWaf6uUvhFwmW5CjNo-H0GBCDMoY-je2mcqyB2oTKSELPWlJ2bP30Bkyv0-GLZn9JTKHfgqEyPJdrp65aAA.jpg" />
-]]></content:encoded>
-<pubDate>Wed, 03 Apr 2024 07:03:55 GMT</pubDate>
 </item>
 </channel>
 </rss>

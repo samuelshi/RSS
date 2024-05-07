@@ -5,14 +5,35 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>研究人员发现针对 VPN 应用的高危攻击方法 研究人员设计了一种针对几乎所有虚拟私人网络应用的攻击，迫使应用在加密隧道之外发送和接收部分或全部流量。研究人员...</title>
+<link>https://t.me/xhqcankao/10099</link>
+<guid>https://t.me/xhqcankao/10099</guid>
+<content:encoded><![CDATA[
+
+<p><b>研究人员发现针对 VPN 应用的高危攻击方法</b><br /><br />研究人员设计了一种针对几乎所有虚拟私人网络应用的攻击，迫使应用在加密隧道之外发送和接收部分或全部流量。研究人员将攻击命名为“TunnelVision”。研究人员认为，当连接到这种恶意网络时，所有 VPN 应用都会受到影响，除非用户的 VPN 在 Linux 或安卓上运行，否则无法防止此类攻击。攻击技术可能早在2002年就已存在，而且可能已在野利用。<br /><br />这种攻击通过操纵为试图连接到本地网络的设备分配 IP 地址的 DHCP 服务器来实现。称为 Option 121 的设置允许 DHCP 服务器覆盖默认的路由规则，将 VPN 流量通过启动加密隧道的本地 IP 地址发送。通过使用 Option 121 将 VPN 流量路由到 DHCP 服务器，攻击将数据转发到 DHCP 服务器本身。安卓是唯一完全使 VPN 应用免受攻击的操作系统，因为它没有实现 Option 121。<br /><br />—— <a href="https://arstechnica.com/security/2024/05/novel-attack-against-virtually-all-vpn-apps-neuters-their-entire-purpose/" rel="noopener" target="_blank">Ars Technica</a></p>
+]]></content:encoded>
+<pubDate>Tue, 07 May 2024 03:45:13 GMT</pubDate>
+<pubDate>Tue, 07 May 2024 03:45:13 GMT</pubDate>
+</item>
+<item>
+<title>欧盟批准日本制铁收购美国钢铁 欧盟委员会5月6日宣布已批准日本制铁公司收购美巨头美国钢铁。欧委会以简化的程序进行审查，认为两家公司对该地区市场的影响力有...</title>
+<link>https://t.me/xhqcankao/10098</link>
+<guid>https://t.me/xhqcankao/10098</guid>
+<content:encoded><![CDATA[
+
+<p><b>欧盟批准日本制铁收购美国钢铁</b><br /><br />欧盟委员会5月6日宣布已批准日本制铁公司收购美巨头美国钢铁。欧委会以简化的程序进行审查，认为两家公司对该地区市场的影响力有限，“不产生竞争方面的忧虑”。日本制铁去年12月宣布将美国钢铁收为全资子公司。美国钢铁工人联合会 (USW) 反对这一决定，担心会造成失业。美国总统拜登也表明了支持 USW 的立场。<br /><br />—— <a href="https://china.kyodonews.net/news/2024/05/6cd6508f200d.html" rel="noopener" target="_blank">共同社</a></p>
+]]></content:encoded>
+<pubDate>Tue, 07 May 2024 03:15:19 GMT</pubDate>
+<pubDate>Tue, 07 May 2024 03:15:19 GMT</pubDate>
+</item>
+
+<item>
 <title>西工大仿“萤火虫”通信无人机取得新突破 近日，西北工业大学光电与智能研究院联合中国电信人工智能研究院在仿“萤火虫”通信无人机方面的研究取得进展：李学龙...</title>
 <link>https://t.me/xhqcankao/10097</link>
 <guid>https://t.me/xhqcankao/10097</guid>
 <content:encoded><![CDATA[
-
 <p><b>西工大仿“萤火虫”通信无人机取得新突破</b><br /><br />近日，西北工业大学光电与智能研究院联合中国电信人工智能研究院在仿“萤火虫”通信无人机方面的研究取得进展：李学龙教授团队通过模仿萤火虫的交流方式，利用光通信和智能信息处理等技术，实现了电磁干扰下无人机间的信息传递。李学龙研究团队以萤火虫通过闪光传递信息的方式为灵感，研究提出仿“萤火虫”通信无人机，为无人机集群发展提供了创新解决思路：通过无人机上的照明设备发出光信号，并在另一架无人机利用光电传感器捕获光信号、进行智能分析，实现像萤火虫闪烁交流一样的短距离信息传递，完成无人机间基于光链路的协同飞行。由于光信号的传输不受电磁环境的影响，不会产生互调和互扰，抗干扰能力强。此外，其发射功率较低，也几乎不产生热量，适合承载于能量受限的小型无人机。<br /><br />—— <a href="https://mp.weixin.qq.com/s?__biz=MzA4NDE1MjgwNw==&amp;amp;mid=2649810306&amp;amp;idx=1&amp;amp;sn=14c6834a876e8e63cf0279c4c9cc041d" rel="noopener" target="_blank">西北工业大学</a></p>
 ]]></content:encoded>
-<pubDate>Tue, 07 May 2024 02:42:14 GMT</pubDate>
 <pubDate>Tue, 07 May 2024 02:42:14 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +41,10 @@
 <link>https://t.me/xhqcankao/10096</link>
 <guid>https://t.me/xhqcankao/10096</guid>
 <content:encoded><![CDATA[
-
 <p><b>苹果公司正开发数据中心人工智能芯片</b><br /><br />苹果公司已经在开发自己的可以在数据中心服务器中运行人工智能软件的芯片，有望为该公司在 AI 军备竞赛中带来一项关键优势。过去十年间，苹果公司积极推进 iPhone、iPad、Apple Watch 和 Mac 电脑的自研芯片设计。知情人士透露，这个服务器项目内部代号为苹果数据中心芯片 (ACDC) 项目，将利用苹果在自研芯片方面的实力开发服务器芯片。ACDC 项目已经进行了几年，目前还不清楚这款新芯片将于何时亮相，甚至是否会亮相。苹果公司此前承诺将在6月份的全球开发者大会上发布多款新的人工智能产品和相关消息。<br /><br />—— <a href="https://cn.wsj.com/amp/articles/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E6%AD%A3%E5%BC%80%E5%8F%91%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83ai%E8%8A%AF%E7%89%87-615b52b7" rel="noopener" target="_blank">华尔街日报</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 07 May 2024 02:17:24 GMT</pubDate>
-<pubDate>Tue, 07 May 2024 02:17:24 GMT</pubDate>
 </item>
-
 <item>
 <title>↩️ 波音 Starliner 飞船首次载人试飞因氧气安全阀问题被取消 北京时间5月7日早间，联合发射联盟 (ULA) 发布公告，ULA 发射总监 Tom Heter III 已向发射团队作...</title>
 <link>https://t.me/xhqcankao/10095</link>
@@ -9216,24 +9234,6 @@
 <p><b>德国互联网服务提供商屏蔽 Sci-Hub</b><br /><br />作为与版权所有者自愿协议的一部分，德国的互联网服务提供商屏蔽了一系列结构性侵权网站。该黑名单最近又增加了一个与出版商相关的目标：流行的影子图书馆 Sci-Hub。经过德国互联网版权信息交换中心 (CUII) 审查，该阻止请求是合理的。Sci-Hub 由哈萨克斯坦计算机程序员亚历山德拉·埃尔巴金创建，提供数百万份学术出版物的免费访问。CUII 发布的封锁令经过大量修改，没有提及阻止请求的申请人姓名，仅提及其是“国际科学、技术和医学出版商协会 (STM)”的成员。<br /><br />—— <a href="https://torrentfreak.com/publisher-reinforces-paywall-with-sci-hub-blockade-in-germany-240403/" rel="noopener" target="_blank">TorrentFreak</a>、<a href="https://zh.wikipedia.org/wiki/Sci-Hub" rel="noopener" target="_blank">维基百科</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 03 Apr 2024 14:59:01 GMT</pubDate>
-</item>
-<item>
-<title>吉卜力工作室影片《你想活出怎样的人生》在中国上映 吉卜力工作室影片《你想活出怎样的人生》3日在中国大陆上映。排片覆盖全国至少1万家影院。据中国的电影APP数...</title>
-<link>https://t.me/xhqcankao/9276</link>
-<guid>https://t.me/xhqcankao/9276</guid>
-<content:encoded><![CDATA[
-<p><b>吉卜力工作室影片《你想活出怎样的人生》在中国上映</b><br /><br />吉卜力工作室影片《你想活出怎样的人生》3日在中国大陆上映。排片覆盖全国至少1万家影院。据中国的电影APP数据，截至当天傍晚，含预售的票房收入已突破1亿元。该片3月获得了美国奥斯卡最佳动画长片奖，在中国的关注度也持续升温。在微博的视频中，吉卜力工作室制片铃木敏夫称，这部电影“包含着对深爱吉卜力粉丝们的感谢”。<br /><br />—— <a href="https://china.kyodonews.net/news/2024/04/db88b35cebf7.html" rel="noopener" target="_blank">共同社</a></p>
-]]></content:encoded>
-<pubDate>Wed, 03 Apr 2024 14:38:01 GMT</pubDate>
-</item>
-<item>
-<title>微软和 Quantinuum 详细介绍了量子纠错方面的突破性进展 微软和 Quantinuum 今天宣布在量子纠错方面取得重大突破。利用 Quantinuum 的离子阱硬件和微软的新量子...</title>
-<link>https://t.me/xhqcankao/9275</link>
-<guid>https://t.me/xhqcankao/9275</guid>
-<content:encoded><![CDATA[
-<p><b>微软和 Quantinuum 详细介绍了量子纠错方面的突破性进展</b><br /><br />微软和 Quantinuum 今天宣布在量子纠错方面取得重大突破。利用 Quantinuum 的离子阱硬件和微软的新量子比特虚拟化系统，该团队能够无差错地运行 14,000 多次实验。这个新系统还允许团队检查逻辑量子比特并纠正遇到的任何错误，而不会破坏逻辑量子比特，可靠性比单纯的物理量子比特提升了800倍。Microsoft 和 Quantinuum表示，他们仅用30个物理量子比特就创建了四个高度可靠的逻辑量子比特。量子研究人员通常参考大约 100 个可靠量子比特作为击败传统超级计算机所需的数量，微软并未透露何时可以达到这一里程碑。<br /><br />—— <a href="https://techcrunch.com/2024/04/03/microsoft-and-quantinuum-say-theyve-ushered-in-the-next-era-of-quantum-computing/" rel="noopener" target="_blank">TechCrunch</a>，<a href="https://cloudblogs.microsoft.com/quantum/2024/04/03/how-microsoft-and-quantinuum-achieved-reliable-quantum-computing/" rel="noopener" target="_blank">微软</a></p>
-]]></content:encoded>
-<pubDate>Wed, 03 Apr 2024 14:11:03 GMT</pubDate>
 </item>
 </channel>
 </rss>

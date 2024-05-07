@@ -4,6 +4,17 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>🧐 #阅读 记笔记：用 Multipass 在 Windows 上创建 Ubuntu 虚拟机 https://meta.appinn.net/t/topic/56138</title>
+<link>https://t.me/appinnfeed/10539</link>
+<guid>https://t.me/appinnfeed/10539</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">🧐</span> <a href="https://t.me/appinnfeed/10539?q=%23%E9%98%85%E8%AF%BB">#阅读</a><br />记笔记：用 Multipass 在 Windows 上创建 Ubuntu 虚拟机<br /><br /><a href="https://meta.appinn.net/t/topic/56138" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/56138</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/56138">记笔记：用 Multipass 在 Windows 上创建 Ubuntu 虚拟机</a></b><br /><p>由于之前升级失败，导致 Hyper-V 里的 Ubuntu 直接挂掉了。  幸亏是开发机，挂掉就挂掉吧。  于是准备试试 Multipass：https://multipass.run/  这是一个 Ubuntu 自己开发的虚拟机，比用 Hyper-V 从零开始安装系统要简单许多。  安装 Multipass 需要 Hyper-V，然后直接下载安装即可。  创建虚拟机 使用 Windows 的心终端操作：  启动一台 4 核CPU、8G内存、60G 硬盘的虚拟机：  multipass launch -c…</p><img src="https://cdn4.cdn-telegram.org/file/CfoZtCziX7QqYrMTo7Shhj46qam83M3Xpr9hg0E3NEbGw8YJtjTi2WEFbQoLzaULFI8zTn7fI7gkDaS2wsGbonGiTB1l9DoXMgB4wcRtBzHyL_nHDzHJC8T66Qe8UhhOvXnMRNBOlGiIw3wprd4kdOdgqERSeXHGXpIcIdCWY0AviO9CJ8diuwB6i6fkm11VcFOtEjAmdNGg6VDnP1nHUzLc1C6aQ1rDRG_jEjwNUnYqkT3mbgzQR2Hqv_FgN9JGouRNuQq1G0REc5tmd_x9OUSXMWz_Pls0mOtCK8IhtS-wAzTKNSH4lqcW0DpYKWgIPnRJs3E6nL0W1EQVskRCrA.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Tue, 07 May 2024 13:24:01 GMT</pubDate>
+<pubDate>Tue, 07 May 2024 13:24:01 GMT</pubDate>
+</item>
 
 <item>
 <title>📣 #发现频道 【开发者自荐】DVD 播放器 https://meta.appinn.net/t/topic/56133</title>

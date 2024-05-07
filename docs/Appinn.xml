@@ -5,14 +5,24 @@
 <link>https://t.me/s/appinnfeed</link>
 
 <item>
+<title>🖼 由国内开发者开发的著名开源远程控制软件 Rustdesk 目前在官网首页标记警告信息： 警告：你可能被骗了！ 如果你正在和一个你不认识也不信任的人打电话，而...</title>
+<link>https://t.me/appinnfeed/10535</link>
+<guid>https://t.me/appinnfeed/10535</guid>
+<content:encoded><![CDATA[
+
+<p></p><div class="tgme_widget_message_text js-message_text" dir="auto">由国内开发者开发的著名开源远程控制软件 Rustdesk 目前在官网首页标记警告信息：<br /><br />警告：你可能被骗了！<br />如果你正在和一个你不认识也不信任的人打电话，而这个人要求你安装 RustDesk、<br />请不要安装并立即挂断电话。<br />他们很可能是骗子，试图窃取你的钱财或其他私人信息。<br /><br />并且一个“认证官方账号”在<a href="https://www.oschina.net/news/291123" rel="noopener" target="_blank">开源中国发帖</a>称：<br /><br />RustDesk 由于诈骗猖獗，暂停国内服务<br /><br />RustDesk 是一款开源远程桌面软件，然而也被诈骗分子频繁使用。<br /><br />早前我们频繁受到海外警察局的协查邮件，因此我们于半年前在安卓客户端增加了强制的警告窗口，在官网顶部和下载页面置放反诈窗口。再后来，我们决定直接把安卓客户端从应用商店下架，之后基本没有收到过协查邮件。<br /><br />我们在国内并没有架设服务器，一直提倡自建服务，所以公共服务访问速度和用户体验都很差。但是即便如此，诈骗分子依然没有放过。<br /><br />就在昨天，我们收到被诈受害者子女的短信，诈骗分子通过短信链接的方式让老人下载 App，然后实施手机银行的指挥操控，受害者被骗金额巨大，对家庭造成极大的损害，令人痛惜，本人彻夜难眠。经过连夜排查，诈骗分子频繁更坏 VPN, 包括德国，法国，以及阿拉伯地区，最近一个月以来访问国内多个地区，涉及新疆，北京，四川，广州以及吉林。<br /><br />为了进一步应对诈骗，我们暂时决定停止中国地区的服务，如果用户现在通过公共服务器访问国内主机，将会收到被禁止的消息。针对海外，我们也只允许同城访问，未来也会屏蔽掉所有 VPN（等找到合适的数据源）。昨天在排查的时候，发现我们使用的 IP 数据库对国内地区很不准确，所以干脆屏蔽掉全国，反正国内也没服务器，体验也不好。<br /><br />我们深知这么做也是以卵击石，被害者一旦被诈骗分子洗脑，任何警告手段都显得很徒劳，即使不用 RustDesk，也有其他 desk。但是我们依然要做些什么，哪怕对受害者表示深深的歉意。<br /><br />同时希望国内银行业者承担更多的责任，在给老人推销银行 App 的时候，也做好反诈教育。同时我发现国内银行 App 极少屏蔽屏幕共享，希望国内银行 IT 技术上能跟上反诈趋势。未来 RustDesk 会主动检测是否操作银行 App，做出对应正确行为。</div><p></p><img src="https://cdn5.cdn-telegram.org/file/SYPA28FClM_VruGVG4AlFN-1rPa6y7Kz-mfYPt6BvwnrIaDrMwe3LiVH8OVoTPk_WlOa1nTwV6YCF7pvzfUaBgWY4VEU7clO0FUZP8Hpn8Cvat260uQncbH7T81PHX_Xc668EnkbVrQKTG5xmm9cAyVwr4rW_hW4BhF8WDkA2_WjFE7TNLByCDYdFl5OvZBVAm_ZO_yZFTqZV5aEqMcMcWSlYyFLrRteNsKpZrglJI_FSslwFOp0HmimGhxjW1tY031OdF4vUNqdnHAGdRIv3y12EzqhyxH3vkv4IL2FvzHsM8g5FosWcfY5gFKZ7vVv51T5Te6qoPhQ2dyPWhVg8g.jpg" /><img src="https://cdn5.cdn-telegram.org/file/HtRCPlwVaCy2CalCPiFcg4ZqxTwPYtgM_RlQk80MP0sNjjs4GXl74vhf2Do7wR6KENqe4EMBdohcDtP4PM818HUyOFh3sWQBTNcm7LbHkE6gO4l9Ogemed6S8NhzFv3l02WcfQAOdzzvybjO-MV_fHw6mUWJ0u1ebDlGUD4ghqrh7KF3fVoZg8bfpP4P7jeN-EFSjGtZgkbn5DXPEYpHYWoZaceLD6t4fqNUGoobs7aBu2rYbzXDAysQgAX15FcSM2VhkXBEBGsBX6xBpi_YPlnnqfkTGlSZg-bPJAzByt_GJG0otJA7p0UylwbixULoT1j9T8peyZ3Rw5uc64vCgg.jpg" />
+]]></content:encoded>
+<pubDate>Tue, 07 May 2024 07:44:16 GMT</pubDate>
+<pubDate>Tue, 07 May 2024 07:44:16 GMT</pubDate>
+</item>
+
+<item>
 <title>今天过生日， 33 了。没啥成就，有几个自己开发的 App，每个送 1000 个年会员吧 https://meta.appinn.net/t/topic/56086 看成送1000年会员的举个手 😂</title>
 <link>https://t.me/appinnfeed/10534</link>
 <guid>https://t.me/appinnfeed/10534</guid>
 <content:encoded><![CDATA[
-
 <p>今天过生日， 33 了。没啥成就，有几个自己开发的 App，每个送 1000 个年会员吧 <br /><br /><a href="https://meta.appinn.net/t/topic/56086" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/56086</a><br /><br />看成送1000年会员的举个手 <span class="emoji">😂</span></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/56086">今天过生日， 33 了。没啥成就，有几个自己开发的 App，每个送 1000 个年会员吧</a></b><br /><p>画历  下载地址： https://apps.apple.com/app/id6465614830 兑换地址： https://apps.apple.com/redeem?ctx=offercodes&amp;id=6465614830&amp;code=YEARLY  桌面时钟  下载地址： https://apps.apple.com/app/id6474898768 兑换地址： https://apps.apple.com/redeem?ctx=offercodes&amp;id=6474898768&amp;code=YEARLY…</p><img src="https://cdn4.cdn-telegram.org/file/q0K79XedUwLnAotJkyHFgzOui8YvMB67tNQspzBDo_9luveGMWqOmglorTNbITUNgL_jF13HfaPmQ2XcJUW8btG3W0d7jECuyj8eGlAHUGaF9Z9sdOjfRSK-MYLPorJxFPQQ4aenwuOBbp63_a9Q_1_8GmkLB68qAp9bTConChiNYOb38gtj0R9jLCiF6J-bdqJdcaF-z1We-F5670l8GL2Rhyd43_aPPFSgZbUlqWOwMIQFt1FWE-46b1SpzLDrJpmAXY4aCSAIhUKlzjdu9x_4a_Amtv3OI2xExu_tCJ0bigoA_vj3febhQBMLyUb62M6kKXalmrjLJ3lnBNcy0w.jpg" /></blockquote>
 ]]></content:encoded>
-<pubDate>Tue, 07 May 2024 06:57:55 GMT</pubDate>
 <pubDate>Tue, 07 May 2024 06:57:55 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +30,10 @@
 <link>https://t.me/appinnfeed/10533</link>
 <guid>https://t.me/appinnfeed/10533</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">💧</span> <a href="https://t.me/appinnfeed/10533?q=%23%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6">#小众软件</a><br />休息日 – 让 iPhone 在节假日跳过闹钟：基于「快捷指令自动化」跳过休息日，支持中国、日本、新加坡、美国的公共假期日历[iOS]<br /><br /><a href="https://www.appinn.com/leaves-for-iphone/" rel="noopener" target="_blank">https://www.appinn.com/leaves-for-iphone/</a><br /><br /><b>Tags</b>: <a href="https://t.me/appinnfeed/10533?q=%23iPhone">#iPhone</a>, <a href="https://t.me/appinnfeed/10533?q=%23iOS">#iOS</a>, <a href="https://t.me/appinnfeed/10533?q=%23%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4">#快捷指令</a>, <a href="https://t.me/appinnfeed/10533?q=%23%E8%8A%82%E5%81%87%E6%97%A5">#节假日</a>, <a href="https://t.me/appinnfeed/10533?q=%23%E9%97%B9%E9%92%9F">#闹钟</a></p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/leaves-for-iphone/">休息日 - 让 iPhone 在节假日跳过闹钟：基于「快捷指令自动化」跳过休息日，支持中国、日本、新加坡、美国的公共假期日历[iOS] - 小众软件</a></b><br /><p>休息日是一款新鲜的 iPhone、iPad 应用，它通过内置的多个公共假期模板，配合 iOS 快捷指令自动化功能，实现 iPhone 在公共假期跳过闹钟这个需求。让你在假期不会被闹钟叫醒，也不会因为调休而错过闹钟了。@Appinn</p><img src="https://cdn4.cdn-telegram.org/file/pwB0NoVnSmnzffFe9tLKCJSDhz87g6oxKwgopnuM0pePYes79V2NcQg6PP8mK4OhGOqQyh4Bv_-WcNCw0q5wi2xdbLFFRpJIDyrPIZ1k1I9_SKUVgVbTbWA4qqaD6aWGw4xPu-1_JU-3aczJ781E1cQFv6PqU74-D7pRDS3PuVY-Ah8UnmYJO8e2s97ro0ckxyP2gFxvoV2undEBwquWMuEl_aCFFigAfdyNf5WP4Od-3DXXcxysf2ginVuHyzjX-20iF4QAPUTOH8a-iApmFQjwkQOjJUja7lHPICgz32GcUtALmWe5AFZbuXOUvbmcPsMmoIMO4bo303Yz-m5yYw.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Tue, 07 May 2024 06:44:01 GMT</pubDate>
-<pubDate>Tue, 07 May 2024 06:44:01 GMT</pubDate>
 </item>
-
 <item>
 <title>📣 #发现频道 发现一款好用的本地AI笔记软件 https://meta.appinn.net/t/topic/56092</title>
 <link>https://t.me/appinnfeed/10532</link>
@@ -9012,24 +9019,6 @@
 <p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/9483?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />【自荐】自建规则和支持订阅的类AdBlock Chrome 插件<br /><br /><a href="https://meta.appinn.net/t/topic/52236" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/52236</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/52236">【自荐】自建规则和支持订阅的类AdBlock Chrome 插件</a></b><br /><p>AccessHappily（网页清道夫）是一款浏览器插件，隐藏&amp;复制任何你选中的元素，创建自己的规则，去掉浏览网页时各种登录、下载、推广的弹窗的干扰以及在某些受限页面突破不可复制的限制  功能 AccessHappily 是一个运行您创建或订阅的规则集的平台。  这些规则可以实现：   隐藏任何非常困扰您的元素，如登录弹窗、cookie 警告等。 自动展开折叠部分以查看完整文章。 忽略对不安全链接的无用警告并自动跳转到目标位置。 在禁止使用上下文菜单和右键单击的某些受限页面上复制/导出文本。  无内置的…</p><img src="https://cdn4.cdn-telegram.org/file/F28gofp1sYgp75sAlrmMs5pcyOD4VNguehWLJWje76Px6WFoPGprWyWJUIaCicRdjJatjazye6GaRIaSTQD-16cmlWG-1y8YDh6JlYgCF7BPcqPGRNenhw89T0ZTT5M4j9CJihJTEOVtV_kLT0GquB4XNrXhLh74qnJLJOPqwS1GnGBcFmG3C5rUBtrzubAiMytqw1tKpn5HwPjebkj89ZWOZFoqo4xWtEUp76LgVyHigEo8KNt4vEa1aC1B6Hh3w93C9Auxvn1TqIyG7m9jY2sBZG8XXHICMc1MyV4BVLoMsVBxMLA4yKSfIstWu5extdc5xZg9fQp1yEsCc_alJA.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Wed, 31 Jan 2024 09:36:01 GMT</pubDate>
-</item>
-<item>
-<title>📣 #发现频道 自己开发的提取伴奏、提取人声的工具，欢迎试用 https://meta.appinn.net/t/topic/52229</title>
-<link>https://t.me/appinnfeed/9482</link>
-<guid>https://t.me/appinnfeed/9482</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/9482?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />自己开发的提取伴奏、提取人声的工具，欢迎试用<br /><br /><a href="https://meta.appinn.net/t/topic/52229" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/52229</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/52229">自己开发的提取伴奏、提取人声的工具，欢迎试用</a></b><br /><p>一键提取人声、提取伴奏的音轨分离工具  NovaMSS是基于MSS领域最顶级的人工智能算法模型调优后的新一代音乐源分离工具。  访问地址     https://novamss.com  NovaMSS 能做什么   从音频中提取人声    从音频中提取伴奏    提取歌曲中的乐器部分，如：贝斯、鼓点等    NovaMSS 的优点   底层使用MSS领域最顶级的人工智能算法来完成音轨分离    提供多种模型供用户选择以满足不同的需求场景    提供多个文件的批量操作功能    支持mp3,wav,flac…</p><img src="https://cdn4.cdn-telegram.org/file/aTb7oKr4lb0xsUWq-7pPtfAtgmA2jM0Y7mK6_8cG6IzYyOWmWoUV7NOTROev51M-wLZ8lSs_-ODoRH0yarK7TIoYZ3S4eii31yI_T55N2sr_ZwvMANSLeJpjCItPp5x7VV6s6zW279lTJYy-v42NUZqJV1DzkVHmjQb8j0VHC8vRDzTBStO6pO_J6NxDGjW_RmuEAtLv64E9j7wi6XYT2e3NRmM_cIs6K4NPrtO4OtTLrhjpEl_5viHyBybCI48KeO2HH-h5S7Q971Y5pXeGHyds-XGiLFAhoC5gOvmbPOHRkkJl1WZ4vESZ95I392_y_TqIYd_LJ48_K9oa86WD2A.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Wed, 31 Jan 2024 07:40:01 GMT</pubDate>
-</item>
-<item>
-<title>❓ #问题求助 咨询win11的使用技巧 https://meta.appinn.net/t/topic/52228</title>
-<link>https://t.me/appinnfeed/9481</link>
-<guid>https://t.me/appinnfeed/9481</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9481?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />咨询win11的使用技巧<br /><br /><a href="https://meta.appinn.net/t/topic/52228" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/52228</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/52228">咨询win11的使用技巧</a></b><br /><p>自己的房间电脑老是被家人无情关机，以为我忘记关了  求助情况  电脑被手动按下电源键关机后如何让电脑自动重新开机（不借助外购硬件和网络）  网卡Wake up类教程，可以免了，没有这个功能，哈哈哈  谢谢各位指教</p><img src="https://cdn4.cdn-telegram.org/file/F28gofp1sYgp75sAlrmMs5pcyOD4VNguehWLJWje76Px6WFoPGprWyWJUIaCicRdjJatjazye6GaRIaSTQD-16cmlWG-1y8YDh6JlYgCF7BPcqPGRNenhw89T0ZTT5M4j9CJihJTEOVtV_kLT0GquB4XNrXhLh74qnJLJOPqwS1GnGBcFmG3C5rUBtrzubAiMytqw1tKpn5HwPjebkj89ZWOZFoqo4xWtEUp76LgVyHigEo8KNt4vEa1aC1B6Hh3w93C9Auxvn1TqIyG7m9jY2sBZG8XXHICMc1MyV4BVLoMsVBxMLA4yKSfIstWu5extdc5xZg9fQp1yEsCc_alJA.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Wed, 31 Jan 2024 07:32:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

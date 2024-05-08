@@ -5,14 +5,28 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>↩️ 软银正洽谈收购英国AI芯片公司Graphcore 知情人士透露，软银集团正在洽谈收购英国人工智能芯片初创公司 Graphcore Ltd.，后者估值一度达到28亿美元。知情人...</title>
+<link>https://t.me/xhqcankao/10152</link>
+<guid>https://t.me/xhqcankao/10152</guid>
+<content:encoded><![CDATA[
+
+<div class="rsshub-quote"><blockquote>
+                                    <p><a href="https://t.me/xhqcankao/8288"><b>风向旗参考快讯</b>:</a></p>
+                                    
+                                    <p>英国芯片制造商Graphcore寻求出售  英国芯片制造商Graphcore正在​​考虑将其出售给外国所有者。业内消息人士称，Graphcore一直在与大型科技公司讨论潜在的交易，以寻求筹集新资金来弥补巨额亏损。该公司去年表示，在收入下降46%、亏损扩大后，该公司需要获得新的资金。目前尚不清楚任何出售讨论的进展情况，这些讨论可能与独立筹资谈判同时进行。  —— 每日电讯报</p>
+                                </blockquote></div><p><b>软银正洽谈收购英国AI芯片公司Graphcore</b><br /><br />知情人士透露，软银集团正在洽谈收购英国人工智能芯片初创公司 Graphcore Ltd.，后者估值一度达到28亿美元。知情人士表示，两家公司已经进行了几个月的讨论，但近期才进展到更深入的交易谈判阶段。财务条款尚未敲定，谈判仍有破裂的可能，最终协议不会很快达成。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-05-08/softbank-is-said-in-talks-to-buy-troubled-ai-chip-firm-graphcore" rel="noopener" target="_blank">彭博社</a></p>
+]]></content:encoded>
+<pubDate>Wed, 08 May 2024 08:46:02 GMT</pubDate>
+<pubDate>Wed, 08 May 2024 08:46:02 GMT</pubDate>
+</item>
+
+<item>
 <title>🖼 #telegram #Bot #Search 🤖 记一次自留地频道索引 Bot 的重建 四年前，我在开发者 EEYHN 的帮助下，通过 telegram-search 项目实现了频道内容的关键词索...</title>
 <link>https://t.me/NewlearnerChannel/12757</link>
 <guid>https://t.me/NewlearnerChannel/12757</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://t.me/NewlearnerChannel/12757?q=%23telegram">#telegram</a> <a href="https://t.me/NewlearnerChannel/12757?q=%23Bot">#Bot</a> <a href="https://t.me/NewlearnerChannel/12757?q=%23Search">#Search</a><br /><br /><span class="emoji">🤖</span> <b>记一次自留地频道索引 Bot 的重建</b><br /><br />四年前，我在开发者 EEYHN 的帮助下，通过 <a href="https://t.me/NewlearnerChannel/4385" rel="noopener" target="_blank">telegram-search</a> 项目实现了频道内容的关键词索引。而前不久读者告知我机器人已无法使用，我到后端检查后发现 API 已经过时，且项目也许久未更新，只能搁置<br /><br /><span class="emoji">🔍</span> <b>寻找新项目</b><br /><br />由于重建势必繁琐，我几乎忘记了这件事，也不太有动力联系原有开发者改进项目。群友 犬来八荒<span class="emoji">🌸</span> 有一天为我提供了几个项目，在这里表达我的感谢<br /><br />最终我选择了 <a href="https://github.com/SharzyL/tg_searcher" rel="noopener" target="_blank">tg_searcher</a> 这个项目，它不仅支持 Docker 部署，也能够承担起为公众提供对话索引的责任，并且有着不错的结果显示<br /><br /><span class="emoji">📦</span> <b>部署</b><br /><br />由于上一个项目就是通过 Docker 部署的，这次几乎没有遇到任何阻碍，跟着 README 走就可以。文档很详细，无论是 <a href="https://github.com/SharzyL/tg_searcher/blob/master/doc/deploy.md" rel="noopener" target="_blank">部署</a> 还是 <a href="https://github.com/SharzyL/tg_searcher/blob/master/doc/configuration.md" rel="noopener" target="_blank">配置</a> 都有手把手的步骤和注释<br /><br />需要注意的是，如果你只想监听某个频道或者群组，请不要开启 monitor_all: true。配置文件需要手搓，可以先在本地写好后再开始部署<br /><br />此外，群友也提醒我，本项目的本质还是搭建一个 UserBot，如果想要规避官方风控风险，可以开通小号并提供 api_id 和 api_hash<br /><br /><span class="emoji">💡</span> <b>使用</b><br /><br />对于各位读者，大家只需要和 <a href="https://t.me/newlearner_search_bot" target="_blank">@newlearner_search_bot</a> 对话，输入想要检索的关键词即可。更多的搜索语法详见搜索器 Whoosh 的 <a href="https://whoosh.readthedocs.io/en/latest/querylang.html" rel="noopener" target="_blank">官方文档</a><br /><br />对机器人管理者来说，部署好后需要执行 /monitor_chat CHAT... 以及 /download_history CHAT...，这样机器人才会在后端对某频道进行索引、分词并不断监听更新<br /><br /><span class="emoji">❤️</span> <b>一些感想</b><br /><br />没想到距离机器人的部署已经过去了四年，如果不是翻看当年详尽的频道记录，一些细节和努力就会被遗忘<br /><br />有时候看到一个新项目，通过 Telegram 搜索却发现自留地早已经体验过。许多我们自己写过的东西，已经被自己所遗忘。因此，我们需要一个频道索引机器人，让后来的读者自己去发掘<br /><br />所以请大家合理使用这个机器人。本以为自己只需要服务器稳定地运行，但重建项目时，一行行滚动的代码还是给我带来了久违的快乐。代码长久不维护需要推倒重建，但文字讲述的事实就像大树一样矗立在那里、树根深深插入大地<br /><br /><b>这就是记录的力量！</b><br /><br /><span class="emoji">📘</span> 关联阅读：<br /><br /><span class="emoji">1️⃣</span> <a href="https://t.me/NewlearnerChannel/4437" rel="noopener" target="_blank">Telegram 中文搜索方案探索（频道）</a><br /><span class="emoji">2️⃣</span> <a href="https://t.me/NewlearnerChannel/4551" rel="noopener" target="_blank">为什么 Telegram 不能搜寻中文讯息 </a><br /><span class="emoji">3️⃣</span> <a href="https://t.me/NewlearnerChannel/6207" rel="noopener" target="_blank">谈谈我在用的 Telegram 机器人</a><br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/er---JlKlF8f3ZPLPva-l6aAGv8QGsi_ZUM70bJoybMVtV9aK67F4fMcD28-IaPNwhUyE34skYbPjLynvXgAdr1whcmPewhtWGwKnPM5ke-waSOmy23NYUeKEHTSH3mOxxtowhXiZh7Hle8X6jPF2cVP69zl5rjU2qiFuJRhOwUg92nDA_MQvVP2nzS1b52nq9Dm51vJqvlBwZV5wjoh5e-9Fs-hXc22mmUDsrMl7mch2kR97BPW1FeZ0MfIdJjavzre67SANBb9waECdzMWL6823khBEKFjfrUeL86K4S4JzG3vUzur1ANle7tmgJ8WqbG_pgXBq_mJVVNWIW-6jg.jpg" />
 ]]></content:encoded>
-<pubDate>Wed, 08 May 2024 07:02:57 GMT</pubDate>
 <pubDate>Wed, 08 May 2024 07:02:57 GMT</pubDate>
 </item>
 <item>
@@ -20,7 +34,6 @@
 <link>https://t.me/xhqcankao/10151</link>
 <guid>https://t.me/xhqcankao/10151</guid>
 <content:encoded><![CDATA[
-
 <div class="rsshub-quote"><blockquote>
                                     <p><a href="https://t.me/xhqcankao/10028"><b>风向旗参考快讯</b>:</a></p>
                                     
@@ -28,17 +41,14 @@
                                 </blockquote></div><p><b>韩国承诺提供9.7万亿韩元的电动汽车电池供应链援助计划</b><br /><br />韩国将向本土电动汽车电池制造商提供9.7万亿韩元的财政援助，以建立符合美国税收抵免规则的新供应链，从而减少对中国的依赖。韩国贸易、工业和能源部周三表示，韩国当局还将继续寻求确保关键电池材料的安全，以便国内制造商能够通过满足《通胀削减法案》的要求来保持在美国市场的竞争力。此前，美国上周宣布给予汽车制造商两年的石墨等矿物采购宽限期，而中国在这些矿物的全球供应链中占据主导地位。该部表示，财政援助将包括税收抵免和贷款，但没有提供更多细节。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-05-08/korea-pledges-7-billion-aid-package-for-ev-battery-supply-chain" rel="noopener" target="_blank">彭博社</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 08 May 2024 07:59:01 GMT</pubDate>
-<pubDate>Wed, 08 May 2024 07:59:01 GMT</pubDate>
 </item>
 <item>
 <title>TikTok 将字节跳动创始人列为前往新加坡的中国大亨之一 TikTok 起诉美国政府时让一个事实浮出水面：亿万富翁字节跳动创始人张一鸣居住在新加坡，同时保留中国国...</title>
 <link>https://t.me/xhqcankao/10150</link>
 <guid>https://t.me/xhqcankao/10150</guid>
 <content:encoded><![CDATA[
-
 <p><b>TikTok 将字节跳动创始人列为前往新加坡的中国大亨之一</b><br /><br />TikTok 起诉美国政府时让一个事实浮出水面：亿万富翁字节跳动创始人张一鸣居住在新加坡，同时保留中国国籍。他当前持有这家全世界最有价值的独角兽公司 21% 的股份。<br /><br />张一鸣加入了众多企业巨头的行列，他们在多年的监管收紧和新冠疫情限制重创了中国曾经自由发展的科技行业后，纷纷迁居新加坡。与这个亚洲金融中心关系密切的企业家还包括阿里巴巴集团控股有限公司CEO 吳泳銘（他是入籍新加坡的公民）和加密货币先驱吴忌寒。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-05-08/tiktok-places-bytedance-founder-among-china-moguls-in-singapore" rel="noopener" target="_blank">彭博社</a></p>
 ]]></content:encoded>
-<pubDate>Wed, 08 May 2024 07:29:49 GMT</pubDate>
 <pubDate>Wed, 08 May 2024 07:29:49 GMT</pubDate>
 </item>
 <item>
@@ -46,13 +56,10 @@
 <link>https://t.me/xhqcankao/10149</link>
 <guid>https://t.me/xhqcankao/10149</guid>
 <content:encoded><![CDATA[
-
 <p><b>中国信通院：3月中国智能手机出货量2021.8万部 同比下降6.2%</b><br /><br />中国信通院8日公布数据显示，2024年3月，中国市场手机出货量2138.0万部，同比下降5.5%，其中，5G手机1773.6万部，同比增长2.3%，占同期手机出货量的83.0%。2024年1-3月，中国市场手机出货量6741.5万部，同比增长7.4%，其中，5G手机5643.3万部，同比增长9.6%，占同期手机出货量的83.7%。<br /><br />2024年3月，智能手机出货量2021.8万部，同比下降6.2%，占同期手机出货量的94.6%。2024年 1-3月，智能手机出货量6377.3万部，同比增长5.8%，占同期手机出货量的94.6%。<br /><br />—— <a href="https://mp.weixin.qq.com/s?__biz=MjM5MzU0NjMwNQ==&amp;amp;mid=2650846698&amp;amp;idx=1&amp;amp;sn=97f9a346032fe9432527b3a63d2a5384" rel="noopener" target="_blank">中国信通院</a> &lt; 详细报告</p>
 ]]></content:encoded>
 <pubDate>Wed, 08 May 2024 07:11:16 GMT</pubDate>
-<pubDate>Wed, 08 May 2024 07:11:16 GMT</pubDate>
 </item>
-
 <item>
 <title>美监管机构要求特斯拉提供更多有关其自动驾驶辅助系统的信息 美国全国高速公路交通安全委员会希望特斯拉提供更多有关其 Autopilot 自动辅助驾驶系统的信息。该系...</title>
 <link>https://t.me/xhqcankao/10148</link>
@@ -9216,46 +9223,6 @@
 <p>2024年4月6日<br /><span class="emoji">🌍</span>资讯快读<br />1、每一位英雄都应被铭记！红领巾们为烈士墓碑“描红”<br /><a href="https://www.thepaper.cn/newsDetail_forward_26932110" rel="noopener" target="_blank">https://www.thepaper.cn/newsDetail_forward_26932110</a><br />2、王毅同越南外长裴青山举行会谈<br /><a href="https://www.jiemian.com/article/11007049.html" rel="noopener" target="_blank">https://www.jiemian.com/article/11007049.html</a><br />3、广州拟建F1国际赛车场和赛车体育公园<br /><a href="https://www.thepaper.cn/newsDetail_forward_26932713" rel="noopener" target="_blank">https://www.thepaper.cn/newsDetail_forward_26932713</a><br />4、2024联赛申花开局四连胜<br /><a href="https://www.thepaper.cn/newsDetail_forward_26933422" rel="noopener" target="_blank">https://www.thepaper.cn/newsDetail_forward_26933422</a><br />5、德国总理朔尔茨本月将访华，宝马奔驰等德企高管随行<br /><a href="https://www.jiemian.com/article/11007071.html" rel="noopener" target="_blank">https://www.jiemian.com/article/11007071.html</a><br /><br /><span class="emoji">👬</span>即刻镇小报<br />1、我想阐述一下觉得黄铮特殊的原因<br /><a href="https://m.okjike.com/originalPosts/660e04583b9c66cae491c5e9" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/660e04583b9c66cae491c5e9</a><br />2、分享一下GitHub 前 CEO 纳特-弗里德曼的博客主页上面写的人生原则<br /><a href="https://m.okjike.com/originalPosts/660df8563b9c66cae490dd7f" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/660df8563b9c66cae490dd7f</a><br />3、什么是GPT？通过图形化的方式来理解Transformer架构<br /><a href="https://m.okjike.com/originalPosts/660d800d3b9c66cae48b8034" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/660d800d3b9c66cae48b8034</a><br />4、傅盛这篇访谈绝了，个人觉得和朱啸虎那期播客一般精彩<br /><a href="https://m.okjike.com/originalPosts/660d770b3b9c66cae48acf9e" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/660d770b3b9c66cae48acf9e</a><br />5、史铁生这篇《好运设计》真是绝了<br /><a href="https://m.okjike.com/originalPosts/660d73d137f7165b21bb148a" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/660d73d137f7165b21bb148a</a><br /><br />今日即刻镇小报内容来自 <a href="https://t.me/Yuaaan" target="_blank">@Yuaaan</a>. @Mien敏桉 @志达 @Super黄 <a href="https://t.me/HandsoMeng" target="_blank">@HandsoMeng</a> ，感谢以上即友的创作与分享。 <a href="https://t.me/jike_collection/9717?q=%23%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88">#一觉醒来发生了什么</a></p><blockquote><b>www.thepaper.cn</b><br /><b><a href="https://www.thepaper.cn/newsDetail_forward_26932110">每一位英雄都应被铭记！红领巾们为烈士墓碑“描红”_暖心帧_澎湃新闻-The Paper</a></b><br /><p>又是一年清明时。4月4日，位于四川省巴中市通江县王坪村的川陕革命根据地红军烈士陵园迎来一批批祭扫者，这里是全国最大的红军烈士陵园，长眠着25048名烈士。</p></blockquote>
 ]]></content:encoded>
 <pubDate>Sat, 06 Apr 2024 00:39:24 GMT</pubDate>
-</item>
-<item>
-<title>投资者正在洽谈帮助马斯克的 xAI 筹集 30 亿美元资金 据知情人士透露，与马斯克关系密切的投资者正在洽谈帮助 xAI 筹集 30 亿美元，此轮融资将使这家人工智能初...</title>
-<link>https://t.me/xhqcankao/9343</link>
-<guid>https://t.me/xhqcankao/9343</guid>
-<content:encoded><![CDATA[
-<p><b>投资者正在洽谈帮助马斯克的 xAI 筹集 30 亿美元资金</b><br /><br />据知情人士透露，与马斯克关系密切的投资者正在洽谈帮助 xAI 筹集 30 亿美元，此轮融资将使这家人工智能初创公司估值达到 180 亿美元。xAI 的融资条款尚未最终确定，计划可能会发生变化，但目前的融资谈判最近势头强劲。<br /><br />—— <a href="https://www.wsj.com/tech/ai/investors-in-talks-to-help-elon-musks-xai-raise-3-billion-adding-to-industry-arms-race-84ba2328" rel="noopener" target="_blank">华尔街日报</a></p>
-]]></content:encoded>
-<pubDate>Sat, 06 Apr 2024 00:33:46 GMT</pubDate>
-</item>
-<item>
-<title>DLsite 暂停 Visa、万事达和运通信用卡支持 日本著名的宅文化电商平台 DLsite 近日在官网宣布，将停止接受 Visa、万事达以及运通信用卡支付，并建议用户转向其他...</title>
-<link>https://t.me/xhqcankao/9342</link>
-<guid>https://t.me/xhqcankao/9342</guid>
-<content:encoded><![CDATA[
-<p><b>DLsite 暂停 Visa、万事达和运通信用卡支持</b><br /><br />日本著名的宅文化电商平台 DLsite 近日在官网宣布，将停止接受 Visa、万事达以及运通信用卡支付，并建议用户转向其他支付方式。之前该公司表示迫于来自信用卡公司的压力，将对网站上的特定关键词进行修改和替换，比如将“雌性小鬼”改为“杂鱼”，但该措施似乎并没有让信用卡公司回心转意。<br /><br />—— <a href="https://info.eisys.co.jp/dlsite/69dd17c1c4b21c06?locale=default" rel="noopener" target="_blank">DLsite</a></p>
-]]></content:encoded>
-<pubDate>Sat, 06 Apr 2024 00:16:33 GMT</pubDate>
-</item>
-<item>
-<title>↩️ 马斯克表示特斯拉将于8月8日推出无人驾驶出租车 马斯克刚刚在 X 上发帖称，特斯拉将于8月8日发布其承诺已久的无人驾驶出租车。这款即将推出的自动驾驶汽车...</title>
-<link>https://t.me/xhqcankao/9341</link>
-<guid>https://t.me/xhqcankao/9341</guid>
-<content:encoded><![CDATA[
-<div class="rsshub-quote"><blockquote>
-                                    <p><a href="https://t.me/xhqcankao/9335"><b>风向旗参考快讯</b>:</a></p>
-                                    
-                                    <p>因中国电动汽车激烈竞争特斯拉取消低成本汽车计划  据三位知情人士以及路透社看到的公司消息称，特斯拉取消了长期承诺的廉价汽车，投资者一直指望它能推动特斯拉成长为一家大众市场汽车制造商。这款现已停产的入门级汽车有时被称为 Model 2，预计起价约为 25,000 美元。特斯拉在全球范围内面临来自中国电动汽车制造商的激烈竞争，这些制造商低至 10,000 美元的汽车充斥着市场。  两位消息人士称，他们是在一场大约在2月举行的会议上得知特斯拉决定放弃 Model 2 的消息。“埃隆的指示是全力投入自动驾驶出租车…</p>
-                                </blockquote></div><p><b>马斯克表示特斯拉将于8月8日推出无人驾驶出租车</b><br /><br />马斯克刚刚在 X 上发帖称，特斯拉将于8月8日发布其承诺已久的无人驾驶出租车。这款即将推出的自动驾驶汽车据称将基于特斯拉的下一代汽车平台打造。就在这一消息发布的同一天，路透社报道称，该公司已经取消了生产价格更实惠的电动汽车的计划，据称售价在2.5万美元左右。马斯克告诉员工，他不想制造大众市场的电动汽车，而是想完全专注于自动驾驶汽车。<br /><br />—— <a href="https://www.theverge.com/2024/4/5/24122384/tesla-robotaxi-reveal-date-elon-musk-august-8" rel="noopener" target="_blank">Theverge</a>、<a href="https://twitter.com/elonmusk/status/1776351450542768368" rel="noopener" target="_blank">马斯克</a></p>
-]]></content:encoded>
-<pubDate>Fri, 05 Apr 2024 23:53:53 GMT</pubDate>
-</item>
-<item>
-<title>Meta 请求法院驳回美国联邦贸易委员会的垄断指控 Meta 公司要求美国联邦法院撤销联邦贸易委员会 (FTC) 对其提起的反垄断诉讼，称其未能找到支持其主张的证据。在...</title>
-<link>https://t.me/xhqcankao/9340</link>
-<guid>https://t.me/xhqcankao/9340</guid>
-<content:encoded><![CDATA[
-<p><b>Meta 请求法院驳回美国联邦贸易委员会的垄断指控</b><br /><br />Meta 公司要求美国联邦法院撤销联邦贸易委员会 (FTC) 对其提起的反垄断诉讼，称其未能找到支持其主张的证据。在周五提交的简易判决动议中，Meta 辩称该诉讼应该被驳回，因为该公司认为 FTC 无法证明其所声称的属于该案的相关市场，也无法证明其对 Instagram 和 WhatsApp 的收购损害了消费者的利益。联邦贸易委员会 (FTC) 将有机会做出回应，在法官决定如何进行之前，法庭文件中将会出现反复的争论。对 Meta 有利的裁决可能标志着诉讼的结束，但如果法院认定仍有事实问题需要解决，法官可能会确定审判日期。<br /><br />—— <a href="https://www.theverge.com/2024/4/5/24121968/meta-motion-for-summary-judgment-ftc-monopoly-lawsuit" rel="noopener" target="_blank">Theverge</a></p>
-]]></content:encoded>
-<pubDate>Fri, 05 Apr 2024 23:34:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

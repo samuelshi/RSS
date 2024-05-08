@@ -5,17 +5,63 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>🖼 #telegram #Bot #Search 🤖 记一次自留地频道索引 Bot 的重建 四年前，我在开发者 EEYHN 的帮助下，通过 telegram-search 项目实现了频道内容的关键词索...</title>
+<link>https://t.me/NewlearnerChannel/12757</link>
+<guid>https://t.me/NewlearnerChannel/12757</guid>
+<content:encoded><![CDATA[
+
+<p><a href="https://t.me/NewlearnerChannel/12757?q=%23telegram">#telegram</a> <a href="https://t.me/NewlearnerChannel/12757?q=%23Bot">#Bot</a> <a href="https://t.me/NewlearnerChannel/12757?q=%23Search">#Search</a><br /><br /><span class="emoji">🤖</span> <b>记一次自留地频道索引 Bot 的重建</b><br /><br />四年前，我在开发者 EEYHN 的帮助下，通过 <a href="https://t.me/NewlearnerChannel/4385" rel="noopener" target="_blank">telegram-search</a> 项目实现了频道内容的关键词索引。而前不久读者告知我机器人已无法使用，我到后端检查后发现 API 已经过时，且项目也许久未更新，只能搁置<br /><br /><span class="emoji">🔍</span> <b>寻找新项目</b><br /><br />由于重建势必繁琐，我几乎忘记了这件事，也不太有动力联系原有开发者改进项目。群友 犬来八荒<span class="emoji">🌸</span> 有一天为我提供了几个项目，在这里表达我的感谢<br /><br />最终我选择了 <a href="https://github.com/SharzyL/tg_searcher" rel="noopener" target="_blank">tg_searcher</a> 这个项目，它不仅支持 Docker 部署，也能够承担起为公众提供对话索引的责任，并且有着不错的结果显示<br /><br /><span class="emoji">📦</span> <b>部署</b><br /><br />由于上一个项目就是通过 Docker 部署的，这次几乎没有遇到任何阻碍，跟着 README 走就可以。文档很详细，无论是 <a href="https://github.com/SharzyL/tg_searcher/blob/master/doc/deploy.md" rel="noopener" target="_blank">部署</a> 还是 <a href="https://github.com/SharzyL/tg_searcher/blob/master/doc/configuration.md" rel="noopener" target="_blank">配置</a> 都有手把手的步骤和注释<br /><br />需要注意的是，如果你只想监听某个频道或者群组，请不要开启 monitor_all: true。配置文件需要手搓，可以先在本地写好后再开始部署<br /><br />此外，群友也提醒我，本项目的本质还是搭建一个 UserBot，如果想要规避官方风控风险，可以开通小号并提供 api_id 和 api_hash<br /><br /><span class="emoji">💡</span> <b>使用</b><br /><br />对于各位读者，大家只需要和 <a href="https://t.me/newlearner_search_bot" target="_blank">@newlearner_search_bot</a> 对话，输入想要检索的关键词即可。更多的搜索语法详见搜索器 Whoosh 的 <a href="https://whoosh.readthedocs.io/en/latest/querylang.html" rel="noopener" target="_blank">官方文档</a><br /><br />对机器人管理者来说，部署好后需要执行 /monitor_chat CHAT... 以及 /download_history CHAT...，这样机器人才会在后端对某频道进行索引、分词并不断监听更新<br /><br /><span class="emoji">❤️</span> <b>一些感想</b><br /><br />没想到距离机器人的部署已经过去了四年，如果不是翻看当年详尽的频道记录，一些细节和努力就会被遗忘<br /><br />有时候看到一个新项目，通过 Telegram 搜索却发现自留地早已经体验过。许多我们自己写过的东西，已经被自己所遗忘。因此，我们需要一个频道索引机器人，让后来的读者自己去发掘<br /><br />所以请大家合理使用这个机器人。本以为自己只需要服务器稳定地运行，但重建项目时，一行行滚动的代码还是给我带来了久违的快乐。代码长久不维护需要推倒重建，但文字讲述的事实就像大树一样矗立在那里、树根深深插入大地<br /><br /><b>这就是记录的力量！</b><br /><br /><span class="emoji">📘</span> 关联阅读：<br /><br /><span class="emoji">1️⃣</span> <a href="https://t.me/NewlearnerChannel/4437" rel="noopener" target="_blank">Telegram 中文搜索方案探索（频道）</a><br /><span class="emoji">2️⃣</span> <a href="https://t.me/NewlearnerChannel/4551" rel="noopener" target="_blank">为什么 Telegram 不能搜寻中文讯息 </a><br /><span class="emoji">3️⃣</span> <a href="https://t.me/NewlearnerChannel/6207" rel="noopener" target="_blank">谈谈我在用的 Telegram 机器人</a><br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/er---JlKlF8f3ZPLPva-l6aAGv8QGsi_ZUM70bJoybMVtV9aK67F4fMcD28-IaPNwhUyE34skYbPjLynvXgAdr1whcmPewhtWGwKnPM5ke-waSOmy23NYUeKEHTSH3mOxxtowhXiZh7Hle8X6jPF2cVP69zl5rjU2qiFuJRhOwUg92nDA_MQvVP2nzS1b52nq9Dm51vJqvlBwZV5wjoh5e-9Fs-hXc22mmUDsrMl7mch2kR97BPW1FeZ0MfIdJjavzre67SANBb9waECdzMWL6823khBEKFjfrUeL86K4S4JzG3vUzur1ANle7tmgJ8WqbG_pgXBq_mJVVNWIW-6jg.jpg" />
+]]></content:encoded>
+<pubDate>Wed, 08 May 2024 07:02:57 GMT</pubDate>
+<pubDate>Wed, 08 May 2024 07:02:57 GMT</pubDate>
+</item>
+<item>
+<title>↩️ 韩国承诺提供9.7万亿韩元的电动汽车电池供应链援助计划 韩国将向本土电动汽车电池制造商提供9.7万亿韩元的财政援助，以建立符合美国税收抵免规则的新供应链...</title>
+<link>https://t.me/xhqcankao/10151</link>
+<guid>https://t.me/xhqcankao/10151</guid>
+<content:encoded><![CDATA[
+
+<div class="rsshub-quote"><blockquote>
+                                    <p><a href="https://t.me/xhqcankao/10028"><b>风向旗参考快讯</b>:</a></p>
+                                    
+                                    <p>美国财政部放宽电动汽车税收抵免的限制  美国放宽了一些有关电动车税收抵免的规定，以让更多电动车能获得最高7500美元的税收抵免。今天发布的最终指南为汽车公司提供了两年的豁免权，免除《通胀削减法案》(IRA) 中取消使用来自中国等国家电池矿物原料生产的电动汽车补贴资格的条款。这项豁免仅适用于“无法追踪”的电池矿物，如石墨，这些矿物通常来自中国。美国财政部今天表示，这些材料在2027年之前不受该规定的约束。但针对锂、镍和钴等更常见矿物的其他限制将于2025年1月生效。  —— TheVerge</p>
+                                </blockquote></div><p><b>韩国承诺提供9.7万亿韩元的电动汽车电池供应链援助计划</b><br /><br />韩国将向本土电动汽车电池制造商提供9.7万亿韩元的财政援助，以建立符合美国税收抵免规则的新供应链，从而减少对中国的依赖。韩国贸易、工业和能源部周三表示，韩国当局还将继续寻求确保关键电池材料的安全，以便国内制造商能够通过满足《通胀削减法案》的要求来保持在美国市场的竞争力。此前，美国上周宣布给予汽车制造商两年的石墨等矿物采购宽限期，而中国在这些矿物的全球供应链中占据主导地位。该部表示，财政援助将包括税收抵免和贷款，但没有提供更多细节。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-05-08/korea-pledges-7-billion-aid-package-for-ev-battery-supply-chain" rel="noopener" target="_blank">彭博社</a></p>
+]]></content:encoded>
+<pubDate>Wed, 08 May 2024 07:59:01 GMT</pubDate>
+<pubDate>Wed, 08 May 2024 07:59:01 GMT</pubDate>
+</item>
+<item>
+<title>TikTok 将字节跳动创始人列为前往新加坡的中国大亨之一 TikTok 起诉美国政府时让一个事实浮出水面：亿万富翁字节跳动创始人张一鸣居住在新加坡，同时保留中国国...</title>
+<link>https://t.me/xhqcankao/10150</link>
+<guid>https://t.me/xhqcankao/10150</guid>
+<content:encoded><![CDATA[
+
+<p><b>TikTok 将字节跳动创始人列为前往新加坡的中国大亨之一</b><br /><br />TikTok 起诉美国政府时让一个事实浮出水面：亿万富翁字节跳动创始人张一鸣居住在新加坡，同时保留中国国籍。他当前持有这家全世界最有价值的独角兽公司 21% 的股份。<br /><br />张一鸣加入了众多企业巨头的行列，他们在多年的监管收紧和新冠疫情限制重创了中国曾经自由发展的科技行业后，纷纷迁居新加坡。与这个亚洲金融中心关系密切的企业家还包括阿里巴巴集团控股有限公司CEO 吳泳銘（他是入籍新加坡的公民）和加密货币先驱吴忌寒。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-05-08/tiktok-places-bytedance-founder-among-china-moguls-in-singapore" rel="noopener" target="_blank">彭博社</a></p>
+]]></content:encoded>
+<pubDate>Wed, 08 May 2024 07:29:49 GMT</pubDate>
+<pubDate>Wed, 08 May 2024 07:29:49 GMT</pubDate>
+</item>
+<item>
+<title>中国信通院：3月中国智能手机出货量2021.8万部 同比下降6.2% 中国信通院8日公布数据显示，2024年3月，中国市场手机出货量2138.0万部，同比下降5.5%，其中，5G手...</title>
+<link>https://t.me/xhqcankao/10149</link>
+<guid>https://t.me/xhqcankao/10149</guid>
+<content:encoded><![CDATA[
+
+<p><b>中国信通院：3月中国智能手机出货量2021.8万部 同比下降6.2%</b><br /><br />中国信通院8日公布数据显示，2024年3月，中国市场手机出货量2138.0万部，同比下降5.5%，其中，5G手机1773.6万部，同比增长2.3%，占同期手机出货量的83.0%。2024年1-3月，中国市场手机出货量6741.5万部，同比增长7.4%，其中，5G手机5643.3万部，同比增长9.6%，占同期手机出货量的83.7%。<br /><br />2024年3月，智能手机出货量2021.8万部，同比下降6.2%，占同期手机出货量的94.6%。2024年 1-3月，智能手机出货量6377.3万部，同比增长5.8%，占同期手机出货量的94.6%。<br /><br />—— <a href="https://mp.weixin.qq.com/s?__biz=MjM5MzU0NjMwNQ==&amp;amp;mid=2650846698&amp;amp;idx=1&amp;amp;sn=97f9a346032fe9432527b3a63d2a5384" rel="noopener" target="_blank">中国信通院</a> &lt; 详细报告</p>
+]]></content:encoded>
+<pubDate>Wed, 08 May 2024 07:11:16 GMT</pubDate>
+<pubDate>Wed, 08 May 2024 07:11:16 GMT</pubDate>
+</item>
+
+<item>
 <title>美监管机构要求特斯拉提供更多有关其自动驾驶辅助系统的信息 美国全国高速公路交通安全委员会希望特斯拉提供更多有关其 Autopilot 自动辅助驾驶系统的信息。该系...</title>
 <link>https://t.me/xhqcankao/10148</link>
 <guid>https://t.me/xhqcankao/10148</guid>
 <content:encoded><![CDATA[
-
 <p><b>美监管机构要求特斯拉提供更多有关其自动驾驶辅助系统的信息</b><br /><br />美国全国高速公路交通安全委员会希望特斯拉提供更多有关其 Autopilot 自动辅助驾驶系统的信息。该系统与去年12月召回200多万辆汽车有关。美国政府上个月开始调查召回是否充分，因为已发现20起在去年12月召回后发生的车祸。美国全国高速公路交通安全委员会在6日的信函中要求特斯拉解释许多召回补救措施的过程和理由。特斯拉必须在7月1日前做出答复。否则将面临每天每次违规罚款高达27,168美元，最高罚款额为1.358亿美元。<br /><br />—— <a href="https://cn.wsj.com/amp/articles/%E7%BE%8E%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84%E8%A6%81%E6%B1%82%E7%89%B9%E6%96%AF%E6%8B%89%E6%8F%90%E4%BE%9B%E6%9B%B4%E5%A4%9A%E6%9C%89%E5%85%B3%E5%85%B6%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BE%85%E5%8A%A9%E7%B3%BB%E7%BB%9F%E7%9A%84%E4%BF%A1%E6%81%AF-426ab8ce" rel="noopener" target="_blank">华尔街日报</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 08 May 2024 06:37:53 GMT</pubDate>
-<pubDate>Wed, 08 May 2024 06:37:53 GMT</pubDate>
 </item>
-
 <item>
 <title>美国探索人工智能培训移民官员与难民交谈 美国国土安全部(DHS)正在试行人工智能，以培训‘审查美国难民身份申请人’的官员，部长亚历杭德罗·马约卡斯5月7日告诉...</title>
 <link>https://t.me/xhqcankao/10147</link>
@@ -9210,15 +9256,6 @@
 <p><b>Meta 请求法院驳回美国联邦贸易委员会的垄断指控</b><br /><br />Meta 公司要求美国联邦法院撤销联邦贸易委员会 (FTC) 对其提起的反垄断诉讼，称其未能找到支持其主张的证据。在周五提交的简易判决动议中，Meta 辩称该诉讼应该被驳回，因为该公司认为 FTC 无法证明其所声称的属于该案的相关市场，也无法证明其对 Instagram 和 WhatsApp 的收购损害了消费者的利益。联邦贸易委员会 (FTC) 将有机会做出回应，在法官决定如何进行之前，法庭文件中将会出现反复的争论。对 Meta 有利的裁决可能标志着诉讼的结束，但如果法院认定仍有事实问题需要解决，法官可能会确定审判日期。<br /><br />—— <a href="https://www.theverge.com/2024/4/5/24121968/meta-motion-for-summary-judgment-ftc-monopoly-lawsuit" rel="noopener" target="_blank">Theverge</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 05 Apr 2024 23:34:01 GMT</pubDate>
-</item>
-<item>
-<title>乔纳森·艾维和萨姆·阿尔特曼的人工智能设备初创公司正在与艾默生进行融资谈判 由前苹果首席设计师乔纳森·艾维和 OpenAI 首席执行官萨姆·阿尔特曼创立的一家...</title>
-<link>https://t.me/xhqcankao/9339</link>
-<guid>https://t.me/xhqcankao/9339</guid>
-<content:encoded><![CDATA[
-<p><b>乔纳森·艾维和萨姆·阿尔特曼的人工智能设备初创公司正在与艾默生进行融资谈判<br /></b><br />由前苹果首席设计师乔纳森·艾维和 OpenAI 首席执行官萨姆·阿尔特曼创立的一家神秘公司，旨在推出一款人工智能驱动的个人设备，该公司已开始与风险投资领域的一些知名人士进行融资谈判。据一位参与该过程的人士和另一位了解谈判情况的人士透露，这家初创公司已经与艾默生 (Emerson Collective) 和兴盛资本 (Thrive Capital) 讨论了交易事宜。另一位参与该过程的人士表示，艾维希望筹集最多10亿美元的资金。目前人们对这款人工智能设备知之甚少，但它看起来不会像智能手机。<br /><br />—— <a href="https://www.theinformation.com/articles/jony-ive-and-sam-altmans-ai-device-startup-in-funding-talks-with-emerson-thrive" rel="noopener" target="_blank">The Information</a></p>
-]]></content:encoded>
-<pubDate>Fri, 05 Apr 2024 23:11:54 GMT</pubDate>
 </item>
 </channel>
 </rss>

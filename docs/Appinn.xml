@@ -4,18 +4,16 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>❓ #问题求助 Github的如何实现私有仓库但release公开? https://meta.appinn.net/t/topic/56187</title>
 <link>https://t.me/appinnfeed/10551</link>
 <guid>https://t.me/appinnfeed/10551</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10551?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />Github的如何实现私有仓库但release公开?<br /><br /><a href="https://meta.appinn.net/t/topic/56187" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/56187</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/56187">Github的如何实现私有仓库但release公开?</a></b><br /><p>有这样一个需求:   我Github有个私有库(此私有库利用github action来实现自动打包,编译二进制安装文件,并发布release)  我不想公开我的代码,但我的release对应的二进制产物我希望可以公开给他人下载   我想到方法是   用一个公有库,创建一个新的github action,能够定时拉取我私有库的release(可以看做为同步私有库的release及对应的二进制文件)   或者各位大佬有其他不同思路?  看了各种github action教程,研究了一天还是不行… <span class="emoji">🥲</span>  这是我要整的公有库的地址:</p><img src="https://cdn4.cdn-telegram.org/file/cXnoADzq0EieMi_SR_OBYB9EWcvTx98qxZkMUACtU4ZjDZB4P6VBz_OwZu5BAM7omsKGpNYtIjD7r373GuITZw7rGsxDCi8d8aflPrPan8lJk4yxLSkoMnUOSYZMcFkpl_mhRfcVysBZwI_oB76eqz5xufiqzmwBcZsrQsZ4Yi3LqTRMSgPIng3Z4kcTwp2p2LBWgr3MQivBT5_P7gLo_pZyd189ILiph0ZnDCeDe5waVGA7kJJB7hvP52-UpVfyIPxvehQWbKjn_38RuRk8f0rd6WyawEAAeaGwLqLgvCcrV-5H9LN92JAgZhxlk3WIqyhUUZ1oFqie7OaMIBnBhg.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Wed, 08 May 2024 11:08:01 GMT</pubDate>
-<pubDate>Wed, 08 May 2024 11:08:01 GMT</pubDate>
 </item>
-
 <item>
 <title>📣 #发现频道 Shortcuts Maker-安卓上创建快捷方式的应用-20240508 https://meta.appinn.net/t/topic/56183</title>
 <link>https://t.me/appinnfeed/10550</link>
@@ -9010,15 +9008,6 @@
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9499?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />想练习英语听力有什么推荐的渠道吗？<br /><br /><a href="https://meta.appinn.net/t/topic/52301" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/52301</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/52301">想练习英语听力有什么推荐的渠道吗？</a></b><br /><p>想每天早晨起床、通勤路上等等零散（耳朵）空闲的时间听一些英文内容的东西来提高自己的英语听力。  以前试过听外国的广播，后来没坚持下来，因为广播内容有点单一枯燥、而且播音员语气语调始终如一，时间久了耳朵麻了<span class="emoji">😂</span>  求大佬推荐一些可行的渠道，形式不限于手机APP、播客等；内容也不限，种类越丰富越好，谢谢<span class="emoji">🙏</span>。</p><img src="https://cdn4.cdn-telegram.org/file/MeK_2kCqVYs91ziXzMZ6qqIS_rvsL-mApAlUCBy-LOnpAs8OLjxDGMB8l6OKxqNx5nmUUdrli0YByQ40IXr9At2XThwvnS5q01wFQOqnkVhTWaJN1egv-3GXjlSVGaa2OPs4VOX58VSqu9i9SesM_xjreEMEXEhJEL7Dytu33AA5bXQFUOCpW5LzDDtbA5_Zl9LtNmKn6d-uP6j5wYr_f-JKy0fJlIlkZ2kwiGyafIgu46NLjvXwBeK7d2WQkamNGr4fULzGcqosQ2m1xJNHzgUg700ak8EKlBpDaoR4yJLnaJI6xqAJmKN_kXU4368_-mPOO3Wsi2apa9Wc48mYeg.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Fri, 02 Feb 2024 00:20:01 GMT</pubDate>
-</item>
-<item>
-<title>💧 #小众软件 手机浏览器必备翻译插件 – Trancy https://www.appinn.com/trancy-for-mobile/ Tags: #Android, #Firefox, #iOS, #iPhone, #safari, #youtube, ...</title>
-<link>https://t.me/appinnfeed/9498</link>
-<guid>https://t.me/appinnfeed/9498</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">💧</span> <a href="https://t.me/appinnfeed/9498?q=%23%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6">#小众软件</a><br />手机浏览器必备翻译插件 – Trancy<br /><br /><a href="https://www.appinn.com/trancy-for-mobile/" rel="noopener" target="_blank">https://www.appinn.com/trancy-for-mobile/</a><br /><br /><b>Tags</b>: <a href="https://t.me/appinnfeed/9498?q=%23Android">#Android</a>, <a href="https://t.me/appinnfeed/9498?q=%23Firefox">#Firefox</a>, <a href="https://t.me/appinnfeed/9498?q=%23iOS">#iOS</a>, <a href="https://t.me/appinnfeed/9498?q=%23iPhone">#iPhone</a>, <a href="https://t.me/appinnfeed/9498?q=%23safari">#safari</a>, <a href="https://t.me/appinnfeed/9498?q=%23youtube">#youtube</a>, <a href="https://t.me/appinnfeed/9498?q=%23%E7%BF%BB%E8%AF%91">#翻译</a></p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/trancy-for-mobile/">手机浏览器必备翻译插件 - Trancy - 小众软件</a></b><br /><p>Trancy 是一款专为移动端定制开发的插件，提供了许多功能。其中包括 AI 划词翻译功能，可以通过划词来实现翻译；还有沉浸式全文翻译功能，可以将整篇文章进行翻译。除此之外，Trancy 还支持 Youtube 网页版的双语字幕功能，可以帮助用户更好地理解视频内容。甚至还可以利用视频来进行精听练习，提高听力水平。</p><img src="https://cdn4.cdn-telegram.org/file/Kk9604VO_CwlLz-sQ4RzMg4GWEUUUu2SqmcyEWGiVs656ffZopYrrKclROMJnQLrCVDt_KzrcpssJZUDltw9CkozBzADcVLI0yEg44PgtbtUAGM27rfV6qyGQEiadcr1F_1b1-XsOU9zAviSXCHOaVrhg91ETH8TtftdDex3_z-jqNlo51ON2_w8UyUzz2ybxY5qqQgrz8fE9epEsgFC8qOFY1ga05hNsLix8vI8K9eOK1dUv1Whvpo_fnq2RuUBXhNO55Ceu5nWwW_daO4Zqgb5hZyOsEv_npWcineiD0IkDJsmRWEoBzUGKmTZeMo0yYTDGvs_rTBspk9gPrnZVw.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Thu, 01 Feb 2024 11:16:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

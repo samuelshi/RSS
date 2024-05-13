@@ -29115,3 +29115,10 @@ Existing_entries: 1000
 Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2024-05-14 01:01:39
+------------------------------------------------------
+Started: 2024-05-14 02:01:29
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [❓ #问题求助 有其他类似Qemu Simple Boot这种可以测试硬盘和iso启动菜单的软件吗？ https://meta.appinn.net/t/topic/56376](https://t.me/appinnfeed/10607)
+append_entries: 1
+Finish: 2024-05-14 02:01:30

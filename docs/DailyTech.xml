@@ -5,17 +5,26 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>日本超算“富岳”全球运算速度排名维持第四 日本理化学研究所13日宣布，超级计算机“富岳”在全球运算速度排行榜“TOP500”中位列第四。TOP500是综合显示运算能...</title>
+<link>https://t.me/xhqcankao/10303</link>
+<guid>https://t.me/xhqcankao/10303</guid>
+<content:encoded><![CDATA[
+
+<p><b>日本超算“富岳”全球运算速度排名维持第四</b><br /><br />日本理化学研究所13日宣布，超级计算机“富岳”在全球运算速度排行榜“TOP500”中位列第四。TOP500是综合显示运算能力的排行榜，每年公布两次。“富岳”连续2次排名第四，在工业利用和大数据分析领域受到重视的另外两个部门则连续9次排名第一。“富岳”在理研计算科学研究中心 (神户市) 运转，运算能力可达每秒44.2京次。TOP500首位是美国橡树岭国家实验室的“前沿” (Frontier)，运算能力是“富岳”的约2.7倍。第二名和第三名也是美国的超级计算机。研究中心主任松冈聪指出：“能长期维持全球顶级性能，是不懈提升研究水平的成果。”他表示，将运用知识与能力，推进“富岳”之后的下一代计算机技术的研发。<br /><br />—— <a href="https://china.kyodonews.net/news/2024/05/4e366e67d885.html" rel="noopener" target="_blank">共同社</a>、<a href="https://www.nikkei.com/article/DGXZQOUC135FM0T10C24A5000000/?n_cid=SNSTW005" rel="noopener" target="_blank">日经新闻</a></p>
+]]></content:encoded>
+<pubDate>Tue, 14 May 2024 07:43:07 GMT</pubDate>
+<pubDate>Tue, 14 May 2024 07:43:07 GMT</pubDate>
+</item>
+
+<item>
 <title>🖼 #有趣产品咖啡馆 #Newsletter 🤳 独立开发者回访 #1 - “对老项目的开枝散叶，上线第二周便获得苹果的编辑推荐！” 1、介绍一下您最近开发的新产品 最近...</title>
 <link>https://t.me/NewlearnerChannel/12789</link>
 <guid>https://t.me/NewlearnerChannel/12789</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://t.me/NewlearnerChannel/12789?q=%23%E6%9C%89%E8%B6%A3%E4%BA%A7%E5%93%81%E5%92%96%E5%95%A1%E9%A6%86">#有趣产品咖啡馆</a> <a href="https://t.me/NewlearnerChannel/12789?q=%23Newsletter">#Newsletter</a><br /><br /><span class="emoji">🤳</span> <a href="https://yunyingxiaowanzi.zhubai.love/posts/2401714952353423360" rel="noopener" target="_blank"><b>独立开发者回访 #1 - “对老项目的开枝散叶，上线第二周便获得苹果的编辑推荐！”</b></a><br /><br /><b>1、介绍一下您最近开发的新产品</b><br /><br />最近除了之前产品的问题修复和一些小功能迭代之外，新开发了一个比较可爱的产品: <a href="https://apps.apple.com/cn/app/hiemoji-%E5%88%B6%E4%BD%9Cemoji%E5%A3%81%E7%BA%B8-%E8%AE%A9emoji%E6%9B%B4%E5%A5%BD%E7%8E%A9/id6484069131" rel="noopener" target="_blank">HiEmoji</a>，这个是图卡壁纸App里的一个小功能，单独拎出来做，算是老项目开始开枝散叶了。<br /><br />这个项目的灵感来源于iOS 16上自带的表情符号壁纸。因为自带的只能设置emoji符号，所以我就想增加一些别的风格，比如手绘简笔画、贴纸来组合成全新的壁纸风格。我在网上找了一些可商用的图片作品系列，然后就有了现在的<a href="https://apps.apple.com/cn/app/hiemoji-%E5%88%B6%E4%BD%9Cemoji%E5%A3%81%E7%BA%B8-%E8%AE%A9emoji%E6%9B%B4%E5%A5%BD%E7%8E%A9/id6484069131" rel="noopener" target="_blank">HiEmoji</a> ~<br /><br />比较幸运的是，在上线第二周的时候，就获得了苹果的编辑推荐。<br /><br /><b>2、自上次专访以来，您在产品开发上有哪些新的发现或学习？</b><br /><br />做这些产品的灵感也是我自己突发奇想或者是日常需求。这么做的弊端是失败率比较高，而且天花板很低。但是好处是它自然而然会引导你研究为什么不成功，那些优秀成功的App都怎么做的，能够让自己清楚这个市场的情况。<br /><br />大众化项目竞争比较大，但这个天花板比较高。后面我也会往这个方向探索。<br /><br /><b>3、在最近的项目中，您采用了哪些新技术或工具？这些选择是如何影响项目的？</b><br /><br />最近项目中并没有使用新技术，但最近有一个使用频率非常好的工具可以推荐下：Arc浏览器，很多人应该也已经在使用。我也是在深度使用一段时间之后发现确实好用。<br /><br />还有就是习惯用Kimi或豆包，已经几乎取代搜索引擎了。<br /><br /><b>4、您如何收集并整合用户反馈来指导产品的迭代</b>？<br /><br />目前收集渠道主要通过邮件，以及一些社交媒体上用户的留言私信反馈。也有用户群，大多用户反馈我都会听了之后记下。<br /><br /><b>5、在继续独立开发的道路上，您感觉自己有哪些最大的成长或改变？</b><br /><br />因为目前几个项目的成绩并不理想，所以时而会感觉焦虑。前段时间还因为别的原因去了几次医院。<br /><br />不过有个好消息是我意识到了身体健康的重要，开始更多使用番茄工作法和冥想。<br /><br /><b>6、对于未来，您有哪些新的目标或计划？</b><br /><br />最近准备开几个新坑（做新的App），虽然都算不上非常有刚需或者宏大的项目，但是我还是觉得挺有意思的。<br /><br />还有一个很奇怪的想法：我想买个皮划艇去老家的湖里划船，以前玩过一次，那种能够在平静的水面上漂着的感觉非常好。<br /><br />PS. <a href="https://yunyingxiaowanzi.zhubai.love/posts/2373719634256887808" rel="noopener" target="_blank">Ελάτε να πιείτε ένα φλιτζάνι καφέ.</a><br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/XMjxZM6BQImNh1PJxR01Ar0KvcBXr977SI_Ht8a-oLoDrXYNnKIx-S4AVJszdxphfjkuzTtur-FC3W4acekgnVUhNYBcF7Udd6nCLHuHG6CB7Yo1OcC6XHMbYaXzE5QVt0SIsnGv1yH2RoN2Cd7dag4JOH0fyvvY5gDfZyG8cAaK2SEbReITotQivKhfgELUH9ZAhLk5SSJ5u4UESufLsLPL0iEjIfdcw2BwpbmvlsBh8jW8lNh0ZAdZMcvhd-dr70nQ5BlbqfS8xrxOc5oU-EtSj8Uk148TK4-Bc0G7zZtkqxXV_uhqTW1qNfg4Y1DNZYens4MIfp8bijE9gVYH-w.jpg" />
 ]]></content:encoded>
 <pubDate>Tue, 14 May 2024 06:59:58 GMT</pubDate>
-<pubDate>Tue, 14 May 2024 06:59:58 GMT</pubDate>
 </item>
-
 <item>
 <title>拜登签署禁止进口俄罗斯核反应堆燃料的法案 美国总统拜登周一签署了一项禁止进口俄罗斯浓缩铀的法案，开始了为期 90 天的倒计时，直到限制反应堆燃料运输生效。...</title>
 <link>https://t.me/xhqcankao/10302</link>
@@ -9198,15 +9207,6 @@ Sat, 11 May 2024 04:01:27 GMT
 <p><b>韩国政府因三星合并案被判赔偿美基金3203万美元</b><br /><br />据韩国法务部11日消息，海牙国际常设仲裁法院仲裁法庭当天就三星合并案作出裁定，判决韩国政府向美国对冲基金美盛资金管理公司支付3203.0876万美元的赔款及逾期利息。美盛资管提出的索赔金额约为2亿美元，仲裁法庭部分接受美盛方面的要求，裁决韩国政府赔偿其中的16%。美盛资管主张，韩国政府不当介入三星集团2015年为企业主家庭成员继承经营权而推进的三星物产和第一毛织合并事宜，由此给美盛带来了损失。因此美盛方面通过“投资者—东道国投资争端解决机制”（ISDS）提出了仲裁申请。合并当时，美盛持有三星物产2.18%的股份。<br /><br />—— <a href="https://m-cn.yna.co.kr/view/ACK20240411006700881?input=tw" rel="noopener" target="_blank">韩联社</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 12 Apr 2024 06:31:53 GMT</pubDate>
-</item>
-<item>
-<title>“樱桃小丸子”声优将由菊池心接任 日本人气动画《樱桃小丸子》的 X 官方账号12日公布消息称，菊池心 (41岁) 将成为给主人公小丸子配音的新声优。原来的声优 TAR...</title>
-<link>https://t.me/xhqcankao/9499</link>
-<guid>https://t.me/xhqcankao/9499</guid>
-<content:encoded><![CDATA[
-<p><b>“樱桃小丸子”声优将由菊池心接任</b><br /><br />日本人气动画《樱桃小丸子》的 X 官方账号12日公布消息称，菊池心 (41岁) 将成为给主人公小丸子配音的新声优。原来的声优 TARAKO 上月去世。菊池表示：“或许大家暂时听着不习惯，希望给彼此多一些时间来适应，那样的话我会大受鼓舞。”21日播放的动画片开始将由菊池配音小丸子。菊池是《海贼王》Toko 的声优，也曾为《樱桃小丸子》中的其他角色配音。<br /><br />—— <a href="https://china.kyodonews.net/news/2024/04/9461576702ed.html" rel="noopener" target="_blank">共同社</a></p>
-]]></content:encoded>
-<pubDate>Fri, 12 Apr 2024 06:02:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -4,18 +4,16 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>❓ #问题求助 寻求替换“360流量防火墙”的软件。 https://meta.appinn.net/t/topic/56431</title>
 <link>https://t.me/appinnfeed/10620</link>
 <guid>https://t.me/appinnfeed/10620</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10620?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />寻求替换“360流量防火墙”的软件。<br /><br /><a href="https://meta.appinn.net/t/topic/56431" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/56431</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/56431">寻求替换“360流量防火墙”的软件。</a></b><br /><p>希望能找到一款功能与“360流量防火墙”相似的软件，最主要功能是管理正在连网的程序和服务。</p><img src="https://cdn4.cdn-telegram.org/file/qFT1x694fED6tC8Bij8rd5Qjd-8fdgCl5DRzqEMzSq3O1iamIWcy1QULd3rHL8Q3udX-OD5vagi0lKXF2L4YvSQFKFzbVGxywPK1pEONsgdiSAkfmGeG_CkHsdNdNBqX_IzCqZgEq5woWyjlzW_KUJrGAE5-WiLoYJlfmq_6CcAsAA9JpBvCUXxLK0eJuF0VVSO4u4yYNem8MT9LU-CqPvHFKuki_EFcltb61mKT0OQgunDJ1uE0y94WeiV0WuSjIFIdjHH_3squRZR870IW8TuVJBnQDId7Ti_p5OVlRbV2CeqEvqjtrcZ9wLXfe9ur67qBXWDmRAc49RU8Y69XLw.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Tue, 14 May 2024 23:56:02 GMT</pubDate>
-<pubDate>Tue, 14 May 2024 23:56:02 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 第三方的chrome插件库有哪些？ https://meta.appinn.net/t/topic/56427</title>
 <link>https://t.me/appinnfeed/10619</link>
@@ -9010,15 +9008,6 @@
 <p></p><div class="tgme_widget_message_text js-message_text" dir="auto">这一段事怎么翻译为床催的....</div><p></p><img src="https://cdn5.cdn-telegram.org/file/eUc49I9_sgbZ03lZUL1-6mAnbHkDpkpU8sj0hXS83KlyvEKyFCF5khAnsfFkFLuhUGfJJNViuxn4az649qDjM75drVpde4y3Q6wTsUhU-sfur5w6SSDu7kKYPA3EOQDgckQMyx6aAOO5fZoLIrxqkHTh3Fwsq6O8PLP24Mp_QIpSyB4uZmYG4224BFRwu3zvkTLY8gtY3A5xeF25aKv9dzDVEIPepxIVlBYe0qHJsyQbW11-c88Grixp5rIYyNHHVsXAlTTLbeB4r9UDwwMseJ6pK7iZ8GZObKrbid4UqvfX7ze58gs4r6OgJ0yjWVebmhNZeUPO2tZ0mz0uaY-7Kg.jpg" /><img src="https://cdn5.cdn-telegram.org/file/TCk7nrRyTO1grB2YJDHSd7DFZx-ho0opUe3PByTH7SAZybB1lgFgxN0ZxGzW7YEbAJE2FKpCncPE1vKqkVVTH33WDJjeUT_Kt-dywOohdV0EdTSVD3vWYeXITVT3sgP2M4pAKyVB69hQZevxqnKb0-l5s4yRjPS6I7sAtfkV1qkUe8caEOlzVg9seKWnQG-VZxBNQftjbaF3onmNVw0SbE7Xzrk4_Vz8J8QFY_R6-nVdYl4XmYEXawtzUT5dtOLiUN1Ckxi48jPDTdwyezfBxrv0xEukTHI1iNrJFcE6KlouA0CjXV3qpkL1emuYru__Kn7p8p6A-UFF7nN0oSNt3Q.jpg" />
 ]]></content:encoded>
 <pubDate>Thu, 08 Feb 2024 03:48:47 GMT</pubDate>
-</item>
-<item>
-<title>❓ #问题求助 求助：如何阻止 Powershell 生成 tmp 文件 https://meta.appinn.net/t/topic/52495</title>
-<link>https://t.me/appinnfeed/9586</link>
-<guid>https://t.me/appinnfeed/9586</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9586?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />求助：如何阻止 Powershell 生成 tmp 文件<br /><br /><a href="https://meta.appinn.net/t/topic/52495" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/52495</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/52495">求助：如何阻止 Powershell 生成 tmp 文件</a></b><br /><p>最近在终端中使用 powershell 非常卡，加载慢，输入命令慢，返回也慢。研究了一下发现%TEMP%下存在大量 PS 开头的.tmp 文件，删除后 powershell 就恢复正常了。  想在 powershell 开始前使用命令删除这些 tmp 文件，结果执行命令时一边删除一边又生成了同样多的 tmp 文件  gci $env:TEMP\PS*.tmp -File | % { ri $_.FullName -Force }  那么现在问题来了，如何阻止 powershell 生成这些文件呢</p><img src="https://cdn4.cdn-telegram.org/file/BtT8eL0GCumLSoBWZ-wWjzU6fnUgtpPh3MsWbYkHmRHUhVBNklQY-20dmQcqNMGOcNFLh-RWGsjq1lOvF_5nIUnooTrscUSeiybbt-A6Ak-QLq6vKhAnTNfxa8opRXOVE4U8WgZY3pPr1ajsgURihQD2vaCGWHjQqIQV4xMR2EC_S2yf72xDqc-HbgWyiQrk8LTi4or2-ufNXRrKSD5_W1Fiyddu5nhUuigqFMBqDD-8FIHWSwbHXpSmf7N3g0iylC8Q1wdfP2cWnSW9hz6yiqKOP5LIoAErmP7UvdglTmkIMXhwGP2D18CeD8Xm-fmyMJZWosNZQ4G_0YoK_9l0yA.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Thu, 08 Feb 2024 02:20:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

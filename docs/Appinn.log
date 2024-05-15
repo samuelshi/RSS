@@ -29363,3 +29363,10 @@ Append: [❓ #问题求助 有什么方案可以在Windows下实现驱动级的�
 Append: [📣 #发现频道 【开发者自荐】AI生产小红书等社交媒体封面。 https://meta.appinn.net/t/topic/56450](https://t.me/appinnfeed/10626)
 append_entries: 2
 Finish: 2024-05-15 15:01:42
+------------------------------------------------------
+Started: 2024-05-15 16:01:46
+Existing_entries: 1002
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [🧐 #阅读 Google DeepMind 发布了生成视频模型Veo，可生成超过一分钟的高质量 1080p 分辨率视频，具有多种电影和视觉风格。 https://meta.appinn.net/t/topic/...](https://t.me/appinnfeed/10628)
+append_entries: 1
+Finish: 2024-05-15 16:01:47

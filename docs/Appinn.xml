@@ -4,18 +4,16 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>❓ #问题求助 如何修正下面的Rust代码？（闭包相关） https://meta.appinn.net/t/topic/56667</title>
 <link>https://t.me/appinnfeed/10677</link>
 <guid>https://t.me/appinnfeed/10677</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10677?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />如何修正下面的Rust代码？（闭包相关）<br /><br /><a href="https://meta.appinn.net/t/topic/56667" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/56667</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/56667">如何修正下面的Rust代码？（闭包相关）</a></b><br /><p>如题，下面的代码在编写的过程中遇到了问题（因为是rust小白所以没整明白闭包的相关概念）  我在试图同时注册两个热键，但是发现那个exe_path （同res_path）似乎因为不知道啥原因没法复用，所以我暴力clone了一个，能跑是能跑了，问题是实现方法不太对似乎……所有有没有人能教教我 :xk:  （Rsut圣经没看的很明白）  fn reg_hotkeys(exe_path: PathBuf) {     let res_path = exe_path.clone();     LControlKey.bind(move…</p><img src="https://cdn4.cdn-telegram.org/file/EQX_RhbRUl76NQndPd9UMRWbqxu_dKCEvRCstHAciSXOO1iNh-pQM5wxIfnrkO_wGjp60iGnOIVLg0j0egMtTRcpWKmIwvbtkJ1f_DazjPlEAgvTBh9TdvoQwAtPaOep694uNY-DWGLk9IpEsJaat2Jy4FOSVP1CvJ4R0sGQo50_L38SFmu1GTiD0CIq06AgYiceS8N6yG7dhPTBKE5diAjjVxRTJwAhR3O1wOLceVbpROFColwDUJGWX_mC9gQ4EJhsMnN1Cm_ejbDPq0yu2fLFT7evzML3KIHFh2ZX4LKhREi-w17sjjm9KNy1BMZTGWd_6XgskYFQoVpC2q9ybw.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Sun, 19 May 2024 13:40:01 GMT</pubDate>
-<pubDate>Sun, 19 May 2024 13:40:01 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 中文电报码（标准中文电码）输入法 https://meta.appinn.net/t/topic/56665</title>
 <link>https://t.me/appinnfeed/10676</link>
@@ -9006,15 +9004,6 @@
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9645?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />小众安卓机器怎么root<br /><br /><a href="https://meta.appinn.net/t/topic/52720" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/52720</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/52720">小众安卓机器怎么root</a></b><br /><p>有没有什么可靠的万能root？</p><img src="https://cdn4.cdn-telegram.org/file/ISPMDxK_eMtIAWkw4l6Ahl0xx4-PyDFtbw_3JE6zBccCsU7m2eACnLMYAIQj-msfQzlAFxdSwoYvOQIVodDAmgnmvbzN2AQs_B1tAnwqINezJ4q0Sc0F1EWIPptyFqCLD2DzT2aj8c5igrEGvCmo-PMIyKfEOPOoqUz0LO52oW_HXI_IfQ2ng3uVtZ_havuzPXDsol42MuDhFr4A6n4sWfivCnOkQ8l9IINZvxpzQ9utMCDMu20eSGCkuLq_mTZRphGanZrot9MpFSSJjAwh-BPaYo2gcvUEq7snXFhgHRexT15KrbYFCTXGv4eSVaijRebsm8vxcxE9fqhdYkvz1w.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Sat, 17 Feb 2024 16:12:00 GMT</pubDate>
-</item>
-<item>
-<title>❓ #问题求助 谷歌浏览器的搜索引擎映射如何置顶 https://meta.appinn.net/t/topic/52717</title>
-<link>https://t.me/appinnfeed/9644</link>
-<guid>https://t.me/appinnfeed/9644</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9644?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />谷歌浏览器的搜索引擎映射如何置顶<br /><br /><a href="https://meta.appinn.net/t/topic/52717" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/52717</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/52717">谷歌浏览器的搜索引擎映射如何置顶</a></b><br /><p>在chrome设置了单字母 b 映射哔哩哔哩的官网。  之前我单按b，它一直都是置顶显示的，不知道我调了什么东西，导致它掉下去了。  现在选的时候不能直接按回车 <span class="emoji">🥲</span> <span class="emoji">🥲</span></p><img src="https://cdn4.cdn-telegram.org/file/LZYLWDMF_Qk_qSFmm-yGJA2QKHMnNX07j8P3DtB9ttVOa96JGOe97ysvmYkUitWSwSic48u7jW2xrJbES4FLpoMpiqIiFNdylMxkZWxRe1ZAUS7DtC6FYe8hRAXXkNKsyKZUrLnduwLg1iIu_5nfyOSSibJ-h6D-4OoXEZamz2awRbBxRmUA-374MbG96cVaX2D9QX8aqOZ0WkEuCoXGq7BFQZZT4OiaalUcecJ0MSaBPalvqQQ-JZVVfR_y140FOXyNfyyf7OhcLGtzldVZz9E5VtHnPJYVaN7qC6VOxXohwqAMTC3U689zrzz2LQpM1giFQByKrVgLTOYMsBBfCw.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Sat, 17 Feb 2024 14:16:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

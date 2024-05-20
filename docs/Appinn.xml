@@ -5,17 +5,26 @@
 <link>https://t.me/s/appinnfeed</link>
 
 <item>
+<title>❓ #问题求助 UiPath人机交互或Python人机交互自动化求助 https://meta.appinn.net/t/topic/56701</title>
+<link>https://t.me/appinnfeed/10690</link>
+<guid>https://t.me/appinnfeed/10690</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10690?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />UiPath人机交互或Python人机交互自动化求助<br /><br /><a href="https://meta.appinn.net/t/topic/56701" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/56701</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/56701">UiPath人机交互或Python人机交互自动化求助</a></b><br /><p>本人是个财务，近期由于一些工作要求需要对过往的一些客户信息补充统一社会信用代码，以便监控客户工商信息的变更，因为过往一直在用UiPath和Python做一些自动化的需求，因为非计算机专业所以现在遇到点问题想要求助。  主要是这样的，我们客户名称维护基本都是简称+地址的形式，用天眼查查询这两个组合基本上能在第一页找到对应，比如“柳州钢铁”在第一页出现“广西柳州钢铁集团有限公司”就是我们的需求，因为需要人工判断点击跳转新标签页之后在执行爬取信息模块，现在主要问题就是在这人工判断上。  UiPath自带的模块…</p><img src="https://cdn4.cdn-telegram.org/file/crtOnT98g8rQxdFnzEA-Tlp4O96SEwZS3B236zmmqGGO3MABjCoaQKZHzcxuwLofVRG9PRjfMyPi3Cqb_4Nq-2al5bb85u8a1yBfVDP3A9vdZF9az1ODHf3FhfwEQfzkdHShG9ldTbQ2nqFOU6KDYzYqCdHsabvsSw4Pfi94ZcNxDFPMjO4capT-e5kdLjhdodrWISwzPG6qVXGTaiPTKAdeKPnY0HoGIWCnKc7Y_eIrEebwH-U2LVcxvBaM4WQ6AxfFRQX2CjqT1GzZWyDwS-akEK-NSgs9PzNs8rNiLJ5PsXS1SF7ZJjcAth-ZZh9fR_aIL9jj2n-2SRG5vrTgUg.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Mon, 20 May 2024 16:28:01 GMT</pubDate>
+<pubDate>Mon, 20 May 2024 16:28:01 GMT</pubDate>
+</item>
+
+<item>
 <title>❓ #问题求助 如何拷贝软连接(symbol link)? https://meta.appinn.net/t/topic/56698</title>
 <link>https://t.me/appinnfeed/10689</link>
 <guid>https://t.me/appinnfeed/10689</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10689?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />如何拷贝软连接(symbol link)?<br /><br /><a href="https://meta.appinn.net/t/topic/56698" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/56698</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/56698">如何拷贝软连接(symbol link)?</a></b><br /><p>当我对软连接进行拷贝粘贴的时候,  它操作的对象是软连接的目标文件.  而我只想拷贝粘贴软连接本身,  请问在windows下, 有办法吗？</p><img src="https://cdn4.cdn-telegram.org/file/crtOnT98g8rQxdFnzEA-Tlp4O96SEwZS3B236zmmqGGO3MABjCoaQKZHzcxuwLofVRG9PRjfMyPi3Cqb_4Nq-2al5bb85u8a1yBfVDP3A9vdZF9az1ODHf3FhfwEQfzkdHShG9ldTbQ2nqFOU6KDYzYqCdHsabvsSw4Pfi94ZcNxDFPMjO4capT-e5kdLjhdodrWISwzPG6qVXGTaiPTKAdeKPnY0HoGIWCnKc7Y_eIrEebwH-U2LVcxvBaM4WQ6AxfFRQX2CjqT1GzZWyDwS-akEK-NSgs9PzNs8rNiLJ5PsXS1SF7ZJjcAth-ZZh9fR_aIL9jj2n-2SRG5vrTgUg.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Mon, 20 May 2024 15:40:01 GMT</pubDate>
-<pubDate>Mon, 20 May 2024 15:40:01 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 如何批量替换大量嵌套文件夹中的汉字为拼音？ https://meta.appinn.net/t/topic/56695</title>
 <link>https://t.me/appinnfeed/10688</link>
@@ -9006,15 +9015,6 @@
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9659?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />有什么现代化 UI 功能完善的 Web 端邮件客户端吗？<br /><br /><a href="https://meta.appinn.net/t/topic/52759" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/52759</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/52759">有什么现代化 UI 功能完善的 Web 端邮件客户端吗？</a></b><br /><p>因为 Outlook 要强制换新版，我就要考虑找一个 Web 端的客户端用了。  我一直都几个邮箱用 Outlook 收件，速度快，UI 也是我喜欢的，但是前段时间开始强制换新版，虽然现在暂时还能用旧版，但是还是想要自建客户端好了。  因为 Web 端只要有浏览器就可以，我现在真的，我要用的东西都想要自建了，不用担心厂商跑了或改版什么的。  搜了一下，发现几个，但是没有找到详细使用感受的。  我想过用群晖的 MailPlus，但是那个不是客户端，是设置收件发件服务而已。  有什么推荐和使用感受的吗？我要用的是各种邮件的…</p><img src="https://cdn4.cdn-telegram.org/file/ISPMDxK_eMtIAWkw4l6Ahl0xx4-PyDFtbw_3JE6zBccCsU7m2eACnLMYAIQj-msfQzlAFxdSwoYvOQIVodDAmgnmvbzN2AQs_B1tAnwqINezJ4q0Sc0F1EWIPptyFqCLD2DzT2aj8c5igrEGvCmo-PMIyKfEOPOoqUz0LO52oW_HXI_IfQ2ng3uVtZ_havuzPXDsol42MuDhFr4A6n4sWfivCnOkQ8l9IINZvxpzQ9utMCDMu20eSGCkuLq_mTZRphGanZrot9MpFSSJjAwh-BPaYo2gcvUEq7snXFhgHRexT15KrbYFCTXGv4eSVaijRebsm8vxcxE9fqhdYkvz1w.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Sun, 18 Feb 2024 11:52:00 GMT</pubDate>
-</item>
-<item>
-<title>❓ #问题求助 知乎只要不允许第三方cookie就没法记忆登录状态是什么情况？ https://meta.appinn.net/t/topic/52750</title>
-<link>https://t.me/appinnfeed/9658</link>
-<guid>https://t.me/appinnfeed/9658</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9658?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />知乎只要不允许第三方cookie就没法记忆登录状态是什么情况？<br /><br /><a href="https://meta.appinn.net/t/topic/52750" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/52750</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/52750">知乎只要不允许第三方cookie就没法记忆登录状态是什么情况？</a></b><br /><p>好奇</p><img src="https://cdn4.cdn-telegram.org/file/b33wHujgM5n67KFymFUXNbqAREKaqSixOSAoH1CZBI5-qAghbiWNgYFRfsPtCBjU5eiYWQlUlet6MGHyH0UF0eHI7DT9zTjqa4C1ew419zbtguylXQsqhHqWM8Cf-gc1dnmT60jSjOG_vaLZdDlgU4YMBW9JykQ7HP8-Z2EPAUk-5YQhCGXni4uORXNZGqfQuNXPuguIVsKFFNAIzOoPy4pNdqckavFOmyICryw6yYgTLQJaCT_KbmmZyzUMr_y8rrBFSoHEp8rGoBv2SYytynYtU0KvZ5M2SFxjSg1Rs_jEgEBHMYz3Djp2SX80kHBuPLU6SAMakC1jB9zYfc2iLw.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Sun, 18 Feb 2024 10:16:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -5,14 +5,46 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>阿联酋穆巴达拉和法国达成人工智能投资协议 阿布扎比投资基金穆巴达拉投资公司和法国政府已同意在人工智能开发方面进行合作，阿联酋和法国都在努力成为该技术的...</title>
+<link>https://t.me/xhqcankao/10519</link>
+<guid>https://t.me/xhqcankao/10519</guid>
+<content:encoded><![CDATA[
+
+<p><b>阿联酋穆巴达拉和法国达成人工智能投资协议</b><br /><br />阿布扎比投资基金穆巴达拉投资公司和法国政府已同意在人工智能开发方面进行合作，阿联酋和法国都在努力成为该技术的区域中心。法国财政和经济部长勒梅尔周二在阿布扎比举行的一次活动上表示，法国和阿联酋已同意共同投资人才、数据中心 (包括量子计算) 和半导体。他说，他们还将努力使这项技术的实际应用最大化。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-05-21/uae-s-mubadala-and-france-agree-to-ai-investment-deal" rel="noopener" target="_blank">彭博社</a></p>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 03:55:17 GMT</pubDate>
+<pubDate>Wed, 22 May 2024 03:55:17 GMT</pubDate>
+</item>
+<item>
+<title>TikTok 计划在运营和营销部门裁员 1000 人 根据多位要求不具名的员工透露， TikTok 本周通知员工，计划裁掉运营、内容和营销部门的大量人员，受影响的员工将于周...</title>
+<link>https://t.me/xhqcankao/10518</link>
+<guid>https://t.me/xhqcankao/10518</guid>
+<content:encoded><![CDATA[
+
+<p><b>TikTok 计划在运营和营销部门裁员 1000 人</b><br /><br />根据多位要求不具名的员工透露， TikTok 本周通知员工，计划裁掉运营、内容和营销部门的大量人员，受影响的员工将于周三晚上或周四早上收到通知。一位要求不具名的员工透露，预计将有 1000 人受到影响，同时 TikTok 正在解散其全球用户运营团队，未被裁掉的团队成员将加入其他部门。<br /><br />—— <a href="https://www.theinformation.com/articles/tiktok-plans-layoffs-of-operations-and-marketing-employees" rel="noopener" target="_blank">The Information</a></p>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 03:30:57 GMT</pubDate>
+<pubDate>Wed, 22 May 2024 03:30:57 GMT</pubDate>
+</item>
+<item>
+<title>SpaceX 首次演示 Starlink 卫星直连设备视频通话 在 X 上， SpaceX 公司分享了一篇带有视频的帖子。视频中，一名 SpaceX 员工与另一名 SpaceX 员工在 X 上进行视...</title>
+<link>https://t.me/xhqcankao/10517</link>
+<guid>https://t.me/xhqcankao/10517</guid>
+<content:encoded><![CDATA[
+
+<p><b>SpaceX 首次演示 Starlink 卫星直连设备视频通话</b><br /><br />在 X 上， SpaceX 公司分享了一篇带有视频的帖子。视频中，一名 SpaceX 员工与另一名 SpaceX 员工在 X 上进行视频通话。特别值得注意的是，视频通话是在连接到卫星直连设备 Starlink 的未经改装的手机上进行的，这是该服务上的第一次视频通话。该服务预计将在今年晚些时候由 SpaceX 与 T-Mobile 合作正式推出。<br /><br />—— <a href="https://x.com/SpaceX/status/1792981845296160791" rel="noopener" target="_blank">SpaceX</a></p>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 03:05:18 GMT</pubDate>
+<pubDate>Wed, 22 May 2024 03:05:18 GMT</pubDate>
+</item>
+
+<item>
 <title>Kotlin 2.0.0 现已发布 Kotlin 2.0.0 版本已发布，新的 Kotlin K2 编译器已进入稳定状态。支持 Kotlin 2.0.0 的 Kotlin 插件已捆绑在最新的 IntelliJ IDEA 和 An...</title>
 <link>https://t.me/xhqcankao/10516</link>
 <guid>https://t.me/xhqcankao/10516</guid>
 <content:encoded><![CDATA[
-
 <p><b>Kotlin 2.0.0 现已发布</b><br /><br />Kotlin 2.0.0 版本已发布，新的 Kotlin K2 编译器已进入稳定状态。支持 Kotlin 2.0.0 的 Kotlin 插件已捆绑在最新的 IntelliJ IDEA 和 Android Studio 中，用户只需在构建脚本中将 Kotlin 版本更改为 Kotlin 2.0.0 即可。此外，其他更新还亮点还包括：<br /><br />新的 Compose 编译器 Gradle 插件；使用 Invokedynamic 生成 lambda 函数；kotlinx-metadata-jvm 库现已稳定；使用 Apple 平台上的路标监控 Kotlin/Native 中的 GC 性能；使用 Objective-C 方法解决 Kotlin/Native 中的冲突；支持 Kotlin/Wasm 中的命名导出；支持 Kotlin/Wasm 中使用 <code>@JsExport</code> 的函数中的无符号原始类型；默认使用 Binaryen 优化生产构建；用于多平台项目中编译器选项的新 Gradle DSL；稳定替换枚举类值泛型函数；稳定的 AutoCloseable 接口。<br /><br />—— <a href="https://kotlinlang.org/docs/whatsnew20.html" rel="noopener" target="_blank">Kotlin Doc</a></p>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 02:40:13 GMT</pubDate>
 <pubDate>Wed, 22 May 2024 02:40:13 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +52,10 @@
 <link>https://t.me/xhqcankao/10515</link>
 <guid>https://t.me/xhqcankao/10515</guid>
 <content:encoded><![CDATA[
-
 <p><b>富士通在八丈岛验证用人工智能分析座头鲸行动</b><br /><br />富士通公司21日宣布启动一项技术验证，使用人工智能和摄像头来分析在日本八丈岛周边回游的座头鲸的行动。此举旨在促进保护鲸鱼的生态环境，同时有助于吸引观鲸游客，激发该岛的活力。验证从5月至10月末实施。富士通将从为防灾而设在八丈岛沿岸6个地点的定点摄像头拍到的影像中，调查座头鲸游来的模式等。还争取向在当地逗留的游客实时发布鲸鱼的接近情况。此前，只能通过人们实际观察来判断是否有鲸鱼。富士通让开发的人工智能学习鲸鱼的动作和身体特征等，力争能够在鲸鱼出现时自动做出判别。<br /><br />—— <a href="https://china.kyodonews.net/news/2024/05/a8ed3a6f334a-ai.html" rel="noopener" target="_blank">共同社</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 22 May 2024 02:15:18 GMT</pubDate>
-<pubDate>Wed, 22 May 2024 02:15:18 GMT</pubDate>
 </item>
-
 <item>
 <title>美国政府敦促联邦承包商加强加密 与美国政府合作的公司可能会被要求最早在七月份开始保护其数据和技术免受量子计算机的攻击。美国商务部下属的国家标准与技术研...</title>
 <link>https://t.me/xhqcankao/10514</link>
@@ -9188,24 +9217,6 @@ Sat, 11 May 2024 04:01:27 GMT
 <p><b>Windows 11：控制面板字体页面将重定向到设置</b><br /><br />微软公司并不打算完全淘汰控制面板，但希望你逐渐停止在 Windows 11 上使用。今年晚些时候，当你尝试打开控制面板中的字体页面时，你将被自动重定向到 Windows 设置。微软的迁移策略是逐步将控制面板迁移 (重定向) 到设置。该公司不打算在常规 Windows 版本中删除旧版设置管理应用程序。Windows 11 系统在“设置”中附带了一个现代字体管理面板，它与“控制面板”版本相当。旧版本仍然存在于“控制面板”中，并出现在 Windows 搜索中。这将打开“控制面板”&gt;“外观”&gt;“个性化”&gt;“字体”，您可以在其中浏览和使用旧字体管理页面。微软希望“修复”此行为，在未来的 Windows 更新中，控制面板的字体页面将被重定向到“设置”&gt;“个性化”&gt;“字体”。您将无法通过控制面板或搜索页面访问旧版字体页面。<br /><br />—— <a href="https://www.windowslatest.com/2024/04/22/windows-11-control-panel-is-losing-another-feature-font-page-to-settings/" rel="noopener" target="_blank">WindowsLatest</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 22 Apr 2024 00:42:08 GMT</pubDate>
-</item>
-<item>
-<title>TikTok Shop 将其二手奢侈时尚产品扩展到英国 TikTok 的社交商务市场 TikTok Shop 即将在英国推出二手奢侈品类别，该产品已在美国上线六个多月。新的类别允许英...</title>
-<link>https://t.me/xhqcankao/9711</link>
-<guid>https://t.me/xhqcankao/9711</guid>
-<content:encoded><![CDATA[
-<p><b>TikTok Shop 将其二手奢侈时尚产品扩展到英国</b><br /><br />TikTok 的社交商务市场 TikTok Shop 即将在英国推出二手奢侈品类别，该产品已在美国上线六个多月。新的类别允许英国客户购买二手高端服装、名牌手袋和其他配饰，所有这些都无需离开 TikTok 应用。推出时只有五个英国品牌可供选择。自2022年推出 TikTok Shop 以来，该平台已售出价值约10亿美元或更多的产品。然而，尽管取得了成功，但有人认为 TikTok Shop 正在毁掉短视频分享应用，声称假货和劣质产品正充斥市场。在网上购买二手奢侈品时，假冒产品是最大的风险，即使是最大的电子商务巨头 (亚马逊、eBay 等) 也面临着真伪问题。与所有转售市场一样，TikTok Shop 也制定了防伪政策，如果卖家被证明销售了假冒产品，可保证全额退款。<br /><br />—— <a href="https://techcrunch.com/2024/04/21/tiktok-shop-expands-its-secondhand-luxury-fashion-offering-to-the-uk/" rel="noopener" target="_blank">TechCrunch</a></p>
-]]></content:encoded>
-<pubDate>Mon, 22 Apr 2024 00:20:12 GMT</pubDate>
-</item>
-<item>
-<title>微软 Edge 访问百度时会自动追加推广追踪符获取流量分成 微软本周推出 Edge 124.0.2478.51 正式版，目前多数使用该浏览器的用户应该都已经自动升级到这个新版本...</title>
-<link>https://t.me/xhqcankao/9710</link>
-<guid>https://t.me/xhqcankao/9710</guid>
-<content:encoded><![CDATA[
-<p><b>微软 Edge 访问百度时会自动追加推广追踪符获取流量分成</b><br /><br />微软本周推出 Edge 124.0.2478.51 正式版，目前多数使用该浏览器的用户应该都已经自动升级到这个新版本。部分中国用户发现了一个有趣的现象：当通过微软 Edge 浏览器访问百度搜索时，打开的百度地址会被自动追加推广追踪符，这个追踪符至少就目前来说是无法删除的。例如当用户在地址栏中手动输入 baidu [.] com 并按回车进行访问，此时浏览器会自动打开 baidu [.] com/?tn=680<code>1</code>8901_16_pg。目前微软正在灰度测试中，并不是所有用户都能复现，不过如果测试效果不差的话，可能微软后续会向所有用户推出。<br /><br />—— <a href="https://www.landiannews.com/archives/103486.html?utm_sources=ourl.co&amp;amp;utm_medium=social&amp;amp;utm_campaign=none" rel="noopener" target="_blank">蓝点网</a></p>
-]]></content:encoded>
-<pubDate>Sun, 21 Apr 2024 23:50:10 GMT</pubDate>
 </item>
 </channel>
 </rss>

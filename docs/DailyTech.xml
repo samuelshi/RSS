@@ -5,14 +5,35 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>Meta 将利用欧洲用户的数据训练人工智能 美国 Meta 公司近日宣布将开始使用欧洲用户的数据来训练自己的人工智能。公司声称此举具有合法利益。用户可以反对使用他...</title>
+<link>https://t.me/xhqcankao/10619</link>
+<guid>https://t.me/xhqcankao/10619</guid>
+<content:encoded><![CDATA[
+
+<p><b>Meta 将利用欧洲用户的数据训练人工智能</b><br /><br />美国 Meta 公司近日宣布将开始使用欧洲用户的数据来训练自己的人工智能。公司声称此举具有合法利益。用户可以反对使用他们的数据。如果用户提出反对，则必须填写表格，详细说明数据处理对他们的影响。Meta 公司表示将评估所有的退出请求，只有在请求被批准后才会停止使用这些数据。这些数据处理和相关隐私政策的变化将于6月26日生效。该通知已通过 Facebook 的应用内通知系统发送给欧洲用户：“我们正在为您规划新的人工智能功能。了解我们如何使用您的信息。”<br /><br />—— <a href="https://www.facebook.com/privacy/policy/version/25238980265745528" rel="noopener" target="_blank">Meta 隐私政策</a>、<a href="https://stackdiary.com/meta-will-train-ai-with-data-from-european-users/" rel="noopener" target="_blank">Stackdiary</a></p>
+]]></content:encoded>
+<pubDate>Sat, 25 May 2024 03:59:02 GMT</pubDate>
+<pubDate>Sat, 25 May 2024 03:59:02 GMT</pubDate>
+</item>
+<item>
+<title>谷歌云公布删除客户数据事件调查报告：配置错误导致服务过期 本月初发生的谷歌云意外事件影响了管理着1250亿美元的退休基金的澳大利亚 UniSuper 公司，其位于谷...</title>
+<link>https://t.me/xhqcankao/10618</link>
+<guid>https://t.me/xhqcankao/10618</guid>
+<content:encoded><![CDATA[
+
+<p><b>谷歌云公布删除客户数据事件调查报告：配置错误导致服务过期</b><br /><br />本月初发生的谷歌云意外事件影响了管理着1250亿美元的退休基金的澳大利亚 UniSuper 公司，其位于谷歌云的服务和数据被意外删除导致服务中断。该公司已经和谷歌云合作恢复了正常运行，谷歌云今天公布了事故报告。<br /><br />谷歌云强调，该特殊独立事件仅影响到单一客户在单一私有云的单一服务。为满足客户对于容量的特殊需求，在2023年谷歌使用内部工具为客户首次部署 Google Cloud VMware Engine (GCVE) 私有云时，操作者无意中将一个参数留空。这导致了意想不到的后果，即客户的 GCVE 私有云默认为1年，到期后会自动删除。<br /><br />谷歌云已经采取措施防止类似独立事件再次发生，包括检查所有客户的配置；将特殊配置过程完全自动化，剔除人为错误；纠正了对于特殊部署系统的删除流程。<br /><br />—— <a href="https://cloud.google.com/blog/products/infrastructure/details-of-google-cloud-gcve-incident/" rel="noopener" target="_blank">谷歌云</a></p>
+]]></content:encoded>
+<pubDate>Sat, 25 May 2024 03:31:59 GMT</pubDate>
+<pubDate>Sat, 25 May 2024 03:31:59 GMT</pubDate>
+</item>
+
+<item>
 <title>俄罗斯可以阻断乌克兰对星链的访问 俄罗斯找到了新的、更有效的方法来瘫痪乌克兰的星链服务。据《纽约时报》周五报道，增加的干扰在关键时刻破坏了通信，对乌克...</title>
 <link>https://t.me/xhqcankao/10617</link>
 <guid>https://t.me/xhqcankao/10617</guid>
 <content:encoded><![CDATA[
-
 <p><b>俄罗斯可以阻断乌克兰对星链的访问</b><br /><br />俄罗斯找到了新的、更有效的方法来瘫痪乌克兰的星链服务。据《纽约时报》周五报道，增加的干扰在关键时刻破坏了通信，对乌克兰构成了“重大威胁”，使该国在战争开始两年多后更加陷入困境。目前尚不清楚俄罗斯如何干扰埃隆·马斯克的卫星互联网终端。俄罗斯干扰通信能力破坏了乌克兰通信、情报收集和无人机袭击的能力。乌克兰士兵告诉该报，受干扰的星链服务妨碍了他们快速通信的能力，使他们不得不通过短信 (通常速度非常慢) 分享有关俄罗斯即将或正在进行的军事行动或攻击的情报。<br /><br />—— <a href="https://www.nytimes.com/2024/05/24/technology/ukraine-russia-starlink.html" rel="noopener" target="_blank">纽约时报</a>、<a href="https://www.engadget.com/russia-can-reportedly-jam-ukraines-access-to-starlink-at-will-183642120.html?src=rss" rel="noopener" target="_blank">Engadget</a></p>
 ]]></content:encoded>
-<pubDate>Sat, 25 May 2024 03:00:42 GMT</pubDate>
 <pubDate>Sat, 25 May 2024 03:00:42 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +41,10 @@
 <link>https://t.me/xhqcankao/10615</link>
 <guid>https://t.me/xhqcankao/10615</guid>
 <content:encoded><![CDATA[
-
 <p></p><div class="tgme_widget_message_text js-message_text" dir="auto"><b>YouTube Music 哼唱搜歌功能正在推出</b><br /><br />安卓版 YouTube Music 正在推出一项期待已久的功能，让您可以“播放、唱出或哼出歌曲”进行搜索。点击主页面右上角的搜索图标，您会注意到麦克风旁边有一个新的波形图标。识别过程相当快。全屏结果页面会显示封面图片、歌曲名称、艺术家、专辑、年份等。该功能从三月份开始测试。<br /><br />—— <a href="https://9to5google.com/2024/05/24/youtube-music-song-search-android/" rel="noopener" target="_blank">9to5google</a></div><p></p><img src="https://cdn5.cdn-telegram.org/file/Lsf7CJcD3RhAMMBTqT9TN0ls_peKhMkVE0-_ZFXEUZg9257M5eNyQxKHdYqqOrNmm5VsL-e1G7x5F1PeC2FiBHN4vi7k8e-Ly-NEsQtSUnyoyKx-SIgb9Bo0k97qcEVNNGqQ_EWtPiWeo5M8L-UVa1oaMDJ3BfguIt5CvGgFJzl1DqNGt0Ad0zoIaN_tUDyv5tlMTRU235AZRkhlZim2KkFFJDc5wY8vWMg3VlXti2yFqJhNa7lGg1R5Sp2faYs0wwHf3YXU166v4CiG7R6RW2zf4cr_1o1knITKpBzJ7eaSZqSVxbWIT0zZyMkkDa2oR7C7g9q-OYIY_CUTZTNkdg.jpg" /><img src="https://cdn5.cdn-telegram.org/file/jmreNV5aq5y33q_C2C2x3OTuIWfmXabxWMnjXVoawOMmX4IqH-0vh3L4cesgECxyZAk8GfQzIWrm0_2BSGXCRoBlbMA4n5f1y73mNiJzJNowjWG9j0zQOMK3jbadwxFfbjSmZygKHSn-SJxiwgvuJf0BGpZxcdkyEBSZ1g7X6b8kuef_ht-UW7YTLpX05Mv2MPqHc2_bt56afK2j2LJEbynTj_C-GEy5kGaGrqfBfw1oetrDNVyxZ-Vl1UVguZi3_WaPxJ5YWIZ0sMZtQzr8UHHgwzujBq7Dii-Ab42O9NybEyWULZ_NG6SBE1-EaToN0ZoldDNHmVSFoNKCEPW_zg.jpg" />
 ]]></content:encoded>
 <pubDate>Sat, 25 May 2024 02:31:21 GMT</pubDate>
-<pubDate>Sat, 25 May 2024 02:31:21 GMT</pubDate>
 </item>
-
 <item>
 <title>ICQ 聊天软件将于6月26日关闭 即时通讯软件 ICQ 将于2024年6月26日起停止服务。并建议用户改用 VK Messenger 和 Workspace。ICQ 是 I Seek You 的连音缩写，中文...</title>
 <link>https://t.me/xhqcankao/10614</link>
@@ -9168,24 +9186,6 @@ Sat, 11 May 2024 04:01:27 GMT
 <p><b>美大企业团体提起诉讼，试图阻止FTC竞业协议禁令</b><br /><br />美国全国商会和其他商业团体提起诉讼，试图阻止一项禁令，该禁令禁止使用竞业禁止协议，从而开启了一场围绕合同命运的法律之战，这些合同阻止了大多数员工加入竞争对手的公司。在联邦贸易委员会(FTC)周二发布禁令后，人们就预料到会有这场诉讼，该诉讼认为FTC缺乏发布该规则的法律授权。FTC历来运行得像一个执法机构而非规则制定机构。该商会是许多最大雇主的游说团体，它与美国商业圆桌会议和其他商业团体一起向得州一家联邦法院提起了诉讼。周二宣布的禁令禁止公司对高管人员以外的任何人执行现有的非竞争协议。FTC认为，竞业禁止条款通常阻止员工在离开雇主后的一段时间内接受新工作或创业，阻碍了劳动力竞争，导致工人的薪酬和福利降低。<br /><br />—— <a href="https://cn.wsj.com/amp/articles/%E5%A4%A7%E4%BC%81%E4%B8%9A%E5%9B%A2%E4%BD%93%E6%8F%90%E8%B5%B7%E8%AF%89%E8%AE%BC-%E8%AF%95%E5%9B%BE%E9%98%BB%E6%AD%A2ftc%E7%AB%9E%E4%B8%9A%E5%8D%8F%E8%AE%AE%E7%A6%81%E4%BB%A4-6c0f42eb" rel="noopener" target="_blank">华尔街日报</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 25 Apr 2024 02:15:26 GMT</pubDate>
-</item>
-<item>
-<title>IBM 斥资64亿美元收购 HashiCorp 国际商业机器公司 IBM 在声明中宣布，打算以每股35美元的现金收购 HashiCorp，这笔交易的企业价值为64亿美元。预计交易将于今年...</title>
-<link>https://t.me/xhqcankao/9801</link>
-<guid>https://t.me/xhqcankao/9801</guid>
-<content:encoded><![CDATA[
-<p><b>IBM 斥资64亿美元收购 HashiCorp</b><br /><br />国际商业机器公司 IBM 在声明中宣布，打算以每股35美元的现金收购 HashiCorp，这笔交易的企业价值为64亿美元。预计交易将于今年年底完成。如果交易成功，HashiCorp 首席执行官戴夫·麦克詹尼特将向 IBM 负责软件的高级副总裁罗布·托马斯汇报。<br /><br />—— <a href="https://www.cnbc.com/2024/04/24/ibm-q1-earnings-report-2024-ibm-to-acquire-hashicorp.html" rel="noopener" target="_blank">CNBC</a></p>
-]]></content:encoded>
-<pubDate>Thu, 25 Apr 2024 02:00:22 GMT</pubDate>
-</item>
-<item>
-<title>TikTok 首席执行官希望打破美国禁令：“我们哪儿也不会去” TikTok 首席执行官周三表示，这家社交媒体公司预计将打一场旷日持久的法律战，以阻止总统乔·拜登签...</title>
-<link>https://t.me/xhqcankao/9800</link>
-<guid>https://t.me/xhqcankao/9800</guid>
-<content:encoded><![CDATA[
-<p><b>TikTok 首席执行官希望打破美国禁令：“我们哪儿也不会去”</b><br /><br />TikTok 首席执行官周三表示，这家社交媒体公司预计将打一场旷日持久的法律战，以阻止总统乔·拜登签署成为法律的法案，他表示，该法案将禁止1.7亿美国人使用的热门短视频应用。在拜登签署法案后不久，首席执行官周受资在发布的视频中表示：“请放心，我们哪儿也不会去。”“事实和宪法都站在我们一边，我们期望再次获胜。”拜登的签署将出售最后期限定为1月19日，这是他任期到期前一天，但如果他确定字节跳动正在取得进展，他可以将期限延长三个月。白宫发言人卡琳娜·让·皮埃尔周二表示：“我们不希望看到禁令。”她补充道：“这事关中国所有权。”周受资说：“毫无疑问，这是对 TikTok 的禁令。”并强调 TikTok 将继续运营，因为该公司将挑战这些限制。<br /><br />—— <a href="https://www.reuters.com/technology/tiktok-ceo-expects-defeat-us-restrictions-we-arent-going-anywhere-2024-04-24/" rel="noopener" target="_blank">路透社</a></p>
-]]></content:encoded>
-<pubDate>Thu, 25 Apr 2024 01:45:10 GMT</pubDate>
 </item>
 </channel>
 </rss>

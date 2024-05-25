@@ -4,15 +4,14 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>有人用一个月编写了一个 Unix 克隆系统... https://drewdevault.com/2024/05/24/2024-05-24-Bunnix.html 作者描述了构建一个名为 Bunnix 的类 Unix 操作系统，该...</title>
 <link>https://t.me/appinnfeed/10752</link>
 <guid>https://t.me/appinnfeed/10752</guid>
 <content:encoded><![CDATA[
-
 <p>有人用一个月编写了一个 Unix 克隆系统...<br /><br /><a href="https://drewdevault.com/2024/05/24/2024-05-24-Bunnix.html" rel="noopener" target="_blank">https://drewdevault.com/2024/05/24/2024-05-24-Bunnix.html</a><br /><br />作者描述了构建一个名为 Bunnix 的类 Unix 操作系统，该过程大约花费了一个月。<br /><br />Bunnix 是一个单用户系统，具有单片内核，主要用 Hare 编写，并包含一些 C 组件。它支持基本功能，包括 PCI 设备、ext4 文件系统、PS/2 键盘和终端仿真器。<br /><br />作者从这个项目中学到了很多东西，包括文件系统缓存的好处、用于简单性的单片内核设计优于微内核设计的优势以及信号的复杂性。<br /><br />Bunnix 目前是一个艺术项目，作者正在转向其他项目。但是，他欢迎社区为将来改进做出贡献。</p>
 ]]></content:encoded>
-<pubDate>Sat, 25 May 2024 04:13:32 GMT</pubDate>
 <pubDate>Sat, 25 May 2024 04:13:32 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +19,10 @@
 <link>https://t.me/appinnfeed/10751</link>
 <guid>https://t.me/appinnfeed/10751</guid>
 <content:encoded><![CDATA[
-
 <p>这个说法有点高级，选上，试试。</p><img src="https://cdn5.cdn-telegram.org/file/SFOrQUl2e8n1RsHYCLl2kO6ZYgyer4CDvYYyRgztK1FlkAdD-pZZAYhqKun1tt0hi1L0oX1dlvVwzYFdDi_UBO5dRdU2_SRy4qf7qMLeKx0OomkgnVqgZ3pPEDMvD5N1QQiivjm3Xiob79IVP2dJZs79GJC_SRMK2HrigX0oEryj3FBR96ATLW0Z4ZubrahynzQa4tOBHkfudNATZExWL-mhIOkcD2gw8LWOebxw6feUWExEcxh51psc4WZeCMlfACLkg-Lv_GZsAOLgp-3x3iB0MSZhiZ0iSBsWOHXgxuDOpsOGtcrs9HCHLleilEHOA-mqoJKISNk5tFwI0P_a1A.jpg" />
 ]]></content:encoded>
 <pubDate>Sat, 25 May 2024 04:03:54 GMT</pubDate>
-<pubDate>Sat, 25 May 2024 04:03:54 GMT</pubDate>
 </item>
-
 <item>
 <title>💧 #小众软件 互联网活化石 ICQ 将于 2024年6月26日起停止服务 https://www.appinn.com/icq-ends-service-in-20240626/ Tags: #业界消息, #ICQ</title>
 <link>https://t.me/appinnfeed/10750</link>
@@ -9008,24 +9004,6 @@
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9716?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />求一个能查看视频文件参数的工具。<br /><br /><a href="https://meta.appinn.net/t/topic/53006" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/53006</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/53006">求一个能查看视频文件参数的工具。</a></b><br /><p>我有好多视频文件，封装格式也很多样*（mp4、mkv、avi、mov、flv、wmv、mpg、vob、dat甚至rmvb）*，想找一个小工具能查看一个或多个视频文件的具体参数（如分辨率、码率、帧率、位深度、音频格式、声道数、音频编码格式、音频码率等等，越全越好）。  不想用pr和encoder，太厚重了。</p><img src="https://cdn4.cdn-telegram.org/file/sqpKh_ZS_IIfRh8C9qUPE_BJUB9S3qTc94duTNZh-lePQmM0c37t9vJ1nLDGUG-YMNfcXhep5k5Imw1oz3cecopXCtasiT99mSmvGyFzL1ajVHoOEutV7EQcSGQYsGRmd478ftzeVPf30dy1L1bLkb4OTZ1IXQZ1pOsjWLeE3o4xIi9KcVx9QV_haEmgjtqi1XdTyJ7VNSbsnGSZ0Fkbxskb2i4b-8yUFK27YNqEFawPGBMEW5rlWnTZQBItaohac0kRK6B7DogSozms8duPIQEIBPrtwP3S9xKI6U8AfQQb0ITtXqaMrxhuwkktM2YIhbLRh4AGhDNQ9w6QJ4eEvg.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Sat, 24 Feb 2024 01:48:00 GMT</pubDate>
-</item>
-<item>
-<title>❓ #问题求助 求一款图像展示软件，可随机展示一张图像。 https://meta.appinn.net/t/topic/53004</title>
-<link>https://t.me/appinnfeed/9715</link>
-<guid>https://t.me/appinnfeed/9715</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9715?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />求一款图像展示软件，可随机展示一张图像。<br /><br /><a href="https://meta.appinn.net/t/topic/53004" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/53004</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/53004">求一款开源的图像展示软件，可随机展示一张图像</a></b><br /><p>需求是老婆大人照了好多自己做的菜的照片，要我搞一个网页，可以在手机或电脑上浏览这些照片（最好是可以分类），最重要的一个功能需求是可以随机显示一道菜，这样可以决定晚上做什么菜来吃。是不是和某种照片点名系统一样？各位给推荐一个呗。</p><img src="https://cdn4.cdn-telegram.org/file/sqpKh_ZS_IIfRh8C9qUPE_BJUB9S3qTc94duTNZh-lePQmM0c37t9vJ1nLDGUG-YMNfcXhep5k5Imw1oz3cecopXCtasiT99mSmvGyFzL1ajVHoOEutV7EQcSGQYsGRmd478ftzeVPf30dy1L1bLkb4OTZ1IXQZ1pOsjWLeE3o4xIi9KcVx9QV_haEmgjtqi1XdTyJ7VNSbsnGSZ0Fkbxskb2i4b-8yUFK27YNqEFawPGBMEW5rlWnTZQBItaohac0kRK6B7DogSozms8duPIQEIBPrtwP3S9xKI6U8AfQQb0ITtXqaMrxhuwkktM2YIhbLRh4AGhDNQ9w6QJ4eEvg.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Sat, 24 Feb 2024 01:28:01 GMT</pubDate>
-</item>
-<item>
-<title>🖼 Parallels Desktop 19 中国大陆区官网降价 购买链接：https://prf.hn/l/GqE0B8o</title>
-<link>https://t.me/appinnfeed/9714</link>
-<guid>https://t.me/appinnfeed/9714</guid>
-<content:encoded><![CDATA[
-<p>Parallels Desktop 19 中国大陆区官网降价<br /><br />购买链接：<a href="https://prf.hn/l/GqE0B8o" rel="noopener" target="_blank">https://prf.hn/l/GqE0B8o</a></p><img src="https://cdn5.cdn-telegram.org/file/r3wB9gEuRVfFozzrWbRAkZ1or0dvJ5GD6jWJ_oetUbctWGzvPVXN09PuAFTvUZ4P7_8uE7h05kLRQkr0b5Ivt4_ZhBKmIMAvb8a2vAuiMQCQB2DE48uS8fZQAhtRGXpilEDStSzPNj3-ydRHWzp1V5ugyIzz1VttLPlxgXjUssgIxHkJw4uJ8Lim14EFt3zGWbr7GatsmjpPstBn0LxfXSpUbQUrFW2OdDvWxsixRa9QRp1TL_635TXqC1P3tl0N1RbmmX00FEHNL3KlU3xgsge16B6HNYTov7QM-0awCOyNbik3iV9sdPyb55zNridaH1serUIs4PzWupZw2Qic7w.jpg" />
-]]></content:encoded>
-<pubDate>Fri, 23 Feb 2024 08:56:29 GMT</pubDate>
 </item>
 </channel>
 </rss>

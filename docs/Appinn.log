@@ -31529,3 +31529,10 @@ Existing_entries: 1002
 Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2024-05-29 14:01:54
+------------------------------------------------------
+Started: 2024-05-29 15:01:32
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [❓ #问题求助 我需要一款支持跨平台（PC和移动端）的任务管理应用，用于记录每日、每月和每年的计划，并在指定时间通过闹钟提醒我。要求该应用在手机端无需挂在...](https://t.me/appinnfeed/10796)
+append_entries: 1
+Finish: 2024-05-29 15:01:33

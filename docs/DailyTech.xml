@@ -5,17 +5,37 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>黑客攻击导致美运营商60万台路由器变砖 据周四发布的研究显示，去年年底，一个未确认的黑客组织对美国中心地带的一家电信公司发动了大规模网络攻击，导致数十万...</title>
+<link>https://t.me/xhqcankao/10789</link>
+<guid>https://t.me/xhqcankao/10789</guid>
+<content:encoded><![CDATA[
+
+<p><b>黑客攻击导致美运营商60万台路由器变砖</b><br /><br />据周四发布的研究显示，去年年底，一个未确认的黑客组织对美国中心地带的一家电信公司发动了大规模网络攻击，导致数十万台互联网路由器瘫痪。Lumen Technologies 的黑莲花实验室近几个月发现了这次攻击，并在一篇博文中进行了报道。研究人员表示，黑客安装了恶意软件，导致10月25日至27日期间美国中西部多个州的互联网访问中断。受影响的互联网服务提供商是位于阿肯色州的 Windstream。由于黑客向该公司客户发送的恶意固件更新删除了路由器的部分操作代码，导致路由器瘫痪。该运营商发现这些路由器无法修复，就向受影响的用户发送了新路由器。<br /><br />—— <a href="https://www.reuters.com/technology/cybersecurity/hundreds-thousands-us-internet-routers-destroyed-newly-discovered-2023-hack-2024-05-30/" rel="noopener" target="_blank">路透社</a></p>
+]]></content:encoded>
+<pubDate>Fri, 31 May 2024 23:54:03 GMT</pubDate>
+<pubDate>Fri, 31 May 2024 23:54:03 GMT</pubDate>
+</item>
+<item>
+<title>苹果称 iPhone 5s 已过时，iPod Touch 6 已成“复古” 苹果公司今天对其过时及停产产品名单进行了三项更改，涉及 iPhone 5s、第六代 iPod touch 和旧款 iMac 机...</title>
+<link>https://t.me/xhqcankao/10788</link>
+<guid>https://t.me/xhqcankao/10788</guid>
+<content:encoded><![CDATA[
+
+<p><b>苹果称 iPhone 5s 已过时，iPod Touch 6 已成“复古”</b><br /><br />苹果公司今天对其过时及停产产品名单进行了三项更改，涉及 iPhone 5s、第六代 iPod touch 和旧款 iMac 机型。首先，苹果公司现在认为  iPhone 5s 在全球范围内属于“过时”产品，这意味着苹果专卖店和苹果授权服务提供商不再为该设备提供维修或其他硬件服务。其次，第六代 iPod touch 和配备 Retina 4K 显示屏的 2015 年底版 21.5 英寸 iMac 现在被归类为“复古”产品，因为苹果公司停止销售这些设备的时间已超过五年。苹果专卖店和苹果授权服务提供商可以继续为旧款产品提供长达两年的维修服务，但前提是必要的零部件仍然有存货。<br /><br />—— <a href="https://www.macrumors.com/2024/05/31/apple-says-iphone-5s-now-obsolete/" rel="noopener" target="_blank">Macrumors</a></p>
+]]></content:encoded>
+<pubDate>Fri, 31 May 2024 23:23:01 GMT</pubDate>
+<pubDate>Fri, 31 May 2024 23:23:01 GMT</pubDate>
+</item>
+
+<item>
 <title>Hugging Face 称检测到其人工智能模型托管平台遭到“未经授权的访问” 当地时间5月31日下午，美国人工智能初创公司 Hugging Face 表示，其安全团队本周早些时候...</title>
 <link>https://t.me/xhqcankao/10787</link>
 <guid>https://t.me/xhqcankao/10787</guid>
 <content:encoded><![CDATA[
-
 <p><b>Hugging Face 称检测到其人工智能模型托管平台遭到“未经授权的访问”</b><br /><br />当地时间5月31日下午，美国人工智能初创公司 Hugging Face 表示，其安全团队本周早些时候检测到对其 Spaces 平台的“未经授权的访问”，因此怀疑部分机密信息可能在未经授权的情况下被访问。作为预防措施，已经撤销了这些机密中存在的一些 HF tokens。撤销的用户已收到电子邮件通知。<br /><br />—— <a href="https://huggingface.co/blog/space-secrets-disclosure" rel="noopener" target="_blank">Hugging Face</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 31 May 2024 22:27:35 GMT</pubDate>
-<pubDate>Fri, 31 May 2024 22:27:35 GMT</pubDate>
 </item>
-
 <item>
 <title>美国国税局向所有州开放免费网上报税程序 美国财政部周四宣布，美国国税局的 Direct File 计划（一项免费的在线纳税申报计划）将从2025年纳税季开始永久实施，全...</title>
 <link>https://t.me/xhqcankao/10786</link>
@@ -9130,19 +9150,6 @@ Sat, 11 May 2024 04:01:27 GMT
 <p><b>美国禁止华为和中国通信公司认证无线设备</b><br /><br />美国官员5月1日告诉路透社，美国联邦通信委员会(FCC)正在采取行动，阻止华为、中兴等被认为对美国国家安全构成威胁的外国公司认证无线设备。FCC 计划于本月就一项两党提案进行投票，以确保为美国市场认证无线设备的电信认证机构和测试实验室不受存在安全隐患的公司影响。上周，FCC 拒绝了华为测试实验室参与设备授权项目。该机构表示，这项新提案将永久禁止华为和 FCC 国家安全风险公司名单上的其它实体“在设备授权项目中发挥任何作用，同时也为 FCC 及其国家安全合作伙伴提供必要的工具来保障这一重要流程”。FCC 主席杰西卡·罗森沃塞尔在声明中表示，该机构“必须确保我们的设备授权项目以及负责管理该项目的人员能够应对持续且不断变化的安全和供应链威胁所带来的挑战”。华为作为认可实验室的认证于周二到期，但 FCC 拒绝了华为实验室延期认证的请求。<br /><br />—— <a href="https://www.reuters.com/business/media-telecom/us-moves-bar-huawei-other-chinese-telecoms-certifying-wireless-equipment-2024-05-01/" rel="noopener" target="_blank">路透社</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 02 May 2024 00:00:30 GMT</pubDate>
-</item>
-<item>
-<title>↩️ 美国将对 GoPro 指控深圳影石 Insta360 侵犯其专利展开调查 美国国际贸易委员会 (USITC) 正在对 GoPro 声称一家中国公司在向美国进口类似产品时侵犯了其相...</title>
-<link>https://t.me/xhqcankao/9982</link>
-<guid>https://t.me/xhqcankao/9982</guid>
-<content:encoded><![CDATA[
-<div class="rsshub-quote"><blockquote>
-                                    <p><a href="https://t.me/xhqcankao/9238"><b>风向旗参考快讯</b>:</a></p>
-                                    
-                                    <p>美国运动相机 GoPro 指控深圳影石 Insta360 侵犯专利，并申请发起337调查  据商务部消息：2024年3月29日，美国 GoPro,Inc. 公司依据《美国1930年关税法》第337节规定，向美国国际贸易委员会提出申请，指控对美出口、在美进口或在美销售的特定相机、相机系统及其配套使用的附件侵犯其专利权，请求发起337调查，并发布有限排除令和禁止令。中国、美国共2家企业涉案。界面新闻记者获悉，涉及的中国公司为深圳影石创新科技有限公司 (又称 Insta360 影石，下文称 Insta360)。…</p>
-                                </blockquote></div><p><b>美国将对 GoPro 指控深圳影石 Insta360 侵犯其专利展开调查</b><br /><br />美国国际贸易委员会 (USITC) 正在对 GoPro 声称一家中国公司在向美国进口类似产品时侵犯了其相机、系统和配件的专利展开调查。USITC 5月1日在公告中表示，根据《1930年关税法》第337节规定发起的调查适用于总部位于深圳的影石创新科技有限公司，该公司生产 Insta360 系列相机产品。GoPro 的品牌名称在很大程度上是可穿戴运动相机市场的代名词，该公司已请求贸易委员会发布排除令和停止令，禁止进口 Insta360 产品。GoPro 投诉称，Insta360 的产品侵犯了 GoPro 在 HERO 和 MAX 系列中使用的“新颖的专有 SuperView、虚拟镜头、HyperSmooth 和 Horizo​​n Leveling 技术”的专利。该公司表示，这可以让用户将图像纵横比拉伸到更宽的帧，从而创造出“身临其境”的观看体验。<br /><br />—— <a href="https://www.reuters.com/technology/us-trade-panel-probe-gopros-claims-that-chinese-firm-violated-its-patents-2024-05-01/" rel="noopener" target="_blank">路透社</a></p>
-]]></content:encoded>
-<pubDate>Wed, 01 May 2024 23:30:16 GMT</pubDate>
 </item>
 </channel>
 </rss>

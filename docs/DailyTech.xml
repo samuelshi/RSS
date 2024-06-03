@@ -5,14 +5,46 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>🖼 #Python潮流周刊 🐱🐱🐱🐱 第 53 期 🐱🐱🐱🐱 🦄文章&amp;教程 ① 我「接见」了诺奖得主 ② 450 天成为 Python 核心开发者 ③ Python 如何比...</title>
+<link>https://t.me/NewlearnerChannel/12892</link>
+<guid>https://t.me/NewlearnerChannel/12892</guid>
+<content:encoded><![CDATA[
+
+<p><a href="https://t.me/NewlearnerChannel/12892?q=%23Python%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A">#Python潮流周刊</a> <br /><br /><span class="emoji">🐱</span><span class="emoji">🐱</span><span class="emoji">🐱</span><span class="emoji">🐱</span>&nbsp; 第 53 期&nbsp; <span class="emoji">🐱</span><span class="emoji">🐱</span><span class="emoji">🐱</span><span class="emoji">🐱</span><br /><br /><a href="https://xiaobot.net/p/python_weekly" rel="noopener" target="_blank"><span class="emoji">🦄</span>文章&amp;教程</a> <br /><br />① 我「接见」了诺奖得主<br />② 450 天成为 Python 核心开发者<br />③ Python 如何比较浮点数和整数？<br />④ JIT 和移除 GIL 都不是我最期待的 Python 3.13 特性<br />⑤ 从事 Python 打包工作 6 年的不为人知的故事<br />⑥ 庆祝 Beautiful Soup 的 20 周年<br />⑦ 曾经最喜欢 Ruby，现在可能是 Python<br />⑧ 使用 Postgres 的 Django 异步任务队列（不是 Kafka、Rabbit MQ、Celery 或 Redis）<br />⑨ 在 Streamlit 中支持异步 MongoDB 操作<br />⑩ LangChain 实战：利用 LangChain SQL Agent 和 GPT 进行文档分析和交互<br />⑪ pyo3_asyncio：Python Asyncio 事件循环的 Rust 绑定<br />⑫ PyPy 已经悄悄地为我工作了好几年了<br /><br /><a href="https://xiaobot.net/p/python_weekly" rel="noopener" target="_blank"><span class="emoji">🐿️</span>项目&amp;资源</a> <br /><br />① llama-fs：基于 llama 3 的自组织文件系统<br />② orjson：快速准确的 JSON 库，支持数据类、日期时间和 Numpy<br />③ asyncssh：在 asyncio 上提供 SSHv2 协议的异步客户端和服务器<br />④ ipyblender-experimental：Jupyter 中引入 Blender<br />⑤ searxng：免费的互联网元搜索引擎，汇总各种搜索服务和数据库的结果<br />⑥ rio：纯 Python 的 Web 开发框架，无需 JavaScript、HTML 和 CSS<br />⑦ buku：个人的文本迷你网络<br />⑧ resume-builder：纯 Python 开发的简历生成工具<br />⑨ more-itertools：比 itertools 丰富的可迭代对象操作<br />⑩ tach：强制实施模块化、解耦的包架构<br />⑪ Zango：构建企业级应用/微服务的 Python Web 框架<br />⑫ pdm：支持最新 PEP 标准的 Python 包和依赖项管理工具<br /><br />周刊实行付费订阅制，年费128元，预计50期，超过10万字。现在订阅，每周让自己进步一点点。<br /><br /><span class="emoji">👀</span> <a href="https://xiaobot.net/p/python_weekly" rel="noopener" target="_blank">订阅方式一（小报童）</a> <br /><br /><span class="emoji">👀</span> <a href="https://afdian.net/a/python_weekly" rel="noopener" target="_blank">订阅方式二（爱发电）</a> <br /><br /><span class="emoji">👀</span> <a href="https://pythoncat.top/posts/2024-05-06-information-gap" rel="noopener" target="_blank">想详细了解周刊</a> <br /><br /><span class="emoji">🐱</span>频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/QUHQHlL_LrFVTCzTNAfIDNvVuvLlOg4Kb4GdgxveWCPp5zhEruGrtjs_tA8X0BDbMR_udi0bt0cZBjZmpCxkxO-yT9i6s1uhoRJh7e-VF2S0bX04GOpNRsYCRxQ97ULBUy-yT9Mk40hS8S8Rt8UTnJiN03GZh7Ykza9dr12MIOQuCkltC9CxUIh2vAzImcG58R7ZaQzDySS4TDXqwhfHkKrUnZXxYECQUmgFyG-MeKdtBBp_IYTRkXf4yZUylBB1QZwm2cYLr5U_e3-rvGJtQ-nWcO4yNJS8ZHEmXEmeiBrYbhuhi2G3XnDEEXFIFTqYnzakKJe6vlz1vzRuqb6C2g.jpg" />
+]]></content:encoded>
+<pubDate>Mon, 03 Jun 2024 10:01:52 GMT</pubDate>
+<pubDate>Mon, 03 Jun 2024 10:01:52 GMT</pubDate>
+</item>
+<item>
+<title>来分享我操作了一整个五月的商业故事： 中东大热背后，什么赛道里，中国玩家已经赚到了第一桶金？答案是中东人的线上社交生意。 这篇一万多字的长文揭秘了雅乐、...</title>
+<link>https://t.me/jike_collection/9870</link>
+<guid>https://t.me/jike_collection/9870</guid>
+<content:encoded><![CDATA[
+
+<p>来分享我操作了一整个五月的商业故事：<br /><br />中东大热背后，什么赛道里，中国玩家已经赚到了第一桶金？答案是中东人的线上社交生意。<br /><br />这篇一万多字的长文揭秘了雅乐、赤子城、Bigo这些神秘的隐形冠军是如何一路成长、攻占市场的，个别玩家是如何掉队的，以及黑马TikTok如何奇袭这一地区一举登顶直播。<br /><br />这是一个长达十年的、属于中国创业者的淘金与冒险故事——记录了一片处女地的开垦，聚集了神秘的地域文化、人性需求和商业战争。<br /><br />全文共 12533 字，蕴含许多耐人寻味的细节、中东本土故事、以及一些全球化的真相。<br /><br />ps.我辞职独立做的商业IP《商业漫谈》正式开始运营了，新号不易，如果觉得内容不错，欢迎关注、转发、留言，感恩<span class="emoji">🙏</span>欢迎从业者加我交流业务与趋势～<br /><br />by @卫诗婕  <a href="https://mp.weixin.qq.com/s/pnZfzrvxMV55DPytSiFJsQ" rel="noopener" target="_blank">https://mp.weixin.qq.com/s/pnZfzrvxMV55DPytSiFJsQ</a> <a href="https://t.me/jike_collection/9870?q=%23%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E8%A1%8C%E4%B8%9A%E5%86%85%E5%B9%95">#你不知道的行业内幕</a></p><blockquote><b>Weixin Official Accounts Platform</b><br /><b><a href="https://mp.weixin.qq.com/s/pnZfzrvxMV55DPytSiFJsQ">中东社交十年风云：金矿、折戟、浪潮再起</a></b><br /><p>一片处女地的开垦，聚集了神秘的地域文化、人性需求和商业战争。\x0a——商业漫谈  Jane\x26#39;s interview</p><img src="https://cdn4.cdn-telegram.org/file/kgpcyFIMJSCun27WVeCemC5hYGsIgsjHp6keryVlCAO6DwpRcMoxlBQCCaumEuphM6cHT7qD-hjO_Dr7iwTJwzV2_BAp1aecU4CETHFpiR_wSXP1H4za6jdPvO-8NbiZxefCHi1IRN1eJDewuBTXtZhVudvAWckvx2Bi30hrc87wJ7LISp8Ety2V3CpYCw5pvOCgnnFBUfdgJgNKERTe2L6Dvwpl1GMHtw4CbFb_7lecGM0o0MIgjdRxDNUV61qiev404TcY4sQUfUd-7o48JHCxeCIa-hf0PkwWCY0aMgWtJPQw98YcC8fuDgmpNcRkUp7YoTgccGX2VnJ81yFkFw.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Mon, 03 Jun 2024 10:15:22 GMT</pubDate>
+<pubDate>Mon, 03 Jun 2024 10:15:22 GMT</pubDate>
+</item>
+<item>
+<title>马斯克：SpaceX 星舰已准备好第四次试飞 太空探索技術 (SpaceX) 公司首席执行官埃隆·马斯克在社交平台 X 发文，他表示“星舰已准备好起飞。”昨日，SpaceX 公司...</title>
+<link>https://t.me/xhqcankao/10827</link>
+<guid>https://t.me/xhqcankao/10827</guid>
+<content:encoded><![CDATA[
+
+<p><b>马斯克：SpaceX 星舰已准备好第四次试飞</b><br /><br />太空探索技術 (SpaceX) 公司首席执行官埃隆·马斯克在社交平台 X 发文，他表示“星舰已准备好起飞。”昨日，SpaceX 公司宣布，目前正等待监管部门批准。据 SpaceX 官网显示，第四次试飞的重点是展现星舰和超重型火箭的回收能力，主要目标将是使用超重型助推器在墨西哥湾进行着陆燃烧和软溅落，并实现星舰受控进入。据了解，此次试飞将沿用此前与试飞类似的轨迹，预定的降落点在印度洋。<br /><br />—— <a href="https://tech.ifeng.com/c/8a76pDCR5oy" rel="noopener" target="_blank">凤凰科技</a>、<a href="https://x.com/elonmusk/status/1797499471632519491" rel="noopener" target="_blank">马斯克</a></p>
+]]></content:encoded>
+<pubDate>Mon, 03 Jun 2024 10:31:29 GMT</pubDate>
+<pubDate>Mon, 03 Jun 2024 10:31:29 GMT</pubDate>
+</item>
+
+<item>
 <title>美光下一代 HBM 在功耗方面比 SK海力士和三星电子更具优势 业界2日称，美光正在研发的下一代 HBM 在功耗方面优于 SK海力士和三星电子。一位知情的半导体行业高管...</title>
 <link>https://t.me/xhqcankao/10826</link>
 <guid>https://t.me/xhqcankao/10826</guid>
 <content:encoded><![CDATA[
-
 <p><b>美光下一代 HBM 在功耗方面比 SK海力士和三星电子更具优势<br /></b><br />业界2日称，美光正在研发的下一代 HBM 在功耗方面优于 SK海力士和三星电子。一位知情的半导体行业高管表示：“美光的新 HBM 产品在低功耗性能评估中表现出了优异的成绩。”今年年底美光 HBM 产能为2万片12英寸晶圆。虽然仅为 SK海力士和三星电子产能的 20% 左右，但预计明年将增加三到四倍。<br /><br />—— <a href="https://m.etnews.com/20240531000203?obj=Tzo4OiJzdGRDbGFzcyI6Mjp7czo3OiJyZWZlcmVyIjtzOjIzOiJodHRwczovL3d3dy5nb29nbGUuY29tLyI7czo3OiJmb3J3YXJkIjtzOjEzOiJ3ZWIgdG8gbW9iaWxlIjt9" rel="noopener" target="_blank">Etnews</a></p>
 ]]></content:encoded>
-<pubDate>Mon, 03 Jun 2024 09:40:25 GMT</pubDate>
 <pubDate>Mon, 03 Jun 2024 09:40:25 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +52,10 @@
 <link>https://t.me/xhqcankao/10825</link>
 <guid>https://t.me/xhqcankao/10825</guid>
 <content:encoded><![CDATA[
-
 <p><b>百度地图车道级导航即将上线特斯拉</b><br /><br />6月3日下午消息，百度地图今日公布了特斯拉实测 V20 版本的视频，宣布百度地图车道级导航即将上线特斯拉。据介绍，百度地图特斯拉 V20 版本进行了 2D 变 3D 视觉大升级，全新 UI 更直观，更适合特斯拉。图标更醒目，能够做到等灯不焦虑、红绿灯倒计时，全国百万路口已上线。同时具备摄像头提醒、压线提醒、公交车道提醒、超速提醒等功能，让乘驾人做到眼前有路，心中有数。百度地图方面表示，“知道大家对特斯拉百度地图 V20 上线时间有些小期待，为了弥补大家的等待，先给大家路测了一下，奉上实测小视频，各位先看看一饱眼福！好事临近，即将上线，期待尽快与大家见面。”<br /><br />—— <a href="https://finance.sina.cn/2024-06-03/detail-inaxmwyh4642776.d.html?from=wap" rel="noopener" target="_blank">新浪科技</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 03 Jun 2024 09:16:59 GMT</pubDate>
-<pubDate>Mon, 03 Jun 2024 09:16:59 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 #GitHub情报 #iOS 老司机 iOS 周报 2024-06-03 这周份的 iOS Markdown 周报，适合爱好者和 iOS 开发人员，每周为大家带来最新的 iOS 新闻资讯，开发信息 �...</title>
 <link>https://t.me/NewlearnerChannel/12891</link>
@@ -9116,24 +9145,6 @@ Sat, 11 May 2024 04:01:27 GMT
 <p><b>比尔·盖茨仍在幕后积极参与微软的运营</b><br /><br />自 2021 年以来，在被指控对女性员工有不当行为后，盖茨在公开场合几乎完全退出了微软的视野。事实上，《商业内幕》了解到，盖茨一直在幕后悄悄策划微软的人工智能革命。现任和前任高管表示，盖茨仍然密切参与公司的运营——提供战略建议、审查产品、招聘高级管理人员，以及培养微软与 OpenAI 联合创始人兼首席执行官萨姆·奥尔特曼的重要关系。 2023 年初，微软推出了采用与 ChatGPT 相同技术的搜索引擎 Bing 版本，向谷歌等竞争对手发出了挑战，高管们表示，盖茨在制定该计划方面发挥了关键作用。虽然纳德拉可能是该公司人工智能成功的代言人——他为 3 万亿美元的巨无霸铺设了黄砖路，但盖茨却是幕后操纵者。<br /><br />—— <a href="https://www.businessinsider.com/bill-gates-still-pulling-strings-microsoft-ai-copilot-chatgpt-2024-4" rel="noopener" target="_blank">商业内幕</a></p>
 ]]></content:encoded>
 <pubDate>Sat, 04 May 2024 01:49:58 GMT</pubDate>
-</item>
-<item>
-<title>2024年5月4日 🌍资讯快读 1、上海推出商品住房“以旧换新”活动 https://www.thepaper.cn/newsDetail_forward_27253936 2、河南大学大礼堂着火，房顶已基本坍...</title>
-<link>https://t.me/jike_collection/9787</link>
-<guid>https://t.me/jike_collection/9787</guid>
-<content:encoded><![CDATA[
-<p>2024年5月4日<br /><span class="emoji">🌍</span>资讯快读<br />1、上海推出商品住房“以旧换新”活动<br /><a href="https://www.thepaper.cn/newsDetail_forward_27253936" rel="noopener" target="_blank">https://www.thepaper.cn/newsDetail_forward_27253936</a><br />2、河南大学大礼堂着火，房顶已基本坍塌<br /><a href="https://www.thepaper.cn/newsDetail_forward_27253991" rel="noopener" target="_blank">https://www.thepaper.cn/newsDetail_forward_27253991</a><br />3、广西查处非法燃气存储窝点，现场查扣液化气钢瓶232瓶<br /><a href="https://www.thepaper.cn/newsDetail_forward_27255839" rel="noopener" target="_blank">https://www.thepaper.cn/newsDetail_forward_27255839</a><br />4、嫦娥六号任务点火发射<br /><a href="https://36kr.com/newsflashes/2759993891470087" rel="noopener" target="_blank">https://36kr.com/newsflashes/2759993891470087</a><br />5、土耳其停止与以色列所有贸易，直至加沙获得充足援助<br /><a href="https://www.thepaper.cn/newsDetail_forward_27254042" rel="noopener" target="_blank">https://www.thepaper.cn/newsDetail_forward_27254042</a><br /><br /><span class="emoji">👬</span>即刻镇小报<br />1、五一假期推荐九部纪录片观影清单<br /><a href="https://m.okjike.com/originalPosts/6631a6136d9f190631da3095" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/6631a6136d9f190631da3095</a><br />2、和李楠聊AI硬件<br /><a href="https://m.okjike.com/originalPosts/663115e3164d89e601846d46" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/663115e3164d89e601846d46</a><br />3、直面需求去创造价值<br /><a href="https://m.okjike.com/originalPosts/6630e02d12ed2fda68dad678" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/6630e02d12ed2fda68dad678</a><br />4、推荐两个好用的旅行规划工具<br /><a href="https://m.okjike.com/originalPosts/6630d05938849f879f6bfaf3" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/6630d05938849f879f6bfaf3</a><br />5、手机会取代 PC 成为大众最常用的计算中心<br /><a href="https://m.okjike.com/originalPosts/66332dce362466632420edd5" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/66332dce362466632420edd5</a><br /><br />今日即刻镇小报内容来自 @没有弦的十月 <a href="https://t.me/Diiiii" target="_blank">@Diiiii</a> @杨昌 @韩克森 <a href="https://t.me/Gavin_C" target="_blank">@Gavin_C</a>. ，感谢以上即友的创作与分享。 <a href="https://t.me/jike_collection/9787?q=%23%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88">#一觉醒来发生了什么</a></p><blockquote><b>www.thepaper.cn</b><br /><b><a href="https://www.thepaper.cn/newsDetail_forward_27253936">上海推出商品住房“以旧换新”活动，房企承诺一定期限内旧房未出售可“退房退款”_浦江头条_澎湃新闻-The Paper</a></b><br /><p>2024年5月3日，上海市房地产行业协会、上海市房地产经纪行业协会积极响应第五届上海“五五购物节”，联合倡议在本市发起商品住房“以旧换新”活动。该活动旨在通过“</p></blockquote>
-]]></content:encoded>
-<pubDate>Sat, 04 May 2024 00:39:35 GMT</pubDate>
-</item>
-<item>
-<title>极氪美国IPO目标估值高达51亿美元 吉利汽车支持的电动汽车制造商极氪周五表示，该公司首次公开募股 (IPO) 的目标估值高达51.2亿美元。该公司在美国 SEC 证券交易...</title>
-<link>https://t.me/xhqcankao/10033</link>
-<guid>https://t.me/xhqcankao/10033</guid>
-<content:encoded><![CDATA[
-<p><b>极氪美国IPO目标估值高达51亿美元</b><br /><br />吉利汽车支持的电动汽车制造商极氪周五表示，该公司首次公开募股 (IPO) 的目标估值高达51.2亿美元。该公司在美国 SEC 证券交易委员一份监管公告中说，预计在 IPO 中发售1,750万份美国存托股票 (ADS)，相当于1.75亿股普通股，每份 ADS 发行价为18-21美元。该公司最初是中国汽车制造商吉利汽车旗下的电动汽车子公司，于2021年被分拆为一家独立公司。极氪在监管公告中说，该公司2023年的汽车销售额为47.8亿美元，总收入达72.8亿美元。该公司同期亏损11.6亿美元。<br /><br />—— <a href="https://cn.wsj.com/amp/articles/%E6%9E%81%E6%B0%AAipo%E7%9B%AE%E6%A0%87%E4%BC%B0%E5%80%BC%E9%AB%98%E8%BE%BE51%E4%BA%BF%E7%BE%8E%E5%85%83-0de3d8c6" rel="noopener" target="_blank">华尔街日报</a></p>
-]]></content:encoded>
-<pubDate>Sat, 04 May 2024 01:20:11 GMT</pubDate>
 </item>
 </channel>
 </rss>

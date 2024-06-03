@@ -4,18 +4,16 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+
 <item>
 <title>波兰将投入30亿波兰兹罗提加强网络安全 波兰政府当地时间3日宣布，计划投入高达30亿兹罗提用于加强网络安全措施，此前该国政府指责俄罗斯发动了攻击。波兰当局已...</title>
 <link>https://t.me/xhqcankao/10834</link>
 <guid>https://t.me/xhqcankao/10834</guid>
 <content:encoded><![CDATA[
-
 <p><b>波兰将投入30亿波兰兹罗提加强网络安全</b><br /><br />波兰政府当地时间3日宣布，计划投入高达30亿兹罗提用于加强网络安全措施，此前该国政府指责俄罗斯发动了攻击。波兰当局已采取行动加强对所谓俄罗斯支持的破坏活动所构成的威胁的应对，包括上周疑似针对该国主要国营通讯社的袭击。执政联盟将安全和俄罗斯干预的风险作为本周末欧洲议会选举竞选活动的首要任务。波兰数字化部长加夫科夫斯基表示，政府已采取行动在选举前改善网络安全，并补充说，刚刚挫败了一起针对关键基础设施的协同攻击。“如今，波兰与俄罗斯之间的网络战不再是冷战，在某些方面，甚至是热战。”<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-06-03/poland-unveils-plan-to-spend-760-million-on-cybersecurity-boost" rel="noopener" target="_blank">彭博社</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 03 Jun 2024 14:11:11 GMT</pubDate>
-<pubDate>Mon, 03 Jun 2024 14:11:11 GMT</pubDate>
 </item>
-
 <item>
 <title>社交平台 X 调整规则正式允许成人内容 互联网上充斥着各种各样的内容由来已久，因此当人们开始在推特上互发色情内容时，大家并不感到意外。X 长期以来一直拥有许...</title>
 <link>https://t.me/xhqcankao/10833</link>
@@ -9114,15 +9112,6 @@ Sat, 11 May 2024 04:01:27 GMT
 <p><b>Threads为所有用户推出了引用控制功能</b><br /><br />社交平台 Threads 用户现在可以更好地控制谁可以引用他们的帖子。这是对一个功能的完善，该功能已允许 Threads 用户限制谁可以回复他们的帖子。该社交平台上个月概述了其引用控制的计划，昨晚 Instagram 负责人<a href="https://www.threads.net/@mosseri/post/C6hmM-DvK_R/?xmt=AQGzQRbClB4LkvnCwZAs8rc89qCvrEysDlFxHJTjtOitag" rel="noopener" target="_blank">亚当·莫塞里</a>宣布该功能对所有用户可用。莫塞里写道：“我希望这将有助于保持 Threads 成为一个更积极的地方，并让人们更多地控制他们的体验。” <br /><br />—— <a href="https://techcrunch.com/2024/05/04/farewell-dunks-threads-launches-quote-controls-for-all-users/" rel="noopener" target="_blank">Techcrunch</a></p>
 ]]></content:encoded>
 <pubDate>Sat, 04 May 2024 21:11:13 GMT</pubDate>
-</item>
-<item>
-<title>安卓DNS流量可能会在VPN隧道外泄漏 瑞典 VPN 运营商 Mullvad 发文称，最近注意到安卓上存在多个潜在的 DNS 泄漏问题。这些泄漏源自安卓本身的漏洞，并且仅影响某...</title>
-<link>https://t.me/xhqcankao/10042</link>
-<guid>https://t.me/xhqcankao/10042</guid>
-<content:encoded><![CDATA[
-<p><b>安卓DNS流量可能会在VPN隧道外泄漏</b><br /><br />瑞典 VPN 运营商 Mullvad 发文称，最近注意到安卓上存在多个潜在的 DNS 泄漏问题。这些泄漏源自安卓本身的漏洞，并且仅影响某些应用。已确定安卓操作系统可能泄漏 DNS 流量的场景：<i>1、如果 VPN 处于活动状态且未配置任何 DNS 服务器。2、当 VPN 应用重新配置隧道或被强制停止/崩溃的短暂时间内。</i>泄漏似乎仅限于直接调用C函数 getaddrinfo。使用这种方式解析域名的应用会在上述情况下造成泄漏。尚未发现仅使用 Android API (如 DnsResolver) 的应用造成的泄漏。无论是否启用“始终开启的 VPN”和“屏蔽未使用 VPN 的所有连接”，上述情况均适用，这不是预期的操作系统行为，因此应在操作系统的上游进行修复。并确认这些泄漏发生在多个版本的安卓中，包括最新版本安卓14。<br /><br />—— <a href="https://mullvad.net/en/blog/dns-traffic-can-leak-outside-the-vpn-tunnel-on-android" rel="noopener" target="_blank">Mullvad</a></p>
-]]></content:encoded>
-<pubDate>Sat, 04 May 2024 12:16:19 GMT</pubDate>
 </item>
 </channel>
 </rss>

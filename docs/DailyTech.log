@@ -54403,3 +54403,16 @@ Append: [日本动画制作公司 Gainax 宣布破产 制作了《新世纪福�
 Fetching from https://rsshub.bytegeniuses.com/telegram/channel/AppleNuts
 append_entries: 1
 Finish: 2024-06-07 17:01:32
+------------------------------------------------------
+Started: 2024-06-07 18:01:37
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/NewlearnerChannel
+Feed error: 522
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/jike_collection
+Feed error: 522
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/xhqcankao
+Feed error: 522
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/AppleNuts
+Feed error: 522
+append_entries: 0
+error when rendering xml, skip docs/DailyTech

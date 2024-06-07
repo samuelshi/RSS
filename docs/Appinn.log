@@ -32938,3 +32938,12 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 502
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-06-07 20:01:55
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [❓ #问题求助 TG有没有办法创建多个收藏夹？ https://meta.appinn.net/t/topic/57419](https://t.me/appinnfeed/10880)
+Append: [💧 #小众软件 有人制作假冒 App 还上架到了应用商店，开发者很生气，但又能做什么呢？ https://www.appinn.com/fake-app-uploaded-app-store/ Tags: #业界消息...](https://t.me/appinnfeed/10879)
+Append: [📣 #发现频道 【自荐】易条形-一款在线批量条形码生成工具 https://meta.appinn.net/t/topic/57416](https://t.me/appinnfeed/10878)
+append_entries: 3
+Finish: 2024-06-07 20:01:56

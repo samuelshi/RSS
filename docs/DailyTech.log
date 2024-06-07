@@ -54416,3 +54416,16 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/AppleNuts
 Feed error: 522
 append_entries: 0
 error when rendering xml, skip docs/DailyTech
+------------------------------------------------------
+Started: 2024-06-07 19:01:33
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/NewlearnerChannel
+Feed error: 502
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/jike_collection
+Feed error: 502
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/xhqcankao
+Feed error: 502
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/AppleNuts
+Feed error: 502
+append_entries: 0
+error when rendering xml, skip docs/DailyTech

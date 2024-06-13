@@ -5,17 +5,48 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>🖼 #macOS #App 💻 macOS Sequoia Dev Beta 1 系统尝鲜方法分享 作为 macOS 的忠实簇拥，每年的新 macOS 系统我都会格外关注，今年的更新让我尤为满意。对于...</title>
+<link>https://t.me/NewlearnerChannel/12940</link>
+<guid>https://t.me/NewlearnerChannel/12940</guid>
+<content:encoded><![CDATA[
+
+<p><a href="https://t.me/NewlearnerChannel/12940?q=%23macOS">#macOS</a> <a href="https://t.me/NewlearnerChannel/12940?q=%23App">#App</a><br /><br /><span class="emoji">💻</span> <b>macOS Sequoia Dev Beta 1 系统尝鲜方法分享</b><br /><br />作为 macOS 的忠实簇拥，每年的新 macOS 系统我都会格外关注，今年的更新让我尤为满意。对于频道今年的新读者朋友，我想要复述分享快速安装测试版系统的方法<br /><br /><b>① OTA</b><br /><br />这也是大部分人选择的一种内测方式，打开设置 - 通用 - 软件更新 -  Beta 版更新，安装对应的 Beta 测试版。注意，苹果目前对所有用户免费开放 Dev Beta，大家直接去设置寻找即可<br /><br />我们建议大家在安装前，前往磁盘工具，为即将安装的 Beta 系统专门开设一个分区，并在安装过程中选择该分区进行下一步。如果你执意在主力系统直接更新，那么我推荐先做 Time Machine 备份<br /><br /><b>② Installers（PKG 等）</b><br /><br />大家熟悉的 PKG 今年也不缺席，但它不再作为描述文件出现，而是安装包。我非常喜欢的网站 <a href="https://mrmacintosh.com/macos-sequoia-full-installer-database-download-directly-from-apple/" rel="noopener" target="_blank">Mr. Macintosh</a> 为大家提供了来自于官方的 PKG 内测包，大家可下载使用<br /><br />相信等正式版出来之后，一定会有如 <a href="https://t.me/NewlearnerChannel/7602" rel="noopener" target="_blank">Mist</a>、<a href="https://t.me/NewlearnerChannel/7449" rel="noopener" target="_blank">DownloadFullInstaller</a> 等傻瓜一键下载完整安装包程序出现，到时候大家也可体验快速下载、制作安装包的乐趣<br /><br />我此前写的《<a href="https://www.newlearner.site/2019/03/07/macos-dmg-iso.html" rel="noopener" target="_blank">制作</a> <a href="https://www.newlearner.site/2019/03/07/macos-dmg-iso.html" rel="noopener" target="_blank">macOS DMG 及</a> <a href="https://www.newlearner.site/2019/03/07/macos-dmg-iso.html" rel="noopener" target="_blank">ISO 可引导镜像</a>》至今应该也依然不过时，只要你想，macOS 可以以各种格式出现（IPSW、PKG、DMG、ISO 等）<br /><br />被本次抛弃的 Mac 们（多为 18 年之前）也不要灰心，未来还会有如 <a href="https://t.me/NewlearnerChannel/9781" rel="noopener" target="_blank">OpenCore Legacy Patcher</a> 这样的项目，让你的老 Mac 发光发热<br /><br /><b>③ Apple Configurator（DFU）</b><br /><br />本方法需要使用另一台 Mac、Apple Configurator 软件和 <a href="https://mrmacintosh.com/apple-silicon-m1-full-macos-restore-ipsw-firmware-files-database/" rel="noopener" target="_blank">IPSW 内测包</a>，这是一种激进的办法，通过直接抹掉现在这台 Mac 上的系统、并写入新系统来实现<br /><br />你要做的是在一台 Mac 上安装 Apple Configurator，并连接另一台你想要更新的 Mac，接着让其进入 DFU 模式并写入 IPSW<br /><br /><b>④ 虚拟机</b><br /><br />虚拟机是大家普遍能够接受的一种方式，也是不影响当前主力系统运行下，体验最新 Beta 系统的一种好办法。虚拟机软件方面我推荐以下几种：<br /><br />• <a href="https://www.parallels.com/en/products/desktop/" rel="noopener" target="_blank">Parallels Desktop</a>：Apple 官方合作的虚拟机软件，除了贵之外都是优点<br />• <a href="https://mac.getutm.app/" rel="noopener" target="_blank">UTM</a>：近几年兴起的开源项目，支持多平台，免费的好选择<br />• <a href="https://t.me/NewlearnerChannel/9426" rel="noopener" target="_blank">VirtualBuddy</a>：专为 Apple Silicon 而生，同样免费<br /><br />我推荐的三个项目都有一个共同点：支持直接通过 IPSW 生成虚拟机（借助 MacVM API），若以后 ISO 出现，大家可使用自己习惯的虚拟机软件。由于没有购入 Parallels Desktop，我使用了 UTM<br /><br /><span class="emoji">⚠️</span> 值得注意的是，由于调用了 MacVM API，我们还需要安装 <b>Xcode / Xcode Command Line Tools Beta</b> 才能够正常运行。大家可以在 <a href="https://developer.apple.com/download/all/" rel="noopener" target="_blank">开发者官网</a> 下载所需的软件，勾选 macOS 开发即可，减小体积<br /><br /><span class="emoji">👀</span> 折腾 macOS 安装给我的学生时代带来了莫大的乐趣，努力探索不同的安装方式、做到尝鲜的同时不影响主力系统的运行，是我一贯的追求。在不断探索、分享的过程中，我收获了许多乐趣、遇到了对 macOS 同样热爱的同路人<br /><br /><span class="emoji">🥳</span> 今年我下载 IPSW 和 Xcode Beta 后，系统提示我需要升级到 14.5 系统才能安装，这让我感到很遗憾。但很庆幸这份折腾的乐趣，从学生时代伴随我到工作之后，当我再次和群友聊起熟悉的内容，内心依然无比满足。希望这篇推送能够让你对 macOS 安装有一个大概的了解，祝你尝鲜愉快<br /><br /><span class="emoji">📘</span> 关联阅读：<br /><br /><span class="emoji">1️⃣</span> <a href="https://t.me/NewlearnerChannel/4885" rel="noopener" target="_blank">macOS 使用虚拟机安装</a> <a href="https://t.me/NewlearnerChannel/4885" rel="noopener" target="_blank">macOS Big Sur</a><br /><span class="emoji">2️⃣</span> <a href="https://t.me/NewlearnerChannel/6041" rel="noopener" target="_blank">Apple Silicon Mac 引导、恢复模式与重装事宜盘点</a><br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/EbdKsRiAeqjzihzDql94IAxzb1yR1x87NkNtZ_RgwaxkSDvhXQ9P0T59cAYi3-QlNGuA0TbHg_QU7zIojyUIfoQxERro-DTyU21KAhqCILzwsT58LpTNzcQnsUNIoMrexoZ2fwtgDHhY-dXA6IjdqldgMXwB6xfivOlWuPZl_y0H9GtrNgG6roYPj5ooC_hJ3Mo18Q1JhiRD36x2BF57PBOF681469jR1UgEW79y7_HDiBQQvgEyDa0j7K9Ci8ej6i787-rwE7pOhZmPJCf471_zfLm95UvJ8css3JUnzO-R06MP5ha_7zRD8b7vZcOz9gUsj92cKtg7Qb93RqhNHg.jpg" />
+]]></content:encoded>
+<pubDate>Thu, 13 Jun 2024 04:02:54 GMT</pubDate>
+<pubDate>Thu, 13 Jun 2024 04:02:54 GMT</pubDate>
+</item>
+<item>
+<title>马斯克的特斯拉薪酬方案和迁址提案获股东投票通过 特斯拉 CEO 马斯克在 X 平台发文，特斯拉的两项股东决议均以较大优势获得通过，包括马斯克的 2018 年薪酬方案...</title>
+<link>https://t.me/xhqcankao/11087</link>
+<guid>https://t.me/xhqcankao/11087</guid>
+<content:encoded><![CDATA[
+
+<p><b>马斯克的特斯拉薪酬方案和迁址提案获股东投票通过</b><br /><br />特斯拉 CEO 马斯克在 X 平台发文，特斯拉的两项股东决议均以较大优势获得通过，包括马斯克的 2018 年薪酬方案和将特斯拉总部迁至得克萨斯州的提案。<br /><br />该薪酬方案授予马斯克约 3 亿股激励性股票期权，当前价值约 500 亿美元，并在 2018 年获得超过 70% 的股东支持通过。在今年 1 月，一位特拉华州法官以披露给特斯拉投资者信息不足为由撤销了该方案。马斯克因此决定将特斯拉公司的注册地迁出特拉华州。特斯拉董事会随后在提供新披露信息的情况下再次提交了该方案进行投票。<br /><br />—— <a href="https://x.com/elonmusk/status/1801084780035154058" rel="noopener" target="_blank">马斯克</a></p>
+]]></content:encoded>
+<pubDate>Thu, 13 Jun 2024 04:49:03 GMT</pubDate>
+<pubDate>Thu, 13 Jun 2024 04:49:03 GMT</pubDate>
+</item>
+<item>
+<title>利用谷歌最佳技术改进 Chromebook 体验 谷歌于当地时间12日宣布，ChromeOS 将在很大程度上基于安卓堆栈进行开发，以便更快地为用户带来谷歌人工智能、创新和功能...</title>
+<link>https://t.me/xhqcankao/11086</link>
+<guid>https://t.me/xhqcankao/11086</guid>
+<content:encoded><![CDATA[
+
+<p><b>利用谷歌最佳技术改进 Chromebook 体验</b><br /><br />谷歌于当地时间12日宣布，ChromeOS 将在很大程度上基于安卓堆栈进行开发，以便更快地为用户带来谷歌人工智能、创新和功能。该公司表示，为了以更快和更大规模向用户推出新的谷歌人工智能功能，他们将把安卓 Linux 内核和安卓框架作为 ChromeOS 基础的一部分。谷歌表示，将基于安卓的技术堆栈引入 ChromeOS 将使其能够加快该桌面操作系统核心的人工智能创新步伐，简化工程工作，并帮助手机和配件等不同设备更好地与 Chromebook 协同工作。<br /><br />—— <a href="https://blog.chromium.org/2024/06/building-faster-smarter-chromebook.html?m=1" rel="noopener" target="_blank">谷歌博客</a></p>
+]]></content:encoded>
+<pubDate>Thu, 13 Jun 2024 04:06:59 GMT</pubDate>
+<pubDate>Thu, 13 Jun 2024 04:06:59 GMT</pubDate>
+</item>
+
+<item>
 <title>国际能源署预测全球石油需求在2029年达到顶峰 根据国际能源署12日发布的石油市场报告，预计2030年世界石油需求将达到每日1.054亿桶。石油需求将会随着可再生能源...</title>
 <link>https://t.me/xhqcankao/11085</link>
 <guid>https://t.me/xhqcankao/11085</guid>
 <content:encoded><![CDATA[
-
 <p><b>国际能源署预测全球石油需求在2029年达到顶峰</b><br /><br />根据国际能源署12日发布的石油市场报告，预计2030年世界石油需求将达到每日1.054亿桶。石油需求将会随着可再生能源的普及而放缓，需求量将在2029年达到峰值1.056亿桶。预计2030年的石油需求与2023年相比，将仅增长3%。分析认为，虽然存在航空煤油使用量增长等拉动石油需求的因素，但纯电动汽车的销售增加和发电领域从石油转向可再生能源的趋势将对石油需求产生影响。<br /><br />—— <a href="https://cn.nikkei.com/politicsaeconomy/commodity/55860-2024-06-13-09-57-18.html" rel="noopener" target="_blank">日经新闻</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 13 Jun 2024 03:20:14 GMT</pubDate>
-<pubDate>Thu, 13 Jun 2024 03:20:14 GMT</pubDate>
 </item>
-
 <item>
 <title>索尼影视娱乐收购美国连锁影院阿拉莫影城 索尼影视娱乐6月12日宣布，已收购美国连锁影院阿拉莫影城 (Alamo Drafthouse Cinema)，索尼影视娱乐新成立的部门 Sony ...</title>
 <link>https://t.me/xhqcankao/11084</link>
@@ -9114,15 +9145,6 @@
 <p><b>Netflix 将推出全新 Windows 应用 不支持离线观看<br /></b><br />根据官方支持文档，适用于 Windows 的全新 Netflix 应用即将推出，其中包括支持观看现场活动、提高流媒体质量、与广告支持套餐兼容等等。虽然不再支持下载，但用户可以继续在受支持的移动设备上离线观看电视节目和电影。新应用将于2024年6月开始推出，并将取代现有应用。如果用户不更新，当前或旧版 Netflix 应用最终将停止工作。<br /><br />—— <a href="https://help.netflix.com/en/node/23931" rel="noopener" target="_blank">Netflix</a>、<a href="https://www.windowslatest.com/2024/05/14/netflix-teases-a-new-windows-11-app-with-ads-but-no-downloads-feature/" rel="noopener" target="_blank">WindowsLatest</a></p><img src="https://cdn5.cdn-telegram.org/file/qGgal7VK2wvgDIchGC06_Iirdwcddtt-6D_x2MhHews3MqLErK2kn82CGaEAcpHSkzFwnBcB6HgWvL7BK8MnsABzhJYiFQ13jn-e7t4o6m5PSPCr-yg1ZLBccv99OKIKEeLqr0reAYk1icSg2Y4xc0rNum1UyvGmlJ7au8QEQwKY0DC4eIPzwTu2X9VFxAPlf9HTs39WV5K0Bxcozz--feRMpDpTNM302462wwQUnC3AaWz0Wfa5ShotKJ-Kz0kMymNbrMrhkn4-HzPpa5dUji92ZY6qZgfpF4aLEC-YC9B0AgNHuRcCilskTDX_R1iKc3iHy6STdwBpYu39A-PZOA.jpg" />
 ]]></content:encoded>
 <pubDate>Tue, 14 May 2024 23:40:11 GMT</pubDate>
-</item>
-<item>
-<title>八名 TikTok 创作者针对“剥离或禁止”法提起诉讼 八名 TikTok 创作者提起诉讼，要求阻止一项法律。该法律将禁止该应用，除非其中国母公司从 TikTok 退股。他们...</title>
-<link>https://t.me/xhqcankao/10320</link>
-<guid>https://t.me/xhqcankao/10320</guid>
-<content:encoded><![CDATA[
-<p><b>八名 TikTok 创作者针对“剥离或禁止”法提起诉讼</b><br /><br />八名 TikTok 创作者提起诉讼，要求阻止一项法律。该法律将禁止该应用，除非其中国母公司从 TikTok 退股。他们认为该措施将剥夺他们的生计和创作渠道。该诉讼依赖第一修正案的论点，称立法者对该应用的担忧只是推测，并回顾说法院已经阻止了禁止 TikTok 的其他方法，包括前总统特朗普的行政命令和蒙大拿州法律。创作者声称，TikTok 作为表达工具与其他社交媒体平台不同，这意味着创作者没有可以转向的同等平台。诉状指出，尽管参与诉讼的所有创作者都使用过 Facebook 和 IG 等其他平台，但他们在这些网站上的关注度却明显较低。而且，他们说，他们担心所有权变更可能会彻底改变体验，就像马斯克收购推特对该平台所做的那样。该案件已向华盛顿特区联邦上诉法院提起，该法院对强制撤资法的质疑拥有专属管辖权。创作者要求法院宣布该法律违宪并阻止执行。<br /><br />—— <a href="https://www.theverge.com/2024/5/14/24156778/tiktok-creators-sue-us-divest-or-ban-law" rel="noopener" target="_blank">TheVerge</a></p>
-]]></content:encoded>
-<pubDate>Tue, 14 May 2024 23:10:07 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -5,14 +5,24 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>澳大利亚一学校约50名女生照片被AI制成露骨图像在网上传播 警方正调查 澳一家私立学校约50名女生“裸照”在社交媒体上传播。经学校证实，这些“裸照”是通过人工...</title>
+<link>https://t.me/xhqcankao/11088</link>
+<guid>https://t.me/xhqcankao/11088</guid>
+<content:encoded><![CDATA[
+
+<p><b>澳大利亚一学校约50名女生照片被AI制成露骨图像在网上传播 警方正调查</b><br /><br />澳一家私立学校约50名女生“裸照”在社交媒体上传播。经学校证实，这些“裸照”是通过人工智能生成并上传到社交媒体上的。目前，澳警方正在进一步调查。这所名为巴克斯马什文法学校的私立学校11日发表声明称，有学生脸部照片的内容被人工智能制作成裸照并在社交媒体上流传，学校对此非常重视，已将此事转交给了警方。澳大利亚警方11日晚些时候发布声明称，一名青少年因涉及这起事件被捕，但目前已被释放，具体情况要等待进一步的调查结果。<br /><br />—— <a href="https://hqtime.huanqiu.com/article/4IB5PS5vkXi" rel="noopener" target="_blank">环球网</a>、<a href="https://www.sbs.com.au/language/chinese/zh-hans/article/parent-reacts-after-50-girls-targeted-in-ai-explicit-photo-scandal-at-melbourne-school/kgjeerkte?cid=alc:soc:bau:con:SBSChineseTwitter::na" rel="noopener" target="_blank">SBS</a>、<a href="https://amp.smh.com.au/national/victoria/fifty-bacchus-marsh-grammar-girls-targeted-with-ai-fake-nudes-20240611-p5jky6.html" rel="noopener" target="_blank">悉尼先驱晨报</a></p>
+]]></content:encoded>
+<pubDate>Thu, 13 Jun 2024 05:59:51 GMT</pubDate>
+<pubDate>Thu, 13 Jun 2024 05:59:51 GMT</pubDate>
+</item>
+
+<item>
 <title>🖼 #macOS #App 💻 macOS Sequoia Dev Beta 1 系统尝鲜方法分享 作为 macOS 的忠实簇拥，每年的新 macOS 系统我都会格外关注，今年的更新让我尤为满意。对于...</title>
 <link>https://t.me/NewlearnerChannel/12940</link>
 <guid>https://t.me/NewlearnerChannel/12940</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://t.me/NewlearnerChannel/12940?q=%23macOS">#macOS</a> <a href="https://t.me/NewlearnerChannel/12940?q=%23App">#App</a><br /><br /><span class="emoji">💻</span> <b>macOS Sequoia Dev Beta 1 系统尝鲜方法分享</b><br /><br />作为 macOS 的忠实簇拥，每年的新 macOS 系统我都会格外关注，今年的更新让我尤为满意。对于频道今年的新读者朋友，我想要复述分享快速安装测试版系统的方法<br /><br /><b>① OTA</b><br /><br />这也是大部分人选择的一种内测方式，打开设置 - 通用 - 软件更新 -  Beta 版更新，安装对应的 Beta 测试版。注意，苹果目前对所有用户免费开放 Dev Beta，大家直接去设置寻找即可<br /><br />我们建议大家在安装前，前往磁盘工具，为即将安装的 Beta 系统专门开设一个分区，并在安装过程中选择该分区进行下一步。如果你执意在主力系统直接更新，那么我推荐先做 Time Machine 备份<br /><br /><b>② Installers（PKG 等）</b><br /><br />大家熟悉的 PKG 今年也不缺席，但它不再作为描述文件出现，而是安装包。我非常喜欢的网站 <a href="https://mrmacintosh.com/macos-sequoia-full-installer-database-download-directly-from-apple/" rel="noopener" target="_blank">Mr. Macintosh</a> 为大家提供了来自于官方的 PKG 内测包，大家可下载使用<br /><br />相信等正式版出来之后，一定会有如 <a href="https://t.me/NewlearnerChannel/7602" rel="noopener" target="_blank">Mist</a>、<a href="https://t.me/NewlearnerChannel/7449" rel="noopener" target="_blank">DownloadFullInstaller</a> 等傻瓜一键下载完整安装包程序出现，到时候大家也可体验快速下载、制作安装包的乐趣<br /><br />我此前写的《<a href="https://www.newlearner.site/2019/03/07/macos-dmg-iso.html" rel="noopener" target="_blank">制作</a> <a href="https://www.newlearner.site/2019/03/07/macos-dmg-iso.html" rel="noopener" target="_blank">macOS DMG 及</a> <a href="https://www.newlearner.site/2019/03/07/macos-dmg-iso.html" rel="noopener" target="_blank">ISO 可引导镜像</a>》至今应该也依然不过时，只要你想，macOS 可以以各种格式出现（IPSW、PKG、DMG、ISO 等）<br /><br />被本次抛弃的 Mac 们（多为 18 年之前）也不要灰心，未来还会有如 <a href="https://t.me/NewlearnerChannel/9781" rel="noopener" target="_blank">OpenCore Legacy Patcher</a> 这样的项目，让你的老 Mac 发光发热<br /><br /><b>③ Apple Configurator（DFU）</b><br /><br />本方法需要使用另一台 Mac、Apple Configurator 软件和 <a href="https://mrmacintosh.com/apple-silicon-m1-full-macos-restore-ipsw-firmware-files-database/" rel="noopener" target="_blank">IPSW 内测包</a>，这是一种激进的办法，通过直接抹掉现在这台 Mac 上的系统、并写入新系统来实现<br /><br />你要做的是在一台 Mac 上安装 Apple Configurator，并连接另一台你想要更新的 Mac，接着让其进入 DFU 模式并写入 IPSW<br /><br /><b>④ 虚拟机</b><br /><br />虚拟机是大家普遍能够接受的一种方式，也是不影响当前主力系统运行下，体验最新 Beta 系统的一种好办法。虚拟机软件方面我推荐以下几种：<br /><br />• <a href="https://www.parallels.com/en/products/desktop/" rel="noopener" target="_blank">Parallels Desktop</a>：Apple 官方合作的虚拟机软件，除了贵之外都是优点<br />• <a href="https://mac.getutm.app/" rel="noopener" target="_blank">UTM</a>：近几年兴起的开源项目，支持多平台，免费的好选择<br />• <a href="https://t.me/NewlearnerChannel/9426" rel="noopener" target="_blank">VirtualBuddy</a>：专为 Apple Silicon 而生，同样免费<br /><br />我推荐的三个项目都有一个共同点：支持直接通过 IPSW 生成虚拟机（借助 MacVM API），若以后 ISO 出现，大家可使用自己习惯的虚拟机软件。由于没有购入 Parallels Desktop，我使用了 UTM<br /><br /><span class="emoji">⚠️</span> 值得注意的是，由于调用了 MacVM API，我们还需要安装 <b>Xcode / Xcode Command Line Tools Beta</b> 才能够正常运行。大家可以在 <a href="https://developer.apple.com/download/all/" rel="noopener" target="_blank">开发者官网</a> 下载所需的软件，勾选 macOS 开发即可，减小体积<br /><br /><span class="emoji">👀</span> 折腾 macOS 安装给我的学生时代带来了莫大的乐趣，努力探索不同的安装方式、做到尝鲜的同时不影响主力系统的运行，是我一贯的追求。在不断探索、分享的过程中，我收获了许多乐趣、遇到了对 macOS 同样热爱的同路人<br /><br /><span class="emoji">🥳</span> 今年我下载 IPSW 和 Xcode Beta 后，系统提示我需要升级到 14.5 系统才能安装，这让我感到很遗憾。但很庆幸这份折腾的乐趣，从学生时代伴随我到工作之后，当我再次和群友聊起熟悉的内容，内心依然无比满足。希望这篇推送能够让你对 macOS 安装有一个大概的了解，祝你尝鲜愉快<br /><br /><span class="emoji">📘</span> 关联阅读：<br /><br /><span class="emoji">1️⃣</span> <a href="https://t.me/NewlearnerChannel/4885" rel="noopener" target="_blank">macOS 使用虚拟机安装</a> <a href="https://t.me/NewlearnerChannel/4885" rel="noopener" target="_blank">macOS Big Sur</a><br /><span class="emoji">2️⃣</span> <a href="https://t.me/NewlearnerChannel/6041" rel="noopener" target="_blank">Apple Silicon Mac 引导、恢复模式与重装事宜盘点</a><br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/EbdKsRiAeqjzihzDql94IAxzb1yR1x87NkNtZ_RgwaxkSDvhXQ9P0T59cAYi3-QlNGuA0TbHg_QU7zIojyUIfoQxERro-DTyU21KAhqCILzwsT58LpTNzcQnsUNIoMrexoZ2fwtgDHhY-dXA6IjdqldgMXwB6xfivOlWuPZl_y0H9GtrNgG6roYPj5ooC_hJ3Mo18Q1JhiRD36x2BF57PBOF681469jR1UgEW79y7_HDiBQQvgEyDa0j7K9Ci8ej6i787-rwE7pOhZmPJCf471_zfLm95UvJ8css3JUnzO-R06MP5ha_7zRD8b7vZcOz9gUsj92cKtg7Qb93RqhNHg.jpg" />
 ]]></content:encoded>
-<pubDate>Thu, 13 Jun 2024 04:02:54 GMT</pubDate>
 <pubDate>Thu, 13 Jun 2024 04:02:54 GMT</pubDate>
 </item>
 <item>
@@ -20,10 +30,8 @@
 <link>https://t.me/xhqcankao/11087</link>
 <guid>https://t.me/xhqcankao/11087</guid>
 <content:encoded><![CDATA[
-
 <p><b>马斯克的特斯拉薪酬方案和迁址提案获股东投票通过</b><br /><br />特斯拉 CEO 马斯克在 X 平台发文，特斯拉的两项股东决议均以较大优势获得通过，包括马斯克的 2018 年薪酬方案和将特斯拉总部迁至得克萨斯州的提案。<br /><br />该薪酬方案授予马斯克约 3 亿股激励性股票期权，当前价值约 500 亿美元，并在 2018 年获得超过 70% 的股东支持通过。在今年 1 月，一位特拉华州法官以披露给特斯拉投资者信息不足为由撤销了该方案。马斯克因此决定将特斯拉公司的注册地迁出特拉华州。特斯拉董事会随后在提供新披露信息的情况下再次提交了该方案进行投票。<br /><br />—— <a href="https://x.com/elonmusk/status/1801084780035154058" rel="noopener" target="_blank">马斯克</a></p>
 ]]></content:encoded>
-<pubDate>Thu, 13 Jun 2024 04:49:03 GMT</pubDate>
 <pubDate>Thu, 13 Jun 2024 04:49:03 GMT</pubDate>
 </item>
 <item>
@@ -31,13 +39,10 @@
 <link>https://t.me/xhqcankao/11086</link>
 <guid>https://t.me/xhqcankao/11086</guid>
 <content:encoded><![CDATA[
-
 <p><b>利用谷歌最佳技术改进 Chromebook 体验</b><br /><br />谷歌于当地时间12日宣布，ChromeOS 将在很大程度上基于安卓堆栈进行开发，以便更快地为用户带来谷歌人工智能、创新和功能。该公司表示，为了以更快和更大规模向用户推出新的谷歌人工智能功能，他们将把安卓 Linux 内核和安卓框架作为 ChromeOS 基础的一部分。谷歌表示，将基于安卓的技术堆栈引入 ChromeOS 将使其能够加快该桌面操作系统核心的人工智能创新步伐，简化工程工作，并帮助手机和配件等不同设备更好地与 Chromebook 协同工作。<br /><br />—— <a href="https://blog.chromium.org/2024/06/building-faster-smarter-chromebook.html?m=1" rel="noopener" target="_blank">谷歌博客</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 13 Jun 2024 04:06:59 GMT</pubDate>
-<pubDate>Thu, 13 Jun 2024 04:06:59 GMT</pubDate>
 </item>
-
 <item>
 <title>国际能源署预测全球石油需求在2029年达到顶峰 根据国际能源署12日发布的石油市场报告，预计2030年世界石油需求将达到每日1.054亿桶。石油需求将会随着可再生能源...</title>
 <link>https://t.me/xhqcankao/11085</link>
@@ -9118,33 +9123,6 @@
 <p><b>社交平台 X 现在将“顺性别”一词视为诽谤<br /></b><br />马斯克去年6月在社交平台 X 上发帖称：“「顺 (cis)」或「顺性别 (cisgender)」等词语在该平台上被视为「诽谤 (slur)」。”现在，如果您在 X 上写下“cis”或“cisgender”一词，您可能会收到以下全屏消息：“此帖子包含可能被 X 视为诽谤的语言，并且可能以违反我们规则的方式用于有害目的，”警告说。您可以继续发布该帖子或将其删除。根据测试，此弹出窗口似乎仅在使用移动应用时出现。<br /><br />—— <a href="https://techcrunch.com/2024/05/14/on-elons-whim-x-now-treats-cisgender-as-a-slur/" rel="noopener" target="_blank">TechCrunch</a></p><img src="https://cdn5.cdn-telegram.org/file/MRa6hlvWdlTf6vvFXRoqa5AmKsBpU_AxAwFMrGh1YsYKnBWT_JjTaI3SzrrkHyDNB8AIm1Zq0HREDXXjfvl5lXJ_glfDWl9BKHSQF0fbPTRmn4TxPX1o7Em2KTwWzJZ5h6VSvdiwuwQ2ccFRltJV0oN4ZmpHwSc-6Byj7lU4bCyjziSZguqJH2VAO3P7hrCkPZqfB8PW_RIz714SkKCyTkUxxzuRY1GRUcIk87J3GfOA6yhQnOOtSLkMPXkL--2h8VYDkkmtmQF_Fhq6_eaJ8L1MBOSudrvM2IRdw9hioIT3jA-9tjdw_TBCcCqRpLj73QXuoah8PAU66cP-yNwvtQ.jpg" />
 ]]></content:encoded>
 <pubDate>Wed, 15 May 2024 01:03:39 GMT</pubDate>
-</item>
-<item>
-<title>2024年5月15日 🌍资讯快读 1、中菲执法部门合作遣返160余名在菲从事离岸博彩中国公民 https://www.jiemian.com/article/11168223.html 2、商务部新闻发言人就...</title>
-<link>https://t.me/jike_collection/9816</link>
-<guid>https://t.me/jike_collection/9816</guid>
-<content:encoded><![CDATA[
-<p>2024年5月15日<br /><span class="emoji">🌍</span>资讯快读<br />1、中菲执法部门合作遣返160余名在菲从事离岸博彩中国公民<br /><a href="https://www.jiemian.com/article/11168223.html" rel="noopener" target="_blank">https://www.jiemian.com/article/11168223.html</a><br />2、商务部新闻发言人就美方发布对华加征301关税四年期复审结果发表谈话<br /><a href="https://www.jiemian.com/article/11170981.html" rel="noopener" target="_blank">https://www.jiemian.com/article/11170981.html</a><br />3、深圳将减少住宅公摊面积？2024版《深圳市建筑设计规则》预计下周在官网发布<br /><a href="https://www.jiemian.com/article/11170390.html" rel="noopener" target="_blank">https://www.jiemian.com/article/11170390.html</a><br />4、移动、联通回应：不会售卖用户个人信息<br /><a href="https://www.jiemian.com/article/11170169.html" rel="noopener" target="_blank">https://www.jiemian.com/article/11170169.html</a><br />5、苹果Vision Pro已通过中国3C认证<br /><a href="https://www.jiemian.com/article/11168421.html" rel="noopener" target="_blank">https://www.jiemian.com/article/11168421.html</a><br /><br /><span class="emoji">👬</span>即刻镇小报<br />1、一岁的孩子，是一秒钟都不能让他离开你的视线<br /><a href="https://m.okjike.com/originalPosts/6643228a304375f11d98c3b4" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/6643228a304375f11d98c3b4</a><br />2、1688神级服饰店铺（男装），来自B站素人博主评论区，刚刚进货了5件（不要学我）<br /><a href="https://m.okjike.com/originalPosts/6640660c6d9f190631f75b8d" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/6640660c6d9f190631f75b8d</a><br />3、"十分钟学会 Vue 和 React"<br /><a href="https://m.okjike.com/originalPosts/663f5460d2637e2ffe1cb190" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/663f5460d2637e2ffe1cb190</a><br />4、【产品经理自查表】压箱底私货<br /><a href="https://m.okjike.com/originalPosts/663f2ab2d2637e2ffe18e357" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/663f2ab2d2637e2ffe18e357</a><br />5、掌握这3个关键词，从此没有你找不到的工具<br /><a href="https://m.okjike.com/originalPosts/663d5be09b93957474890afd" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/663d5be09b93957474890afd</a><br /><br />今日即刻镇小报内容来自 @鸠摩小虾米 @爱吃宵夜有错吗 @星辰1208 @谢红文 <a href="https://t.me/jindang" target="_blank">@jindang</a> ，感谢以上即友的创作与分享。 <a href="https://t.me/jike_collection/9816?q=%23%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88">#一觉醒来发生了什么</a></p><blockquote><b>Jiemian</b><br /><b><a href="https://www.jiemian.com/article/11168223.html">中菲执法部门合作遣返160余名在菲从事离岸博彩中国公民|界面新闻 · 快讯</a></b><br /><p>5月14日，中国和菲律宾两国执法部门再次合作遣返160余名在菲从事离岸博彩的中国公民。这是中菲两国开展国际执法合作取得的又一标志性重大战果，充分彰显了两国联合打击藏匿于离岸博彩业内的诈骗、绑架等犯罪活动的坚定决心。</p></blockquote>
-]]></content:encoded>
-<pubDate>Tue, 14 May 2024 23:40:38 GMT</pubDate>
-</item>
-<item>
-<title>OpenAI 联合创始人兼首席科学家伊利亚·苏茨克沃将离职 当地时间5月14日晚，OpenAI 联合创始人兼首席科学家伊利亚·苏茨克沃 (Ilya Sutskever) 在社交平台 X 上...</title>
-<link>https://t.me/xhqcankao/10323</link>
-<guid>https://t.me/xhqcankao/10323</guid>
-<content:encoded><![CDATA[
-<p><b>OpenAI 联合创始人兼首席科学家伊利亚·苏茨克沃将离职</b><br /><br />当地时间5月14日晚，OpenAI 联合创始人兼首席科学家伊利亚·苏茨克沃 (Ilya Sutskever) 在社交平台 X 上宣布，他将在近十年后离开公司。伊利亚说，他将分享他下一个项目的细节，他称这个项目“对他个人非常有意义”。2023年11月，苏茨克沃参与罢免了 OpenAI 联合创始人兼首席执行官山姆·奥特曼，但不到一周奥特曼便宣布回归，苏茨克沃在此之后并未列席新成立的 OpenAI 董事会。<br /><br />—— <a href="https://m.jiemian.com/article/11171775.html" rel="noopener" target="_blank">界面新闻</a>、<a href="https://twitter.com/sama/status/1790518031640347056" rel="noopener" target="_blank">山姆·奥特曼</a>、<a href="https://twitter.com/ilyasut/status/1790517455628198322" rel="noopener" target="_blank">Ilya Sutskever</a></p>
-]]></content:encoded>
-<pubDate>Tue, 14 May 2024 23:57:43 GMT</pubDate>
-</item>
-<item>
-<title>🖼 Netflix 将推出全新 Windows 应用 不支持离线观看 根据官方支持文档，适用于 Windows 的全新 Netflix 应用即将推出，其中包括支持观看现场活动、提高流媒体...</title>
-<link>https://t.me/xhqcankao/10322</link>
-<guid>https://t.me/xhqcankao/10322</guid>
-<content:encoded><![CDATA[
-<p><b>Netflix 将推出全新 Windows 应用 不支持离线观看<br /></b><br />根据官方支持文档，适用于 Windows 的全新 Netflix 应用即将推出，其中包括支持观看现场活动、提高流媒体质量、与广告支持套餐兼容等等。虽然不再支持下载，但用户可以继续在受支持的移动设备上离线观看电视节目和电影。新应用将于2024年6月开始推出，并将取代现有应用。如果用户不更新，当前或旧版 Netflix 应用最终将停止工作。<br /><br />—— <a href="https://help.netflix.com/en/node/23931" rel="noopener" target="_blank">Netflix</a>、<a href="https://www.windowslatest.com/2024/05/14/netflix-teases-a-new-windows-11-app-with-ads-but-no-downloads-feature/" rel="noopener" target="_blank">WindowsLatest</a></p><img src="https://cdn5.cdn-telegram.org/file/qGgal7VK2wvgDIchGC06_Iirdwcddtt-6D_x2MhHews3MqLErK2kn82CGaEAcpHSkzFwnBcB6HgWvL7BK8MnsABzhJYiFQ13jn-e7t4o6m5PSPCr-yg1ZLBccv99OKIKEeLqr0reAYk1icSg2Y4xc0rNum1UyvGmlJ7au8QEQwKY0DC4eIPzwTu2X9VFxAPlf9HTs39WV5K0Bxcozz--feRMpDpTNM302462wwQUnC3AaWz0Wfa5ShotKJ-Kz0kMymNbrMrhkn4-HzPpa5dUji92ZY6qZgfpF4aLEC-YC9B0AgNHuRcCilskTDX_R1iKc3iHy6STdwBpYu39A-PZOA.jpg" />
-]]></content:encoded>
-<pubDate>Tue, 14 May 2024 23:40:11 GMT</pubDate>
 </item>
 </channel>
 </rss>

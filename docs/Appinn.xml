@@ -5,14 +5,24 @@
 <link>https://t.me/s/appinnfeed</link>
 
 <item>
+<title>今日份 BeReal 又来了，然而依旧没有好友😂</title>
+<link>https://t.me/appinnfeed/10936</link>
+<guid>https://t.me/appinnfeed/10936</guid>
+<content:encoded><![CDATA[
+
+<p>今日份 BeReal 又来了，然而依旧没有好友<span class="emoji">😂</span></p>
+]]></content:encoded>
+<pubDate>Thu, 13 Jun 2024 05:34:33 GMT</pubDate>
+<pubDate>Thu, 13 Jun 2024 05:34:33 GMT</pubDate>
+</item>
+
+<item>
 <title>📣 #发现频道 【开发者自荐】【开源】biliLive-tools——录播处理工具 https://meta.appinn.net/t/topic/57614</title>
 <link>https://t.me/appinnfeed/10935</link>
 <guid>https://t.me/appinnfeed/10935</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/10935?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />【开发者自荐】【开源】biliLive-tools——录播处理工具<br /><br /><a href="https://meta.appinn.net/t/topic/57614" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/57614</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/57614">【开发者自荐】【开源】biliLive-tools——录播处理工具</a></b><br /><p>软件名称 biliLive-tools  应用平台  Windows Linux  推荐类型 【开发者自荐】  一句简介 一个用于录播的一站式工具，支持弹幕转换与视频压制并上传至B站，支持录播姬与blrec的webhook自动化处理。  应用简介  支持 Danmufactory GUI 支持 ffmpeg 转封装 支持视频与弹幕压制 支持b站分P投稿 支持录播姬与blrec的webhook 支持B站视频下载  截图预览：                                         …</p><img src="https://cdn4.cdn-telegram.org/file/cdKTSW6FWll8BSmbcxgVAgeh40sL3h-JLreGsOzU64YGunTkyzFFD5Qth2QdnvrHK8pPWtO09lRSJ2a8sK5yE68Xe0jdti2GetM-BZp7zwKxP7m5qyqfl1kuVAb9kR6Ic79KpA8pAvKUqSgvpvauT_B0FvCoTS2WqV1wkxVsHxLVwWJPttFncCe-9PjSLMIYcnSp7g6SrVUEx65lf8k3UlRGsdqk_235QT2Dg00uKETEQWERdNqOYCIwhO3vIhjc4B5JusTX4G1UVfvwrAuXwG-vITGvoMbcsLdZLn7CA49dcV1gIS-EAERj0FiV3qleRBmszSiKJNFE1fYEKrEvLg.jpg" /></blockquote>
 ]]></content:encoded>
-<pubDate>Thu, 13 Jun 2024 04:40:01 GMT</pubDate>
 <pubDate>Thu, 13 Jun 2024 04:40:01 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +30,10 @@
 <link>https://t.me/appinnfeed/10934</link>
 <guid>https://t.me/appinnfeed/10934</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10934?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />CSV文件转TXT有没有辨法每一行列都对齐并支援UTF-8?<br /><br /><a href="https://meta.appinn.net/t/topic/57611" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/57611</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/57611">CSV文件转TXT有没有辨法每一行列都对齐并支援UTF-8?</a></b><br /><p>CSV文件转TXT有没有辨法每一行列都对齐并支援UTF-8?  先谢谢各位大佬了。  import csv  # 读取CSV文件并指定编码方式为latin-1 with open('input.csv', 'r', encoding='latin-1') as csv_file:     csv_reader = csv.reader(csv_file)     data = list(csv_reader)  # 确定每列最长的长度 max_lengths = [max(len(row[i]) for…</p><img src="https://cdn4.cdn-telegram.org/file/cdKTSW6FWll8BSmbcxgVAgeh40sL3h-JLreGsOzU64YGunTkyzFFD5Qth2QdnvrHK8pPWtO09lRSJ2a8sK5yE68Xe0jdti2GetM-BZp7zwKxP7m5qyqfl1kuVAb9kR6Ic79KpA8pAvKUqSgvpvauT_B0FvCoTS2WqV1wkxVsHxLVwWJPttFncCe-9PjSLMIYcnSp7g6SrVUEx65lf8k3UlRGsdqk_235QT2Dg00uKETEQWERdNqOYCIwhO3vIhjc4B5JusTX4G1UVfvwrAuXwG-vITGvoMbcsLdZLn7CA49dcV1gIS-EAERj0FiV3qleRBmszSiKJNFE1fYEKrEvLg.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Thu, 13 Jun 2024 04:04:01 GMT</pubDate>
-<pubDate>Thu, 13 Jun 2024 04:04:01 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 有没有办法把windows自带命令（或者快捷键操作）固定到桌面上变成一个按钮？ https://meta.appinn.net/t/topic/57572</title>
 <link>https://t.me/appinnfeed/10933</link>
@@ -9008,24 +9015,6 @@
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9900?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />导航路线推荐问题<br /><br /><a href="https://meta.appinn.net/t/topic/53722" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/53722</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/53722">导航路线推荐问题</a></b><br /><p>需求如下：  这周末去看车，目的地离我当前位置不算远（20-30KM左右），但它附近没有地铁，只有公交。我在地图软件（apple map）上看公交需要两个多小时，打车又略贵，需要40块左右。  想问下各位大佬，有没有可以组合导航的方式。比如，可以给我推荐线路，坐地铁到某一站，然后打车，这样可以做到时间和金钱的平衡。  按我理解，可能需要智能推荐线路之类的功能……</p><img src="https://cdn4.cdn-telegram.org/file/pjJ5sup3DKF7cfZ-25v9Ld9P3KhpccnwGFE7gr0gzMNM2Apb4CJh0wmBQkTiCBLGXjxcr4o52dSgipQGnYhId769o4FwMRhNETy4e07rrMckNyQTAmYigMN8YBMbd7ItH7ZJ_edUwaRj5ZrqB0W73ED9tSj7kPscCnHuScOryMxtiwkNoNUpGN8xBlqeGYm2m5Xosk1w6qdG5jUiBLfKFdw35r_VbMJKRmgxNwmlFMSDxAzVuER1irPCzJQoMjciOg0ppnlA9k0U3_R5WhzzwZPFkzzM0AGf6V0XcIPYmMiUKgEm6gs8zYtbAbZXoq4hhr6KZCRkCJ_6ufVEC6J6mA.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Mon, 11 Mar 2024 02:08:01 GMT</pubDate>
-</item>
-<item>
-<title>📣 #发现频道 【开发者自荐】罐头冥想——超可爱视觉化冥想引导 https://meta.appinn.net/t/topic/53716</title>
-<link>https://t.me/appinnfeed/9899</link>
-<guid>https://t.me/appinnfeed/9899</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/9899?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />【开发者自荐】罐头冥想——超可爱视觉化冥想引导<br /><br /><a href="https://meta.appinn.net/t/topic/53716" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/53716</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/53716">【开发者自荐】罐头冥想——超可爱视觉化冥想引导</a></b><br /><p>软件名称 罐头冥想     应用平台  iOS MacOS  推荐类型 【开发者自荐】  一句简介 想在日常中放松一下吗，【罐头冥想】提供丰富视觉化冥想引导和各种心流冥想，试着静下来吧，还有心情记录，冥想挑战，HRV揭示等功能。     软件商店地址 https://apps.apple.com/cn/app/id6443902925  冥想真的有用 在我的经历中，我可以很肯定得告诉大家，冥想真的有用。乔布斯，比尔盖茨等人也练习过正念冥想，如果你对冥想有先入为主的概念，认为这是跟宗教相关是骗人的，这并不…</p><img src="https://cdn4.cdn-telegram.org/file/Qn6fYbB53DJGG47MDPg1SpKm3kRdzr9hJyDA0kFfyaP5n58W9VHaIol8o_9e52q5R9YHnubxprnjgajOCBOAunezsyr0JRPhjeMrDbIuYtZm05YX8SMBOIfEqcwzbdT8Zo5RF65Jbc13BYfMVnzM9Q03WC8oRFWM5hTM3M6NSOHsE-a8vZ8Fz1mSUA8bg_kfEvWNVM_yR79cK-nvxhKhAZpyAs0B99fjvvbVh_aWhN6dPPhL0CkEpPek53XIRvvxoRR9TWTXujfT35kvPiF_VpGizlmxwSuRhEXJooA8N9wedhtBCHtnD5GjjZqcIFUW-YAbZK2jcuQT3hhf6HAPuw.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Sun, 10 Mar 2024 15:00:01 GMT</pubDate>
-</item>
-<item>
-<title>❓ #问题求助 Chrome extension Enhancer for YouTube全网下架了怎么办？ https://meta.appinn.net/t/topic/53697</title>
-<link>https://t.me/appinnfeed/9898</link>
-<guid>https://t.me/appinnfeed/9898</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9898?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />Chrome extension Enhancer for YouTube全网下架了怎么办？<br /><br /><a href="https://meta.appinn.net/t/topic/53697" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/53697</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/53697">Chrome extension Enhancer for YouTube全网下架了怎么办？</a></b><br /><p>要的是Enhancer for YouTube<span class="emoji">™</span>2.0.122.1版本  我自己机器上没有原始的xpi，但是有个profile里面有装好的  有没有办法转给其他的profile？</p><img src="https://cdn4.cdn-telegram.org/file/jFgmzdMCHH_fpYwYkGryqK1qtX_sjYSlG4dGbIkmbvB4cOBzf-nRcHjFYgurN4OD8ghB5dXfujpNrXFC3aD-Bn2pjYmkM5m0MNvxOEdf0kh6hgxevofPJuvmrfwiqmPZ4OLOY94pDjhGZQbi_TxUvx_jBk5qHeBbCJeeV18xYKURm7-SrCaZbDwsX98bu6Amq2X76HjS9DJcgQfKPmKBh4PN_PnZ6UQR7tHI7wyqzeDuOF8dIcgfV2EB_o3G_l9toboemPYF2B9jxhcDSZZNOPVhAmhSJkAkF4REgFkWJyuqSglhR0x2Kv6nztSildRWRlQzXnH_RoDhQ7-f28cCKw.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Sun, 10 Mar 2024 03:32:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

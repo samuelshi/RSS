@@ -5,17 +5,37 @@
 <link>https://t.me/s/appinnfeed</link>
 
 <item>
+<title>🖼 前几天有用户反馈 浏览器插件 Circle 阅读助手会大量打开什么值得买页面 https://meta.appinn.net/t/topic/22134/49?u=qingwa 开发者检查后发现： Circle ...</title>
+<link>https://t.me/appinnfeed/10992</link>
+<guid>https://t.me/appinnfeed/10992</guid>
+<content:encoded><![CDATA[
+
+<p>前几天有用户反馈 浏览器插件 Circle 阅读助手会大量打开什么值得买页面<br /><br /><a href="https://meta.appinn.net/t/topic/22134/49?u=qingwa" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/22134/49?u=qingwa</a><br /><br />开发者检查后发现：<br /><br />Circle 阅读助手存在一个功能即：自动展开被折叠的内容，保证尽可能的解析完整的内容，而不是仅仅展示未被折叠的一部分。为了实现这个功能，内部存在一个小的算法：查找“查看全文”或者“查看更多”文案，找到之后判断文案的父标签，如果父标签是 A 并且存在 onclick 属性就自动点击，以此实现自动展开被折叠的内容。</p><img src="https://cdn5.cdn-telegram.org/file/rAOLIwMvoRl4okLJPcMB5imY0t0Vfa4ZPzyH4_TVmDWWcVs2c5o8PrpIWk83gJ2m-UZ7hmPA6HsViua_8IbbwBBXL0_5ck1_PzE1FkmbINlKeVDRtho5Ljgd015ugmBEa8HZBVXfFcveDnVN_QyRxktDv8GKDrWsaGYeJY62BqUos0NY1teTX8K4pJ3xjS547cX7oyERFKryQhTkXIwAvn3J2gsgEa1md6Bu2V1ByFN_z8v7E5mkW5Bo7usrzwzEhdbQcd2mCPG8bq6hsiZYLaRap2ddF6KxKMlFT-_UtTLAH3N8TxZ2A5zwtua1UAC-Fc1Y0LhLV2x01zKgk0ggLw.jpg" />
+]]></content:encoded>
+<pubDate>Tue, 18 Jun 2024 02:49:55 GMT</pubDate>
+<pubDate>Tue, 18 Jun 2024 02:49:55 GMT</pubDate>
+</item>
+<item>
+<title>🧐 #阅读 自托管 Llama-3 8B-Instruct 大语言模型与 ChatGPT 的成本对比 https://meta.appinn.net/t/topic/57783</title>
+<link>https://t.me/appinnfeed/10991</link>
+<guid>https://t.me/appinnfeed/10991</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">🧐</span> <a href="https://t.me/appinnfeed/10991?q=%23%E9%98%85%E8%AF%BB">#阅读</a><br />自托管 Llama-3 8B-Instruct 大语言模型与 ChatGPT 的成本对比<br /><br /><a href="https://meta.appinn.net/t/topic/57783" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/57783</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/57783">自托管 Llama-3 8B-Instruct 大语言模型与 ChatGPT 的成本对比</a></b><br /><p>作者：Sid Premkumar   摘要：假设你的模型 100% 利用率，使用 EKS 自我托管 Llama-3 8B-Instruct 模型每处理 1 百万个 tokens 的成本大约是 17 美元，而 ChatGPT 处理相同任务的成本仅为 1 美元。如果选择自我托管硬件，成本可以降至每 1 百万个 tokens 低于 0.01 美元，但需要约 5.5 年才能收回成本。  硬件选择 背景：所有测试均在 EKS 集群上运行。每个测试节点仅运行系统必需的 pods（如 prometheus、 nvidia…</p><img src="https://cdn4.cdn-telegram.org/file/ph9KEi7lyv0VpUJN6cGsKffmCQ7LbJs4sKzUyQVBEoSmSZoHO3LzQCnGcZzr3SKoxMEuXWrF6f6doH3qpsXLWDPLXlpd4qxQkjV_9s8VXdzh76QO-5l0jz_RAU085iY7veZjOFyHpGUxJCz9uqrkwnM6jffG7Ff8NC8Mwzmx3SgGmP_xKteW9RRTxW4D3y2p_3TZy5vp2FSyvPjHiDM0M913P7E3m-wYzFjSY3s3CB2jLBzpwUy6nqMEQPek_Iu-fPLC9gkO93RrtpLyWdQ8rH4v5bh0t2CFvsOV_86UcTTODaJ_gOnKQUjonT0Gd-pMVCgoukual52cnxTvw9zerA.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Tue, 18 Jun 2024 02:44:01 GMT</pubDate>
+<pubDate>Tue, 18 Jun 2024 02:44:01 GMT</pubDate>
+</item>
+
+<item>
 <title>🧐 #阅读 Sounds of the Forest 森林之声 - 收集世界各地林地与森林声音的网站 https://meta.appinn.net/t/topic/57781</title>
 <link>https://t.me/appinnfeed/10990</link>
 <guid>https://t.me/appinnfeed/10990</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">🧐</span> <a href="https://t.me/appinnfeed/10990?q=%23%E9%98%85%E8%AF%BB">#阅读</a><br />Sounds of the Forest 森林之声 - 收集世界各地林地与森林声音的网站<br /><br /><a href="https://meta.appinn.net/t/topic/57781" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/57781</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/57781">Sounds of the Forest 森林之声 - 收集世界各地林地与森林声音的网站</a></b><br /><p>https://timberfestival.org.uk/soundsoftheforest-soundmap/  由于使用了很多第三方 API，可能大陆地区无法访问。                                                   关于 / 森林之声  我们正在收集世界各地林地和森林的声音，创建一个不断扩大的声音地图，汇集世界各地林地的音调和纹理。  这些声音形成了一个开放源代码库，供任何人聆听和创作。被选中的艺术家将对收集到的声音做出回应，创作音乐、音频、艺术品或其他不可思议的作品，并在…</p><img src="https://cdn4.cdn-telegram.org/file/ph9KEi7lyv0VpUJN6cGsKffmCQ7LbJs4sKzUyQVBEoSmSZoHO3LzQCnGcZzr3SKoxMEuXWrF6f6doH3qpsXLWDPLXlpd4qxQkjV_9s8VXdzh76QO-5l0jz_RAU085iY7veZjOFyHpGUxJCz9uqrkwnM6jffG7Ff8NC8Mwzmx3SgGmP_xKteW9RRTxW4D3y2p_3TZy5vp2FSyvPjHiDM0M913P7E3m-wYzFjSY3s3CB2jLBzpwUy6nqMEQPek_Iu-fPLC9gkO93RrtpLyWdQ8rH4v5bh0t2CFvsOV_86UcTTODaJ_gOnKQUjonT0Gd-pMVCgoukual52cnxTvw9zerA.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Tue, 18 Jun 2024 02:04:02 GMT</pubDate>
-<pubDate>Tue, 18 Jun 2024 02:04:02 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 求助一个可以全网下载音乐的软件，windows端 https://meta.appinn.net/t/topic/57769</title>
 <link>https://t.me/appinnfeed/10989</link>
@@ -9006,15 +9026,6 @@
 <p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/9949?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />【开发者自荐】简洁美观高效率，可以取代edge的UU浏览器<br /><br /><a href="https://meta.appinn.net/t/topic/53906" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/53906</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/53906">【开发者自荐】简洁美观高效率，可以取代edge的UU浏览器</a></b><br /><p>软件名称 UU浏览器  应用平台 Windows  推荐类型 【开发者自荐】  应用简介 你是否厌倦了各种广告和弹窗的某些国产浏览器？  你是否厌倦了常驻进程杀不掉占用着内存不说还有可能上报dump等暴露了隐私信息？  你是否需要更美观的界面、更个性化的新标签页、暗黑护眼模式等，并且不用装插件？  你电脑C盘不足了，浏览器缓存数据太多？，  想打开一个pdf、office文件看下还要安装wps、各种破解版的office？  那就尝试下简洁高效率的UU浏览器吧，有可能是你需要的。。。  特点  更少的内存…</p><img src="https://cdn4.cdn-telegram.org/file/sOlh9COAhDX4Zbu2aJfvBwGoOk67kd_NQp2U4mTH_mWQHZdD5gSFk1FFWzYC5ZHKD6ylOklBQNopAhM4BNeVxoIrWEO9tx9pVAYAgtc23we1fgbfaeajSYOC4JNpzFG3eo1jX6CrdqQX6r7Akie7bh_VstLqxbQ3u3mXff4B7KiSrHND9HK2cRGhiB9gksgIEeMrIP_6RPNwBshj4sWi3NX87VoTDavS-afA_8lxph1tZbmfB-3kZ9S8ATGuwDtPD0oWrOWzA3k8cYl17yDzxGwnlnJ8sGUS8gDOpeQlAlKv_WnBDmd8b6iUBbPBXLfleKFH7pavhXdravrPYB_3iA.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Sat, 16 Mar 2024 01:04:01 GMT</pubDate>
-</item>
-<item>
-<title>❓ #问题求助 求个iOS上的可以自定义请求域名和key的chatgpt客户端 https://meta.appinn.net/t/topic/53626</title>
-<link>https://t.me/appinnfeed/9948</link>
-<guid>https://t.me/appinnfeed/9948</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/9948?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />求个iOS上的可以自定义请求域名和key的chatgpt客户端<br /><br /><a href="https://meta.appinn.net/t/topic/53626" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/53626</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/53626">求个iOS上的可以自定义请求域名和key的chatgpt客户端</a></b><br /><img src="https://cdn4.cdn-telegram.org/file/l3a5nNsYVsRZAzMZFMa1FWrH7XZbaRmaQIVV-1vfL5GiDVE8quNQrZ7SjBRKyRegRvnnGkPjHvL816lP00wEyNAli7508-7w4trdOOfBPgQVTwHU89Ojc4_2U60xttekQgDfgoTjXCd_bKKTrtMVWj4ydYvPgETI4vq3DOp6XhQeD_I1c_glPKfnoPHkFiU46DHY9bLjUPVqbca7YempPco08Itoh5fwZXMaV0ch8VilouOlQRv6FMt4JaK8akVQy3a7COOTtQMba1MgFiB6TJjFP8cq79S5swTCmzF710Uuqvf7lLdXgj23yIuLkreMHIeK9g_XIP6I8NS3YrZ95w.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Fri, 15 Mar 2024 15:36:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

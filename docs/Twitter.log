@@ -1,0 +1,15 @@
+------------------------------------------------------
+Started: 2024-06-18 08:51:12
+Existing_entries: 0
+Fetching from https://rsshub.app/twitter/user/whyyoutouzhele
+Feed error: 403
+Fetching from https://rsshub.app/twitter/user/xiaojingcanxue
+Feed error: 403
+Fetching from https://rsshub.app/twitter/user/fangshimin
+Feed error: 403
+Fetching from https://rsshub.app/twitter/user/caiziboshi
+Feed error: 403
+Fetching from https://rsshub.app/twitter/user/wangzhian8848
+Feed error: 403
+append_entries: 0
+error when rendering xml, skip docs/Twitter

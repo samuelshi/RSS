@@ -4,6 +4,17 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+<item>
+<title>字节飞连被指监控截屏？ 相关人士：是企业开启了数据防泄露功能 近日，有网友表示安装飞连后，无意间发现飞连在后台执行 screenshot (截屏) 的进程，该用户表示...</title>
+<link>https://t.me/xhqcankao/11273</link>
+<guid>https://t.me/xhqcankao/11273</guid>
+<content:encoded><![CDATA[
+
+<p><b>字节飞连被指监控截屏？ 相关人士：是企业开启了数据防泄露功能</b><br /><br />近日，有网友表示安装飞连后，无意间发现飞连在后台执行 screenshot (截屏) 的进程，该用户表示，提醒各位安装了此类软件的电脑上，不要做不该做的事情。新浪科技就此询问字节跳动，相关人士表示，飞连为企业客户提供数据安全防护功能。企业可以根据自身业务需求和数据的敏感性，设定自动化审计策略的功能配置。论坛帖描述的情况，是企业管理员对存储敏感数据的设备开启了 DLP (数据防泄露) 功能。<br /><br />飞连会对开启 DLP 功能的敏感设备，按照一定时间间隔循环截图：1、当截图内容未命中企业设定的敏感数据时，新截图会覆盖旧截图，历史截图会被删除。这些截图只会存在于设备本地；2、当截图内容命中敏感数据时，截图会传到企业服务器，由企业进行安全审计。<br /><br />—— <a href="https://finance.sina.cn/tech/2024-06-21/detail-inaznnum3610978.d.html" rel="noopener" target="_blank">新浪科技</a>、<a href="https://v2ex.com/t/1050989#reply131" rel="noopener" target="_blank">v2ex</a></p>
+]]></content:encoded>
+<pubDate>Fri, 21 Jun 2024 06:32:07 GMT</pubDate>
+<pubDate>Fri, 21 Jun 2024 06:32:07 GMT</pubDate>
+</item>
 
 <item>
 <title>SpaceX 推出售价599美元星链迷你终端 美国太空探索技术公司 (SpaceX) 推出了星链迷你终端，这是其卫星互联网产品的便携版本，小到可以放入背包中。根据发送给客...</title>

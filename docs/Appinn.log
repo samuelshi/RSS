@@ -35319,3 +35319,10 @@ Existing_entries: 1000
 Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2024-06-25 09:27:28
+------------------------------------------------------
+Started: 2024-06-25 10:14:04
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [🖼 微软从官方 Windows 11 指南中删除了「从 Microsoft 帐户更改为本地帐户」 https://support.microsoft.com/en-us/windows/change-from-a-local-account-to-...](https://t.me/appinnfeed/11074)
+append_entries: 1
+Finish: 2024-06-25 10:14:06

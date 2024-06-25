@@ -4,18 +4,16 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>🖼 微软从官方 Windows 11 指南中删除了「从 Microsoft 帐户更改为本地帐户」 https://support.microsoft.com/en-us/windows/change-from-a-local-account-to-...</title>
 <link>https://t.me/appinnfeed/11074</link>
 <guid>https://t.me/appinnfeed/11074</guid>
 <content:encoded><![CDATA[
-
 <p>微软从官方 Windows 11 指南中删除了「从 Microsoft 帐户更改为本地帐户」<br /><br /><a href="https://support.microsoft.com/en-us/windows/change-from-a-local-account-to-a-microsoft-account-395203bf-9f1b-eb24-b042-5b8dae6c1d20" rel="noopener" target="_blank">https://support.microsoft.com/en-us/windows/change-from-a-local-account-to-a-microsoft-account-395203bf-9f1b-eb24-b042-5b8dae6c1d20</a><br /><br /><a href="https://web.archive.org/web/20240612104753/https:/support.microsoft.com/en-us/windows/change-from-a-local-account-to-a-microsoft-account-395203bf-9f1b-eb24-b042-5b8dae6c1d20" rel="noopener" target="_blank">archive</a></p><img src="https://cdn5.cdn-telegram.org/file/nTlRkRATYXhKGzt557FZrZmt-lCnR-zayfSxoKFysfII8YFVv4HNHHNriEhOdLXTj6MB4G4ruLe_svK7yzlE1iWK9BGhcijpWvFNGOwMjNONIvhpsBep5CH2ClqZYM-V2IH-epvb9cC-dQgNQL8u4bwLbcNjcikDYFl9tkCr0AbYsiwV-HJoYHYewCbEE6eJV-f29XlkzDGrLQGcizJukr69r6uOYOEcPd6pX05Y9UDKOnnmvv6tWpJpJPnuMjakkoAODGNSx9qTOzebpSt9UlVhWSuXVn5LyHkHyWZCf34DIKo3uvxSbYNgwxc-MCr2pEkpp-D1WdFEM5o4wOWOVQ.jpg" />
 ]]></content:encoded>
 <pubDate>Tue, 25 Jun 2024 01:41:40 GMT</pubDate>
-<pubDate>Tue, 25 Jun 2024 01:41:40 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 系统盘迁移有什么需要注意的？ https://meta.appinn.net/t/topic/58038</title>
 <link>https://t.me/appinnfeed/11073</link>
@@ -9010,15 +9008,6 @@
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10030?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />如何给Omnivore置顶文章设置标签（labels），用Python的方式（想按规则分类待阅读文章）<br /><br /><a href="https://meta.appinn.net/t/topic/54256" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54256</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54256">如何给Omnivore置顶文章设置标签（labels），用Python的方式（想按规则分类待阅读文章）</a></b><br /><p>希望用Python编程，搭配Omnivore的API，实现离线文章分类等功能。  目前已经实现文章ID、标签（ID等信息）的获取，但是弄好之后，需要发送回Omnivore，可发现官方并没有API的写法，请教该如何写？谢谢！  目前的代码是：  # 设置GraphQL客户端 transport = AIOHTTPTransport(url=APIENDPOINT, headers={"Authorization": f"Bearer {APIKEY}"}) client = Client(transport=transport…</p><img src="https://cdn4.cdn-telegram.org/file/aMxNO6uwvn2buOy-wpPIKXldZ1pi0pVVxHPw8m60Bksx7bJQWzdAS7dhTDtavRXtHG1XQN8TUVW8OC2i8wQmSFtR8wQbq_q1Kh94CQGBC4rDx8diXY86ijr-cRCkiBK3m47tVVt1M01oNasrv7uY3BeWYtMoQBcJ_D_48j0JAMHY41uJRSK18z5r3K4a6CjoyIQapvlpldNKWweOmQsIft88TwsG-G0F5v5hzoYgOCtj51a2MZQZpZViorShWB5fSc7d-5RMPzBFy8eh0t6c71LKVTfnaYNR87puusnEHhWCo2-NDPl1u9UB2ffTHhwDYEiT2JfghOBy9zx1fMdhpw.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Sun, 24 Mar 2024 12:48:01 GMT</pubDate>
-</item>
-<item>
-<title>❓ #问题求助 如何禁止夸克流氓云盘在鼠标右键菜单拉屎 https://meta.appinn.net/t/topic/54253</title>
-<link>https://t.me/appinnfeed/10029</link>
-<guid>https://t.me/appinnfeed/10029</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10029?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />如何禁止夸克流氓云盘在鼠标右键菜单拉屎<br /><br /><a href="https://meta.appinn.net/t/topic/54253" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54253</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54253">如何禁止夸克流氓云盘在鼠标右键菜单拉屎</a></b><br /><p>夸克云盘客户端每次启动都会往鼠标右键菜单拉屎，试过删掉，它只要启动就会重新拉。</p><img src="https://cdn4.cdn-telegram.org/file/aMxNO6uwvn2buOy-wpPIKXldZ1pi0pVVxHPw8m60Bksx7bJQWzdAS7dhTDtavRXtHG1XQN8TUVW8OC2i8wQmSFtR8wQbq_q1Kh94CQGBC4rDx8diXY86ijr-cRCkiBK3m47tVVt1M01oNasrv7uY3BeWYtMoQBcJ_D_48j0JAMHY41uJRSK18z5r3K4a6CjoyIQapvlpldNKWweOmQsIft88TwsG-G0F5v5hzoYgOCtj51a2MZQZpZViorShWB5fSc7d-5RMPzBFy8eh0t6c71LKVTfnaYNR87puusnEHhWCo2-NDPl1u9UB2ffTHhwDYEiT2JfghOBy9zx1fMdhpw.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Sun, 24 Mar 2024 12:16:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

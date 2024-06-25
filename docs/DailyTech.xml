@@ -4,18 +4,16 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+
 <item>
 <title>Waymo 无人自动驾驶出租车取消等候名单，向旧金山所有人开放服务 Waymo 正在向任何想要在旧金山搭乘的人开放其无人自动驾驶出租车服务。此前，有兴趣乘坐该公司...</title>
 <link>https://t.me/xhqcankao/11392</link>
 <guid>https://t.me/xhqcankao/11392</guid>
 <content:encoded><![CDATA[
-
 <p><b>Waymo 无人自动驾驶出租车取消等候名单，向旧金山所有人开放服务</b><br /><br />Waymo 正在向任何想要在旧金山搭乘的人开放其无人自动驾驶出租车服务。此前，有兴趣乘坐该公司无人驾驶汽车的客户需要注册候补名单，而候补名单可能需要等待数周或数月。向更多愿意付费乘坐无人驾驶汽车的人开放这项服务是实现自动驾驶汽车正常化的关键一步。对于 Waymo 及其母公司 Alphabet 来说，将一个亏损的业务转变为一个可以收支平衡甚至盈利的业务非常重要。<br /><br />—— <a href="https://www.theverge.com/2024/6/25/24184814/waymo-waitlist-robotaxi-san-francisco-app-ride" rel="noopener" target="_blank">The Verge</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 25 Jun 2024 15:33:05 GMT</pubDate>
-<pubDate>Tue, 25 Jun 2024 15:33:05 GMT</pubDate>
 </item>
-
 <item>
 <title>作为对欧盟制裁的回应俄罗斯在本国境内限制访问20多个欧盟国家媒体 俄罗斯外交部25日表示，作为回应措施，俄罗斯在本国境内限制访问欧盟成员国一系列媒体。俄罗...</title>
 <link>https://t.me/xhqcankao/11391</link>
@@ -9130,15 +9128,6 @@
 <p><b>谷歌云公布删除客户数据事件调查报告：配置错误导致服务过期</b><br /><br />本月初发生的谷歌云意外事件影响了管理着1250亿美元的退休基金的澳大利亚 UniSuper 公司，其位于谷歌云的服务和数据被意外删除导致服务中断。该公司已经和谷歌云合作恢复了正常运行，谷歌云今天公布了事故报告。<br /><br />谷歌云强调，该特殊独立事件仅影响到单一客户在单一私有云的单一服务。为满足客户对于容量的特殊需求，在2023年谷歌使用内部工具为客户首次部署 Google Cloud VMware Engine (GCVE) 私有云时，操作者无意中将一个参数留空。这导致了意想不到的后果，即客户的 GCVE 私有云默认为1年，到期后会自动删除。<br /><br />谷歌云已经采取措施防止类似独立事件再次发生，包括检查所有客户的配置；将特殊配置过程完全自动化，剔除人为错误；纠正了对于特殊部署系统的删除流程。<br /><br />—— <a href="https://cloud.google.com/blog/products/infrastructure/details-of-google-cloud-gcve-incident/" rel="noopener" target="_blank">谷歌云</a></p>
 ]]></content:encoded>
 <pubDate>Sat, 25 May 2024 03:31:59 GMT</pubDate>
-</item>
-<item>
-<title>俄罗斯可以阻断乌克兰对星链的访问 俄罗斯找到了新的、更有效的方法来瘫痪乌克兰的星链服务。据《纽约时报》周五报道，增加的干扰在关键时刻破坏了通信，对乌克...</title>
-<link>https://t.me/xhqcankao/10617</link>
-<guid>https://t.me/xhqcankao/10617</guid>
-<content:encoded><![CDATA[
-<p><b>俄罗斯可以阻断乌克兰对星链的访问</b><br /><br />俄罗斯找到了新的、更有效的方法来瘫痪乌克兰的星链服务。据《纽约时报》周五报道，增加的干扰在关键时刻破坏了通信，对乌克兰构成了“重大威胁”，使该国在战争开始两年多后更加陷入困境。目前尚不清楚俄罗斯如何干扰埃隆·马斯克的卫星互联网终端。俄罗斯干扰通信能力破坏了乌克兰通信、情报收集和无人机袭击的能力。乌克兰士兵告诉该报，受干扰的星链服务妨碍了他们快速通信的能力，使他们不得不通过短信 (通常速度非常慢) 分享有关俄罗斯即将或正在进行的军事行动或攻击的情报。<br /><br />—— <a href="https://www.nytimes.com/2024/05/24/technology/ukraine-russia-starlink.html" rel="noopener" target="_blank">纽约时报</a>、<a href="https://www.engadget.com/russia-can-reportedly-jam-ukraines-access-to-starlink-at-will-183642120.html?src=rss" rel="noopener" target="_blank">Engadget</a></p>
-]]></content:encoded>
-<pubDate>Sat, 25 May 2024 03:00:42 GMT</pubDate>
 </item>
 </channel>
 </rss>

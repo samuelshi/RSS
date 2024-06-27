@@ -5,17 +5,26 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>Google 推出开源大模型更新 Gemma 2 Google 今天发布了其下一代开源大模型 Gemma 2，有 9B 和 27B 两种参数大小。与第一代相比，其性能更高、推理效率更高，并且...</title>
+<link>https://t.me/xhqcankao/11463</link>
+<guid>https://t.me/xhqcankao/11463</guid>
+<content:encoded><![CDATA[
+
+<p><b>Google 推出开源大模型更新 Gemma 2</b><br /><br />Google 今天发布了其下一代开源大模型 Gemma 2，有 9B 和 27B 两种参数大小。与第一代相比，其性能更高、推理效率更高，并且内置了显著的安全改进。 Google称， 27B 的模型性能可以与比其大两倍的模型相媲美。这些大模型可在单个 NVIDIA H100 GPU 或 TPU 主机实现全精度推理，从而显著降低部署成本。 Gemma 2 也可以在 CPU 上使用量化版本进行本地推理，或者在配备 NVIDIA RTX 或 GeForce RTX 的个人电脑上使用。<br /><br />—— <a href="https://blog.google/technology/developers/google-gemma-2/" rel="noopener" target="_blank">Google 博客</a></p>
+]]></content:encoded>
+<pubDate>Thu, 27 Jun 2024 16:10:10 GMT</pubDate>
+<pubDate>Thu, 27 Jun 2024 16:10:10 GMT</pubDate>
+</item>
+
+<item>
 <title>Xbox 云游戏将于7月登陆 Fire TV Sticks 微软将于 7 月在亚马逊的 Fire TV Sticks 上推出其 Xbox TV 应用。Xbox 应用将提供对微软 Xbox 云游戏的访问，以便 Xbox...</title>
 <link>https://t.me/xhqcankao/11462</link>
 <guid>https://t.me/xhqcankao/11462</guid>
 <content:encoded><![CDATA[
-
 <p><b>Xbox 云游戏将于7月登陆 Fire TV Sticks</b><br /><br />微软将于 7 月在亚马逊的 Fire TV Sticks 上推出其 Xbox TV 应用。Xbox 应用将提供对微软 Xbox 云游戏的访问，以便 Xbox Game Pass Ultimate 的订阅者可以将各种游戏直接流式传输到 Fire TV 设备。微软的 Xbox 应用将支持 Fire TV Stick 4K Max 和 Fire TV Stick 4K 型号，该应用将在 25 多个国家/地区推出。用户只需要一台兼容的 Fire TV Stick、一个支持蓝牙的无线控制器和一个 Xbox Game Pass Ultimate 订阅即可流式传输 Xbox 游戏。<br /><br />—— <a href="https://www.theverge.com/2024/6/27/24187164/xbox-cloud-gaming-tv-app-fire-tv-stick-amazon-launch" rel="noopener" target="_blank">TheVerge</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 27 Jun 2024 15:20:28 GMT</pubDate>
-<pubDate>Thu, 27 Jun 2024 15:20:28 GMT</pubDate>
 </item>
-
 <item>
 <title>俄罗斯卫星在太空解体，迫使国际空间站宇航员紧急避难 美国宇航局称，一颗俄罗斯地球观测卫星 RESURS-P1 在轨道上解体成 100 多块碎片。该卫星于 2022 年退役，...</title>
 <link>https://t.me/xhqcankao/11461</link>
@@ -9118,15 +9127,6 @@
 <p><b>DOCKER 容器官网文档迎来人工智能助手</b><br /><br />5月28日消息，Docker 博客宣布官网文档现已提供人工智能助手，可以回答用户问题并帮助在知识库中搜索相关内容。浏览大型文档网站可能令人望而生畏，尤其是当您急于解决特定问题或实现新功能时。上下文切换、尝试查找正确信息以及拼凑来自不同部分的信息都是用户在查找复杂命令或配置文件时面临的痛点例子。人工智能助手通过简化搜索流程、解释您的问题并在您需要时引导您找到所需的精确信息来解决这些痛点。新的文档人工智能搜索还可以用您首选的语言回答用户的问题，例如简体中文。<br /><br />—— <a href="https://www.docker.com/blog/docker-documentation-ai-powered-assistant/" rel="noopener" target="_blank">Docker</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 28 May 2024 11:10:52 GMT</pubDate>
-</item>
-<item>
-<title>在解散安全团队后，OpenAI 成立了山姆·奥尔特曼参与的监督委员会 美国人工智能公司 OpenAI 成立了一个董事会委员会来评估其人工智能模型的安全性和保障措施，这...</title>
-<link>https://t.me/xhqcankao/10681</link>
-<guid>https://t.me/xhqcankao/10681</guid>
-<content:encoded><![CDATA[
-<p><b>在解散安全团队后，OpenAI 成立了山姆·奥尔特曼参与的监督委员会<br /></b><br />美国人工智能公司 OpenAI 成立了一个董事会委员会来评估其人工智能模型的安全性和保障措施，这是在其负责该领域的高管辞职以及公司解散其内部安全团队数周后做出的治理变革。新委员会将用90天时间评估 OpenAI 技术中的安全措施，然后提交报告。该公司28日在一篇博客文章中表示：“在全体董事会审查后，OpenAI 将以符合安全和保障的方式公开分享已采纳建议的更新情况。”OpenAI 还表示，最近已开始训练其最新的人工智能模型。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-05-28/openai-forms-board-safety-committee-after-criticism-ilya-sutskever-departure" rel="noopener" target="_blank">彭博社</a></p>
-]]></content:encoded>
-<pubDate>Tue, 28 May 2024 10:41:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

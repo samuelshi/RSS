@@ -4,18 +4,16 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+
 <item>
 <title>Google 推出开源大模型更新 Gemma 2 Google 今天发布了其下一代开源大模型 Gemma 2，有 9B 和 27B 两种参数大小。与第一代相比，其性能更高、推理效率更高，并且...</title>
 <link>https://t.me/xhqcankao/11463</link>
 <guid>https://t.me/xhqcankao/11463</guid>
 <content:encoded><![CDATA[
-
 <p><b>Google 推出开源大模型更新 Gemma 2</b><br /><br />Google 今天发布了其下一代开源大模型 Gemma 2，有 9B 和 27B 两种参数大小。与第一代相比，其性能更高、推理效率更高，并且内置了显著的安全改进。 Google称， 27B 的模型性能可以与比其大两倍的模型相媲美。这些大模型可在单个 NVIDIA H100 GPU 或 TPU 主机实现全精度推理，从而显著降低部署成本。 Gemma 2 也可以在 CPU 上使用量化版本进行本地推理，或者在配备 NVIDIA RTX 或 GeForce RTX 的个人电脑上使用。<br /><br />—— <a href="https://blog.google/technology/developers/google-gemma-2/" rel="noopener" target="_blank">Google 博客</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 27 Jun 2024 16:10:10 GMT</pubDate>
-<pubDate>Thu, 27 Jun 2024 16:10:10 GMT</pubDate>
 </item>
-
 <item>
 <title>Xbox 云游戏将于7月登陆 Fire TV Sticks 微软将于 7 月在亚马逊的 Fire TV Sticks 上推出其 Xbox TV 应用。Xbox 应用将提供对微软 Xbox 云游戏的访问，以便 Xbox...</title>
 <link>https://t.me/xhqcankao/11462</link>
@@ -9118,15 +9116,6 @@
 <p><b>中国首个未成年人网络游戏退费标准发布</b><br /><br />今日中国互联网协会发布《未成年人网络游戏服务消费管理要求》团体标准征求意见稿，截至日期6月27日。网络游戏服务提供者不应向未满8周岁的用户提供付费服务；针对8至16周岁用户，单次充值金额不得超过50元，每月充值金额累计不得超过200元；针对16至18周岁用户，单次充值金额不得超过100元，每月充值金额累计不得超过400元。<br /><br />如果网络游戏服务提供者已依法配置防沉迷措施，而监护人帮助未成年人绕过防沉迷限制或监护人未充分履行监护职责，根据防沉迷措施的有效性等情况，建议过错方承担责任比例 30%-70%，若重复进行多次过错行为，可能承担全部责任。<br /><br />—— <a href="https://www.isc.org.cn/article/20891286499618816.html" rel="noopener" target="_blank">中国互联网协会</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 28 May 2024 11:44:21 GMT</pubDate>
-</item>
-<item>
-<title>DOCKER 容器官网文档迎来人工智能助手 5月28日消息，Docker 博客宣布官网文档现已提供人工智能助手，可以回答用户问题并帮助在知识库中搜索相关内容。浏览大型文...</title>
-<link>https://t.me/xhqcankao/10682</link>
-<guid>https://t.me/xhqcankao/10682</guid>
-<content:encoded><![CDATA[
-<p><b>DOCKER 容器官网文档迎来人工智能助手</b><br /><br />5月28日消息，Docker 博客宣布官网文档现已提供人工智能助手，可以回答用户问题并帮助在知识库中搜索相关内容。浏览大型文档网站可能令人望而生畏，尤其是当您急于解决特定问题或实现新功能时。上下文切换、尝试查找正确信息以及拼凑来自不同部分的信息都是用户在查找复杂命令或配置文件时面临的痛点例子。人工智能助手通过简化搜索流程、解释您的问题并在您需要时引导您找到所需的精确信息来解决这些痛点。新的文档人工智能搜索还可以用您首选的语言回答用户的问题，例如简体中文。<br /><br />—— <a href="https://www.docker.com/blog/docker-documentation-ai-powered-assistant/" rel="noopener" target="_blank">Docker</a></p>
-]]></content:encoded>
-<pubDate>Tue, 28 May 2024 11:10:52 GMT</pubDate>
 </item>
 </channel>
 </rss>

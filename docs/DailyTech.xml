@@ -5,14 +5,35 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>韩国电池厂火灾中17名遇难者身份被确认 韩国京畿南部警察厅 ARICELL 电池工厂火灾事故搜查本部27日表示，截至26日晚10时30分，韩国国立科学调查研究院表示，华城...</title>
+<link>https://t.me/xhqcankao/11445</link>
+<guid>https://t.me/xhqcankao/11445</guid>
+<content:encoded><![CDATA[
+
+<p><b>韩国电池厂火灾中17名遇难者身份被确认<br /></b><br />韩国京畿南部警察厅 ARICELL 电池工厂火灾事故搜查本部27日表示，截至26日晚10时30分，韩国国立科学调查研究院表示，华城电池厂火灾已有17名遇难者身份被确认。24日上午10时30分许，京畿道华城 ARICELL 电池厂发生重大火灾事故，造成23人死亡，8人受伤。遇难者中5人为韩国籍，17人为中国籍，1人为老挝籍。目前，尚有6名遇难者的身份未得到确认。<br /><br />—— <a href="https://m-cn.yna.co.kr/view/ACK20240627001700881?input=tw" rel="noopener" target="_blank">韩联社</a>（<a href="https://t.me/xhqcankao/11342" rel="noopener" target="_blank">前面的报道</a>）</p>
+]]></content:encoded>
+<pubDate>Thu, 27 Jun 2024 05:40:28 GMT</pubDate>
+<pubDate>Thu, 27 Jun 2024 05:40:28 GMT</pubDate>
+</item>
+<item>
+<title>家长反映初中地理试卷出现多个涉华为题目，常州市教育局回应正调查 近日，有网友发视频称，其儿子参加的常州市初中地理结业会考试卷出现多个涉及华为的题目，还...</title>
+<link>https://t.me/xhqcankao/11444</link>
+<guid>https://t.me/xhqcankao/11444</guid>
+<content:encoded><![CDATA[
+
+<p><b>家长反映初中地理试卷出现多个涉华为题目，常州市教育局回应正调查</b><br /><br />近日，有网友发视频称，其儿子参加的常州市初中地理结业会考试卷出现多个涉及华为的题目，还印上企业商标。常州市教育局工作人员表示已接到相关反映，正调查。视频显示这是一份常州市2024年初中地理结业会考试卷，试卷第一页不但印上了华为商标的明显标志，而且整页试卷有大量关于华为的内容。<br /><br />—— <a href="https://www.thepaper.cn/newsDetail_forward_27876092" rel="noopener" target="_blank">澎湃新闻</a></p>
+]]></content:encoded>
+<pubDate>Thu, 27 Jun 2024 05:11:09 GMT</pubDate>
+<pubDate>Thu, 27 Jun 2024 05:11:09 GMT</pubDate>
+</item>
+
+<item>
 <title>🖼 #Mac #Blog #GitHub情报 #硬件图赏 #DIY 💻 MicroMac：用树莓派自制售价不到 5 英镑的 Macintosh 🔗：Blog 📝 文章概述 - pico-mac 项目是什么 - 设...</title>
 <link>https://t.me/NewlearnerChannel/13027</link>
 <guid>https://t.me/NewlearnerChannel/13027</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://t.me/NewlearnerChannel/13027?q=%23Mac">#Mac</a> <a href="https://t.me/NewlearnerChannel/13027?q=%23Blog">#Blog</a> <a href="https://t.me/NewlearnerChannel/13027?q=%23GitHub%E6%83%85%E6%8A%A5">#GitHub情报</a> <a href="https://t.me/NewlearnerChannel/13027?q=%23%E7%A1%AC%E4%BB%B6%E5%9B%BE%E8%B5%8F">#硬件图赏</a> <a href="https://t.me/NewlearnerChannel/13027?q=%23DIY">#DIY</a><br /><br /><span class="emoji">💻</span> <b>MicroMac：用树莓派自制售价不到 5 英镑的 Macintosh</b><br /><br /><span class="emoji">🔗</span>：<a href="https://axio.ms/projects/2024/06/16/MicroMac.html" rel="noopener" target="_blank">Blog</a><br /><br /><span class="emoji">📝</span> <b>文章概述</b><br /><br />- pico-mac 项目是什么<br />- 设计原则与早期 Macintosh 参数初探<br />- Mac 模拟器：umac<br />- 软件、硬件模拟设计<br />- 实际表现<br /><br /><span class="emoji">🧑🏻‍💻</span> 作者 Matt Evans 在看到树莓派 RP2040 MCU 后，突发奇想让它成为一个微型电脑。那么装什么系统呢？思来想去，他想到了初代 Macintosh 128KB 运行的系统<br /><br /><span class="emoji">🔧</span> 作者为了验证可行性，一方面了解了初代 Macintosh 的参数信息，另一方面制作了一个 Mac 128K 模拟器 umac。于是软件、硬件都准备就绪，在编写相关驱动后，作者就拥有了运行在树莓派上、可以外接显示器键鼠的 MicroMac<br /><br /><span class="emoji">👀</span> 看到作者一步步通过研究接近答案，最终做出了硬件，让我感到很过瘾，这就是 DIY 的魅力所在吧。虽然受限于内存和系统，MacPaint 无法正常运行，但他还是得到了可以随时运行 MacDraw 的便携 Macintosh<br /><br /><span class="emoji">📘</span> 关联阅读：<br /><br /><span class="emoji">1️⃣</span> <a href="https://t.me/NewlearnerChannel/12670" rel="noopener" target="_blank">84-24：重回 128K 内存的麦金塔时代</a><br /><span class="emoji">2️⃣</span> <a href="https://t.me/NewlearnerChannel/12434" rel="noopener" target="_blank">mac40th：Happy 40th Birthday, Macintosh</a><br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/HqRXv6iTH2mxDL_WG1jTaPdKGBUhqwopvRYTvVDANy259ACx4b_UQkSa2C2vS-8JZb2eTs8izP9vLUs1ijFYDiLxljy5AoBh6QvMpNvXiqj0vm5pU0zfUtRX2gsdvEMA1n1qPb088bT_N58USoRlCUoZ_CFvGbkvfLtRYgx3SJ8OJ9Bz6Pfu8A5dsp8akzXx9MAoYviilkZSjd_JJ9oYkgo2ab5mO247FlNavZp2kgIH_SjCGz3VFHw0-wfUi5Z0Sx0GiX-Mebi6Pg9dhmWuGpKzffBS_a6qYH4j3rBuYOu8Kb7tl3UC46LoaTb9L83meg8CmYSeLj9ZxaJME47mJg.jpg" />
 ]]></content:encoded>
-<pubDate>Thu, 27 Jun 2024 04:02:48 GMT</pubDate>
 <pubDate>Thu, 27 Jun 2024 04:02:48 GMT</pubDate>
 </item>
 <item>
@@ -20,10 +41,8 @@
 <link>https://t.me/xhqcankao/11443</link>
 <guid>https://t.me/xhqcankao/11443</guid>
 <content:encoded><![CDATA[
-
 <p><b>国服《魔兽世界》正式服8月重启</b><br /><br />6 月 27 日，暴雪在官方发布会上宣布，《魔兽世界》正式服将于 8 月 1 日归来，8 月 27 日全球同步开启“地心之战”。此外，团队高管将造访上海 ChinaJoy（7 月 26 日 - 29 日），并带来更多《炉石传说》国服的上线信息。<br /><br />—— <a href="https://m.thepaper.cn/newsDetail_forward_27876211" rel="noopener" target="_blank">澎湃新闻</a></p>
 ]]></content:encoded>
-<pubDate>Thu, 27 Jun 2024 04:50:52 GMT</pubDate>
 <pubDate>Thu, 27 Jun 2024 04:50:52 GMT</pubDate>
 </item>
 <item>
@@ -31,10 +50,8 @@
 <link>https://t.me/xhqcankao/11442</link>
 <guid>https://t.me/xhqcankao/11442</guid>
 <content:encoded><![CDATA[
-
 <p><b>亚马逊成为第五家市值突破2万亿美元的美国公司</b><br /><br />在英伟达最近缔造的市值里程碑备受关注后，现在可能轮到亚马逊公司成为关注焦点了。这家电商公司的市值在周三突破2万亿美元，成为第五家市值突破这一水平的美国公司。亚马逊的股价周三上涨3.9%，收于193.61美元。亚马逊的股价今年来累计上涨27%，过去12个月上涨了51%。目前只有苹果公司、微软、英伟达和 Alphabet Inc. 是市值2万亿美元俱乐部的成员，而这四家公司本日的市值都在这一水平上方，且除了 Alphabet 之外，其他三家公司的市值还超过了3万亿美元。<br /><br />—— <a href="https://cn.wsj.com/amp/articles/%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%88%90%E4%B8%BA%E7%AC%AC%E4%BA%94%E5%AE%B6%E5%B8%82%E5%80%BC%E7%AA%81%E7%A0%B42%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%8F%B8-0fdc57c0" rel="noopener" target="_blank">华尔街日报</a></p>
 ]]></content:encoded>
-<pubDate>Thu, 27 Jun 2024 04:31:15 GMT</pubDate>
 <pubDate>Thu, 27 Jun 2024 04:31:15 GMT</pubDate>
 </item>
 <item>
@@ -42,13 +59,10 @@
 <link>https://t.me/xhqcankao/11441</link>
 <guid>https://t.me/xhqcankao/11441</guid>
 <content:encoded><![CDATA[
-
 <p><b>亚马逊云部门会议因加沙问题抗议而被打断<br /></b><br />亚马逊公司云计算部门主办的一场会议被抗议者打断，抗议者要求终止亚马逊与谷歌共享的与以色列政府签订的12亿美元合同。亚马逊网络服务公司负责公共部门销售的副总裁戴夫·利维周三在华盛顿举行的云计算部门会议上刚要开始发言就被打断了。一群观众举着标语，指责亚马逊在以色列与哈马斯在加沙的战争中参与了种族灭绝。抗议者被护送出了活动现场。亚马逊与谷歌共享的以色列政府的 Nimbus 项目旨在将政府和军事技术基础设施转变为云计算服务。今年早些时候，谷歌解雇了28名抗议该合同的员工。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-06-26/amazon-cloud-unit-conference-interrupted-by-protest-over-gaza" rel="noopener" target="_blank">彭博社</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 27 Jun 2024 04:05:01 GMT</pubDate>
-<pubDate>Thu, 27 Jun 2024 04:05:01 GMT</pubDate>
 </item>
-
 <item>
 <title>秘鲁试图通过工业园区激励措施吸引比亚迪汽车建厂 秘鲁总统周三会见了中国电动汽车制造商比亚迪，邀请其高管在安第斯国家的太平洋沿岸开设工厂，另一家中国公司...</title>
 <link>https://t.me/xhqcankao/11440</link>
@@ -9124,50 +9138,6 @@
 <p><b>马斯克旗下AI初创公司xAI完成60亿美元融资</b><br /><br />马斯克的人工智能初创公司xAI已完成一轮60亿美元的融资，估值达到180亿美元。y参与xAI新一轮融资的投资者包括马斯克的许多最忠实支持者，包括由沙特王子阿尔瓦利德•本•塔拉尔领导的投资工具沙特王国控股、Valor Equity Partners、迪拜的Vy Capital以及硅谷的安德里森-霍罗威茨和红杉资本。该公司表示，它已在短时间内取得“重大进展”，包括为去年11月发布的Grok中添加图像功能。“xAI将在接下来几个月继续保持这一陡峭的进展轨迹，不久将宣布多款令人振奋的技术升级和产品，”该公司在博客文章中表示，“此轮融资所得将被用于将xAI的首批产品推向市场，建设先进基础设施，并加速未来技术的研发。”<br /><br />—— <a href="https://www.ftchinese.com/premium/001103177" rel="noopener" target="_blank">英国金融时报</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 27 May 2024 23:43:12 GMT</pubDate>
-</item>
-<item>
-<title>↩️ 英伟达否认作者在“人工智能”诉讼中提出的版权侵权指控 英伟达回应了数名美国作者提起的版权侵权诉讼。这家芯片制造商承认使用了“The Pile”数据集，其中...</title>
-<link>https://t.me/xhqcankao/10664</link>
-<guid>https://t.me/xhqcankao/10664</guid>
-<content:encoded><![CDATA[
-<div class="rsshub-quote"><blockquote>
-                                    <p><a href="https://t.me/xhqcankao/8737"><b>风向旗参考快讯</b>:</a></p>
-                                    
-                                    <p>英伟达因其人工智能使用版权作品而被作者起诉  人工智能芯片巨头英伟达在美国旧金山被三名作家起诉，他们称该公司未经许可使用了他们的受版权保护的书籍来训练其人工智能平台 NeMo。作者 Brian Keene、Abdi Nazemian 和 Stewart O'Nan 表示，他们的作品是大约196,640本书的数据集的一部分，这些书籍帮助训练 NeMo 模拟普通书面语言，直到去年10月份“因举报侵犯版权”才被删除。在当地时间周五晚上向旧金山联邦法院提起的集体诉讼中，作者表示，删除反映了英伟达“承认”其在该数据集上训练了…</p>
-                                </blockquote></div><p><b>英伟达否认作者在“人工智能”诉讼中提出的版权侵权指控</b><br /><br />英伟达回应了数名美国作者提起的版权侵权诉讼。这家芯片制造商承认使用了“The Pile”数据集，其中包括有争议的 Books3 数据库。但是，英伟达否认了所有侵犯版权的指控，也拒绝使用“影子图书馆”一词。上周五，英伟达提交了起诉答辩状，对版权侵权指控做出了回应。英伟达承认使用了“The Pile”数据集进行训练。但明确否认多次复制 Books3 数据集。该公司写道：“英伟达否认将列出的数据存储库定性为‘影子库’，并否认在数据存储库中托管数据或分发数据必然违反美国版权法。”<br /><br />—— <a href="https://torrentfreak.com/nvidia-denies-copyright-infringement-claims-in-authors-ai-lawsuit-240527/" rel="noopener" target="_blank">Torrentfreak</a>（摘抄部分）</p>
-]]></content:encoded>
-<pubDate>Mon, 27 May 2024 23:00:53 GMT</pubDate>
-</item>
-<item>
-<title>苹果称未来的 iPad 可能采用横向苹果标志 法国网站 Numerama 当地时间5月27日就本月早些时候推出的新款 iPad Pro 采访了苹果公司的三位高级员工。虽然讨论没有透...</title>
-<link>https://t.me/xhqcankao/10663</link>
-<guid>https://t.me/xhqcankao/10663</guid>
-<content:encoded><![CDATA[
-<p><b>苹果称未来的 iPad 可能采用横向苹果标志</b><br /><br />法国网站 Numerama 当地时间5月27日就本月早些时候推出的新款 iPad Pro 采访了苹果公司的三位高级员工。虽然讨论没有透露太多新细节，但提到了未来 iPad 的一个潜在变化。苹果公司产品设计师 Molly Anderson 表示，未来的 iPad 有可能会采用横向苹果 logo。“我认为可能会产生变化，我们正在考虑这个问题。长期以来，iPad 都是‘纵向使用’的产品，但现在用户已经越来越多地去使用横向模式。”在软件方面，从 iPadOS 14.5 开始，苹果公司已经开始在 iPad 以横向而非纵向启动时显示苹果标志，但仅限于键盘连接到设备时。<br /><br />—— <a href="https://www.numerama.com/tech/1747904-rencontre-avec-lequipe-design-dapple-lipad-est-une-feuille-de-verre-magique.html" rel="noopener" target="_blank">Numerama</a>、<a href="https://www.macrumors.com/2024/05/27/landscape-apple-logo-possible-on-future-ipads/" rel="noopener" target="_blank">MacRumors</a></p>
-]]></content:encoded>
-<pubDate>Mon, 27 May 2024 22:20:12 GMT</pubDate>
-</item>
-<item>
-<title>苹果OLED iPad Pro出货目标传超过900万台 苹果公司第一款搭载 OLED 屏幕的平板电脑 iPad Pro，出货量目标传超过900万台。值得关注的是，近期整体 IT 设备市场情...</title>
-<link>https://t.me/xhqcankao/10662</link>
-<guid>https://t.me/xhqcankao/10662</guid>
-<content:encoded><![CDATA[
-<p><b>苹果OLED iPad Pro出货目标传超过900万台</b><br /><br />苹果公司第一款搭载 OLED 屏幕的平板电脑 iPad Pro，出货量目标传超过900万台。值得关注的是，近期整体 IT 设备市场情况不佳，OLED iPad Pro 上市推迟，也影响了市场预期，不过苹果和韩国面板厂商据称仍维持原先的出货量计划。尽管部分市场研究机构预测 2024 年 OLED iPad Pro 的出货量将在 450 万至 500 万台之间，但韩国业内消息人士透露，苹果、LG 显示器 (LGD) 和三星显示器 (SDC) 等公司正坚持其针对成品 iPad Pro 设备和面板的原有出货目标，LGD 的 OLED 面板出货目标据悉为 500 万片，而 SDC 的目标则超过 400 万片。<br /><br />—— <a href="https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?CnlID=1&amp;amp;id=692269&amp;amp;query=%E8%98%8B%E6%9E%9C%20or%20APPLE" rel="noopener" target="_blank">DigiTimes</a></p>
-]]></content:encoded>
-<pubDate>Mon, 27 May 2024 21:49:59 GMT</pubDate>
-</item>
-<item>
-<title>↩️ 朝鲜军事侦察卫星发射失败 新火箭在半空中爆炸 朝鲜国家航空航天技术管理局27日通过国营朝中社宣布，在铁山郡西海卫星发射场用新型卫星运载火箭发射了“万...</title>
-<link>https://t.me/xhqcankao/10661</link>
-<guid>https://t.me/xhqcankao/10661</guid>
-<content:encoded><![CDATA[
-<div class="rsshub-quote"><blockquote>
-                                    <p><a href="https://t.me/xhqcankao/10635"><b>风向旗参考快讯</b>:</a></p>
-                                    
-                                    <p>大批俄罗斯专家前往朝鲜协助其间谍卫星发射工作  韩国高级国防官员周日表示，大批俄罗斯专家已进入朝鲜，支持其间谍卫星发射工作，而平壤已进行比预期更多的发动机测试，以达到其高标准。这位官员说，自去年俄罗斯总统普京承诺支持朝鲜卫星计划以来，许多俄罗斯技术人员已进入朝鲜，他们的标准可能很高，导致发射延迟。“朝鲜在不了解太多信息的情况下，可能有足够的勇气进行发射，但（俄罗斯）专家可能告诉他们不要这么做，”这位官员说。韩国军方周五表示，已发现朝鲜准备再次发射的明显迹象。  —— 韩联社</p>
-                                </blockquote></div><p><b>朝鲜军事侦察卫星发射失败 新火箭在半空中爆炸</b><br /><br />朝鲜国家航空航天技术管理局27日通过国营朝中社宣布，在铁山郡西海卫星发射场用新型卫星运载火箭发射了“万里庆一号”侦察卫星，但新型火箭第一级在飞行途中爆炸并失败。据韩国参谋长联席会议宣布，朝鲜于北京时间27日晚上9点44分左右从西北方向东昌里附近向黄海南岸发射了一颗所谓的军事侦察卫星。两分钟后，晚上9点46分左右，天空中可以观察到巨大火球，在朝鲜一侧海域发现了大量碎片。<br /><br />朝鲜非常规卫星发射准备委员会现场指挥专家审议得出的结论是，事故原因是新研制的液氧煤油引擎的运行可靠性问题。<br /><br />—— <a href="https://www3.nhk.or.jp/news/html/20240528/k10014462821000.html" rel="noopener" target="_blank">NHK</a>，<a href="http://kcna.kp/kp/article/q/92a125ddfb11c42e00e9dc41bfb4e65e.kcmsf" rel="noopener" target="_blank">朝中社</a></p>
-]]></content:encoded>
-<pubDate>Mon, 27 May 2024 15:51:24 GMT</pubDate>
 </item>
 </channel>
 </rss>

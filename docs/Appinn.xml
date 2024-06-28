@@ -4,18 +4,16 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>❓ #问题求助 如何让电脑自动切换网络实现不断网 https://meta.appinn.net/t/topic/58168</title>
 <link>https://t.me/appinnfeed/11103</link>
 <guid>https://t.me/appinnfeed/11103</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/11103?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />如何让电脑自动切换网络实现不断网<br /><br /><a href="https://meta.appinn.net/t/topic/58168" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/58168</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/58168">如何让电脑自动切换网络实现不断网</a></b><br /><p>同时连的wifi和手机USB分享网络  如何在wifi断网的时候自动切换到手机的网,切换的时候加速器不断网,下载不断点  请问有没有这样的软件或者设置</p><img src="https://cdn4.cdn-telegram.org/file/uD2NmgbHWveXHI0hy3HS6HbxSOtLD5K7jefJ8NFYjncqm2V7YyvDEx_iWh7uMAKnPCG5mQEhmU8SxUUMmupJWfuxPoebDv4XtfkVYpDXSk_TEQmvhRFmwigNdUgp8biNXWSodzHNKA2xnMteldH7W1rx9lhl7idXLv3P2lddekbB6zSb7flAnjX78NVUHSYyscj2MQD5M0F-uK85D2Ff5Q-QJQ_tx1JalZfmhhgzTHMPEZOrIt4Iq5-Adei3YsJIXEt5fRfBNJ70SnNbyfjQsqoKawiFR_Ae1Zl3FGRAEG818P8kvjqCaMG5ugxGgMuWbDPNRcHVYI7AA1ESrJxpng.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Fri, 28 Jun 2024 05:36:01 GMT</pubDate>
-<pubDate>Fri, 28 Jun 2024 05:36:01 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 PixPin 为什么频繁联网？ https://meta.appinn.net/t/topic/58084</title>
 <link>https://t.me/appinnfeed/11102</link>
@@ -9010,15 +9008,6 @@
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10059?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />有好用的视频修复软件吗？<br /><br /><a href="https://meta.appinn.net/t/topic/54383" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54383</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54383">有好用的视频修复软件吗？</a></b><br /><p>看了下github几乎没有</p><img src="https://cdn4.cdn-telegram.org/file/Bt4aDHL32zMnPtiSRRwEAHeNhqwW25V95DvZz9mBM8aRC9dCN57e2LMgDD9bmC1stC_vQiATlCpbL2yL131ZyZrH0H02UcsfFPGoU4d38LCUwBEUwOY2lh0S57iWnSNevE6rVhdYpu5rAvMBbp-vdHm8lx1sajf6f1lp7j-3fM2rkwDVx0mHvVsFA3LWhNIuluHmrYEeqKcsyw0jlnMjiAROpkPhadXUyPVUAhXsYRDZffxoWSzmT3H7CJOFMtUXmvpKcv365wUxPBebOtfaTYr0W38fPFWG9Ch8p8XlHjL138hS_u1ObdJlKwRM-vlp1_3MoWdwfWarxtNCJ1y6XA.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Tue, 26 Mar 2024 15:48:01 GMT</pubDate>
-</item>
-<item>
-<title>❓ #问题求助 求教，Linux下实时备份硬盘数据到另一个硬盘，有什么方案？ https://meta.appinn.net/t/topic/54382</title>
-<link>https://t.me/appinnfeed/10058</link>
-<guid>https://t.me/appinnfeed/10058</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10058?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />求教，Linux下实时备份硬盘数据到另一个硬盘，有什么方案？<br /><br /><a href="https://meta.appinn.net/t/topic/54382" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54382</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54382">求教，Linux下实时备份硬盘数据到另一个硬盘，有什么方案？</a></b><br /><p>背景 淘汰的Linux主机，想直接拿来做家庭服务器，现有的硬盘数据有点多，没有第三个硬盘可以备份这么多数据，没办法空出来硬盘组软raid。想找个能够实时备份，或者定时备份的方案，从硬盘A备份到硬盘B。  现在用的方案 rsync同步   想换的原因：大量数据频繁写入实在是占用性能，主机掉频严重。  目标 后面会搞raid阵列卡组raid1 。敢问各位大佬，有没有软件方案，让我能不在不删除现有数据的前提下，能够实现一个比较低功耗的方案，将硬盘A的数据备份到硬盘B</p><img src="https://cdn4.cdn-telegram.org/file/Bt4aDHL32zMnPtiSRRwEAHeNhqwW25V95DvZz9mBM8aRC9dCN57e2LMgDD9bmC1stC_vQiATlCpbL2yL131ZyZrH0H02UcsfFPGoU4d38LCUwBEUwOY2lh0S57iWnSNevE6rVhdYpu5rAvMBbp-vdHm8lx1sajf6f1lp7j-3fM2rkwDVx0mHvVsFA3LWhNIuluHmrYEeqKcsyw0jlnMjiAROpkPhadXUyPVUAhXsYRDZffxoWSzmT3H7CJOFMtUXmvpKcv365wUxPBebOtfaTYr0W38fPFWG9Ch8p8XlHjL138hS_u1ObdJlKwRM-vlp1_3MoWdwfWarxtNCJ1y6XA.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Tue, 26 Mar 2024 14:20:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

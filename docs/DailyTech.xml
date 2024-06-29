@@ -5,17 +5,48 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>直面关税大幅提升 上汽集团：不会放弃欧盟市场 在昨日举行的2023年度股东大会上，针对欧盟大幅加征中国车企反补贴关税，上汽集团总裁王晓秋说，上汽集团将通过中...</title>
+<link>https://t.me/xhqcankao/11509</link>
+<guid>https://t.me/xhqcankao/11509</guid>
+<content:encoded><![CDATA[
+
+<p><b>直面关税大幅提升 上汽集团：不会放弃欧盟市场<br /></b><br />在昨日举行的2023年度股东大会上，针对欧盟大幅加征中国车企反补贴关税，上汽集团总裁王晓秋说，上汽集团将通过中东、东南亚在内的全球产销布局来平衡欧盟市场可能出现的波动，另外，MG在澳大利亚等发达国家市场销售情况也很不错，值得继续培育。“上汽集团肯定不会放弃欧盟市场，占据欧盟汽车市场一定的份额对上汽而言非常重要。”王晓秋说，欧洲是世界汽车工业的发源地，如果我们占有一席之地，能够占到5%以上的市占率，就能真正体现企业的国际竞争力。<br /><br />—— <a href="https://paper.cnstock.com/html/2024-06/29/content_1936766.htm" rel="noopener" target="_blank">上海证券报</a></p>
+]]></content:encoded>
+<pubDate>Sat, 29 Jun 2024 04:00:18 GMT</pubDate>
+<pubDate>Sat, 29 Jun 2024 04:00:18 GMT</pubDate>
+</item>
+<item>
+<title>美国联邦法官：Visa和万事达卡有能力承担更高额的降费协议 当地时间6月28日，本周驳回信用卡组织万事达、Visa 与零售商达成的300亿美元和解协议的美国布鲁克林地...</title>
+<link>https://t.me/xhqcankao/11508</link>
+<guid>https://t.me/xhqcankao/11508</guid>
+<content:encoded><![CDATA[
+
+<p><b>美国联邦法官：Visa和万事达卡有能力承担更高额的降费协议</b><br /><br />当地时间6月28日，本周驳回信用卡组织万事达、Visa 与零售商达成的300亿美元和解协议的美国布鲁克林地区法官玛戈·布罗迪表示，这些支付网络似乎有能力承受“大幅”昂贵的交易。她认为，该协议将降低刷卡费用 (也称为交换费) 并对其设置上限；然而，“与商户在2023年为 Visa 和万事达卡交易支付的1000亿美元交换费相比，估计每年为商户节省的60亿美元是微不足道的。”她在一份意见中写道。<br /><br />——<a href="https://www.jiemian.com/article/11347648.html" rel="noopener" target="_blank">界面新闻</a>、<a href="https://www.bloomberg.com/news/articles/2024-06-29/visa-mastercard-could-handle-bigger-swipe-fee-deal-judge-says" rel="noopener" target="_blank">彭博社</a></p>
+]]></content:encoded>
+<pubDate>Sat, 29 Jun 2024 03:29:52 GMT</pubDate>
+<pubDate>Sat, 29 Jun 2024 03:29:52 GMT</pubDate>
+</item>
+<item>
+<title>Chrome 将证书颁发机构 Entrust 移出信任列表 谷歌通过博客公告，从 2024 年 11 月 1 日发布的 Chrome 127 版本开始，默认情况下不会信任验证 Entrust 或 Affirm...</title>
+<link>https://t.me/xhqcankao/11507</link>
+<guid>https://t.me/xhqcankao/11507</guid>
+<content:encoded><![CDATA[
+
+<p><b>Chrome 将证书颁发机构 Entrust 移出信任列表</b><br /><br />谷歌通过博客公告，从 2024 年 11 月 1 日发布的 Chrome 127 版本开始，默认情况下不会信任验证 Entrust 或 AffirmTrust roots 发布的 TLS 服务器验证证书。谷歌称，过去几年中，公开披露的事件报告突显了 Entrust 的一系列令人担忧的行为，这些行为未能达到上述期望，并且削弱了人们对其作为公众信任的 CA 所有者的能力、可靠性和诚信的信心。此前，Mozilla 在 5 月份发布了一份报告，其中汇总了今年 3 月至 5 月期间 Entrust 证书<a href="https://bugzilla.mozilla.org/buglist.cgi?o2=greaterthaneq&amp;amp;short_desc_type=casesubstring&amp;amp;o1=notequals&amp;amp;v1=Graveyard&amp;amp;classification=Client%20Software&amp;amp;classification=Developer%20Infrastructure&amp;amp;classification=Components&amp;amp;classification=Server%20Software&amp;amp;classification=Other&amp;amp;classification=Graveyard&amp;amp;v2=2015-11-01&amp;amp;f1=classification&amp;amp;bug_status=UNCONFIRMED&amp;amp;bug_status=NEW&amp;amp;bug_status=ASSIGNED&amp;amp;bug_status=REOPENED&amp;amp;bug_status=RESOLVED&amp;amp;bug_status=VERIFIED&amp;amp;bug_status=CLOSED&amp;amp;short_desc=Entrust&amp;amp;f2=creation_ts&amp;amp;component=CA%20Certificate%20Compliance&amp;amp;query_format=advanced&amp;amp;list_id=17064895" rel="noopener" target="_blank">问题的详细清单</a>。<br /><br />以上变化将在除苹果公司移动端以外的所有 Chrome 和 Chromium 发行版上生效，2024 年 11 月 1 日之后签发的 Entrust 证书将被视为无效，并被浏览器默认阻止连接到对应的服务器。<br /><br />—— <a href="https://security.googleblog.com/2024/06/sustaining-digital-certificate-security.htm" rel="noopener" target="_blank">谷歌安全博客</a></p>
+]]></content:encoded>
+<pubDate>Sat, 29 Jun 2024 03:02:35 GMT</pubDate>
+<pubDate>Sat, 29 Jun 2024 03:02:35 GMT</pubDate>
+</item>
+
+<item>
 <title>警方称西澳男子在澳大利亚机场和航班上设置虚假免费WiFi以窃取人们的数据 一名男子因涉嫌在澳大利亚机场和国内航班上设置虚假的免费Wi-Fi网络，窃取毫无防备的公...</title>
 <link>https://t.me/xhqcankao/11506</link>
 <guid>https://t.me/xhqcankao/11506</guid>
 <content:encoded><![CDATA[
-
 <p><b>警方称西澳男子在澳大利亚机场和航班上设置虚假免费WiFi以窃取人们的数据</b><br /><br />一名男子因涉嫌在澳大利亚机场和国内航班上设置虚假的免费Wi-Fi网络，窃取毫无防备的公众个人数据而受到指控。这名42岁的西澳大利亚男子面临九项网络犯罪指控，预计本周五在珀斯地方法院出庭受审。澳大利亚联邦警察称，该男子创建了“<a href="https://ja.wikipedia.org/wiki/%E6%82%AA%E9%AD%94%E3%81%AE%E5%8F%8C%E5%AD%90" rel="noopener" target="_blank"><b>假冒的</b></a>”WiFi 网络，这些网络模仿合法网络，以欺骗用户输入他们的个人信息。澳洲警方称，该男子的假 WiFi 网络会将用户带到一个虚假登录页面，要求用户输入电子邮件或社交媒体登录信息。这些信息随后被保存到该男子的设备上，可用于访问其他个人信息，包括在线通信、照片、视频或银行信息。据称，这些假登录网页页面被设置在珀斯、墨尔本和阿德莱德机场，以及国内航班上，以及警方称与该男子之前的工作有关的其他地点。<br /><br />—— <a href="https://www.theguardian.com/technology/article/2024/jun/28/wa-man-fake-free-wifi-airports-data-theft-ntwnfb" rel="noopener" target="_blank">英国卫报</a></p>
 ]]></content:encoded>
 <pubDate>Sat, 29 Jun 2024 02:30:40 GMT</pubDate>
-<pubDate>Sat, 29 Jun 2024 02:30:40 GMT</pubDate>
 </item>
-
 <item>
 <title>脑机接口公司Neuralink推迟第二名患者手术 美国巴罗神经学研究所首席执行官迈克尔·劳顿表示，埃隆·马斯克创立的脑机接口公司 Neuralink 原定于6月24日为第二名...</title>
 <link>https://t.me/xhqcankao/11505</link>
@@ -9114,15 +9145,6 @@
 <p><b>因新的音乐税，Spotify 提高法国订阅价格</b><br /><br />由于法国政府在今年年初开始征收的音乐流媒体税，流媒体 Spotify 将其在法国的高级订阅价格提高了 0.13 欧元。个人订阅套餐的新价格为每月 11.12 欧元，比之前的价格高出 1.2%，与法国自今年 1 月 1 日起对 Deezer、Apple、Google 和 Spotify 等音乐流媒体公司征收的 1.2% 的税款相同。1.2% 的涨幅适用于 Spotify 的所有订阅计划，包括学生、家庭和双人计划。法国开征新税是为了支持该国的音乐产业，税收收入将直接用于四年前成立的国家音乐中心 (CNM)。<br /><br />—— <a href="https://techcrunch.com/2024/05/29/spotify-hikes-subscription-price-in-france-by-1-2-to-match-new-music-streaming-tax/" rel="noopener" target="_blank">Techcrunch</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 29 May 2024 13:01:42 GMT</pubDate>
-</item>
-<item>
-<title>中国消费者诉苹果反垄断案一审宣判：苹果有市场支配地位，但未滥用 5月29日，上海知识产权法院就中国消费者起诉“苹果”垄断案一审宣判，法院认定苹果公司在中国...</title>
-<link>https://t.me/xhqcankao/10726</link>
-<guid>https://t.me/xhqcankao/10726</guid>
-<content:encoded><![CDATA[
-<p><b>中国消费者诉苹果反垄断案一审宣判：苹果有市场支配地位，但未滥用</b><br /><br />5月29日，上海知识产权法院就中国消费者起诉“苹果”垄断案一审宣判，法院认定苹果公司在中国区软件市场显然具有市场支配地位，但没有滥用市场支配地位，因此驳回原告诉请。原告代理律师表示，尊重一审法院的判决，但将针对本案上诉至最高人民法院。<br /><br />因不满苹果对“应用内购买”收取的30%佣金，一苹果手机购买者作为原告于2021年1月11日将苹果告上法庭。根据裁判文书，原告核心诉求包括停止收取30%“苹果税”的不公平高价行为以及停止“应用内购买”强制使用苹果支付系统的搭售行为。<br /><br />—— <a href="https://m.yicai.com/news/102129831.html" rel="noopener" target="_blank">第一财经</a></p>
-]]></content:encoded>
-<pubDate>Wed, 29 May 2024 12:33:03 GMT</pubDate>
 </item>
 </channel>
 </rss>

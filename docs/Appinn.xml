@@ -4,18 +4,16 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>❓ #问题求助 关于使用AHK输入法热键的问题 https://meta.appinn.net/t/topic/58420</title>
 <link>https://t.me/appinnfeed/11476</link>
 <guid>https://t.me/appinnfeed/11476</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/11476?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />关于使用AHK输入法热键的问题<br /><br /><a href="https://meta.appinn.net/t/topic/58420" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/58420</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/58420">关于使用AHK输入法热键的问题</a></b><br /><p>各位大佬好，  我的想法是在输入中文的时候，如果有候选框存在的时候，可以绑定热键f跟j，来输出一个tab键指令。如果没有候选框，同样按f跟j时，会输出一个；和i的指令。我的代码如下，现在主要问题是检测候选框的存在与否。 希望明白的大佬可以指点一下我。搜便网络貌似没有相似的案例。谢谢啦  #Requires AutoHotkey v1.1.33.11  selecting := “ahk_class VNDDSKIN_CAND”  f::f  f &amp; j::  If WinExist(“ahk_pid 14080…</p><img src="https://cdn4.cdn-telegram.org/file/c4ekQmIsqN989c9ccscv09ACHFzIwZmSd4C8UysTyRf3XQaigvINR74euXMDcPJ0eypSs7ma6hlQ7xv8A_bT-CCd7dk5CyjofFyEZ-GMBo4qwlHGMvVlSWE1lFuXJf0mMtg7M5_pWk_BADCeSj-C7lz10tpLAfUEPEYK-SC9DJukyJ3Sa1QO_CsGMEABu5O5AEmtrjFrUtLIjw0azyS0qi33dGsmPypGbRY96twBM-iTuAQUD98V_ru0H_oC0zS18iOFhJQRCBu4kgxf5UQBaNuPaWKevNxOLNUD1Z3zbjyBA_el6EgsrLWPHSQhs0PmKwSmj3NI5o5kdCNk5IYtlQ.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Fri, 05 Jul 2024 22:00:00 GMT</pubDate>
-<pubDate>Fri, 05 Jul 2024 22:00:00 GMT</pubDate>
 </item>
-
 <item>
 <title>📣 #发现频道 Rap Generator 一键文本生成Rap音乐 https://meta.appinn.net/t/topic/58412</title>
 <link>https://t.me/appinnfeed/11475</link>
@@ -9010,15 +9008,6 @@
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10131?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />请问大家使用各种笔记的保存插件最近都无法保存微博里面的图片怎么办?<br /><br /><a href="https://meta.appinn.net/t/topic/54599" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54599</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54599">请问大家使用各种笔记的保存插件最近都无法保存微博里面的图片怎么办?</a></b><br /><p>请问大家使用各种笔记的保存插件最近都无法保存微博里面的图片怎么办?  以前各种工具是可以的.就是ctrl+c, ctrl+v都可以的.  现在连singlefile都存不了了.</p><img src="https://cdn4.cdn-telegram.org/file/airfi4brkkxtPu4xvpJOMDBibT-fqcLLVgKThnr5YT4F06U5nTQ9e31WO0MT8zqdauQ88dCXo328lC0KJugn3PXI4JPCgyqYlqbK9Yxm3Ho0_qGjcLlO9IojgZ9oqwSv_kqiakDoxE2e42BNyahIveIBMsBDxags_2jzVbHrpWzd-0xB_lj1XK3HmG9TZpRrpdDwt_41iGO5Ir9ApGrjI7A-msm_DRp6DfyL4ed0R004hgjn8AkOPSD0tL0ikRplE3Gqz7moAYRwQSU8FzLcUSg-vnfx44Wlt8iKk6PtQbKcPrcZRrtoEhLNN-BP1hbDYN_5jGVsIKCLeNh3S0_nNg.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Mon, 01 Apr 2024 01:12:01 GMT</pubDate>
-</item>
-<item>
-<title>https://twitter.com/foxshuo/status/1774314118461390960</title>
-<link>https://t.me/appinnfeed/10130</link>
-<guid>https://t.me/appinnfeed/10130</guid>
-<content:encoded><![CDATA[
-<p><a href="https://twitter.com/foxshuo/status/1774314118461390960" rel="noopener" target="_blank">https://twitter.com/foxshuo/status/1774314118461390960</a></p>
-]]></content:encoded>
-<pubDate>Mon, 01 Apr 2024 01:02:38 GMT</pubDate>
 </item>
 </channel>
 </rss>

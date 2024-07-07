@@ -4,18 +4,16 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>❓ #问题求助 请问有大佬知道视频里用的是什么软件实现了双语字幕滚屏播放吗 https://meta.appinn.net/t/topic/58272</title>
 <link>https://t.me/appinnfeed/11489</link>
 <guid>https://t.me/appinnfeed/11489</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/11489?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />请问有大佬知道视频里用的是什么软件实现了双语字幕滚屏播放吗<br /><br /><a href="https://meta.appinn.net/t/topic/58272" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/58272</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/58272">请问有大佬知道视频里用的是什么软件实现了双语字幕滚屏播放吗</a></b><br /><p>如题，或者有其他方法实现这样的效果吗，想批量做，尽量少手动操作，谢谢。  视频链接：https://www.bilibili.com/video/BV1ad4y1V7hM/</p><img src="https://cdn4.cdn-telegram.org/file/OAIwxjMM1gERV_I5-hr30Y-bRuT9kMhrkUGgH_fE-FkimMnUv43S-gkR28QXR7cqhNKQ8QNz9rysN6HJ7phpEVPfnRSpF4HQSuTdOhq951FLw4-QKwQmsTRBL-BxHfNXz-MJGn2X2HCwHhXowQez0Fwb377CJ5FnbWAkMZHWFL4tzHZ3fccKnfJ5NaNvV9HI-w1QOaJnNTawi4kVzG5BoVjqSEgPmVB_lDsqxtkMO1H4F9ku_SwBPc_oGndDP1AICkxRljYC_6di2cMqukp5PwCTUSUMsDaTYYO84s2HPRMk5ACcQTGt7y8FyxyFm_-kY22u50AaWTBRw9DHv7eWaw.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Sun, 07 Jul 2024 07:20:01 GMT</pubDate>
-<pubDate>Sun, 07 Jul 2024 07:20:01 GMT</pubDate>
 </item>
-
 <item>
 <title>📣 #发现频道 【APP 自荐】PoweReader：一款拥有本地 AI 能力，支持沉浸式翻译的 RSS 阅读工具 https://meta.appinn.net/t/topic/58452</title>
 <link>https://t.me/appinnfeed/11488</link>
@@ -9010,15 +9008,6 @@
 <p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/10145?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />Weron 基于 WebRTC 组网<br /><br /><a href="https://meta.appinn.net/t/topic/54640" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54640</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54640">Weron 基于 WebRTC 组网</a></b><br /><p>访问NAT后面的节点：由于weron使用WebRTC在节点之间建立连接，它可以使用STUN轻松遍历公司防火墙和NAT，甚至使用TURN服务器来隧道流量。例如，这对于SSH到您的家庭实验室非常有用，而无需转发路由器上的任何端口。 保护您的家庭网络：由于WebRTC在低延迟网络中的开销相对较低，weron可用于保护局域网中节点之间的流量，而不会受到显著的性能冲击。 将本地节点加入云网络：例如，如果您运行Kubernetes集群，其节点基于云实例，但也想将本地节点加入其中，您可以使用weron创建可信网络。 …</p><img src="https://cdn4.cdn-telegram.org/file/VnhvxRbTHTucDocmTfw-Rsi11_LS2WXehg3NqhUnWocqXTOKXpTxDXXmTcySueV4uJLEGRPhVOjLYXLGso6eLDW3AEvMY_AAaOFMEAi3PSX7m_IJpx0PyANlPm4rZZw0PodlwU-0X4zQbENXiBSWqlglT0gJh-hFCnyZ85jlQbwV70TB7wvg8vftIJsW9IgLk0g7HgDsFrYeFwgBf3dD0-d45ybQh7C5qyFoTAcWW9ReOB-bLSpT08aD2z8dbQRhcORjCGT-b7GFa1CqNIfCJ9PwrXaeOep0M0NNeL43Jme86baixv2J_SOwymR6UEBE2FOExPDpwhqLVTMemdJ2zw.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Mon, 01 Apr 2024 15:04:01 GMT</pubDate>
-</item>
-<item>
-<title>📣 #发现频道 Apache Guacamole：无客户端远程桌面网关 https://meta.appinn.net/t/topic/54639</title>
-<link>https://t.me/appinnfeed/10144</link>
-<guid>https://t.me/appinnfeed/10144</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/10144?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />Apache Guacamole：无客户端远程桌面网关<br /><br /><a href="https://meta.appinn.net/t/topic/54639" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54639</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54639">Apache Guacamole：无客户端远程桌面网关</a></b><br /><p>Apache Guacamole 是一个无客户端远程桌面网关。它支持VNC、RDP和SSH等标准协议。  我们称它为无客户端，因为不需要插件或客户端软件。  多亏了HTML5，一旦Guacamole安装在服务器上，您只需访问桌面即可访问网络浏览器。  https://guacamole.apache.org/  从任何地方访问您的计算机 由于Guacamole客户端是一个HTML5 Web应用程序，因此您的计算机的使用不会与任何一个设备或位置绑定。只要您可以访问网络浏览器，您就可以访问您的机器。  将您的桌面保存在云端…</p><img src="https://cdn4.cdn-telegram.org/file/VnhvxRbTHTucDocmTfw-Rsi11_LS2WXehg3NqhUnWocqXTOKXpTxDXXmTcySueV4uJLEGRPhVOjLYXLGso6eLDW3AEvMY_AAaOFMEAi3PSX7m_IJpx0PyANlPm4rZZw0PodlwU-0X4zQbENXiBSWqlglT0gJh-hFCnyZ85jlQbwV70TB7wvg8vftIJsW9IgLk0g7HgDsFrYeFwgBf3dD0-d45ybQh7C5qyFoTAcWW9ReOB-bLSpT08aD2z8dbQRhcORjCGT-b7GFa1CqNIfCJ9PwrXaeOep0M0NNeL43Jme86baixv2J_SOwymR6UEBE2FOExPDpwhqLVTMemdJ2zw.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Mon, 01 Apr 2024 14:44:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

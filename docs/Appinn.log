@@ -38763,3 +38763,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 521
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-07-17 07:01:21
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 521
+append_entries: 0
+error when rendering xml, skip docs/Appinn

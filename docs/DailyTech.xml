@@ -5,17 +5,26 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>谷歌宣布推出帮助开源项目维护的 AI 智能体平台 Project Oscar 在印度班加罗尔谷歌 I/O Connect 开发者活动期间， Go 语言开发团队宣布推出 Project Oscar ，这...</title>
+<link>https://t.me/xhqcankao/11984</link>
+<guid>https://t.me/xhqcankao/11984</guid>
+<content:encoded><![CDATA[
+
+<p><b>谷歌宣布推出帮助开源项目维护的 AI 智能体平台 Project Oscar</b><br /><br />在印度班加罗尔谷歌 I/O Connect 开发者活动期间， Go 语言开发团队宣布推出 Project Oscar ，这是一个用于构建 AI 智能体开源平台，可以帮助软件产品团队监控问题或错误。通过 Project Oscar，开发者可以创建在整个软件开发生命周期中发挥作用的 AI 智能体。这些智能体可以是开发者智能体、规划智能机、运行时智能体或支持智能体。智能体可以通过自然语言进行交互，因此用户可以向它们发出指令，而无需重写任何代码。<br /><br />Go 开发团队现在使用通过 Project Oscar 开发的 AI 智能体来接收问题报告并“通过审查这些数据或调用开发工具来丰富问题报告，以显示最重要的信息。”即使人类维护者不在线，智能体也会与报告问题的人进行互动以澄清任何问题。<br /><br />—— <a href="https://pkg.go.dev/golang.org/x/oscar" rel="noopener" target="_blank">Project Oscar</a>，<a href="https://youtu.be/986_MUsOk1g" rel="noopener" target="_blank">视频</a></p>
+]]></content:encoded>
+<pubDate>Wed, 17 Jul 2024 14:28:14 GMT</pubDate>
+<pubDate>Wed, 17 Jul 2024 14:28:14 GMT</pubDate>
+</item>
+
+<item>
 <title>阿斯麦在华销售飙升凸显美国可能采取更严厉限制措施 荷兰阿斯麦 (ASML) 公司第二季度对华销售额激增，占到该公司总收入的近一半，这表明在拜登政府考虑实施更严...</title>
 <link>https://t.me/xhqcankao/11983</link>
 <guid>https://t.me/xhqcankao/11983</guid>
 <content:encoded><![CDATA[
-
 <p><b>阿斯麦在华销售飙升凸显美国可能采取更严厉限制措施</b><br /><br />荷兰阿斯麦 (ASML) 公司第二季度对华销售额激增，占到该公司总收入的近一半，这表明在拜登政府考虑实施更严厉的限制措施之际，美国出口限制的影响有限。过去四个季度，中国一直是 ASML 最大的市场。这一结果突显出 ASML 面临的风险有多大，因为美国警告盟友，他们正在考虑使用最严厉的贸易限制措施，阻止企业向中国提供先进的半导体技术。彭博新闻周三早些时候报道称，华盛顿正在考虑是否对包括 ASML 在内的公司实施这项名为“外国直接产品规则”的措施。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-07-17/asml-s-surging-china-sales-underscore-us-threat-of-tighter-curbs" rel="noopener" target="_blank">彭博社</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 17 Jul 2024 13:20:16 GMT</pubDate>
-<pubDate>Wed, 17 Jul 2024 13:20:16 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 #News 🌌 自留地晚报 【7.17】 1️⃣ 9to5Mac 报道称，iPhone 16 Pro 将推出玫瑰色新配色，作为系列的新主打色 2️⃣ The Verge 报道称，英国竞争和市场...</title>
 <link>https://t.me/NewlearnerChannel/13133</link>
@@ -9106,15 +9115,6 @@
 <p></p><div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://t.me/NewlearnerChannel/12922?q=%23APPLE">#APPLE</a> <a href="https://t.me/NewlearnerChannel/12922?q=%23News">#News</a><br /><br /><span class="emoji">🍎</span> <b>WWDC 2024 看点一览（三）</b><br /><br /><span class="emoji">🔮</span> <b>Apple Intelligence</b><br /><br />- 内置强大生成式模型，并与各平台深度整合<br />- 协助管理通知展示、文本编写、图像生成<br />- 可跨 App 代你完成各项操作，类似一句话实现快捷指令<br />- 根据个人数据和情境，提供有用分析和信息<br />- 需 A17 Pro 和 M 系芯片支持，通过语义索引获取信息<br />- 通过 Private Cloud Compute 云端处理模型，同时保护用户隐私<br />- Siri 更自然、更贴合语境，推出全新外观（光晕）和图标，支持快速调用文字输入、屏幕内容感知、跨 App 指令操作<br />- 优化写作体验，支持重写功能（自动生成应用文）、拼写修正、摘要、自动回复等功能<br />- 重要通知优先展示，并带来全新专注模式<br />- 推出 Genmoji，通过 AI 获得全新 emoji 以便更好表达<br />- 推出 Image Playground，根据不同场景分类，自动生成效果图（多种风格）<br />- Image Wand 可讲备忘录草图转换成精美图片<br />- 照片 App 支持新擦除功能，并带来 AI 搜索<br />- 通话文字录音 / 转录（对方会收到通知）等其他功能<br />- 内置 ChatGPT，支持免费使用<br />- 今夏推出美国英语版试用，今秋登陆正式版本，其他语言适配等明年<br /><br /><span class="emoji">👀</span> 今年的更新可以说是里程碑式的，各个平台快速过了一遍后，Apple 快进到了 AI 新篇章。和发布新硬件相同的是，苹果拆解了人工智能的内涵，并给出具体实现方式，以及最重要的 —— 用户体验如何。如果说 OpenAI 做的是工具，那么苹果正在拿着这个工具，思考如何解决问题<br /><br /><span class="emoji">👍</span> 苹果并不急着在生成式大模型方面取胜，而是做自己最擅长的事情：整合到用户端，做落地应用场景，关心用户体验。总的来讲方向对了，画的大饼也很诱人，但是许多功能应该会跳票好一段时间。尽管如此，今年的系统更新依然是近几年最值得升级的一次<br /><br /><span class="emoji">❤️</span> 边看边打，如有错误请指正，让我们一同步入「AI」时代<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></div><p></p><img src="https://cdn5.cdn-telegram.org/file/nuqNgZYsx5btKLFhFYOE8ssEN3JlLLeR2wDDqiUq9yaI7zRGFTCVWyhlCv8E7dL0Ujjrt6-SUaHjKLiMPd3ue5E6uU3fI1ZESpHkf8mCC0eV2YGNoGJIfINCW2bRb5aPPA5n9hMBfgis6tNHv0PZexFfEQMD3GDxfrj9z0uuD29NshpWpJKY7cvrtRgE_6SvHN4iR8L1vqxHAIpO-du0uFhVvulElq9WhDLDrM44vaT6tVdTxKvp4wFAGoKddwU-AFqxXXvUWPcOJXpjcAyk6TyLIwfgZIBZChw0x1QlJTFhWwa27XMDW9wbdSfvXR0-fRf396E1Inp0EO20A5_3bA.jpg" /><img src="https://cdn5.cdn-telegram.org/file/pThh42uDNc_ksJZbpIHhkTSZ4yp8qWcowStYTe_auIXbDBW5XYSrY10pfIeNz2Z1jrY9onvGXqa9xnZ0akfjdjwPzSwsXTBlXhfe_9H_5PLjNg3BQe1PtVgcPT623Sqg3s7ILmSi89K32Yk3cMu0nWcLkH7WHsVj07VfoJklVX15TdMp0ISpE_BO7a2Qx2uLXR-R9zcXNwpUXxmEQ9gJBkKqIYcYGCPpars3yhSsDUpXUOOtz-fAiF-__8osmWZPd4E6Iqi9Ep4NLPBMMR0AW99rCdUx8xBS9odsqENmzs5-4Mkjyu1XaVTcg_9Yiv1gGBFRMMr9QdV24ht0By39yw.jpg" /><img src="https://cdn5.cdn-telegram.org/file/EWfXC13X9XpevhBpMVzsXS7E3NEW7M2LQ7M6g0rQa02-Oi88ipOsZwSm6E_b2AU7pySXsb9Oe6mzjWYOZkCJ-eTk2xTA7X_Ljuojn2aimA5aNg40SyJTMbE7pVA7IQSiqU7guOWJG865ZTmYlRRQ6uEE9021M_u4QoZv0hjlYVV2TmgJCGAICOU4n3yCD5XLPnzysAgpUw7hMwPnZ6nwhtscDBqbgi-uknqRSzcjsslcAGm3G1muHEh21CAMhqMoVMBogtJ0HUCOyBEvUMHdDMrQXkDqZCr-SWdoFomzdJX6BirKq4pmi62vtZ0K39YZlzmdINLXg4QVrBWq4GGxGg.jpg" /><img src="https://cdn5.cdn-telegram.org/file/fzuYRKbOj2ZkHwo0fuSbHp1bEXxVBJJUtt8WXMT0sJNFRCN0fO8-gnMRlv7KgIy_J-tDEa-HWfAZ3AZWlQ4x0vEM_ozD6kk6Q7ZkCL2bAyZw28XNVxlii3gWybRM_MoDJ_G20sAv7Z8z75WlxE1ArLsOHTyvmfrNkr58nlAgbciQNyGQ9LKFK-643rYWxTL_ayoOjINGt0Pr1fpCHfFD5ipKJgWK6InzFDhinnffGc8OaJ7Df8AaP37YXLiqCBVSy3JnO__y03aUbNUgDs9fPQY_Josil1OzdU6UJucRBUHODK8tiqeylnIlh5YBE5hki6AUkBr24d-6XAK2QBJNwg.jpg" /><img src="https://cdn5.cdn-telegram.org/file/Kz7Vs9sDJpPJRfCRiiMqD_vRjBaS17-ycFNkgs3iORcm8txAGb6Bf8vrXoMX_6p-7SOnU_ZXZu-ixbneOqfSIQymWPSLmrjgmOY6o-X5gLylTfa4WkIhIEiI3NMM8MV6TCgD2Os576FvFQv142kmLTU9a7FafGlh-PC3yup8k6_wu-DR-R-QmtLLhwrtqkdusChXrqquGilxCW_p8fC1HWV2NIigjV77mE004E00cc9I28ZxZ74JnRUvbEzti9xYCjYdPGtg0cfmjcxqDnDBd0Y13u6IgxxbP8Ndon5w-MvLgIv1u72cUKNruQEQTxtpt399vU00OSlY1yUzwg4kMw.jpg" /><img src="https://cdn5.cdn-telegram.org/file/NMyTLxmOqWhSJPMF4eOLxPa7L0obBP3LE59KDDKqXw_1ZLkHJJPRhcNIZ9Qhlr5YVeLISmK4URX94GcHUgugqeXPQUKv2UpswfAN_kULm9bdcZfzejmBPWUZYVGf6jQUU4ok7egk020wKHYnDsNm4mrGk-HWjDlVvAaDXIm_cWYcHJyb91cMsf25hWtdR-sMMB-TWjp0dHAsb_0d1obe4e-eofH5vi_HQn8yyHmaW36fZ2OdtHpr0qEePsrxMkLCh6nRIuvwkP7N5MyEZG_Ww2bQJbVvht-z8lj0VAHS5h3OmYWj96jEfMlCTD5jrLG5f74bwzT0Rs_8PYC0Og272w.jpg" />
 ]]></content:encoded>
 <pubDate>Mon, 10 Jun 2024 18:58:38 GMT</pubDate>
-</item>
-<item>
-<title>🖼 #APPLE #News 🍎 WWDC 2024 看点一览（二） ⌚️ watchOS 11 - 训练负荷功能新增能耗评分指标 - 支持针对单独一天调整运动圆环目标 - 全新 Vitals 应用，...</title>
-<link>https://t.me/NewlearnerChannel/12919</link>
-<guid>https://t.me/NewlearnerChannel/12919</guid>
-<content:encoded><![CDATA[
-<p></p><div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://t.me/NewlearnerChannel/12919?q=%23APPLE">#APPLE</a> <a href="https://t.me/NewlearnerChannel/12919?q=%23News">#News</a><br /><br /><span class="emoji">🍎</span> <b>WWDC 2024 看点一览（二）</b><br /><br /><span class="emoji">⌚️</span> <b>watchOS 11</b><br /><br />- 训练负荷功能新增能耗评分指标<br />- 支持针对单独一天调整运动圆环目标<br />- 全新 Vitals 应用，收集身体各项指标并定期进行比对提醒<br />- 堆叠小组件智能出现，如下雨天自动展示天气模块；实时活动登陆手表小组件<br />- 重新设计的照片表盘，智能识别最适合作为壁纸的照片<br /><br /><span class="emoji">📱</span> <b>iPadOS 18</b><br /><br />- 和 iOS 相同的自定义主屏幕 / 控制中心功能<br />- 新悬浮标签页栏，提供极致的动态效果<br />- iMessage 支持远程操控 iPad<br />- 计算器 App 登陆 iPad，并为大屏做了适配，支持数字笔记功能（手写自动计算）<br />- 备忘录带来 Smart Script，通过人工智能带来更流畅的手写体验、优化笔迹<br />- 无针对桌面系统的任何进一步优化<br /><br /><span class="emoji">💻</span> <b>macOS 14</b><br /><br />- 命名为 Sequoia<br />- 地图 App 支持规划徒步路线<br />- <b>连续互通带来 iPhone Mirroring 功能，可在 Mac 上直接操控 iPhone 屏幕 / 接收 iPhone 通知</b><br />- 新窗口管理功能，通过快捷键快速整理窗口<br />- 全新独立密码管理器 Passwords，跨多个平台<br />- Safari 带来 Highlights功能，通过人工智能快速总结网页并归纳关键信息；Viewer 支持视频播放时网页前置<br />- 更多游戏即将登陆 Mac<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></div><p></p><img src="https://cdn5.cdn-telegram.org/file/qT0sUJcmX9jk_fq066KxQ0YoMwvagCkdNTUknYsG8wJDFHPAG6jJ2rgCQeKPbdCahAa__03nkBqrPD66Qg2iga5GL8BRdKlTXdqzx_5EkK5GsmlVxvSf7oH-DsIKq_o89YwOPJP2dSZTDe0Q_rGmwquvM0QHA7BL9B60UjFvNif6FUyS39Vz-S2bDStuSnJsRnE4Q1zxzLoE4BMDveGCjhr3ZgWHz8MnChqK6-3zVcPOzQ1yGhik2FFfLWbO31igFBpMCYKrcQCqnCAs-dnab-YCeCDP4fw_IlBu0KGmEQvCXiaJkB3buagdeUvSf5t4iaPbAotta13JDSj0AFdDmw.jpg" /><img src="https://cdn5.cdn-telegram.org/file/bhlVhl-Eolki6ToaWFd6CZsoIycHT0FjsX7A1h4C3wx5va9jc6l5BuRlEH5QaaTpMYYlQBkrJwrnTeIJJzy2vPsbzq9kn6-VewVs6xBmgkfReVMbVyX4CAZZzqQ8Kti8eW-jG9n9_SRyWwfXOSK8BJwSUh8i6MvxslTymJjfsVflWUsB6dCC_k0PKFG31JCFLJBVvtoXMMxOH9XVvPl29aFyalq4oLWvCo3OWoPftfDL1gG05FnpByBNFhcCPUSrklb6oZKrecfU_NW3JpUprOw3FyOrUe50JXFW3dhypP9_E3IeWpaIEsLy5hBIvoaYGCbpJGSJLgvgtQpeSqhlzQ.jpg" /><img src="https://cdn5.cdn-telegram.org/file/BDuotV4EgN-Yrg9RijT92TrH8Qs1z93fG_VG9jA4EzJewbFCuV_JfHIb-vMi-AAtMkttS3wLlov0_JJeV73P-fcmezzpvxEuI8x9jBltr9u2JHlnJ9s1Mv-uSw50ka_t8WRjVq0-LcqrXJV0Ln7hKSB9S3vyZjATiN9sEJyo2FcD2647d3u18gx3eFK9b1ZoHD3Yr2Sa69F_ks3-KcL1VOcA8XWVnuaDVD9G6ToVGIdHaBKFGda3bIKoH-rUgq3HjCxtc9bkVmNnNi9QAXZrnO9eGBFXnqw2DSUwGfZ8ZIp2bU2B0nKL30y-wfFhry1miSSqaig38kNZENuv9CADpw.jpg" />
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 18:57:20 GMT</pubDate>
 </item>
 </channel>
 </rss>

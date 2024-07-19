@@ -5,17 +5,26 @@
 <link>https://t.me/s/appinnfeed</link>
 
 <item>
+<title>❓ #问题求助 win10桌面美化工具Nexus的duck栏只能滑动呼出吗，有快捷键吗？ https://meta.appinn.net/t/topic/58962</title>
+<link>https://t.me/appinnfeed/11700</link>
+<guid>https://t.me/appinnfeed/11700</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/11700?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />win10桌面美化工具Nexus的duck栏只能滑动呼出吗，有快捷键吗？<br /><a href="https://meta.appinn.net/t/topic/58962" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/58962</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/58962">win10桌面美化工具Nexus的duck栏只能滑动呼出吗，有快捷键吗？</a></b><br /><img src="https://cdn4.cdn-telegram.org/file/IsNHmXbxTY8EpqSQ9AXQdjqR3DkecjpNfb9dFfxSWHNWWhNEe6T1cQIsdVj-dsCoqMt416k4MgjSJOn82EMlMfkqZHsx19ncdX2YbKoRT3HNH6aA0LX6oFcpMe91-f0nc58HwLyvgNqFL_eXyeFOuGSDQa4oL6akS7TBPRG075WiAMj_cseHfnmiQ8ZCmuqKxV5PePO9RZLRHJ6hXPaxtnt-4_E3yp_IMKOibVohVcDH7rWER5MTA6jMThUKfOKNaZHbE-bP8ZoUjlfW_G2Mw1lqJGfc_v1KVmhq41P15w4vY-FcLhS34uowrrWuLCR3gkCPXsbXJtbDDGXvTlydiA.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Fri, 19 Jul 2024 08:17:47 GMT</pubDate>
+<pubDate>Fri, 19 Jul 2024 08:17:47 GMT</pubDate>
+</item>
+
+<item>
 <title>🔁 Crowdstrike Falcon 更新导致 Windows 主机蓝屏死机 2024-07-19 15:00 by 智者之惧 网友通过社交媒体报告了大规模 Windows 蓝屏死机（BSOD）事故，而所有受...</title>
 <link>https://t.me/appinnfeed/11699</link>
 <guid>https://t.me/appinnfeed/11699</guid>
 <content:encoded><![CDATA[
-
 <p>Forwarded From <b><a href="https://t.me/solidot/24679">Solidot</a></b></p><p><a href="https://www.solidot.org/story?sid=78741" rel="noopener" target="_blank"><b>Crowdstrike Falcon 更新导致 Windows 主机蓝屏死机</b></a><br /><br />2024-07-19 15:00 by 智者之惧<br /><br />网友通过社交媒体报告了大规模 Windows 蓝屏死机（BSOD）事故，而所有受影响的机器都安装了 Crowdstrike Falcon。澳大利亚和新西兰可能是第一个遭遇该问题的地区，它导致了网站下线服务中断，受影响的机构包括澳大利亚国家广播公司 ABC、四大银行、Foxtel、Telstra 和 NBN 等等。Crowdstrike 是一家网络安全公司，为世界各地的客户提供端点安全、情报威胁和网络攻击的安全服务。它的 Falcon 平台帮助客户实时搜寻和收集数据。这次事故被认为是 Crowdstrike Falcon 最新更新导致的。如果遇到该问题，权宜之计是在安全模式下重命名文件夹 c:\windows\system32\drivers\crowstrike。<br /><br /><a href="https://www.cyberdaily.au/tech/10853-breaking-websites-across-australia-go-dark-after-apparent-crowdstrike-update-causes-windows-crashes" rel="noopener" target="_blank">https://www.cyberdaily.au/tech/10853-breaking-websites-across-australia-go-dark-after-apparent-crowdstrike-update-causes-windows-crashes</a><br /><a href="https://supportportal.crowdstrike.com/s/article/Tech-Alert-Windows-crashes-related-to-Falcon-Sensor-2024-07-19" rel="noopener" target="_blank">https://supportportal.crowdstrike.com/s/article/Tech-Alert-Windows-crashes-related-to-Falcon-Sensor-2024-07-19</a><br /><a href="https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/" rel="noopener" target="_blank">https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/</a> <br /><br /><a href="https://t.me/appinnfeed/11699?q=%23%E5%AE%89%E5%85%A8">#安全</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 19 Jul 2024 07:54:06 GMT</pubDate>
-<pubDate>Fri, 19 Jul 2024 07:54:06 GMT</pubDate>
 </item>
-
 <item>
 <title>💧 #小众软件 GPT-4o mini 发布：OpenAI 最便宜的小型模型，比 GPT-3.5 便宜，比 GPT-4 优秀 https://www.appinn.com/gpt-4o-mini/</title>
 <link>https://t.me/appinnfeed/11698</link>
@@ -9010,15 +9019,6 @@
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10204?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />使用clang编译C++（C）后不显示命令行窗口的办法？<br /><br /><a href="https://meta.appinn.net/t/topic/54864" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54864</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54864">使用clang编译C++（C）后不显示命令行窗口的办法？</a></b><br /><p>RT, 在一开始学c的时候，咱们都知道  #include &lt;stdio.h&gt; int main(int argc, char *argv[]){     printf("hello world");     return 0; }  上面这个编译出来的main.exe（只说windows平台）是会显示一个黑乎乎的窗口的，但是有时候不需要这个黑色窗口，仅凭快捷键与弹出的通知与用户交互，这时候怎么隐藏这个黑色控制台窗口呢？  不同编译器 MSVC #include &lt;windows.h&gt; #pragma comment(…</p><img src="https://cdn4.cdn-telegram.org/file/prZ7EVpICz187PdGX6mj20SJwMoBlJif3JeBuYdpzWI2MQNNOj71JT-DUTYYhSTQ71uEgeh3RNumoR3VaV-XQdc5lSz5zVZQbYtJj4yhHfFlENw-KKoB5Sud1MzE8fQ6cshFl9cVpxHDFPhmkXXviMrsckj8JYkeBBMFGUjCZuvHKl6J_MfQfGVFM54qmM4257I1HiO4I0Qfbrq3jVCi2SiVhZ_smbK5GOly5u7xNMt-5GWOJdfVNlj-Lby09z3rp3iYJM49aQv6k22FvcWcFPRJfpB9Y74ri2PZFSrZcKKgoXdlU3X6ojAUCii2hjKay2Lqo_99rdDgFrtesEREhg.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Sun, 07 Apr 2024 12:24:01 GMT</pubDate>
-</item>
-<item>
-<title>❓ #问题求助 多邻国学英语或者日语效果怎么样，零基础那种？ https://meta.appinn.net/t/topic/54863</title>
-<link>https://t.me/appinnfeed/10203</link>
-<guid>https://t.me/appinnfeed/10203</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10203?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />多邻国学英语或者日语效果怎么样，零基础那种？<br /><br /><a href="https://meta.appinn.net/t/topic/54863" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54863</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54863">多邻国学英语或者日语效果怎么样，零基础那种？</a></b><br /><p>如标题所问，它可以当成一个主用的学外语软件吗，还是只能起到锦上添花的作用？  另外，这只小绿鸟怎么老了，<span class="emoji">😃</span></p><img src="https://cdn4.cdn-telegram.org/file/O3IovYpq8E7xp-6oTMHEN-T33nWfqDwzmGoHdmCsr0-UvvgFEQYBgIZUlCy9qS_okWIWj1C7E9gpP-w2ynze6SDF0oxFe4Hj15dDErdz1Kz3Hjgx_-3RQuBkbhAmfDYtcFUb-IVwFD_1TK69UMlXGDqvW-I_T1yCozTvYUXjhQoYZ2xI8Wq5gBTmK2c2jy_nPI5KpBhQ4cX6AW3ZdUkyqAYDhnCTmAkWuMm5z9rglEOZ74gR3QvKym1vwVylV99tpCEE0JC2lyBDZh5KmNpdLnXgQymoISTfa9jb4SP81QIhdbuRgd3g-3U1A4h1XzaO8aLw9Md9hTcXhjnF72z5ew.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Sun, 07 Apr 2024 11:16:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

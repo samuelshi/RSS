@@ -4,6 +4,17 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+<item>
+<title>微软发布恢复工具帮助修复受 CrowdStrike 问题影响的 Windows 设备 微软公司发布了一款恢复工具，旨在帮助 IT 管理员修复因 CrowdStrike 错误更新影响的 Windows...</title>
+<link>https://t.me/xhqcankao/12074</link>
+<guid>https://t.me/xhqcankao/12074</guid>
+<content:encoded><![CDATA[
+
+<p><b>微软发布恢复工具帮助修复受 CrowdStrike 问题影响的 Windows 设备</b><br /><br />微软公司发布了一款恢复工具，旨在帮助 IT 管理员修复因 CrowdStrike 错误更新影响的 Windows 设备。该更新于 7 月 19 日导致 850 万台 Windows 设备崩溃。该工具可以创建可启动的 USB 驱动器，IT 管理员可以使用它快速恢复受影响的设备。微软公司的恢复工具会通过 USB 启动 Windows PE 环境，访问受影响机器的磁盘，并自动删除有问题的 CrowdStrike 文件以允许设备正常启动，从而减少了恢复过程的手动操作。如果磁盘受到 BitLocker 加密保护，工具将提示输入 BitLocker 恢复密钥，然后继续修复 CrowdStrike 更新。<br /><br />—— <a href="https://www.theverge.com/2024/7/21/24202883/microsoft-recovery-tool-windows-crowdstrike-issue-it-admins" rel="noopener" target="_blank">TheVerge</a></p>
+]]></content:encoded>
+<pubDate>Sun, 21 Jul 2024 21:26:36 GMT</pubDate>
+<pubDate>Sun, 21 Jul 2024 21:26:36 GMT</pubDate>
+</item>
 
 <item>
 <title>拜登宣布退出2024年美国总统大选 拜登宣布退选是为了美国与民主党的最大利益。退选声明中没有提到他自己的身体状况。 拜登支持他目前的副总统贺锦丽代表民主党参...</title>

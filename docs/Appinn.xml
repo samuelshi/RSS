@@ -5,17 +5,37 @@
 <link>https://t.me/s/appinnfeed</link>
 
 <item>
+<title>❓ #问题求助 【shell/bash 提问】如何修改文件内容？ https://meta.appinn.net/t/topic/59057</title>
+<link>https://t.me/appinnfeed/11719</link>
+<guid>https://t.me/appinnfeed/11719</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/11719?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />【shell/bash 提问】如何修改文件内容？<br /><a href="https://meta.appinn.net/t/topic/59057" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/59057</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/59057">【shell/bash 提问】如何修改文件内容？</a></b><br /><p>平常都用高级语言，bash 基本不会。  很简单的问题：   有三个变量 $oldContent，$newContent，$filePath 需求：将文件 $filePath 的内容中的 $oldContent 改为 $newContent  注意点：   只可修改一次，不可 global replace $oldContent，$newContent 的值是 HTML string，注意转义 如果不存在 $oldContent ，报错退出   第二个问题，bash、vbs、bat、ps1 中的 变量 好像不是高级语言里的…</p><img src="https://cdn4.cdn-telegram.org/file/ep2721u9ePWnCmhwhHCvCVa_TmBJzN1ElC1JuFB6JZ8SGkghz7D4UcoQa9OUdEF7t5acpQ3UuF93_Ifk_oC2Fk5EBHrTlR_blq0NMr_fWMMaFepaaak_xMSIscL6PNT20BQcEpD2k2sW3hAuu1s5TIGa67BVuKdfkyDTYgNsI-QWUxcYTX11vk-8QsrmE4oRnSnGJaHWLkWaqmxNFrTIfptfcQRXuMCfkAnwqqyI8TRksTq4IireXT-1TZ8HGWQqZ_1PmyhjpRWJqlxRnvFt-QFJ5aWxjf6Ta9GdC-Y3eANjHqgI5Uvz40AlZp4yQdBc9Z2ElAXyvTeq3_J9NtznXg.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Sun, 21 Jul 2024 13:52:25 GMT</pubDate>
+<pubDate>Sun, 21 Jul 2024 13:52:25 GMT</pubDate>
+</item>
+<item>
+<title>📣 #发现频道 游戏自动备份存档启动器-免费 https://meta.appinn.net/t/topic/59054</title>
+<link>https://t.me/appinnfeed/11718</link>
+<guid>https://t.me/appinnfeed/11718</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/11718?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />游戏自动备份存档启动器-免费<br /><a href="https://meta.appinn.net/t/topic/59054" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/59054</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/59054">游戏自动备份存档启动器-免费</a></b><br /><p>游戏自动备份存档启动器 自动备份存档启动器 防坏档专用  讲道理, 这个工具可以设置成备份任何游戏存档…  无官网  特别游戏支持：猎人：荒野的召唤                                                  下载地址 链接:https://pan.baidu.com/s/1Cm6epy9Pbs3vDfxyyEW45w?pwd=kn3z  提取码:kn3z  更新日志 2021.12.17 V3.0 更新 支持备份模式  备份模式问题  该功能为解决在其他游戏中,频…</p><img src="https://cdn4.cdn-telegram.org/file/ep2721u9ePWnCmhwhHCvCVa_TmBJzN1ElC1JuFB6JZ8SGkghz7D4UcoQa9OUdEF7t5acpQ3UuF93_Ifk_oC2Fk5EBHrTlR_blq0NMr_fWMMaFepaaak_xMSIscL6PNT20BQcEpD2k2sW3hAuu1s5TIGa67BVuKdfkyDTYgNsI-QWUxcYTX11vk-8QsrmE4oRnSnGJaHWLkWaqmxNFrTIfptfcQRXuMCfkAnwqqyI8TRksTq4IireXT-1TZ8HGWQqZ_1PmyhjpRWJqlxRnvFt-QFJ5aWxjf6Ta9GdC-Y3eANjHqgI5Uvz40AlZp4yQdBc9Z2ElAXyvTeq3_J9NtznXg.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Sun, 21 Jul 2024 13:10:46 GMT</pubDate>
+<pubDate>Sun, 21 Jul 2024 13:10:46 GMT</pubDate>
+</item>
+
+<item>
 <title>❓ #问题求助 求一个将c#代码一键生成exe的工具 https://meta.appinn.net/t/topic/59052</title>
 <link>https://t.me/appinnfeed/11717</link>
 <guid>https://t.me/appinnfeed/11717</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/11717?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />求一个将c#代码一键生成exe的工具<br /><a href="https://meta.appinn.net/t/topic/59052" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/59052</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/59052">求一个将c#代码一键生成exe的工具</a></b><br /><p>如题。我有时候会让chatgpt帮忙写一个功能简单的小程序，代码只有几十行，但是安装vs，还有net sdk都试了，还是没学会使用。太复杂的软件界面眼花缭乱，功能都找不到在哪。  在线的编译器也试了不少，都只能在线运行，但没有生成exe的功能。  所以想求一个比较简单的工具，能像记事本一样简单，把代码复制进去，点击 生成exe ，就能直接生成。</p><img src="https://cdn4.cdn-telegram.org/file/ep2721u9ePWnCmhwhHCvCVa_TmBJzN1ElC1JuFB6JZ8SGkghz7D4UcoQa9OUdEF7t5acpQ3UuF93_Ifk_oC2Fk5EBHrTlR_blq0NMr_fWMMaFepaaak_xMSIscL6PNT20BQcEpD2k2sW3hAuu1s5TIGa67BVuKdfkyDTYgNsI-QWUxcYTX11vk-8QsrmE4oRnSnGJaHWLkWaqmxNFrTIfptfcQRXuMCfkAnwqqyI8TRksTq4IireXT-1TZ8HGWQqZ_1PmyhjpRWJqlxRnvFt-QFJ5aWxjf6Ta9GdC-Y3eANjHqgI5Uvz40AlZp4yQdBc9Z2ElAXyvTeq3_J9NtznXg.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Sun, 21 Jul 2024 12:17:22 GMT</pubDate>
-<pubDate>Sun, 21 Jul 2024 12:17:22 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 谁有懒洋洋软件啊,刷助力的那个 https://meta.appinn.net/t/topic/59047</title>
 <link>https://t.me/appinnfeed/11716</link>
@@ -9010,15 +9030,6 @@
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10222?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />哪个网站上可以查询到某个打印机适配什么硒鼓、耗材？<br /><br /><a href="https://meta.appinn.net/t/topic/54937" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/54937</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/54937">哪个网站上可以查询到某个打印机适配什么硒鼓、耗材？</a></b><br /><p>请问哪个网站可以查询给定打印机型号适配的硒鼓或者耗材，反之，特定硒鼓支持哪些打印机？</p><img src="https://cdn4.cdn-telegram.org/file/UU5BHsMwMC1VXVX-oauacIX-zxRVNYBjWXE2u2p17IIGlpFcIJvwGB_PkKz6n7nJd7DFGVkhcgTjGQSRy1M2oPi2bcfx2MN6HQ-R_oKp7t3WzdoMI68YL5ETAnl2PJ4SAsuT1qQwH7kmc4VbJvu1Q0pp-zhE6Ec8HFuVARaR_MBnaONnvAKFO-mNmafjH4VLgulfD0ESBlZsqZru1cHlGH6tjGHtxLAKAZWuYelbeW8D65aNEMhyEFhA5FrL1TXMKk942jPyXPzRRejDkCtS9G3O25CpECEC1B_6CLUogCsxCkDU1Rg6wVca8G_qGXw7e1xw_CSsJ2DUt3TSLNNGYg.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Tue, 09 Apr 2024 08:24:00 GMT</pubDate>
-</item>
-<item>
-<title>💧 #小众软件 AirBattery – 实时在 Mac 菜单栏、程序坞上显示 iPad、iPhone、手表的电量信息 https://www.appinn.com/airbattery/ Tags: #macOS, #电池, #电...</title>
-<link>https://t.me/appinnfeed/10221</link>
-<guid>https://t.me/appinnfeed/10221</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">💧</span> <a href="https://t.me/appinnfeed/10221?q=%23%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6">#小众软件</a><br />AirBattery – 实时在 Mac 菜单栏、程序坞上显示 iPad、iPhone、手表的电量信息<br /><br /><a href="https://www.appinn.com/airbattery/" rel="noopener" target="_blank">https://www.appinn.com/airbattery/</a><br /><br /><b>Tags</b>: <a href="https://t.me/appinnfeed/10221?q=%23macOS">#macOS</a>, <a href="https://t.me/appinnfeed/10221?q=%23%E7%94%B5%E6%B1%A0">#电池</a>, <a href="https://t.me/appinnfeed/10221?q=%23%E7%94%B5%E9%87%8F">#电量</a>, <a href="https://t.me/appinnfeed/10221?q=%23%E7%A8%8B%E5%BA%8F%E5%9D%9E">#程序坞</a>, <a href="https://t.me/appinnfeed/10221?q=%23%E8%8F%9C%E5%8D%95%E6%A0%8F">#菜单栏</a></p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/airbattery/">AirBattery - 实时在 Mac 菜单栏、程序坞上显示 iPad、iPhone、手表的电量信息 - 小众软件</a></b><br /><p>AirBattery 是一款用来在 Mac 菜单栏或者程序坞（Dock）上显示你的所有苹果设备电量信息的开源工具，只需要这些设备在同一个局域网内即可。对于 iPhone 或插卡版 iPad 可以通过蓝牙显示电量，无需局域网。@Appinn</p></blockquote>
-]]></content:encoded>
-<pubDate>Tue, 09 Apr 2024 03:48:02 GMT</pubDate>
 </item>
 </channel>
 </rss>

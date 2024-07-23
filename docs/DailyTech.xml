@@ -5,17 +5,26 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>Let's Encrypt 计划终止 OCSP 服务 今天，Let's Encrypt 宣布计划尽快终止对在线证书状态协议 (OCSP) 的支持，转而支持证书撤销列表 (CRL)。OCSP 和 CRLs 都是证...</title>
+<link>https://t.me/xhqcankao/12132</link>
+<guid>https://t.me/xhqcankao/12132</guid>
+<content:encoded><![CDATA[
+
+<p><b>Let's Encrypt 计划终止 OCSP 服务</b><br /><br />今天，Let's Encrypt 宣布计划尽快终止对在线证书状态协议 (OCSP) 的支持，转而支持证书撤销列表 (CRL)。OCSP 和 CRLs 都是证书颁发机构 (CAs) 传达证书撤销信息的机制，但 CRLs 相比 OCSP 具有显著优势。此更改不会影响网站及其访问者，但某些非浏览器软件可能会受到影响。计划终止对OCSP的支持，主要是因为它对互联网隐私构成了相当大的风险。当有人使用浏览器或其他通过 OCSP 检查证书撤销的软件访问网站时，运营 OCSP 响应器的证书颁发机构 (CA) 会立即知道该访问者的特定IP地址正在访问哪个网站。建议现在依赖 OCSP 服务的任何人都尽快开始结束这种依赖。<br /><br />—— <a href="https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html" rel="noopener" target="_blank">Let's Encrypt</a></p>
+]]></content:encoded>
+<pubDate>Tue, 23 Jul 2024 22:31:10 GMT</pubDate>
+<pubDate>Tue, 23 Jul 2024 22:31:10 GMT</pubDate>
+</item>
+
+<item>
 <title>法官称 Meta 的大规模裁员遣散协议违法 美国一名法官裁定，Meta 公司在2022年大规模裁员期间与员工达成的离职协议是非法的，这一裁定的影响可能远远超出扎克伯格...</title>
 <link>https://t.me/xhqcankao/12131</link>
 <guid>https://t.me/xhqcankao/12131</guid>
 <content:encoded><![CDATA[
-
 <p><b>法官称 Meta 的大规模裁员遣散协议违法</b><br /><br />美国一名法官裁定，Meta 公司在2022年大规模裁员期间与员工达成的离职协议是非法的，这一裁定的影响可能远远超出扎克伯格公司。美国国家劳动关系委员会 (NLRB) 行政法官安德鲁·戈林于上周五发布了一项裁决，认定 Meta 的离职协议违反了《国家劳动关系法》(NLRA) 的员工权利条款，因为其非贬损和保密部分中“使用了过于宽泛的语言”。戈林表示，这些条款的写法倾向于“干涉、限制或胁迫员工行使其权利”。法官命令 Meta 删除违规语言，联系所有签署了有问题协议的员工，告知他们发生了什么，并在工作场所张贴更多通知，告知员工 NLRB 法律赋予他们的权利。国家劳工关系委员会表示，共有 7,236 名 Meta 员工签署了该协议。<br /><br />—— <a href="https://www.theregister.com/2024/07/22/meta_layoff_severance_agreements/" rel="noopener" target="_blank">Theregister</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 23 Jul 2024 21:58:09 GMT</pubDate>
-<pubDate>Tue, 23 Jul 2024 21:58:09 GMT</pubDate>
 </item>
-
 <item>
 <title>微软将把《使命召唤：现代战争 III》纳入 Xbox Game Pass 微软将于明天把去年发布的《使命召唤：现代战争 III》引入 Xbox Game Pass。这是《使命召唤游戏》首次...</title>
 <link>https://t.me/xhqcankao/12130</link>
@@ -9086,15 +9095,6 @@
 <p><b>YouTube 测试让观众通过注释核实视频事实</b><br /><br />YouTube 正在推出新的实验性功能，将允许观看者在视频下添加“注释”，以提供更多背景和信息。YouTube 表示，该功能可用于澄清某首歌曲是否是模仿，或让观众知道旧视频片段是否被描述为当前事件。YouTube 承认在测试阶段可能会出现错误，因为其预计某些注释可能与视频不太匹配，或者注释中可能包含不正确的信息。美国观众将在未来几周和几个月内开始看到视频注释。在初始试点期间，第三方评估人员将对注释的实用性和准确性进行评分。如果第三方评估人员发现注释有用，它们就会出现在视频下方。<br /><br />—— <a href="https://techcrunch.com/2024/06/17/youtube-is-experimenting-with-notes-a-crowdsourced-feature-that-lets-users-add-context-to-videos/" rel="noopener" target="_blank">Techcrunch</a>、<a href="https://blog.youtube/news-and-events/new-ways-to-offer-viewers-more-context/" rel="noopener" target="_blank">YouTube</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 17 Jun 2024 13:20:11 GMT</pubDate>
-</item>
-<item>
-<title>🎬 麦当劳暂停使用AI驱动的得来速语音点餐服务 麦当劳已经结束了为期两年的人工智能驱动得来速语音点餐测试。该公司在其100多家餐厅试用了 IBM 的技术，但将在...</title>
-<link>https://t.me/xhqcankao/11177</link>
-<guid>https://t.me/xhqcankao/11177</guid>
-<content:encoded><![CDATA[
-<p><b>麦当劳暂停使用AI驱动的得来速语音点餐服务</b><br /><br />麦当劳已经结束了为期两年的人工智能驱动得来速语音点餐测试。该公司在其100多家餐厅试用了 IBM 的技术，但将在7月底前从所有门店移除这些系统，这意味着顾客将再次面对服务人员而非计算机下订单。作为该决定的一部分，麦当劳将终止与 IBM 的自动点餐 (AOT) 合作关系。然而，麦当劳可能正在考虑与其他潜在合作伙伴合作开展未来的 AOT 工作。<br /><br />—— <a href="https://www.engadget.com/mcdonalds-pauses-ai-powered-drive-thru-voice-orders-120024406.html?src=rss" rel="noopener" target="_blank">Engadget</a></p> <video controls="controls" poster="https://cdn5.cdn-telegram.org/file/PkADgbcRQfQO6LZ2aDg_zagY5MKP4i-rQaPGyZ778ZoLVLAyEdvBpRkDicWN3SjdT2oE2jl2mygh4iJ2Ifde9Ggw_dz7_4rnhh4ji74RPHAzanurdBTPV4Ib2xzdoprbfNdhDLl1mBXW01UsMt2QWuKAwZ1uNOMG7IFmgxH1Cs36F0lbyeiTsXjDJzy-u4pKKoVaRbUrzGgOswMdsm-50NziveEbGWaOtFVF7rCZ5HEz3FpJLhvJKWsyR89GfeviotuAxAeX294IX50GgFXGnmPV1BOcGlTyi0mGumPc6285qHg_dnG5DJFzRiDRnNKCFSEygjcJpFspG-Iyan5n8A" src="https://cdn5.cdn-telegram.org/file/72aa3bc504.mp4?token=ubD62kGINuNi1qP2HxldqrmT0Vmf9EVaE928rdju6de0Oy5lIIBSCUCxwfG4iRic05wi6v5mLCXgqM2kx4pkm7LMjXfxOPsFtWEP5YvS8wsfC5qnUUAOAdHIOHkgWaR7zxXvwzxr9G5USmAYFJ7unojFnjEkhSRpUhvEneYuc_WZSYVnQBmPcxElhw0OopgIehztRS51-6LtRsn67mdDi062TlUJXT_PoZ-lo-5fcwEc_VBzdcvAN2qqryZXvXqAI4Cc2SC6C1D5sq1Q6_aO4o4t5An-tlePxpNARy8splhZLLe_LMl0UkesOfrAHdxnce21mhdXCPfj3gaVamLF7w" style="width: 100%;"></video>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 12:57:28 GMT</pubDate>
 </item>
 </channel>
 </rss>

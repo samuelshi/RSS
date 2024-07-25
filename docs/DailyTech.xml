@@ -5,14 +5,35 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>中国车厂在欧盟新一轮听证会上反击关税 在中国和欧盟继续在11月确定关税的最后期限之前进行谈判之际，被欧盟反补贴调查点名的三家中国汽车制造商已寻求并获得了...</title>
+<link>https://t.me/xhqcankao/12191</link>
+<guid>https://t.me/xhqcankao/12191</guid>
+<content:encoded><![CDATA[
+
+<p><b>中国车厂在欧盟新一轮听证会上反击关税</b><br /><br />在中国和欧盟继续在11月确定关税的最后期限之前进行谈判之际，被欧盟反补贴调查点名的三家中国汽车制造商已寻求并获得了让欧盟监管机构举行额外的听证会。面临37.6%关税的上汽集团周一表示，欧盟委员会已于7月19日应上汽要求进行了听证会。一位知情人士透露，浙江吉利控股集团最近也获准与欧盟进行听证会，以反驳本月早些时候宣布的临时反倾销关税。比亚迪也很可能会进行听证会。比亚迪的附加关税定为17.4%，而吉利的为19.9%。此次听证会是中国与欧盟正在进行的谈判的一部分。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-07-24/chinese-carmakers-push-back-against-tariffs-in-new-eu-hearings" rel="noopener" target="_blank">彭博社</a></p>
+]]></content:encoded>
+<pubDate>Thu, 25 Jul 2024 09:00:01 GMT</pubDate>
+<pubDate>Thu, 25 Jul 2024 09:00:01 GMT</pubDate>
+</item>
+<item>
+<title>女子新车自燃，厂家第一时间撬标引争议 近日，浙江杭州一女子称，公司新购仅两个月的极狐车载客时发生自燃。令人意外的是，厂家在第一时间赶到现场后，并未先进...</title>
+<link>https://t.me/xhqcankao/12190</link>
+<guid>https://t.me/xhqcankao/12190</guid>
+<content:encoded><![CDATA[
+
+<p><b>女子新车自燃，厂家第一时间撬标引争议</b><br /><br />近日，浙江杭州一女子称，公司新购仅两个月的极狐车载客时发生自燃。令人意外的是，厂家在第一时间赶到现场后，并未先进行事故原因调查，而是直接撬掉了车标。此举引发社会广泛关注和争议。据了解，涉事车辆为极狐品牌，该女子所在的公司共购买了10台同款车型用于租赁业务。自燃事件发生后，消防部门迅速赶到现场进行处置。然而，厂家的处理方式却让人大跌眼镜。面对质疑，极狐客服表示具体原因仍在调查中。<br /><br />—— <a href="https://m.hexun.com/news/2024-07-25/213715625.html" rel="noopener" target="_blank">和讯网</a></p>
+]]></content:encoded>
+<pubDate>Thu, 25 Jul 2024 08:34:56 GMT</pubDate>
+<pubDate>Thu, 25 Jul 2024 08:34:56 GMT</pubDate>
+</item>
+
+<item>
 <title>🖼 #App #macOS Spacedrive: 漂亮的文件管理器 Github | 官网 与其他主打文件和文件夹操作，多窗口的文件管理器不同，Spacedrive 更多是想为用户管理多平台的...</title>
 <link>https://t.me/NewlearnerChannel/13169</link>
 <guid>https://t.me/NewlearnerChannel/13169</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://t.me/NewlearnerChannel/13169?q=%23App">#App</a> <a href="https://t.me/NewlearnerChannel/13169?q=%23macOS">#macOS</a><br /><br /><b>Spacedrive: 漂亮的文件管理器</b><br /><br /><a href="https://github.com/spacedriveapp/spacedrive" rel="noopener" target="_blank">Github</a> | <a href="https://www.spacedrive.com/" rel="noopener" target="_blank">官网</a><br /><br />与其他主打文件和文件夹操作，多窗口的文件管理器不同，Spacedrive 更多是想为用户管理多平台的文件。<br /><br /><span class="emoji">✨</span> <b>Features</b><br /><br />- 一个文件管理器应该有的功能<br />- 标签<br />- 加密<br />- 多平台文件互传<br />- 存储用量统计<br />- AI 为图片自动打标签<br />- 精美的 UI<br /><br /><span class="emoji">👀</span><b> 和 Finder 相比</b><br /><br />如果你没有太多的跨平台文件管理需求，Spacedrive 的大部分功能和 Finder 类似，但是有着更加精美的 UI。响应速度上，在第一次打开一些文件夹的时候会有明显的家在时间。打开网络设备的时候会卡一下。其他时候，包括预览文件的时候都挺丝滑的。不过我们无法将 Spacedrive 设置成默认文件管理器，大部分情况下自动弹出的还是 Finder。<br /><br /><span class="emoji">⚙️</span>&nbsp;<b>技术</b><br /><br />Spacedrive 是一个创新的虚拟分布式文件系统 (VDFS) 实现，采用了称为 "PRRTT" 的技术栈 (Prisma、Rust、React、TypeScript 和 Tauri)。它的核心使用纯 Rust 编写，通过统一的 API 实现了跨设备的内容操作和访问。该系统利用内容寻址存储 (CAS) 来唯一标识文件，同时保持对存储位置的逻辑文件路径记录。<br /><br />项目使用 Tauri 创建轻量级的原生 OS webview，rspc 实现 Rust 和 TypeScript 前端之间的类型安全通信，而 Prisma 则通过 prisma-client-rust 在前端使用。<br /><br /><span class="emoji">📡</span>&nbsp;<b>未来<br /></b><br />朝着成为多平台文件管理器前进。 Spacedrive 未来计划更多的云平台，例如 Google Drive，Dropbox 和 One Drive 以及云相册平台，例如 Google Photo，Apple Photo。<br /><br />除此之外，Spacedrive 计划添加密钥管理器，第三方安全审计来提升安全性。<br /><br />跨平台必不可少的移动客户端也在路线图中。<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn1.cdn-telegram.org/file/KU5EfYHd8OqlKcnzmbrVVceSzi5N6Ps7SFPgADhickSNsczUL-P5Al3UOIUNPop-uWaLg5kHcyBj4xN_IE1Of0x-c21aSzgpW26jJsMcHcBC6qx0WqUfdrJ3WwHeMhzEJmLpAIb-mVDlpebeD6LmCoVra_2MQFJLM3oOTiLq6Vd87RnKJfwrIW2eF7om-xPuOBHq0_-WE6ICAfyCksJQ4pmm_R5ss7ajSDNYnZdStl7u9O80aVMNvZ9HiLf_jN6TUAb3qOn3Rr3WXW4YWaIXvZJy7nDUSbqhJ5vBWeu7ejY0y5zCH_y0nzYqnmeIBuqILI1JFLfzCqv8-4nG6n2BJw.jpg" />
 ]]></content:encoded>
-<pubDate>Thu, 25 Jul 2024 07:02:16 GMT</pubDate>
 <pubDate>Thu, 25 Jul 2024 07:02:16 GMT</pubDate>
 </item>
 <item>
@@ -20,10 +41,8 @@
 <link>https://t.me/xhqcankao/12189</link>
 <guid>https://t.me/xhqcankao/12189</guid>
 <content:encoded><![CDATA[
-
 <p><b>全球速卖通因违反韩国个人信息保护法被罚款</b><br /><br />韩国个人信息保护委员会25日表示，在前一天召开的全体会议上决定对中国跨境电商平台全球速卖通处以约19.8亿韩元 (约合人民币1036万元) 的罚款。这是境外电商首次因违反韩国《个人信息保护法》相关规定而被罚款。去年10月举行的国会国政检查会提出个人信息外泄问题，由此个人信息委开始对全球速卖通和 Temu 进行相关调查。经查发现，全球速卖通向境外销售商提供了韩国用户的个人信息。在此过程中，共有超过18万家销售商获取了韩国用户的信息。主要为中国销售商，也有部分其他国家的销售商。<br /><br />—— <a href="https://m-cn.yna.co.kr/view/ACK20240725002600881?input=tw" rel="noopener" target="_blank">韩联社</a></p>
 ]]></content:encoded>
-<pubDate>Thu, 25 Jul 2024 07:59:56 GMT</pubDate>
 <pubDate>Thu, 25 Jul 2024 07:59:56 GMT</pubDate>
 </item>
 <item>
@@ -31,10 +50,8 @@
 <link>https://t.me/xhqcankao/12188</link>
 <guid>https://t.me/xhqcankao/12188</guid>
 <content:encoded><![CDATA[
-
 <p><b>淘宝推出免费海外配送服务与希音等竞争</b><br /><br />中国旗舰零售平台淘宝将推出服装订单免费海外配送服务，以挑战跨境电商竞争对手希音和 Temu。该计划将于8月3日开始，最初面向新加坡、马来西亚、韩国、台湾、香港和澳门的购物者。该公司表示，该计划将在年底前扩展到其他亚洲市场。符合条件的商品将在淘宝网站的专门版块中展示。<br /><br />淘宝表示，实施新计划的部分原因是服装退货率高，尤其是直播期间订购的女装。根据新计划，淘宝将承担退货费用。退回的商品将被送回公司的海外仓库之一，而不是供应商，从而降低了卖家在海外销售的风险。<br /><br />—— <a href="https://asia.nikkei.com/Business/Retail/Alibaba-s-Taobao-takes-on-Temu-Shein-with-free-overseas-shipping" rel="noopener" target="_blank">日经亚洲</a></p>
 ]]></content:encoded>
-<pubDate>Thu, 25 Jul 2024 07:32:27 GMT</pubDate>
 <pubDate>Thu, 25 Jul 2024 07:32:27 GMT</pubDate>
 </item>
 <item>
@@ -42,13 +59,10 @@
 <link>https://t.me/AppleNuts/2063</link>
 <guid>https://t.me/AppleNuts/2063</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">🍎</span><span class="emoji">🤔</span> <b>Apple 推出全新网站 Help Me Choose<br /></b><br /><a href="https://www.apple.com/mac/best-mac/" rel="noopener" target="_blank">https://www.apple.com/mac/best-mac/</a><br /><br />这个网站是一个简单的问卷系统，根据用户的使用习惯、工作需求、使用配件、预算范围等因素来推荐合适的 Mac。<br /><br />在评估结束后，你可以展开网站具体推荐的 Mac 型号，下面会罗列出推荐这个机型的原因。<br /><br />你也可以返回编辑你刚才填写的问卷，或分享本次评估结果。</p><img src="https://cdn5.cdn-telegram.org/file/vvOxtXMPr-gWkNbaJy25NJLrzgiAF9HVXPgHfjH2g26xP17pjylcmYx2uatK2Nc7Fw9gNWPjBlIu5k38qZXkSqXBTwLcWQMTBeFecbd3HYOUK_mKrco4j-EYG26NUEYJoDTllTNXmelODHrNVsGj9710xElrmyXf6F0MkZZ_0KZaQDcqCC076aVisUvnbl5lZJSMPZBN1gHJ0DjBeo4vV5Jg_PAeBZGOu9u26Y92O5wikavcJ-BWpAUtVrf-KKwN5qQTQsrIMqFmREVWQLUVo-e4kUEo8gjL-9Xf_DBWUjhF2G142Gm_BGbHJ_s_PlVUFJ_xC1sEuwHweNYsAAPcLg.jpg" />
 ]]></content:encoded>
 <pubDate>Wed, 19 Jun 2024 03:45:02 GMT</pubDate>
-<pubDate>Wed, 19 Jun 2024 03:45:02 GMT</pubDate>
 </item>
-
 <item>
 <title>美司法部与波音敲定2.436亿美元罚款认罪协议细节 当地时间24日，一份法庭文件显示，美国司法部表示已经与波音公司敲定了2.436亿美元罚款认罪协议的细节。波音和...</title>
 <link>https://t.me/xhqcankao/12187</link>
@@ -9088,42 +9102,6 @@
 <p><b>波音 CEO 承认公司对举报人进行了报复</b><br /><br />波音公司 CEO 戴夫·卡尔霍恩承认，公司对举报生产违规行为的举报人进行了报复，他在参议院特别听证会上表示：“我知道这会发生。”卡尔霍恩周二在委员会上作证时向波音坠机事故受害者家属道歉，并表示该制造商“完全致力于”未来的安全改进。今年1月，阿拉斯加航空公司一架波音737 MAX 9型客机起飞后不久发生事故，机舱侧面一处门塞脱落。此后，多名举报人对生产检查期间违反安全规定的行为表示担忧，许多人声称他们遭到了波音公司的“报复”。当被问及有多少波音员工因报复举报人而受到处罚时，卡尔霍恩回答说：“我不知道具体数字，但我知道。我知道这会发生。”<br /><br />—— <a href="https://www.independent.co.uk/news/world/americas/boeing-ceo-senate-testimony-whistleblower-news-b2564778.html" rel="noopener" target="_blank">独立报(英国)</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 19 Jun 2024 04:45:28 GMT</pubDate>
-</item>
-<item>
-<title>华为高管：昇腾人工智能算力性能已超过英伟达A100 近期举行的2024世界半导体大会暨南京国际半导体博览会的一场分论坛上，江苏鲲鹏·昇腾生态创新中心首席运营官...</title>
-<link>https://t.me/xhqcankao/11223</link>
-<guid>https://t.me/xhqcankao/11223</guid>
-<content:encoded><![CDATA[
-<p><b>华为高管：昇腾人工智能算力性能已超过英伟达A100</b><br /><br />近期举行的2024世界半导体大会暨南京国际半导体博览会的一场分论坛上，江苏鲲鹏·昇腾生态创新中心首席运营官王陶透露，昇腾集群是国内唯一已完成训练千亿参数大模型的技术路线，性能已经超过了英伟达A100。王陶表示，中国大模型里面，有近50%选择了昇腾技术路线。与英伟达A100相比，昇腾人工智能芯片在训练效率层面最高是英伟达的1.1倍。尤其在训练Meta Llama、BloomGPT等模型方面，昇腾人工智能算力训练效率大大优于英伟达A100，甚至10倍领先其他国产友商。<br /><br />—— <a href="https://m.tmtpost.com/7133052.html" rel="noopener" target="_blank">钛媒体</a></p>
-]]></content:encoded>
-<pubDate>Wed, 19 Jun 2024 04:20:18 GMT</pubDate>
-</item>
-<item>
-<title>可再生能源发电量激增 法国出现负电价 由于需求下降和可再生能源发电量激增导致一些核电站被关停，法国电价转为负值。彭博社的一个模型显示，从上周四到周日，每...</title>
-<link>https://t.me/xhqcankao/11222</link>
-<guid>https://t.me/xhqcankao/11222</guid>
-<content:encoded><![CDATA[
-<p><b>可再生能源发电量激增 法国出现负电价</b><br /><br />由于需求下降和可再生能源发电量激增导致一些核电站被关停，法国电价转为负值。彭博社的一个模型显示，从上周四到周日，每日用电量平均下降6千兆瓦。晴朗多风的天气提高了太阳能和风能发电量，促使电网运营商要求法国电力集团关闭几座核电站。虽然整个欧洲需要更多清洁电力来实现气候目标，但可再生能源发电量激增和电池储能的不足，意味着在需求低迷时期，有时不得不关闭反应堆。这种情况在法国的周末越来越常见，在北欧和西班牙也是如此。为避免在负电价时支付费用，一些可再生能源发电商也不得不减少发电。在欧洲电力现货交易所的一次拍卖中，法国的日前电价跌至每兆瓦时-5.76 欧元，为四年来最低。德国的同类合同跌至7.64欧元。<br /><br />—— <a href="https://fortune.com/2024/06/16/electricity-prices-france-negative-renewable-energy-supply-solar-power-wind-turbines/" rel="noopener" target="_blank">财富</a></p>
-]]></content:encoded>
-<pubDate>Wed, 19 Jun 2024 03:55:17 GMT</pubDate>
-</item>
-<item>
-<title>加州州长希望将智能手机从学校里移除 美国加州州长加文·纽瑟姆周二誓言要在上课期间严格限制智能手机的使用。纽瑟姆表示将与州议会合作，在8月结束的本届会议期...</title>
-<link>https://t.me/xhqcankao/11221</link>
-<guid>https://t.me/xhqcankao/11221</guid>
-<content:encoded><![CDATA[
-<p><b>加州州长希望将智能手机从学校里移除</b><br /><br />美国加州州长加文·纽瑟姆周二誓言要在上课期间严格限制智能手机的使用。纽瑟姆表示将与州议会合作，在8月结束的本届会议期间通过这些限制措施。纽瑟姆和他的妻子珍妮弗·西贝尔·纽森长期以来一直警告社交媒体对儿童的危害，他们指出，科技公司一直在阻碍保护儿童的努力。加文·纽瑟姆去年写了一封信，呼吁科技行业放弃对他于2022年签署的儿童网络安全法的诉讼。三年前，他签署了一项法案，鼓励学校制定政策，限制或彻底禁止学生在上课时间在校园内使用智能手机。周二的声明将更进一步。<br /><br />—— <a href="https://www.politico.com/news/2024/06/18/gavin-newsom-wants-to-take-smart-phones-out-of-schools-00163852" rel="noopener" target="_blank">POLITICO</a></p>
-]]></content:encoded>
-<pubDate>Wed, 19 Jun 2024 03:31:22 GMT</pubDate>
-</item>
-<item>
-<title>Adobe 的新服务条款澄清其不会使用用户的作品来训练人工智能 过去几周，Adobe 因修改服务条款协议而面临强烈反对。当地时间6月18日，该公司公布了修订后的服务条...</title>
-<link>https://t.me/xhqcankao/11220</link>
-<guid>https://t.me/xhqcankao/11220</guid>
-<content:encoded><![CDATA[
-<p><b>Adobe 的新服务条款澄清其不会使用用户的作品来训练人工智能</b><br /><br />过去几周，Adobe 因修改服务条款协议而面临强烈反对。当地时间6月18日，该公司公布了修订后的服务条款，明确强调其不会使用用户存储在本地或云端的内容来训练人工智能模型。条款明确指出，其软件“不会使用您的本地或云端内容训练生成式人工智能模型”。不过有一个例外：如果用户将其作品提交到 Adobe Stock 素材市场，公司可以使用其来训练 Adobe Firefly。新条款还强调该公司不会“扫描或查看”用户设备上存储的本地作品。只会自动扫描上传到云端的内容，以“确保我们不会托管非法或滥用内容，例如儿童性虐待材料”。<br /><br />—— <a href="https://www.theverge.com/2024/6/18/24181001/adobe-updated-terms-of-service-wont-train-ai-on-work" rel="noopener" target="_blank">Theverge</a></p>
-]]></content:encoded>
-<pubDate>Wed, 19 Jun 2024 03:05:17 GMT</pubDate>
 </item>
 </channel>
 </rss>

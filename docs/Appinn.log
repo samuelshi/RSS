@@ -40203,3 +40203,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Append: [💧 #小众软件 WeRead Export – 一键导出微信读书笔记，Markdown 格式[Chrome] https://www.appinn.com/weread-export-md/](https://t.me/appinnfeed/11757)
 append_entries: 1
 Finish: 2024-07-26 12:01:46
+------------------------------------------------------
+Started: 2024-07-26 13:02:25
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 530
+append_entries: 0
+error when rendering xml, skip docs/Appinn

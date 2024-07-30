@@ -5,14 +5,35 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>达美航空聘请大卫·博伊斯就蓝屏宕机问题向 CrowdStrike 和微软索赔 美国航空公司达美航空已聘请著名律师大卫·博伊斯向 CrowdStrike 和微软寻求赔偿，原因是本...</title>
+<link>https://t.me/xhqcankao/12304</link>
+<guid>https://t.me/xhqcankao/12304</guid>
+<content:encoded><![CDATA[
+
+<p><b>达美航空聘请大卫·博伊斯就蓝屏宕机问题向 CrowdStrike 和微软索赔</b><br /><br />美国航空公司达美航空已聘请著名律师大卫·博伊斯向 CrowdStrike 和微软寻求赔偿，原因是本月发生的蓝屏宕机事件导致数百万台计算机崩溃，并导致数千个航班取消。此次宕机事件给达美航空造成了约3.5亿至5亿美元的损失。在近7000个航班被取消后，达美航空正在处理超过17.6万份退款或赔偿请求。虽然尚未正式提起诉讼，但达美航空计划向微软和 CrowdStrike 寻求赔偿。<br /><br />—— <a href="https://www.cnbc.com/2024/07/29/delta-hires-david-boies-to-seek-damages-from-crowdstrike-microsoft-.html" rel="noopener" target="_blank">CNBC</a></p>
+]]></content:encoded>
+<pubDate>Tue, 30 Jul 2024 07:40:27 GMT</pubDate>
+<pubDate>Tue, 30 Jul 2024 07:40:27 GMT</pubDate>
+</item>
+<item>
+<title>DigitalCert 吊销数万份使用 CNAME 进行域名验证的 TLS/SSL证书 数字证书颁发机构 DigiCert 在 7 月 29 日通过博客宣布将吊销没有适当域控制验证 (DCV) 的证书，...</title>
+<link>https://t.me/xhqcankao/12303</link>
+<guid>https://t.me/xhqcankao/12303</guid>
+<content:encoded><![CDATA[
+
+<p><b>DigitalCert 吊销数万份使用 CNAME 进行域名验证的 TLS/SSL证书</b><br /><br />数字证书颁发机构 DigiCert 在 7 月 29 日通过博客宣布将吊销没有适当域控制验证 (DCV) 的证书，大约 0.4% 的 DigiCert 适用域验证受到影响，数量可能超过数千份。根据严格的 CABF 规则，域验证中存在问题的证书必须在 24 小时内撤销，无一例外。DigiCert 已通知受影响的客户，他们必须在 24 小时内更换证书。<br /><br />本次事件涉及通过添加 DNS CNAME 记录，并为此提供随机值进行域名控制验证。其中一种方法要求随机值以下划线字符为前缀，下划线前缀可确保随机值不会与使用相同随机值的实际域名发生冲突。最近，DigitalCert 发现在某些基于 CNAME 的验证案例中使用的随机值中没有包含下划线前缀。虽然域名发生冲突的可能性实际上可以忽略不计，但如果验证不包含下划线前缀，则仍被视为不合规。DigitalCert 表示，“CABF 认为任何与域验证有关的问题都是严重问题，需要立即采取行动。”<br /><br />—— <a href="https://www.digicert.com/support/certificate-revocation-incident" rel="noopener" target="_blank">DigitalCert</a></p>
+]]></content:encoded>
+<pubDate>Tue, 30 Jul 2024 07:12:03 GMT</pubDate>
+<pubDate>Tue, 30 Jul 2024 07:12:03 GMT</pubDate>
+</item>
+
+<item>
 <title>🖼 #有趣产品咖啡馆 #Newsletter 🤳 独立开发者故事 #69 - “将多平台社媒内容统一收藏在这，构建自己专属的灵感库！” 1、介绍下你自己和目前所做的产品 大...</title>
 <link>https://t.me/NewlearnerChannel/13184</link>
 <guid>https://t.me/NewlearnerChannel/13184</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://t.me/NewlearnerChannel/13184?q=%23%E6%9C%89%E8%B6%A3%E4%BA%A7%E5%93%81%E5%92%96%E5%95%A1%E9%A6%86">#有趣产品咖啡馆</a> <a href="https://t.me/NewlearnerChannel/13184?q=%23Newsletter">#Newsletter</a><br /><br /><span class="emoji">🤳</span> <a href="https://yunyingxiaowanzi.zhubai.love/posts/2429674611203317760" rel="noopener" target="_blank"><b>独立开发者故事 #69 - “将多平台社媒内容统一收藏在这，构建自己专属的灵感库！”</b></a><br /><br /><b>1、介绍下你自己和目前所做的产品</b><br /><br />大家好，我是 Jermic，独立开发者，<a href="https://apps.apple.com/cn/app/picseed/id6479976532" rel="noopener" target="_blank">PicSeed</a> 是目前在做的一款 App。<br /><br />PicSeed 支持多平台社媒一键收藏。无论是寻找灵感还是整理图片素材，能让收集过程更高效，帮助构建专属灵感库。<br /><br /><b>2、做这个产品的灵感来源是什么？</b><br /><br />在日常生活工作中会收藏好多帖子，并在各种 App 里创建收藏夹。这钟方式不可避免地会导致反复跳转 App，重复收藏，无法细化分类，查找起来也非常麻烦。<br /><br />目前市面上也缺乏能够整合碎片化内容的软件。正因为我自己也遇到了这些困扰，所以萌生了开发一款在手机上高效整理图片内容收藏 App 的想法。<br /><br /><b>3、10分满分的话，你愿意给你的产品打几分？理由是？</b><br /><br />现阶段打 7 分，另外 3 分是还未完成的一些功能，因为还处于起步阶段，未来会有更多功能迭代更新。<br /><br /><b>4、除了自己的产品，你还有在用哪些产品（App、网站、小程序等）？</b><br /><br />滴答清单 - 跨平台支持，很方便，功能完善够用。<br />Raycast - Mac 上的效率工具，目前 AI 功能是所有体验后剩下唯一订阅的了。<br />微信读书 - 书库够用，支持导入，墨水屏也支持，阅读体验比较好。<br />Obsidian - 本地存储，可定制化扩展性高，社区也很活跃。<br />Spotify / Apple Music - 曲库够全，界面干净，推荐算法下的歌单也够用。<br />小宇宙 - 通勤、健身打发时间。<br /><br /><b>5、你有哪些工作/生活习惯？</b><br /><br />虽然不是很相信星座，但身为处女座，做事喜欢先做好规划，尽量把每个环节都考虑周全。虽不会过度追求完美，但确实很注重细节，总想把工作做到最好。<br /><br />工作状态方面，发现在深夜时效率特别高。夜深人静时，思路格外清晰，常能迸发出不少创意。尤其是编程时，感觉特别顺手，有时一坐就是几个小时。并非刻意熬夜，只是觉得夜间工作节奏更合适。当然，也会注意调整作息，保证第二天的状态。看到深夜努力的成果，那种成就感确实让人很满足。<br /><br /><b>6、请用一句话打动用户并让她使用你的产品</b><br /><br />我们希望 PicSeed 能为你带来全新的体验，帮助更多人收集和整理美好事物、素材，不错过每个灵感。<br /><br />PS. <a href="https://yunyingxiaowanzi.zhubai.love/posts/2373719634256887808" rel="noopener" target="_blank">Ελάτε να πιείτε ένα φλιτζάνι καφέ.</a><br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/RhzwUK5qk7lvT8qPyIe3YVcLnZp2PdNTL8DEQfW9wkuSOB5usbYpQlNbdf_kDfrXAWtxG3M8sc9q5_IQ9x3aiDRIXGS5JjD60xJQnW5X_tAAx82fm8VBvTzVIU7dNkP8l6vr7qKdndc8VPcs7ZYGQfxB5pOZRnr7KdarAe3zHhUxJvW5Oezh9s1f8o_TsIFHKxez8Sy9PhZEi1QxoZq0sXYTO4jMa0aec6lGOP4xrsvZtvqm27ipHt_zvN3XR4Ix2k_pZ7bhei6S_7wLotuD7YZYL_wwXCWcX9DkO2IkZxO7Xm_SW45rvmVzKMC9ut0M8EqX5CSNF_YKwx_ys6eJbw.jpg" />
 ]]></content:encoded>
-<pubDate>Tue, 30 Jul 2024 07:01:30 GMT</pubDate>
 <pubDate>Tue, 30 Jul 2024 07:01:30 GMT</pubDate>
 </item>
 <item>
@@ -20,10 +41,8 @@
 <link>https://t.me/xhqcankao/12302</link>
 <guid>https://t.me/xhqcankao/12302</guid>
 <content:encoded><![CDATA[
-
 <p><b>拼多多旗下 Temu 的商业模式转变面临中国供应商的强烈反对</b><br /><br />拼多多旗下电商购物平台 Temu 正在向竞争对手 Shein 和亚马逊发起挑战。由于其积极努力彻底重塑其商业模式，Temu 正面临中国供应商的强烈反对。据几家供应商透露， Temu 最近几周试图招募在美国和欧盟仓库存放商品的亚马逊商家。此举似乎是为了在政府填补税收漏洞 (该漏洞曾助长了 Temu 的增长) 的情况下保护 Temu 的业务，同时通过将商品存放在离购物者更近的地方来缩短送货时间。这一转变将使其能够销售体积更大、利润率更高的产品，例如家具和家电。<br /><br />这意味着 Temu 正在从“完全托管”模式转向“半托管”模式，其中其平台上的商家承担先前由在线平台处理的运输、仓储和最后一英里的交付费用。供应商的另一个常见抱怨是 Temu 让商家降价的策略。许多商家表示，他们停止与 Temu 合作，因为该公司开始开出越来越多的罚款，问题包括包装缺陷以及客户投诉产品与网上描述不符。<br /><br />—— <a href="https://www.ft.com/content/5a562326-df49-433d-8e8b-d015a55c46bb" rel="noopener" target="_blank">金融时报</a></p>
 ]]></content:encoded>
-<pubDate>Tue, 30 Jul 2024 06:40:22 GMT</pubDate>
 <pubDate>Tue, 30 Jul 2024 06:40:22 GMT</pubDate>
 </item>
 <item>
@@ -31,13 +50,10 @@
 <link>https://t.me/xhqcankao/12301</link>
 <guid>https://t.me/xhqcankao/12301</guid>
 <content:encoded><![CDATA[
-
 <p><b>抖音上线作品修改功能 仅限修改违规内容</b><br /><br />为了方便创作，避免因个别违规点影响作品传播，抖音即日起上线作品修改功能。该功能目前仅在粉丝量大于 10 万的创作者及受邀创作者中进行测试，之后将逐步向更多用户开放。当已发布的作品被提示存在违规或待优化的内容时，创作者可以直接从通知消息里进入修改编辑页，对内容进行修改。如修改后符合平台规则，作品会恢复正常状态。在修改编辑页面，平台目前提供了以下 3 种修改功能：剪切内容、添加文字、添加贴纸。作品发布24小时内可修改1次，超过24小时后则无法进行修改。修改后的作品会显示已编辑字样。仅限针对违规内容进行修改。<br /><br />—— <a href="https://www.toutiao.com/article/7397057384759198242/" rel="noopener" target="_blank">抖音黑板报</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 30 Jul 2024 06:10:52 GMT</pubDate>
-<pubDate>Tue, 30 Jul 2024 06:10:52 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 #App #iOS #MacOS #Windows #Android 🎬 OneSticker V2.0 - 全平台实时同步便签 OneSticker V2.0是一个能在所有平台进行实时同步编辑的便签App 🔗： 官...</title>
 <link>https://t.me/NewlearnerChannel/13183</link>
@@ -9074,33 +9090,6 @@
 <p><b>欧洲纯电动汽车销售越来越依赖补贴</b><br /><br />在欧洲，依赖政府补贴销售纯电动汽车的局面越来越明显。在已结束购车补贴的最大市场德国，销售急剧减速。虽然英国和法国的销量仍在增加，但补贴缩小已经产生影响。预计对纯电动汽车业务踩刹车的企业将会增加。截至6月20日，欧洲汽车制造商协会公布的欧洲主要国家5月份纯电动车销售情况显示，德国与上年同期相比减少16%，降幅突出。2023年12月结束补贴的影响巨大，截至2024年5月连续4个月低于上年。在英国和法国，纯电动汽车的销量正在增加。英国从1月开始连续5个月超过去年，5月也增加了6%。法国也增长5%。这两个国家继续提供政府补贴，出现了与德国的差异。但补贴政策左右纯电动汽车销售的情况基本一样。<br /><br />—— <a href="https://cn.nikkei.com/industry/icar/55954-2024-06-24-12-50-32.html" rel="noopener" target="_blank">日经新闻</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 24 Jun 2024 05:34:00 GMT</pubDate>
-</item>
-<item>
-<title>中国中央气象台发布今年首个暴雨红色预警 中央气象台24日10时发布暴雨红色预警。6月24日至30日，江南北部、江汉东部和南部、江淮以及贵州、广西等地有持续性强降...</title>
-<link>https://t.me/xhqcankao/11339</link>
-<guid>https://t.me/xhqcankao/11339</guid>
-<content:encoded><![CDATA[
-<p><b>中国中央气象台发布今年首个暴雨红色预警<br /></b><br />中央气象台24日10时发布暴雨红色预警。6月24日至30日，江南北部、江汉东部和南部、江淮以及贵州、广西等地有持续性强降水，其中，湖北东南部、湖南北部、安徽南部、江西北部、浙江西部等地部分地区有暴雨到大暴雨，局地特大暴雨，上述部分地区伴有短时强降水、局地雷暴大风等强对流天气。<br /><br />预计，6月24日14时至25日14时，江淮东部、江南中北部以及贵州东部、广西北部等地部分地区有大到暴雨，其中，安徽南部、湖南东北部、江西北部、浙江西部等地部分地区有大暴雨，安徽南部、江西东北部、浙江西部局地特大暴雨。上述部分地区伴有短时强降水，局地有雷暴大风等强对流天气。<br /><br />—— <a href="http://www.nmc.cn/publish/country/warning/downpour.html" rel="noopener" target="_blank">中国中央气象台</a></p>
-]]></content:encoded>
-<pubDate>Mon, 24 Jun 2024 05:16:20 GMT</pubDate>
-</item>
-<item>
-<title>🖼 #潮流周刊 #Newsletter 🩴 潮流周刊（第182期）- 煎个牛排 🤖 潮流工具 1. GitLab 官方的 The Remote Playbook 2. 一个更好用的自定义短语填充工具 Str...</title>
-<link>https://t.me/NewlearnerChannel/13010</link>
-<guid>https://t.me/NewlearnerChannel/13010</guid>
-<content:encoded><![CDATA[
-<p><a href="https://t.me/NewlearnerChannel/13010?q=%23%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A">#潮流周刊</a> <a href="https://t.me/NewlearnerChannel/13010?q=%23Newsletter">#Newsletter</a><br /><a href="https://weekly.tw93.fun/posts/176-%E8%BD%A6%E5%A4%96%E9%A3%8E%E6%99%AF" rel="noopener" target="_blank"><br /></a><a href="https://weekly.tw93.fun/posts/181-%E6%B0%B4%E5%9F%B9%E8%96%84%E8%8D%B7" rel="noopener" target="_blank"><span class="emoji">🩴</span></a><a href="https://weekly.tw93.fun/posts/182-%E7%85%8E%E4%B8%AA%E7%89%9B%E6%8E%92" rel="noopener" target="_blank"> 潮流周刊（第182期）- 煎个牛排</a><a href="https://weekly.tw93.fun/posts/181-%E6%B0%B4%E5%9F%B9%E8%96%84%E8%8D%B7" rel="noopener" target="_blank"><br /></a><br /><span class="emoji">🤖</span><b> 潮流工具<br /></b>1. GitLab 官方的 The Remote Playbook<br />2. 一个更好用的自定义短语填充工具 Streamline<br />3. Youtube 视频的字幕下载工具<br /><br /><b><span class="emoji">🌳</span>技术文章</b><br />1. 时代周刊选出了 100 位在 AI 领域最有影响力的人<br />2. 有办法让 iPhone 对应的桌面 App 图标给动起来不？<br /><br /><span class="emoji">🐳</span><b> 随便看看<br /></b>1. 推荐书籍：七步读懂财务报表<br />2. 神奇联动： 置身事内这本书和 B 站视频<br /><br /><b><span class="emoji">🏂</span> 封面图</b><br />封面图拍摄来源周末自己做的牛排，先用黑胡椒、盐、油抹匀腌制 5min，然后加油一边煎一分钟，然后小火加点儿黄油、大蒜、小西红柿、迷迭香，就可以摆盘开吃了，味道 YYDS。<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/UM_BxHsuZjtKbKgAsZBfavrgbDCEr8pkkO73PgAhLk0p1o_8-gg47lXOg_oYmNvk3osLHQBEBKI7d2IYjbYRXn5k8X3KOoBdR_x80k1IQAT7QTgkUcs8P_VOu4EwzRDxKMNcmcXizRKQXHWGkB9C1G8eSxINrvHLIUSfL-Xez0V9asYFzSIRMrJMofZLxGKIEMjuyxFOfHnItdCo_V1Ubm6bS0DL1e_CTfYeXtOQDXbury-D_Hqm5DL7AiQ3ha6XMwnC0JqsNrFwaPfTpV9l5vGuZDcdac5qwCIbsunlohryf6nRah-h8wTirYbAG7CVlQXVkKFTRIzjTpdowsVB1g.jpg" />
-]]></content:encoded>
-<pubDate>Mon, 24 Jun 2024 04:02:49 GMT</pubDate>
-</item>
-<item>
-<title>最近看了一本逆龄饮食，讲述饮食如何中和自由基和抗炎，让端粒体变长从而让身体年龄更年轻的科普，一些摘录如下： 研究表明，很多人，尤其是体重超标的人，其体...</title>
-<link>https://t.me/jike_collection/9943</link>
-<guid>https://t.me/jike_collection/9943</guid>
-<content:encoded><![CDATA[
-<p>最近看了一本逆龄饮食，讲述饮食如何中和自由基和抗炎，让端粒体变长从而让身体年龄更年轻的科普，一些摘录如下：<br /><br />研究表明，很多人，尤其是体重超标的人，其体内的镁、钙、锌、维生素D、叶酸、维生素B6等含量都偏低￼。<br /><br />我们的日常饮食大多是食品工业的产物，这会导致维生素C缺乏，使人们更容易感冒。<br /><br />维生素D能显著降低重度呼吸道感染的风险，包括一般感冒、流感以及其他严重感染。<br /><br />目前经研究证实的能增强免疫力的超级食物有蓝莓、黑莓、覆盆子、蔓越莓、石榴、核桃、大蒜、菌菇，以及西蓝花等十字花科蔬菜。<br /><br />菇类就能起到较好的强化抗体的作用，即便是常见的香菇也能使免疫球蛋白A增加54%。菌菇还有很多其他功效，如能直接作用于乳腺肿瘤细胞，显著降低乳腺癌风险。<br /><br />莓果绝对称得上超级食物，它们富含抗氧化物质及各种抗癌、抗炎的植物营养素。它们对免疫细胞的作用早已被研究证实，能使人体中的NK细胞数量翻倍。<br /><br />鞣花酸广泛存在于莓果、坚果、石榴中，能增强免疫力，还具有抗癌功效。每100克中鞣花酸含量较高的几种超级食物：黑莓（43毫克）、核桃（28毫克）、石榴（17毫克）、树莓（2.1毫克）、草莓（1.2毫克）。也就是说，一小碗莓果和一把坚果就能有效提升人体的免疫系统功能。<br /><br />经研究证实的其他能强化免疫系统功能的超级食物：黑醋栗、黑莓、草莓、猕猴桃、葡萄柚、辣椒、十字花科蔬菜（如羽衣甘蓝、紫甘蓝、球芽甘蓝等）、大蒜、紫葡萄。<br /><br />免疫系统除了负责清除细菌和病毒之外，还负责清除每日产生的肿瘤细胞。每个人体内每天都会产生肿瘤细胞，但它们很快就会被免疫系统发现并消灭。事实上，40%的40～50岁女性胸部长期存在小型肿瘤；50%的50～60岁男性前列腺中也存在小型肿瘤。只要这些肿瘤细胞不被激活，它们对健康就不会产生影响。<br /><br />深色的蔬果通常含有丰富的抗氧化物质。选择的依据很简单，蔬果的颜色越深，抗氧化物质含量就越高。因为色素能够保护植物细胞不受自由基的侵害。比如胡萝卜（橙黄色的β-胡萝卜素）、番茄（红色的番茄红素）、深色的生菜、深绿的十字花科蔬菜以及树莓、黑莓、蓝莓（深蓝色的花青素）、草莓、李子、杏子、红苹果等蔬果中都含有丰富的抗氧化物质。<br /><br />如果您得到这全部的9个得分点，就说明您的饮食很健康。得分点如下：<br />每日多次食用水果（含水果沙拉）：+1；<br />每日多次食用新鲜蔬菜（含蔬菜沙拉）：+1；<br />一日3餐都含蔬菜：+1×3；<br />一周食用3种豆类（小扁豆、菜豆、豌豆各一次）：+1×3；<br />每天食用一把坚果：+1；<br />少食用精制碳水（烘焙品、糖）：+1；<br />少食用加工肉类（如香肠等）：+1；<br />每周食用2次鱼：+1×2；<br />多摄入单不饱和脂肪酸（橄榄油、牛油果、坚果）并减少饱和性动物脂肪（全脂乳制品、加工肉类）的摄入：+1。<br /><br />by @七天可爱多  <a href="https://t.me/jike_collection/9943?q=%23%E6%97%A0%E7%94%A8%E4%BD%86%E6%9C%89%E8%B6%A3%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86">#无用但有趣的冷知识</a></p>
-]]></content:encoded>
-<pubDate>Mon, 24 Jun 2024 04:42:41 GMT</pubDate>
 </item>
 </channel>
 </rss>

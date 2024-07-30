@@ -4,18 +4,16 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>📣 #发现频道 【自荐】一个AI生成的音乐网站 https://meta.appinn.net/t/topic/59381</title>
 <link>https://t.me/appinnfeed/11795</link>
 <guid>https://t.me/appinnfeed/11795</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/11795?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />【自荐】一个AI生成的音乐网站<br /><a href="https://meta.appinn.net/t/topic/59381" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/59381</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/59381">【自荐】一个AI生成的音乐网站</a></b><br /><p>功能  输入一段文字，创作独一无二的音乐 支持纯音乐，自定义歌词等多种形式  特点  免费试用 需要谷歌登录，才可免费试用  地址： https://xaaimusic.com</p><img src="https://cdn4.cdn-telegram.org/file/dDb9a_tJ-fUoyGreajH6YUobmgRvYhvBk5jpB0Mt9kcCUbwMal6rYAD6wNTdd0whEN27VefQQO3QoYmLx5uNqGKvYM8i-0QWfB-S7s8Zwz9hkegN6UU2BAzhl77JdowFvcUEPj9haqGzv3CW8HQRPH4_siqqgL5mMNngB3T1prPucd4H151vB8s2slCxSnl32RWE4lmafC_XX-NQqJhcTir9kTR__0tyjcyX1hEZQ8870WIBzAvoex_mjjE6-CWce1vrIIad-sYqvW7eyzz_0vFEcR1UE4gECOciwtLa-kFO8RO-sFVw9d3o5w-dJ-9omwPyNMA4PEFBSf8uzUegLg.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Tue, 30 Jul 2024 16:55:14 GMT</pubDate>
-<pubDate>Tue, 30 Jul 2024 16:55:14 GMT</pubDate>
 </item>
-
 <item>
 <title>📣 #发现频道 【开源自荐】WR.DO - 基于 cloudflare 的多租户 DNS 解析系统 https://meta.appinn.net/t/topic/59376</title>
 <link>https://t.me/appinnfeed/11794</link>
@@ -9010,15 +9008,6 @@
 <p>这是要我对着他的头像感兴趣吗<span class="emoji">😱</span></p><img src="https://cdn5.cdn-telegram.org/file/b4M-T-Th9aHpWvy2XkC4PuApB0zPp-KXsXL_oq6DmH9VKZVjTz48mTDGyI6oOhoum1CIZLY0hGVjL-DeHHYMVQdXHAnPduUgG2mSEmb9ne8poSnU3Hl3bmkZaWkjisv-iUJq-dzb7B0dmEDDg4vX9HgwUn3vL-83eRBis69yRVBdy6EJuMlZTiuTZJEr1nOUikALqDiMStW4pw6krkWqZ41qg5bla1TGU99HFiUaBD5qRWWiIYi-kAk8SyOvyYf5yZ0HsG7ivV1hv_MS5oLz2j73Y3S2_czHIPNOCBkSYv9CC7H90gw4z4SVrhtYOB6AspsGJTpeA-geJtsdNX2flw.jpg" />
 ]]></content:encoded>
 <pubDate>Mon, 15 Apr 2024 08:21:45 GMT</pubDate>
-</item>
-<item>
-<title>❓ #问题求助 最近在用Neo4j 感觉速度不够快，求老司机鉴定一下是不是就这么慢 https://meta.appinn.net/t/topic/55217</title>
-<link>https://t.me/appinnfeed/10300</link>
-<guid>https://t.me/appinnfeed/10300</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10300?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />最近在用Neo4j 感觉速度不够快，求老司机鉴定一下是不是就这么慢<br /><br /><a href="https://meta.appinn.net/t/topic/55217" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/55217</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/55217">最近在用Neo4j 感觉速度不够快，求老司机鉴定一下是不是就这么慢</a></b><br /><p>大体需求如下：数据库里只存了一种节点，节点有一个参数【类型】，可能是A,B,C，两个节点之间会双向链接，连接关系也只有一种。  要求计算所有的【环】，环要从B类型的设备出发，每步只连接C类型的节点，最后连接到一个和起点相连的B类型节点结束。以下是我学了一宿写出来的的CQL，200个节点，800个连接关系，每次一搜都得20多秒，感觉好慢啊！  MATCH (start:Device {type: "B"}) CALL apoc.path.expandConfig(start, {     relationshipFilter:…</p><img src="https://cdn4.cdn-telegram.org/file/dGhF_OBHU7dn3EVedtLks-lfL8_HQPM8fOTqhq45ZA53-xueuTtF6LNS4nGM82omMMGTxOBmWDgJMxzMFyXv5UpYebV4WxGZqc2kSPRi_IJ6lcHNaLgCM2kKc0miLWRtLcWeP3LBGt5ZQ2c082uH60nBElmYNUMbR_lP-Az9xvfqIfP9AFEYTjqqZPt6fCdBgVDvW_RT_wFn2LA1VM7K8Sk0jGgg5VfkIEN-_Df9wzRxh4M2-dXVHkFt6uQAakgxh-UyEDlRvvbcayGvKTBQk7oAYXgslbln_ulhrfYgKzRJWVag_0C2fmXSwgOvHIB2lUF5x7zv_3e_3d6PFKwOtA.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Mon, 15 Apr 2024 08:20:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

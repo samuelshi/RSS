@@ -5,17 +5,26 @@
 <link>https://t.me/s/appinnfeed</link>
 
 <item>
+<title>🖼 Itsycal 0.15.4 更新 新增的外观设置显示没有事件的天数。通过这个新设置，空白天数会变得暗淡，从而让人们能够更加关注有事件的天数。 可以禁止在日历中绘...</title>
+<link>https://t.me/appinnfeed/11809</link>
+<guid>https://t.me/appinnfeed/11809</guid>
+<content:encoded><![CDATA[
+
+<p></p><div class="tgme_widget_message_text js-message_text" dir="auto">Itsycal 0.15.4 更新<br /><br />新增的外观设置显示没有事件的天数。通过这个新设置，空白天数会变得暗淡，从而让人们能够更加关注有事件的天数。<br /><br />可以禁止在日历中绘制当前月份轮廓的*隐藏*设置。若要使用此功能，可以打开 <a href="http://xn--suzt2f.app/" rel="noopener" target="_blank">终端.app</a> 并输入： defaults write com.mowglii.ItsycalApp DoNotDrawOutlineAroundCurrentMonth -bool YES。需要恢复时，可以输入： defaults delete com.mowglii.ItsycalApp DoNotDrawOutlineAroundCurrentMonth。<br /><br />修复了在新事件弹出框中的键盘导航（Tab / Shift-Tab）。<br /><br />部分解决了一个与打开 <a href="http://xn--jmr704b.app/" rel="noopener" target="_blank">日历.app</a> 相关的明显的 Apple bug。<br /><br /><a href="https://www.mowglii.com/itsycal/" rel="noopener" target="_blank">https://www.mowglii.com/itsycal/</a></div><p></p><img src="https://cdn5.cdn-telegram.org/file/OKcePXJS91lSY_Q5PAb3RPMIRveKE_nPBxMRsDvLVNs5fq7N8oS__rnVqZIT2UOKxnq8Ov_ykLcOJgdBok-RIXdIm8d0PCTU4Af42WH_hXx6nbcXvgcFn3W3sBxZPcfqqZkcAR95RWKvMWJcytkacWJJtFlhrYPElCqHaRWCe7CCgJtUAnVsMfFaL_ibFuunvuy_5giTgdGWB1jvcnI8j7Zd__t5ukkLbSJw5X5Ii-UXY6baIY5xnbOkt3-eVVI4sEKfaeEsuSHqVYudcjAHLfMjlu1fanQDqn_nl_b5dhf7Ylxs-H7lfV5ZUJDrmwnhamrB2UH_yCyCRj9GgQ_IRg.jpg" /><img src="https://cdn5.cdn-telegram.org/file/vb5uBX78IBUruGUH-k8u0cA8YKIazF5EdIEVBaKypqQkdxoae0yeTof2ENgg69M1DbTEIF8im6kVTOC29EWbJyVmkFDTjhFIcJnY__fjhrrPnTcSrfzsCkVgPSNHar0Zy4bh4nUV3ENAiv6pBi7MV42szy-L8W79E2inHK9qWGg2PUL3TikcRL_kNyXI2PVI_jPmTTdsu0b5oPPNwhrpPLEUIZfhsjExC_n2zpNm5gBLBiklz4OG3WlVDCJO-en9xxWOix7olVhr3iPgSgmbyKwuHmsCwfW919MX2nP-STm3ZEZAKoktfY4FFc5RV_jVo3QvaSAKPa3BtrxEvUUbrw.jpg" />
+]]></content:encoded>
+<pubDate>Wed, 31 Jul 2024 17:13:06 GMT</pubDate>
+<pubDate>Wed, 31 Jul 2024 17:13:06 GMT</pubDate>
+</item>
+
+<item>
 <title>🖼 真可怕</title>
 <link>https://t.me/appinnfeed/11808</link>
 <guid>https://t.me/appinnfeed/11808</guid>
 <content:encoded><![CDATA[
-
 <p>真可怕</p><img src="https://cdn5.cdn-telegram.org/file/Lxi41ABkg54XqCUjFVRF-xNGQsBWRhRxba7sgT1kTxjuNq0UKIapzOHSNBz5M721XBDvyfmpY0RFWKbMmAgNn4jsWkfWnDhnXQr7eNKXAnVjEgx333aE8Mahrn3apxxkyFlZRyN09z6UJxcE8BGZWPO--1BOTF0NE7SiGUuDRx6iKAEuh3fkoMXjq2nY0Stp8ZLYzyRGHnZc8bdsGbvnACIKCGWDx6E0VLA-3ngbffLeIZjAWb22qBzHU2DULIPCGsDqanR4S3xI4ixJgsWcWocYlAuwiAXalwm3miUusVU6PU9Pzb4Gndj1YWrdgT8yUDBTe1ay3GpIt6ZrdUGXgw.jpg" />
 ]]></content:encoded>
 <pubDate>Wed, 31 Jul 2024 16:15:04 GMT</pubDate>
-<pubDate>Wed, 31 Jul 2024 16:15:04 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 求推荐朗读网页文字的Firefox扩展 https://meta.appinn.net/t/topic/59413</title>
 <link>https://t.me/appinnfeed/11807</link>
@@ -9010,15 +9019,6 @@
 <p><span class="emoji">💧</span> <a href="https://t.me/appinnfeed/10313?q=%23%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6">#小众软件</a><br />哦，我的 Git（Oh My Git!）：一个学习 Git 的开源游戏<br /><br /><a href="https://www.appinn.com/oh-my-git/" rel="noopener" target="_blank">https://www.appinn.com/oh-my-git/</a><br /><br /><b>Tags</b>: <a href="https://t.me/appinnfeed/10313?q=%23%E6%B8%B8%E6%88%8F">#游戏</a>, <a href="https://t.me/appinnfeed/10313?q=%23Git">#Git</a>, <a href="https://t.me/appinnfeed/10313?q=%23%E5%8F%AF%E8%A7%86%E5%8C%96">#可视化</a>, <a href="https://t.me/appinnfeed/10313?q=%23%E5%AD%A6%E4%B9%A0">#学习</a></p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/oh-my-git/">哦，我的 Git（Oh My Git!）：一个学习 Git 的开源游戏 - 小众软件</a></b><br /><p>Oh My Git! 是一个专门来学习 Git 的开源游戏，它向玩家介绍流行的版本控制系统 “Git”，通过高度交互，建立“merging”或“Rebase”分支等操作的直觉。玩家将逐步了解 Git 的功能，每个级别都讲述一个小故事，玩家可以利用他们新发现的能力来解决问题或帮助他人。@Appinn</p><img src="https://cdn4.cdn-telegram.org/file/A-92AtTPMFDW22pAcYMy9WTYT9DlosnigfvkXu6gc63Uc6jkbJnw_NqDJrJrf_n7arb2BxBtL7QSR1DUI5CC3UoVUGD_GU6lbez5dU32TNexN-C1kHETVhfMoecjaHiPL0qrBM9p3kuXjRO6ruT3SbuaUDFrRmN4AP2A45jNEaGZh04UscxW8fSCy_4msI_QRo5exmu_MxBLdm8d-6OsHmst_dhk0r3AUABn9E8DYoDKs2XZU11r7pZWoYBEt9Qtb34kQ7WIn8IAq8sTeZB_8xzgeiirQfKRUuyTNHPX7b6luArSWeAwV6gGQ_NPitKIWpULZOHDQp0mIdqmOXdeDA.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Tue, 16 Apr 2024 09:24:01 GMT</pubDate>
-</item>
-<item>
-<title>🖼 inoreader 新增离线模式，需要 Pro，v7.7 以后版本可用</title>
-<link>https://t.me/appinnfeed/10312</link>
-<guid>https://t.me/appinnfeed/10312</guid>
-<content:encoded><![CDATA[
-<p>inoreader 新增离线模式，需要 Pro，v7.7 以后版本可用</p><img src="https://cdn5.cdn-telegram.org/file/QDGhARqJXOacFMX54qT3VmQWh-XNetDv14LOjcTwpje4lJvAmP2vvlR-S48fThXxh_P_HDfuOzgwkQQUi3xnxlPaDiAe41J9CwUyMY8Bfg6ZZKuneSRcpF6wkAzYSNrngB6AxyqAtLMxmgZr0UfEGRPY-3-BQffJbdFLfG0g-KjA-ISHjqlQRSapVoVsAeordWnbNDkAdwIvMpPXmHQ_02RJOcFclCpc_J_MzaWK8yZ_vNBQ7d1vUA48lyL4fMoGELBWedYKQ79plY8Q4PcY6nAOSa1avU6H95iNcgN6vryFPfmecq40y5f8YDpsb-YO6LJ1HY7eW47pm9UU2F_IZQ.jpg" />
-]]></content:encoded>
-<pubDate>Tue, 16 Apr 2024 08:34:59 GMT</pubDate>
 </item>
 </channel>
 </rss>

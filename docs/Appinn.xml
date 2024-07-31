@@ -4,18 +4,16 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>🖼 Itsycal 0.15.4 更新 新增的外观设置显示没有事件的天数。通过这个新设置，空白天数会变得暗淡，从而让人们能够更加关注有事件的天数。 可以禁止在日历中绘...</title>
 <link>https://t.me/appinnfeed/11809</link>
 <guid>https://t.me/appinnfeed/11809</guid>
 <content:encoded><![CDATA[
-
 <p></p><div class="tgme_widget_message_text js-message_text" dir="auto">Itsycal 0.15.4 更新<br /><br />新增的外观设置显示没有事件的天数。通过这个新设置，空白天数会变得暗淡，从而让人们能够更加关注有事件的天数。<br /><br />可以禁止在日历中绘制当前月份轮廓的*隐藏*设置。若要使用此功能，可以打开 <a href="http://xn--suzt2f.app/" rel="noopener" target="_blank">终端.app</a> 并输入： defaults write com.mowglii.ItsycalApp DoNotDrawOutlineAroundCurrentMonth -bool YES。需要恢复时，可以输入： defaults delete com.mowglii.ItsycalApp DoNotDrawOutlineAroundCurrentMonth。<br /><br />修复了在新事件弹出框中的键盘导航（Tab / Shift-Tab）。<br /><br />部分解决了一个与打开 <a href="http://xn--jmr704b.app/" rel="noopener" target="_blank">日历.app</a> 相关的明显的 Apple bug。<br /><br /><a href="https://www.mowglii.com/itsycal/" rel="noopener" target="_blank">https://www.mowglii.com/itsycal/</a></div><p></p><img src="https://cdn5.cdn-telegram.org/file/OKcePXJS91lSY_Q5PAb3RPMIRveKE_nPBxMRsDvLVNs5fq7N8oS__rnVqZIT2UOKxnq8Ov_ykLcOJgdBok-RIXdIm8d0PCTU4Af42WH_hXx6nbcXvgcFn3W3sBxZPcfqqZkcAR95RWKvMWJcytkacWJJtFlhrYPElCqHaRWCe7CCgJtUAnVsMfFaL_ibFuunvuy_5giTgdGWB1jvcnI8j7Zd__t5ukkLbSJw5X5Ii-UXY6baIY5xnbOkt3-eVVI4sEKfaeEsuSHqVYudcjAHLfMjlu1fanQDqn_nl_b5dhf7Ylxs-H7lfV5ZUJDrmwnhamrB2UH_yCyCRj9GgQ_IRg.jpg" /><img src="https://cdn5.cdn-telegram.org/file/vb5uBX78IBUruGUH-k8u0cA8YKIazF5EdIEVBaKypqQkdxoae0yeTof2ENgg69M1DbTEIF8im6kVTOC29EWbJyVmkFDTjhFIcJnY__fjhrrPnTcSrfzsCkVgPSNHar0Zy4bh4nUV3ENAiv6pBi7MV42szy-L8W79E2inHK9qWGg2PUL3TikcRL_kNyXI2PVI_jPmTTdsu0b5oPPNwhrpPLEUIZfhsjExC_n2zpNm5gBLBiklz4OG3WlVDCJO-en9xxWOix7olVhr3iPgSgmbyKwuHmsCwfW919MX2nP-STm3ZEZAKoktfY4FFc5RV_jVo3QvaSAKPa3BtrxEvUUbrw.jpg" />
 ]]></content:encoded>
 <pubDate>Wed, 31 Jul 2024 17:13:06 GMT</pubDate>
-<pubDate>Wed, 31 Jul 2024 17:13:06 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 真可怕</title>
 <link>https://t.me/appinnfeed/11808</link>
@@ -9010,15 +9008,6 @@
 <p><span class="emoji">🧐</span> <a href="https://t.me/appinnfeed/10314?q=%23%E9%98%85%E8%AF%BB">#阅读</a><br />Libgourou - 用于在 Linux 上为 ePub/PDF 文件上添加 DRM<br /><br /><a href="https://meta.appinn.net/t/topic/55277" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/55277</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/55277">Libgourou - 用于在 Linux 上为 ePub/PDF 文件上添加 DRM</a></b><br /><p>libgourou 是 Adob​​e ADEPT 协议的免费实现，用于在 ePub/PDF 文件上添加 DRM。它克服了 Adob​​e 对 Linux 平台缺乏支持的问题。</p><img src="https://cdn4.cdn-telegram.org/file/iGlGYWSFocJG1lNoQr_KEYOID-tD0zwNPPCmylOczpxk_wH-KR0sTxmgzFHYPbo3xoFWaGJTJytv5D40sS7eYyGtmopEnP3vQTCSa7heQ4dAu42gI9SbKsxQS9IQ8nUsFdu_uDWJFn95fjTG0y6PdT5idF4PC6tg8iNluItASLRYOXd171ZoHN7Zfk7fW8DblvULttUAhucSM-aD9S9Fm3CusXo60X8Xz5D2eyQn3y643mAQFlYzfXFWL3HOuki5EwYLqBjpodog8b3E-gQjcv7fO2EzAplzZTFql75SpohxKvnLl0igY9Y3HyGDBrQm9LYzLIG5Phb4opQbYh5XZw.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Tue, 16 Apr 2024 11:32:01 GMT</pubDate>
-</item>
-<item>
-<title>💧 #小众软件 哦，我的 Git（Oh My Git!）：一个学习 Git 的开源游戏 https://www.appinn.com/oh-my-git/ Tags: #游戏, #Git, #可视化, #学习</title>
-<link>https://t.me/appinnfeed/10313</link>
-<guid>https://t.me/appinnfeed/10313</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">💧</span> <a href="https://t.me/appinnfeed/10313?q=%23%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6">#小众软件</a><br />哦，我的 Git（Oh My Git!）：一个学习 Git 的开源游戏<br /><br /><a href="https://www.appinn.com/oh-my-git/" rel="noopener" target="_blank">https://www.appinn.com/oh-my-git/</a><br /><br /><b>Tags</b>: <a href="https://t.me/appinnfeed/10313?q=%23%E6%B8%B8%E6%88%8F">#游戏</a>, <a href="https://t.me/appinnfeed/10313?q=%23Git">#Git</a>, <a href="https://t.me/appinnfeed/10313?q=%23%E5%8F%AF%E8%A7%86%E5%8C%96">#可视化</a>, <a href="https://t.me/appinnfeed/10313?q=%23%E5%AD%A6%E4%B9%A0">#学习</a></p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/oh-my-git/">哦，我的 Git（Oh My Git!）：一个学习 Git 的开源游戏 - 小众软件</a></b><br /><p>Oh My Git! 是一个专门来学习 Git 的开源游戏，它向玩家介绍流行的版本控制系统 “Git”，通过高度交互，建立“merging”或“Rebase”分支等操作的直觉。玩家将逐步了解 Git 的功能，每个级别都讲述一个小故事，玩家可以利用他们新发现的能力来解决问题或帮助他人。@Appinn</p><img src="https://cdn4.cdn-telegram.org/file/A-92AtTPMFDW22pAcYMy9WTYT9DlosnigfvkXu6gc63Uc6jkbJnw_NqDJrJrf_n7arb2BxBtL7QSR1DUI5CC3UoVUGD_GU6lbez5dU32TNexN-C1kHETVhfMoecjaHiPL0qrBM9p3kuXjRO6ruT3SbuaUDFrRmN4AP2A45jNEaGZh04UscxW8fSCy_4msI_QRo5exmu_MxBLdm8d-6OsHmst_dhk0r3AUABn9E8DYoDKs2XZU11r7pZWoYBEt9Qtb34kQ7WIn8IAq8sTeZB_8xzgeiirQfKRUuyTNHPX7b6luArSWeAwV6gGQ_NPitKIWpULZOHDQp0mIdqmOXdeDA.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Tue, 16 Apr 2024 09:24:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

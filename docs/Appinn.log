@@ -41127,3 +41127,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Append: [💧 #小众软件 微信聊天记录导出助手 – 将「合并转发」的微信聊天记录导出到本地 HTML，支持文字、图片[Windows] https://www.appinn.com/wechat-chatgroup-ex...](https://t.me/appinnfeed/11811)
 append_entries: 1
 Finish: 2024-08-01 11:01:39
+------------------------------------------------------
+Started: 2024-08-01 12:01:28
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 502
+append_entries: 0
+error when rendering xml, skip docs/Appinn

@@ -4,15 +4,14 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>❓ #问题求助 一个AHK v1.1的脚本程序问题 https://meta.appinn.net/t/topic/59503</title>
 <link>https://t.me/appinnfeed/11822</link>
 <guid>https://t.me/appinnfeed/11822</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/11822?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />一个AHK v1.1的脚本程序问题<br /><a href="https://meta.appinn.net/t/topic/59503" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/59503</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/59503">一个AHK v1.1的脚本程序问题</a></b><br /><p>想在caplock+的软件上增加一个新的功能，自己仿造里面的翻译功能写了一点，基本能运行了，但是有一个编码的问题一直解决不了，来问问各位专家。  具体的代码如下，我是外行人，完全是靠GPT，内容比较乱见谅。  #Include ../lib/lib_json.ahk ;引入json解析文件   keyFunc_OpenAI(){     ;指定文件编码     #Persistent     FileEncoding, UTF-8     ;确认function调用成功     msgbox, "OpenAI…</p><img src="https://cdn4.cdn-telegram.org/file/NMl6d8FZtno_ijbu6SkNFGqsSDBpWOhyzz8OQpubokpPuAvXnpfnIYpEODfoXts8q0MyaeJXWh94fJzuHyitlM_K-k1mRzm6Le5gKl36X1P6ajnsqsttUKsGJcacNOo3pP1DORYCrrzsxyToc6vrIeXaI_oETycgQdgBf6s5QR631_g_FSmX4tJNmbFGicp9tBEDSERe9hArPdd8EuvYAtYoBLsXjLtb-UXJnc7gffdisNPHXX-Z0bNwwYNf1bNrPvbI2oWvM5v_E5t2JSUDKS5YpkW6wKROMWJU3htcCQbYK1eWDGXBcB-3mSG55bLXKONWMSqSY-L2TPEH7tQkrA.jpg" /></blockquote>
 ]]></content:encoded>
-<pubDate>Fri, 02 Aug 2024 15:57:36 GMT</pubDate>
 <pubDate>Fri, 02 Aug 2024 15:57:36 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +19,10 @@
 <link>https://t.me/appinnfeed/11821</link>
 <guid>https://t.me/appinnfeed/11821</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/11821?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />【自荐】ClassIsland - 多功能大屏课表显示工具<br /><a href="https://meta.appinn.net/t/topic/59500" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/59500</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/59500">【自荐】ClassIsland - 多功能大屏课表显示工具</a></b><br /><p>软件名称 ClassIsland  应用平台  建议在 64 位架构的 Windows 10 及以上的系统使用。    Windows  推荐类型 【开发者自荐】  一句简介 这是一款适用于教室大屏的课表信息显示工具，可以显示各种信息，并在上课、下课等时间点发出提醒。  功能简介  使用 斜体 标注的功能默认禁用，需要在应用设置中手动开启。   截至 1.4.0.4（稳定版）已完成功能：    支持显示当天的课表，并展开显示当前课程信息。    支持在上下课、放学等时间点显示提醒。    支持通过全屏特效、语音（支持系统…</p><img src="https://cdn4.cdn-telegram.org/file/NMl6d8FZtno_ijbu6SkNFGqsSDBpWOhyzz8OQpubokpPuAvXnpfnIYpEODfoXts8q0MyaeJXWh94fJzuHyitlM_K-k1mRzm6Le5gKl36X1P6ajnsqsttUKsGJcacNOo3pP1DORYCrrzsxyToc6vrIeXaI_oETycgQdgBf6s5QR631_g_FSmX4tJNmbFGicp9tBEDSERe9hArPdd8EuvYAtYoBLsXjLtb-UXJnc7gffdisNPHXX-Z0bNwwYNf1bNrPvbI2oWvM5v_E5t2JSUDKS5YpkW6wKROMWJU3htcCQbYK1eWDGXBcB-3mSG55bLXKONWMSqSY-L2TPEH7tQkrA.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Fri, 02 Aug 2024 15:05:58 GMT</pubDate>
-<pubDate>Fri, 02 Aug 2024 15:05:58 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 求流畅好用的远程控制软件 https://meta.appinn.net/t/topic/59468</title>
 <link>https://t.me/appinnfeed/11820</link>
@@ -9012,24 +9008,6 @@
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10326?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />latex中的参考文献显示问题。。。。<br /><br /><a href="https://meta.appinn.net/t/topic/55307" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/55307</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/55307">latex中的参考文献显示问题。。。。</a></b><br /><p>最近在用latex写论文时，引用硕士学位时，参考文献的显示不正确：  代码：    显示：    我想把这个[thesis]中替换为其他内容，但是一直没有成功。  尝试了很多方法，比如加type，note等等，都没成功。  第一次接触latex，希望有各位搞手指点一下应该怎么解决</p><img src="https://cdn4.cdn-telegram.org/file/la7Sn3d79UTxLbGr-3aghT-bLckdOamIqwIpYcaJCGGcbBEPEPlXgnE1mTB7MD320guuIjYJmAaUzW2xCyyIdXhyv9JuF8o6JSkdU4XLPV3l1_cgiH5IOzcp23bJXi7LLvbcQ2rjDizpYHpEsvUBD067IYUXlqWsXO1yKcXD3LUQANp9Jvy1j-lhXGDXThSFl8UD9ipDFGY3gPQBdoBgklRsTQEG0bHjdhi8PqDyr9b9eAsD5uNh0UeD7oKz_9VZLiiNbKW9PJemPIQzHAtAoiW8hbeeX6G0q7Aoi43XiCzcfBARY997ElV8OhRHGg7udtYpprUWP3NZcSY3TULlRA.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Wed, 17 Apr 2024 06:56:00 GMT</pubDate>
-</item>
-<item>
-<title>📣 #发现频道 【自荐】【OFFICE/WPS】 Word 办公插件脚本自动化功能工具箱 https://meta.appinn.net/t/topic/55306</title>
-<link>https://t.me/appinnfeed/10325</link>
-<guid>https://t.me/appinnfeed/10325</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/10325?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />【自荐】【OFFICE/WPS】 Word 办公插件脚本自动化功能工具箱<br /><br /><a href="https://meta.appinn.net/t/topic/55306" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/55306</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/55306">【自荐】【OFFICE/WPS】 Word 办公插件脚本自动化功能工具箱</a></b><br /><p>软件名称 办公助手(公文处理助手)  应用平台  Windows  推荐类型 【开发者自荐】  运行环境： OFFICE 2010-365  WPS 2019以上  必须包含VBA环境，新版本WPS必须可切换到VB环境  简介 符合《公文格式国家标准》(GB/T 9704—2012)的格式要求，也可自定义格式，可广泛用于对各类规范文本进行快速全自动、半自动排版，插件不含任何恶意代码。  很适合体制内、企业行政、档案、人事、财务人员使用，特别是用来批量提取文档数据很方便(比如做发文目录、统计合同数据)，WPS也可以用。…</p><img src="https://cdn4.cdn-telegram.org/file/tshPSS7jwXu6YqUWktTYpQ0bhUwcDFD_KoMo8YCB0hwNsl0M_PEzGaauJaPv5n7QAg2o-i_8HK8pHButNG96h1biGyl2sV8iK5a3IBej0R7NDsMtnrgn2JM4Q8XIH6yb8ZmqgkPQEOaTfrjhkHdENVbCHKNrXfabLGorT8v-jsrDU4W8359fIO0k33aTStRhaIaNrPdHfXjDj4TT6RGpPUHVFZvL337BA4Wa3Rb0-ijF-pSJeUdAC_pvTChT-jNdKW0rRTlNw7N_Xvl_DLT5RuAqgA6LfgIV225agWjyiIEy2mzU8IbNv9dAXhgSOA4rAUA8YLdTKXBPfFqY6lfRaQ.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Wed, 17 Apr 2024 06:28:00 GMT</pubDate>
-</item>
-<item>
-<title>❓ #问题求助 火狐有些图片之类的没办法加载有办法解决嘛？还是我哪设置错了？ https://meta.appinn.net/t/topic/55304</title>
-<link>https://t.me/appinnfeed/10324</link>
-<guid>https://t.me/appinnfeed/10324</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10324?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />火狐有些图片之类的没办法加载有办法解决嘛？还是我哪设置错了？<br /><br /><a href="https://meta.appinn.net/t/topic/55304" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/55304</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/55304">火狐有些图片之类的没办法加载有办法解决嘛？还是我哪设置错了？</a></b><br /><p>一个小例子，这个问题目前我自己的使用当中虽然出现的不多，但是很烦啊，有的可以用uBlock屏蔽掉，但想这个DuckDuckGo的搜索我也不好屏蔽，本来是想卸载Edge之后拿火狐当主力，Chrome当备用，现在无奈只能换Chrome当主力。</p><img src="https://cdn4.cdn-telegram.org/file/d5kporOXEJ6qYKsSRrBi32uo8bD0nygV90EDSI4jHwMsu8oDjRNikf1nv_aJFqSc8A0SsJqhCUNZ3nCTQXI9byY-bBQih9Ud0KYvPpzyaFIusxQWwxbewULdbFXrcBSys0vB9dC4n6FWv9UGs847pFQKWD_xwkajDdc16QJ0EVSjbkPVNNveYmBsyHiZ6lO3iS6HYK7dbtqh3u50prSKFAVDi5G1GVVt90dwy5aVN3be5uqK-HwoOn_QNjH7CTlw31kbKmYXgkK5UuVC7ftl5tjAHkE5Mm5MNVQuV7BgCuTNj3JeSumbcAsY5qAHmlXqvq6MD0NponNQxKdXNIwxdw.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Wed, 17 Apr 2024 05:00:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

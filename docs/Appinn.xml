@@ -4,6 +4,28 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>❓ #问题求助 一个AHK v1.1的脚本程序问题 https://meta.appinn.net/t/topic/59503</title>
+<link>https://t.me/appinnfeed/11822</link>
+<guid>https://t.me/appinnfeed/11822</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/11822?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />一个AHK v1.1的脚本程序问题<br /><a href="https://meta.appinn.net/t/topic/59503" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/59503</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/59503">一个AHK v1.1的脚本程序问题</a></b><br /><p>想在caplock+的软件上增加一个新的功能，自己仿造里面的翻译功能写了一点，基本能运行了，但是有一个编码的问题一直解决不了，来问问各位专家。  具体的代码如下，我是外行人，完全是靠GPT，内容比较乱见谅。  #Include ../lib/lib_json.ahk ;引入json解析文件   keyFunc_OpenAI(){     ;指定文件编码     #Persistent     FileEncoding, UTF-8     ;确认function调用成功     msgbox, "OpenAI…</p><img src="https://cdn4.cdn-telegram.org/file/NMl6d8FZtno_ijbu6SkNFGqsSDBpWOhyzz8OQpubokpPuAvXnpfnIYpEODfoXts8q0MyaeJXWh94fJzuHyitlM_K-k1mRzm6Le5gKl36X1P6ajnsqsttUKsGJcacNOo3pP1DORYCrrzsxyToc6vrIeXaI_oETycgQdgBf6s5QR631_g_FSmX4tJNmbFGicp9tBEDSERe9hArPdd8EuvYAtYoBLsXjLtb-UXJnc7gffdisNPHXX-Z0bNwwYNf1bNrPvbI2oWvM5v_E5t2JSUDKS5YpkW6wKROMWJU3htcCQbYK1eWDGXBcB-3mSG55bLXKONWMSqSY-L2TPEH7tQkrA.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Fri, 02 Aug 2024 15:57:36 GMT</pubDate>
+<pubDate>Fri, 02 Aug 2024 15:57:36 GMT</pubDate>
+</item>
+<item>
+<title>📣 #发现频道 【自荐】ClassIsland - 多功能大屏课表显示工具 https://meta.appinn.net/t/topic/59500</title>
+<link>https://t.me/appinnfeed/11821</link>
+<guid>https://t.me/appinnfeed/11821</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/11821?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />【自荐】ClassIsland - 多功能大屏课表显示工具<br /><a href="https://meta.appinn.net/t/topic/59500" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/59500</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/59500">【自荐】ClassIsland - 多功能大屏课表显示工具</a></b><br /><p>软件名称 ClassIsland  应用平台  建议在 64 位架构的 Windows 10 及以上的系统使用。    Windows  推荐类型 【开发者自荐】  一句简介 这是一款适用于教室大屏的课表信息显示工具，可以显示各种信息，并在上课、下课等时间点发出提醒。  功能简介  使用 斜体 标注的功能默认禁用，需要在应用设置中手动开启。   截至 1.4.0.4（稳定版）已完成功能：    支持显示当天的课表，并展开显示当前课程信息。    支持在上下课、放学等时间点显示提醒。    支持通过全屏特效、语音（支持系统…</p><img src="https://cdn4.cdn-telegram.org/file/NMl6d8FZtno_ijbu6SkNFGqsSDBpWOhyzz8OQpubokpPuAvXnpfnIYpEODfoXts8q0MyaeJXWh94fJzuHyitlM_K-k1mRzm6Le5gKl36X1P6ajnsqsttUKsGJcacNOo3pP1DORYCrrzsxyToc6vrIeXaI_oETycgQdgBf6s5QR631_g_FSmX4tJNmbFGicp9tBEDSERe9hArPdd8EuvYAtYoBLsXjLtb-UXJnc7gffdisNPHXX-Z0bNwwYNf1bNrPvbI2oWvM5v_E5t2JSUDKS5YpkW6wKROMWJU3htcCQbYK1eWDGXBcB-3mSG55bLXKONWMSqSY-L2TPEH7tQkrA.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Fri, 02 Aug 2024 15:05:58 GMT</pubDate>
+<pubDate>Fri, 02 Aug 2024 15:05:58 GMT</pubDate>
+</item>
 
 <item>
 <title>❓ #问题求助 求流畅好用的远程控制软件 https://meta.appinn.net/t/topic/59468</title>

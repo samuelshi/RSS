@@ -4,18 +4,16 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>❓ #问题求助 求助，程序图标与开始菜单有空距 https://meta.appinn.net/t/topic/59555</title>
 <link>https://t.me/appinnfeed/11834</link>
 <guid>https://t.me/appinnfeed/11834</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/11834?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />求助，程序图标与开始菜单有空距<br /><a href="https://meta.appinn.net/t/topic/59555" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/59555</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/59555">求助，程序图标与开始菜单有空距</a></b><br /><p>可能是以前被什么软件调过  成这样子了  有没有办法可以恢复</p><img src="https://cdn4.cdn-telegram.org/file/f6EjMesCt-CFgCB_5fTmVobqSeXcCQyonXnfZMxBwglkGnKwp4FY2DlyEJBp01C3q6raHW_DONrgttB6DHSrSwSjIFe9_wKJELua51c_MKM5JUg_RaJ1GRsZmfSbQUjEduKZMZMsg0s9xolyVPrRgubNhy4RzKSiBx_-2ybL4dWuCtFPhNe5NxFPI-VxcJgG5pZpD1SadqaOpeU90utf8uZM_jqOMItLwVSvIDTLfgvhL9bHTFETbp_W3XcAjgw3E1qfBQJ6CjLOrzvOK6sjblhztDdD84-kaF4DVzV1R29qfE3oyEYtml2Bc_fUnDLiRIk3bkrdRIRxRQzmAqvUCw.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Sun, 04 Aug 2024 16:42:51 GMT</pubDate>
-<pubDate>Sun, 04 Aug 2024 16:42:51 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 有木有支持直接跳转到pdf文件指定页的软件或小技巧？ https://meta.appinn.net/t/topic/59554</title>
 <link>https://t.me/appinnfeed/11833</link>
@@ -9010,15 +9008,6 @@
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10338?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />类似usbEAm这种查找同域名解析的不同ip并且测速应用到host的软件？<br /><br /><a href="https://meta.appinn.net/t/topic/55354" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/55354</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/55354">类似usbEAm这种查找同域名解析的不同ip并且测速应用到host的软件？</a></b><br /><p>发现它上次更新已经是7年前了</p><img src="https://cdn4.cdn-telegram.org/file/nxWofQQKHtEcdHTlKeMEEjRdXtmKYalgE6e6aTXEpLLiz2dy2XWpLj2BdrLlwLWKCFzuLsHi2_yqdrnNUJxLYW8WwjeiMWzvmDwscXqkRrdHGg-knKfqocVELLYoTG4laQNapwuszZgMbocTp9n_fgQw-Qgz5JOxkAeOnX67CsSnht8e-xkUTlfa5Rttg_BUIZAwy7Rz2A-sLnt9vt8BIB2FVqxn8e_gfX7xr8toEQT_UEorf3RMaVn3TWsbULzhvjYvqSd3tKxlq0F2nbLZ4x9Yizxiab0rnDZxIhIXN7JpMP-teevKCXgrlo0VkEGm6vhsgAHQGaZBkyxCl6qBAw.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Thu, 18 Apr 2024 08:00:01 GMT</pubDate>
-</item>
-<item>
-<title>❓ #问题求助 求推荐一款备份加密软件，类似于duplicati https://meta.appinn.net/t/topic/55353</title>
-<link>https://t.me/appinnfeed/10337</link>
-<guid>https://t.me/appinnfeed/10337</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10337?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />求推荐一款备份加密软件，类似于duplicati<br /><br /><a href="https://meta.appinn.net/t/topic/55353" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/55353</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/55353">求推荐一款备份加密软件，类似于duplicati</a></b><br /><p>求推荐一款加密备份软件，要求有win，mac，linux三端，是类似于 restic 或者 kopix 的单个文件，数据使用压缩包形式存储。  一直都是使用 restic 来备份数据，前几天不小心删除了一些数据，从云端下载备份的文件却十分麻烦，原因是 restic 备份的文件太过繁杂     如果能有以下附加的特性就更好   增量备份 开源 使用多种后端如rclone，webdav 历史记录  目前是使用 7z+rclone 来备份比较多的小文件，用 restic 备份大文件，如果有更好的方法欢迎提点</p><img src="https://cdn4.cdn-telegram.org/file/UZ7HAOx3oqQZMaCkDv2x4zkSSx65Y6Irz9kj-MveFaf1NNm3Z2IlUR0xSbYH29NWZ2ssj_NLd40fsokOYjVpHp0-E5Onp9FfYKun1hcFGu9fpwc8vXy2flNjhE12l-omQx2Ir2YqIO0c1-nnGdABC_56ipQ5auwvPIaIC6J3vdmLUbMKd5aA8U7B1WJ6-v91rV9E2lfGMi4CZNvwERULKKxftWSDOuoEczQvMlwb9YuLfY5DQxm1WWrAKDZrwWOUhmulfOA0eI-NrSzCuHep0smJkJVqVqCuOR2Z8BaoLLUFVSopdK3puGcUEVRGhL9LLj-T9-zAqGcMxi5UJo3xIg.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Thu, 18 Apr 2024 07:36:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

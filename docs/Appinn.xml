@@ -4,6 +4,17 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>https://meta.appinn.net/t/topic/59619</title>
+<link>https://t.me/appinnfeed/11846</link>
+<guid>https://t.me/appinnfeed/11846</guid>
+<content:encoded><![CDATA[
+
+<p><a href="https://meta.appinn.net/t/topic/59619" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/59619</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/59619">修复群晖 DSM 6.x 的 Let's Encrypt 无法自动签证书的问题</a></b><br /><p>今天遇到个问题，在老旧的 DSM 6.x 中使用自带 Let’s Encrypt 更新证书，提示：   目标服务器无响应   在群晖论坛找到个修复的方法：  具体步骤，先通过 SSH 登录群晖：  sudo -i cp /etc/ssl/certs/ca-certificates.crt /etc/ssl/certs/ca-certificates.crt.ORIG curl -k "https://letsencrypt.org/certs/isrgrootx1.pem" &gt;&gt; /etc/ssl/certs/ca…</p><img src="https://cdn4.cdn-telegram.org/file/dvPMHLqd2LpvriwIVv7s5HoyN1QsfCrDvE0PdVr7UUdQEns24aOrOcyZo5fbuJCd0NcRyFI1Lr942wQKAa0vagfJzTn5dNF1iVZKjeF2Chqlp2xd1vpaboCb1GVIPhy7yoXoJdiQa9fWTQfuu30UbOi_kc6jeYbke2Er-9H2tt1cxjfIMNxqAILMCJG5x86Qydv2BODAacOHqzaKbqYMioz3ZpaxugDN2tEjhWWZyX5uKwe-GlPkx6L3JgBhBkwTeyE_oiglAUdyIbdc0omQtAF6YOCBfzsyBBgoXpDaBxQAX3ZRl8TXY1LXUim-fEJ179X9LbqPl2hqQNV3siHH_Q.jpg" /></blockquote>
+]]></content:encoded>
+<pubDate>Tue, 06 Aug 2024 03:45:39 GMT</pubDate>
+<pubDate>Tue, 06 Aug 2024 03:45:39 GMT</pubDate>
+</item>
 
 <item>
 <title>❓ #问题求助 联通千兆宽带换2.5G光猫求助贴。 https://meta.appinn.net/t/topic/59613</title>

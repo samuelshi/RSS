@@ -41831,3 +41831,10 @@ Existing_entries: 1000
 Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2024-08-06 11:01:31
+------------------------------------------------------
+Started: 2024-08-06 12:01:50
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [https://meta.appinn.net/t/topic/59619](https://t.me/appinnfeed/11846)
+append_entries: 1
+Finish: 2024-08-06 12:01:53

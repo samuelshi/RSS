@@ -41857,3 +41857,11 @@ Existing_entries: 1001
 Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2024-08-06 15:01:32
+------------------------------------------------------
+Started: 2024-08-06 16:01:39
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [🖼 原来用户取消授权通知是这样的... 但是我在后台完全搜不到这位用户，也不知道他ID是啥...](https://t.me/appinnfeed/11849)
+Append: [使用 @面条 的 BroadcastChannel 项目为频道创建了一个网页，高效、快捷。 https://talk.appinn.net/](https://t.me/appinnfeed/11848)
+append_entries: 2
+Finish: 2024-08-06 16:01:39

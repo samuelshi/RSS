@@ -4,18 +4,16 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>https://meta.appinn.net/t/topic/59619</title>
 <link>https://t.me/appinnfeed/11846</link>
 <guid>https://t.me/appinnfeed/11846</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://meta.appinn.net/t/topic/59619" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/59619</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/59619">修复群晖 DSM 6.x 的 Let's Encrypt 无法自动签证书的问题</a></b><br /><p>今天遇到个问题，在老旧的 DSM 6.x 中使用自带 Let’s Encrypt 更新证书，提示：   目标服务器无响应   在群晖论坛找到个修复的方法：  具体步骤，先通过 SSH 登录群晖：  sudo -i cp /etc/ssl/certs/ca-certificates.crt /etc/ssl/certs/ca-certificates.crt.ORIG curl -k "https://letsencrypt.org/certs/isrgrootx1.pem" &gt;&gt; /etc/ssl/certs/ca…</p><img src="https://cdn4.cdn-telegram.org/file/dvPMHLqd2LpvriwIVv7s5HoyN1QsfCrDvE0PdVr7UUdQEns24aOrOcyZo5fbuJCd0NcRyFI1Lr942wQKAa0vagfJzTn5dNF1iVZKjeF2Chqlp2xd1vpaboCb1GVIPhy7yoXoJdiQa9fWTQfuu30UbOi_kc6jeYbke2Er-9H2tt1cxjfIMNxqAILMCJG5x86Qydv2BODAacOHqzaKbqYMioz3ZpaxugDN2tEjhWWZyX5uKwe-GlPkx6L3JgBhBkwTeyE_oiglAUdyIbdc0omQtAF6YOCBfzsyBBgoXpDaBxQAX3ZRl8TXY1LXUim-fEJ179X9LbqPl2hqQNV3siHH_Q.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Tue, 06 Aug 2024 03:45:39 GMT</pubDate>
-<pubDate>Tue, 06 Aug 2024 03:45:39 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 联通千兆宽带换2.5G光猫求助贴。 https://meta.appinn.net/t/topic/59613</title>
 <link>https://t.me/appinnfeed/11845</link>
@@ -9010,15 +9008,6 @@
 <p><span class="emoji">💧</span> <a href="https://t.me/appinnfeed/10350?q=%23%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6">#小众软件</a><br />数码荔枝正版四月惠：MarginNote / BookxNote / 白描等 20+ 正版软件优惠啦<br /><br /><a href="https://www.appinn.com/lizhi-april-24/" rel="noopener" target="_blank">https://www.appinn.com/lizhi-april-24/</a><br /><br /><b>Tags</b>: <a href="https://t.me/appinnfeed/10350?q=%23%E5%9B%A2%E8%B4%AD">#团购</a>, <a href="https://t.me/appinnfeed/10350?q=%23%E6%95%B0%E7%A0%81%E8%8D%94%E6%9E%9D">#数码荔枝</a></p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/lizhi-april-24/">数码荔枝正版四月惠：MarginNote / BookxNote / 白描等 20+ 正版软件优惠啦 - 小众软件</a></b><br /><p>我们的老朋友数码荔枝，最近开启了「正版四月惠」活动！会场精选了一批高效办公软件和系统增强工具，快来看看有没有你期待的那一款吧～</p><img src="https://cdn4.cdn-telegram.org/file/UURT7raa65aDu3icv_if5Dd6kfFiXNqnJNnSqNomkMk4ZZf_1hjX8b1EhpLHN3yqyCEwcFklpF_G5V3HxCVsl3E1uE_Jriuz4ND32q_fugeqCauDCocvHGTm-A_U1mgixVNDO438kOVxj3d7g27SV9dA9s46DB_Ko8PJei9LRhJ-YUM8_Ap3aHeKlIomj7RADu_wzXkxSjEqysxx_AVTb4-T5yaOQetPMgdpK8JR2w8dymsZotTFPHeTf1kZnz8Yp44bf93OxWilD9vYuCQPrBd-sn5yNa8YuqjoThwxMIJnmdHLHJ3TwElirx-SzGZeUuO5WPo-HoTzCAW967DZgg.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Fri, 19 Apr 2024 05:00:02 GMT</pubDate>
-</item>
-<item>
-<title>YouTube Premium 阿根廷区涨价 为了继续提供优质的服务和功能，我们将您的价格提高到 3,699.00 阿根廷比索/月。我们不会轻易做出这些决定，但此次更新将使我们能...</title>
-<link>https://t.me/appinnfeed/10349</link>
-<guid>https://t.me/appinnfeed/10349</guid>
-<content:encoded><![CDATA[
-<p>YouTube Premium 阿根廷区涨价<br /><br />为了继续提供优质的服务和功能，我们将您的价格提高到 3,699.00 阿根廷比索/月。我们不会轻易做出这些决定，但此次更新将使我们能够继续改进 Premium并为您在 YouTube 上观看的创作者和艺术家提供支持。<br /><br />原价：ARS 1,569.00/月</p>
-]]></content:encoded>
-<pubDate>Fri, 19 Apr 2024 04:35:51 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -42034,3 +42034,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Append: [💧 #小众软件 ClassIsland – 在教室大屏幕上显示「课表信息」，支持上下课、放学提醒，语音播报[Windows] https://www.appinn.com/classisland/](https://t.me/appinnfeed/11861)
 append_entries: 1
 Finish: 2024-08-07 18:01:30
+------------------------------------------------------
+Started: 2024-08-07 19:01:16
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 502
+append_entries: 0
+error when rendering xml, skip docs/Appinn

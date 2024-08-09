@@ -5,17 +5,26 @@
 <link>https://t.me/s/appinnfeed</link>
 
 <item>
+<title>一个误会，是 mastodon.social 里的 appinn 账号被封了</title>
+<link>https://t.me/appinnfeed/11882</link>
+<guid>https://t.me/appinnfeed/11882</guid>
+<content:encoded><![CDATA[
+
+<p>一个误会，是 <a href="http://mastodon.social/" rel="noopener" target="_blank">mastodon.social</a> 里的 appinn 账号被封了</p>
+]]></content:encoded>
+<pubDate>Fri, 09 Aug 2024 06:40:42 GMT</pubDate>
+<pubDate>Fri, 09 Aug 2024 06:40:42 GMT</pubDate>
+</item>
+
+<item>
 <title>❓ #问题求助 调用ffmpeg让视频无损旋转的批处理代码错在哪？ https://meta.appinn.net/t/topic/59728</title>
 <link>https://t.me/appinnfeed/11880</link>
 <guid>https://t.me/appinnfeed/11880</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/11880?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />调用ffmpeg让视频无损旋转的批处理代码错在哪？<br /><a href="https://meta.appinn.net/t/topic/59728" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/59728</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/59728">调用ffmpeg让视频无损旋转的批处理代码错在哪？</a></b><br /><p>不懂编程，仅能看懂HTML4.0以前的代码，以及部分简单的js脚本。  我在Google上找了两个多小时，想在原有的批处理代码上做一个基于ffmpeg，让视频按需要设置旋转方向，并无损旋转后，保存在源路径的文件。错误的代码如下  @echo off &amp; title title 视频顺逆转90° echo. -vf "transpose=1"会重编码；-vf hflip水平镜像；-vf vflip垂直镜像。-vf "transpose=1,transpose=1"顺转180；-vf rotate=PI/4顺转45°。…</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/kjXIn_t1IGt643h1OutvonJSc495sKlSd9ipsU8Lu7op469o0sWn45IgcrNkxkcycv5ylyKNmBRnNCdYo7BtO-9GA5UWmdCe4F6UVj9ZtVI5ebdIhNc26nbgveAY3o-2ZKcTxW36YxBf8aEZWmBI1E_tj5nC0lD7gtO7eHzbscuvy0fo4mCYdPtIfWX9S9y1B0gzcPgwzAitp7-KarFT1JD7fp48dsYv5IqufVpQqvj2cSFrb9Eya0hvsWMQReFmeu9Q7tHaW7HRMANdnAa585F6Qidlf8sHah6t5rfM9pN07U1El3UTFTZHf4dvKqn5tpz14OgwDlEjL-wOHQwGQA.jpg" width="0" /></blockquote>
 ]]></content:encoded>
 <pubDate>Fri, 09 Aug 2024 05:12:18 GMT</pubDate>
-<pubDate>Fri, 09 Aug 2024 05:12:18 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 Windows系统备份还原哪家强？ https://meta.appinn.net/t/topic/59727</title>
 <link>https://t.me/appinnfeed/11879</link>
@@ -9010,15 +9019,6 @@
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10385?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />Google家庭组上车后换区的疑难问题<br /><br /><a href="https://meta.appinn.net/t/topic/55532" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/55532</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/55532">Google家庭组上车后换区的疑难问题</a></b><br /><p>去年以来遇到个很疑难的问题  去年上了一个Google One的车，上车时我和车主都是美区，付款前车主换到了土区  自从我的账号变成了土区家庭里的美区账号，就好像夹在了美区和土区的夹缝，付费App在Play商店店面显示土耳其元，结算时又会变成美元价格，但却用不了美区的礼品卡余额（只用PayPal不用礼品卡倒是可以正常购买，实际扣的是美元）     还有些App明明不管在美区还是土区都是正常上架的，我的夹缝区却根本装不了     发出来问问大家有遇到过这个问题吗？有没有什么解决思路</p><img src="https://cdn4.cdn-telegram.org/file/E5JpSNXALF0NIYw43mKkV15CIPqCo7u-9hy5d-O8GbBPVTQyXjs6ntYnk4ntvOHn-i5q5Ojf-mvqGDy8GUQ88lqhnkU0efOBbEOtbWXZ0fk9yM4zkEqsVE08gXhFqd4_Z1XLHgPf5H5pPWKwcQ-AHP3cvXV72jEH4jQhOGY-uc2oFw_nqxiKDjGkx7SrjHsGE0QtyZlL5_nWcMvAKRLt19J2-02VpATHBohHryTW-DTPYVTIC5bbcWKtlD2A482nxjuuiCs1M-GtCTIqjmicLnFEjnTi4yxoF4jOOYL-2o8kWgepSi9VVHP8qk1RXtIY1Y9zHeu6V0cJTjgQfVsV_g.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Mon, 22 Apr 2024 13:08:01 GMT</pubDate>
-</item>
-<item>
-<title>❓ #问题求助 想从Windows转Linux，有什么比较好上手的Linux系统？ https://meta.appinn.net/t/topic/55524</title>
-<link>https://t.me/appinnfeed/10384</link>
-<guid>https://t.me/appinnfeed/10384</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10384?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />想从Windows转Linux，有什么比较好上手的Linux系统？<br /><br /><a href="https://meta.appinn.net/t/topic/55524" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/55524</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/55524">想从Windows转Linux，有什么比较好上手的Linux系统？</a></b><br /><p>因为微软各种作死，想转Linux了，但没啥使用经验，想问问有没有推荐的？最好是国产吧，主要还是使用习惯上的，尽量简单无感。</p><img src="https://cdn4.cdn-telegram.org/file/mqMuwJBjUSuikUlu8_4Gt-q-xCoYU7QqC3SYfYLgIQ67-SCoXHgFrK4a5pXedz3YLczp6tQ41BskFAtqwvYaorRihCAzRUqh2QsxHWdpwb9KtnflKmVN000oSyMCUwZ1Q4FEfh6twvRtrKkmwOG1bZFX7grHdqlwV2dHQBrhgLf2w_OPEAYJ7l3tyhvUxhJuLT0SGAZhjPCs5gbx-gTOESKCaYW-BWixnplumel5_dfAl8vE5RwJ63SQ0DyV396mQunTNAA94TGfnc7-IRPrmoQ2og66e4Pt5w8JHfBSaH8cQiV81e2be_f9RcW1tIAqRBoqfpEib40wi9RDVxK8qQ.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Mon, 22 Apr 2024 10:24:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

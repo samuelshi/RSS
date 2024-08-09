@@ -5,14 +5,35 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>拼多多创始人黄峥以486亿美元登顶中国首富 彭博亿万富翁指数显示，现年 44 岁的黄峥已登顶中国首富。他以 486 亿美元的身家反超从 2021 年 4 月以来一直占据榜首...</title>
+<link>https://t.me/xhqcankao/12596</link>
+<guid>https://t.me/xhqcankao/12596</guid>
+<content:encoded><![CDATA[
+
+<p><b>拼多多创始人黄峥以486亿美元登顶中国首富</b><br /><br />彭博亿万富翁指数显示，现年 44 岁的黄峥已登顶中国首富。他以 486 亿美元的身家反超从 2021 年 4 月以来一直占据榜首的中国瓶装水之王钟睒睒。这位前谷歌工程师 2015 年创立了拼多多，这是一个以大量促销和销售廉价产品而闻名的电商平台。他迅速跻身世界富豪榜，其净资产在 2021 年初达到 715 亿美元的峰值。黄峥的惊人崛起得益于中国消费者习惯的改变。他也是三年多来首位登上财富榜榜首的科技大亨。在此过程中，黄峥还因压低价格而招致供应商的抗议，并为自己的员工制定了繁重的工作时间安排。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-08-09/temu-owner-s-billionaire-founder-becomes-china-s-richest-person" rel="noopener" target="_blank">彭博社</a></p>
+]]></content:encoded>
+<pubDate>Fri, 09 Aug 2024 06:53:27 GMT</pubDate>
+<pubDate>Fri, 09 Aug 2024 06:53:27 GMT</pubDate>
+</item>
+<item>
+<title>阿里巴巴平头哥玄铁 RISC-V CPU 中的存在内核级严重硬件安全漏洞 德国 CISPA 亥姆霍兹信息安全中心的计算机安全研究人员发现，阿里巴巴子公司平头哥半导体的一些...</title>
+<link>https://t.me/xhqcankao/12594</link>
+<guid>https://t.me/xhqcankao/12594</guid>
+<content:encoded><![CDATA[
+
+<p><b>阿里巴巴平头哥玄铁 RISC-V CPU 中的存在内核级严重硬件安全漏洞</b><br /><br />德国 CISPA 亥姆霍兹信息安全中心的计算机安全研究人员发现，阿里巴巴子公司平头哥半导体的一些 RISC-V 处理器存在严重的安全漏洞。其中最严重的漏洞被称为 GhostWrite，它允许恶意应用程序或用户读取和写入物理内存，并以内核（管理）和机器模式权限执行任意代码，从而使他们完全接管设备。该攻击具有 100% 可靠性、确定性，并且仅需几微秒即可完成。即使是 Docker 容器化或沙盒等安全措施也无法阻止这种攻击。此外，攻击者可以劫持部分外部硬件设备，从而向这些设备发送任何命令。<br /><br />该漏洞存在于 C910 CPU 的矢量扩展实现中的错误指令中，这些指令是为了处理更大的数据值而添加的。问题在于其中一些指令操作的是物理内存而不是虚拟内存，这会破坏操作系统和应用程序分离的隔离。阿里巴巴已经知悉并复现了 GhostWrite 漏洞，但由于漏洞位于硬件微代码中，无法通过软件更新修复。缓解此漏洞的唯一方法是禁用整个矢量功能，这将严重影响 CPU 的性能与功能。<br /><br />—— <a href="https://www.theregister.com/2024/08/07/riscv_business_thead_c910_vulnerable/" rel="noopener" target="_blank">The Register</a></p>
+]]></content:encoded>
+<pubDate>Fri, 09 Aug 2024 06:17:45 GMT</pubDate>
+<pubDate>Fri, 09 Aug 2024 06:17:45 GMT</pubDate>
+</item>
+
+<item>
 <title>网络安全公司趋势科技正在探索出售 知情人士周四表示，市值约9500亿日元的日本网络安全公司趋势科技在吸引了收购兴趣后，正在探索出售事宜。由于过去几周日元走...</title>
 <link>https://t.me/xhqcankao/12593</link>
 <guid>https://t.me/xhqcankao/12593</guid>
 <content:encoded><![CDATA[
-
 <p><b>网络安全公司趋势科技正在探索出售</b><br /><br />知情人士周四表示，市值约9500亿日元的日本网络安全公司趋势科技在吸引了收购兴趣后，正在探索出售事宜。由于过去几周日元走软，而且趋势科技的股价表现不及日本同行，这使其成为收购目标。消息人士称，趋势科技正与投资银行家合作，征求包括私募股权公司在内的潜在买家的兴趣，但警告称，目前还不能确定是否会达成交易。<br /><br />—— <a href="https://www.reuters.com/markets/deals/cybersecurity-firm-trend-micro-explores-sale-sources-say-2024-08-08/" rel="noopener" target="_blank">路透社</a></p>
 ]]></content:encoded>
-<pubDate>Fri, 09 Aug 2024 05:45:27 GMT</pubDate>
 <pubDate>Fri, 09 Aug 2024 05:45:27 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +41,10 @@
 <link>https://t.me/xhqcankao/12592</link>
 <guid>https://t.me/xhqcankao/12592</guid>
 <content:encoded><![CDATA[
-
 <p><b>字节跳动寻求50亿美元贷款再融资</b><br /><br />知情人士称，TikTok 的中国所有者字节跳动有限公司准备为50亿美元贷款进行再融资，期限三年。此举有望成为中国借款人年内进行的最大规模贷款再融资交易之一。知情人士透露，目前正在与银行进行磋商。据彭博社汇编的数据，字节跳动在2021年敲定合计50亿美元贷款，其中定期和循环信贷各占一半。字节跳动发言人拒绝发表评论。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-08-09/bytedance-is-said-to-seek-refinancing-of-5-billion-loan" rel="noopener" target="_blank">彭博社</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 09 Aug 2024 05:20:39 GMT</pubDate>
-<pubDate>Fri, 09 Aug 2024 05:20:39 GMT</pubDate>
 </item>
-
 <item>
 <title>微软称伊朗黑客针对美国政治活动 微软公司周五表示，与伊朗政府有关联的黑客组织 Mint Sandstorm 试图侵入总统竞选工作人员的电子邮件账户，这是在美国大选前收...</title>
 <link>https://t.me/xhqcankao/12591</link>
@@ -9084,24 +9102,6 @@
 <p><b>日产和本田考虑就车载软件及充电业务开展合作</b><br /><br />日产和本田已开始研究将控制汽车的车载软件标准化的可能性。这项技术将成为自动驾驶等下一代汽车的基础，两家公司打算通过共享来降低开发成本，加快这项技术的实际应用。两家公司还将在落后的电池充电器安装方面开展合作，以提高电动汽车的竞争力。两家公司正在就具体细节进行深入讨论。预计两家公司将共同开发控制车辆的操作系统。<br /><br />—— <a href="https://www.nikkei.com/article/DGXZQOUC175LD0X10C24A5000000/" rel="noopener" target="_blank">日经新闻</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 04 Jul 2024 03:15:18 GMT</pubDate>
-</item>
-<item>
-<title>三星发布首款3纳米可穿戴芯片 据业界3日消息，三星电子发布业界首款3纳米可穿戴设备芯片“Exynos W1000”，预计将用于三星智能手表新产品Galaxy Watch 7。三星电...</title>
-<link>https://t.me/xhqcankao/11636</link>
-<guid>https://t.me/xhqcankao/11636</guid>
-<content:encoded><![CDATA[
-<p><b>三星发布首款3纳米可穿戴芯片</b><br /><br />据业界3日消息，三星电子发布业界首款3纳米可穿戴设备芯片“Exynos W1000”，预计将用于三星智能手表新产品Galaxy Watch 7。三星电子表示，Exynos W1000采用三星3纳米GAA工艺，低耗电设计和LPDDR5内存升级，让用户在延长佩戴使用时间的同时享受智能手表升级体验。预计Exynos W1000将用于三星电子即将推出的Galaxy Watch 7。三星电子定于10日晚10时在巴黎举行今年第二场Galaxy新品发布会，届时将发布折叠屏手机和智能穿戴设备等新品。<br /><br />—— <a href="https://m-cn.yna.co.kr/view/ACK20240703004700881" rel="noopener" target="_blank">韩联社</a></p>
-]]></content:encoded>
-<pubDate>Thu, 04 Jul 2024 02:50:22 GMT</pubDate>
-</item>
-<item>
-<title>微软就因员工休产假等受保护假期而受到惩罚的指控在加州达成和解 微软将支付1440万美元以和解加州的一起案件，该案件涉及该公司对享受合法休假的员工进行报复的...</title>
-<link>https://t.me/xhqcankao/11635</link>
-<guid>https://t.me/xhqcankao/11635</guid>
-<content:encoded><![CDATA[
-<p><b>微软就因员工休产假等受保护假期而受到惩罚的指控在加州达成和解</b><br /><br />微软将支付1440万美元以和解加州的一起案件，该案件涉及该公司对享受合法休假的员工进行报复的指控，如拒绝为其加薪、晋升或股票奖励。加州民权部门3日宣布了拟议的和解方案。经州法官批准后，几乎所有的赔偿金都将发放给2017年至今休过育儿假、家庭护理假或伤残假并决定参与和解的加州工人。根据投诉，员工们表示，他们担心在申请受保护的休假后会遭到报复。拟议的和解协议称，微软对该机构的指控提出异议。作为和解协议的一部分，微软将为经理和人力资源人员提供培训，独立顾问负责审查。<br /><br />—— <a href="https://www.cnbc.com/2024/07/03/microsoft-to-settle-case-on-protected-leave-for-california-employees.html" rel="noopener" target="_blank">CNBC</a></p>
-]]></content:encoded>
-<pubDate>Thu, 04 Jul 2024 02:25:12 GMT</pubDate>
 </item>
 </channel>
 </rss>

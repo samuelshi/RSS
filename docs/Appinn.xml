@@ -4,6 +4,17 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>❓ #问题求助 我的小主机RDP叕被暴力破解了，有什么好用的RDP防护软件吗？ https://meta.appinn.net/t/topic/59742</title>
+<link>https://t.me/appinnfeed/11888</link>
+<guid>https://t.me/appinnfeed/11888</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/11888?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />我的小主机RDP叕被暴力破解了，有什么好用的RDP防护软件吗？<br /><a href="https://meta.appinn.net/t/topic/59742" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/59742</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/59742">我的小主机RDP叕被暴力破解了，有什么好用的RDP防护软件吗？</a></b><br /><p>我的放在老家的小主机RDP叕被暴力破解了 我设置了 账户锁定时间：10分钟、账户锁定阈值：10次无效登陆，密码也是键盘上随机敲的，按照字典破解的话破解成功得猴年马月去了。  但是每次被人爆破，账户就会被锁定，我就连不上主机了。  只能每隔几秒点一下远程连接，抢在下一次账户锁定前登上主机。  登上主机后找到那些登陆失败的IP，加入防火墙入站黑名单，然后消停一段时间。  等到RDP端口再次被扫描爆破，又进入下一个循环 。<span class="emoji">🙃</span>  有什么好用的RDP防护软件吗？最好是带GUI的。</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/i1nxAqvuW4qdLpV8iUk9UajsvJ4L1NRptvZS9_hz0_1X5WOSea_nBNhHqZxjsJOtVhY94KpM_RQMxowE-d1L7HAwX-fAi0-Vqi0vQDkPJFphoTnxD_yXwyKM5VPUqkd8BPsxkWKlN9wRL8HA402pOUKBH1_h4U43RU9Ug4eJyUZFmVqMHtYpxoTnkHe8zNjSYSdv5ke2wZyR4cyEQxiZoL-XxK4ByOZALjFRDIu0y_BzPoopdWieabgO7D8xnrzJqsV1DUbNXTK6UpAPEaaI7zbtub_xLk1STClnO2o78tq5e6fIDb62tKDrPPvE0KzQQ_HRlcUFfoTO_6VWmp86Nw.jpg" width="0" /></blockquote>
+]]></content:encoded>
+<pubDate>Fri, 09 Aug 2024 16:22:21 GMT</pubDate>
+<pubDate>Fri, 09 Aug 2024 16:22:21 GMT</pubDate>
+</item>
 
 <item>
 <title>❓ #问题求助 有哪些值得推荐的音频、视频、图片转换工具？ https://meta.appinn.net/t/topic/59738</title>

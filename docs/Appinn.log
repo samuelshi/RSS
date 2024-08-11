@@ -42692,3 +42692,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 502
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-08-12 00:01:35
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [❓ #问题求助 有没有能在任务栏上显示的天数倒计时插件？ https://meta.appinn.net/t/topic/59798](https://t.me/appinnfeed/11902)
+append_entries: 1
+Finish: 2024-08-12 00:01:37

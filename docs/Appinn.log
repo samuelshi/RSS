@@ -42801,3 +42801,10 @@ Append: [❓ #问题求助 求 Android 热点抓包软件 https://meta.appinn.ne
 Append: [❓ #问题求助 求那种衣服搭配的应用服务 https://meta.appinn.net/t/topic/59824](https://t.me/appinnfeed/11907)
 append_entries: 2
 Finish: 2024-08-12 16:01:44
+------------------------------------------------------
+Started: 2024-08-12 17:01:39
+Existing_entries: 1002
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 502
+append_entries: 0
+error when rendering xml, skip docs/Appinn

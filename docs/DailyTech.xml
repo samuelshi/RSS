@@ -5,14 +5,46 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>🖼 #Python潮流周刊 🐱🐱🐱🐱 第 64 期 🐱🐱🐱🐱 🦄文章&amp;教程 ① CPython 的函数调用还很慢么？ ② Python ASGI 应用中的日志上下文传播 ③...</title>
+<link>https://t.me/NewlearnerChannel/13255</link>
+<guid>https://t.me/NewlearnerChannel/13255</guid>
+<content:encoded><![CDATA[
+
+<p><a href="https://t.me/NewlearnerChannel/13255?q=%23Python%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A">#Python潮流周刊</a> <br /><br /><span class="emoji">🐱</span><span class="emoji">🐱</span><span class="emoji">🐱</span><span class="emoji">🐱</span>&nbsp; 第 64 期&nbsp; <span class="emoji">🐱</span><span class="emoji">🐱</span><span class="emoji">🐱</span><span class="emoji">🐱</span><br /><br /><a href="https://xiaobot.net/p/python_weekly" rel="noopener" target="_blank"><span class="emoji">🦄</span>文章&amp;教程</a> <br /><br />① CPython 的函数调用还很慢么？<br />② Python ASGI 应用中的日志上下文传播<br />③ PyCon US 2024 回顾和视频已发布<br />④ Python API 集成的深度教程<br />⑤ Python 每月热点话题合集（日语）<br />⑥ 快速找到合适的日期时间格式代码<br />⑦ django-http-debug，一个新的 Django 应用程序<br />⑧ PyTorch Lightning：全面的实践教程<br />⑨ Python 扩展应该是懒惰的<br />⑩ 不要过早 DRY 你的代码<br />⑪ 引发我很多思考的那些编程文章<br /><br /><a href="https://xiaobot.net/p/python_weekly" rel="noopener" target="_blank"><span class="emoji">🐿️</span>项目&amp;资源</a> <br /><br />① zato：Python 中的 ESB、SOA、REST、API 和云集成<br />② segment-anything-2：Meta SAM 2 模型推理代码<br />③ alive-progress：终端里的酷炫动画进度条<br />④ Ingram：网络摄像头漏洞扫描工具<br />⑤ Deep-Live-Cam：实时换脸和一键式视频 deepfake<br />⑥ annotated<i>deep</i>learning<i>paper</i>implementations：60 篇深度学习论文的实现/教程，附注释<br />⑦ table-transformer：从非结构化文档（PDF 和图像）中提取表格<br />⑧ wsgidav：基于 WSGI 的通用且可扩展的 WebDAV 服务器<br />⑨ silero-vad：预训练的企业级语音活动检测器<br />⑩ textual-serve：在本地将 Textual 应用变为 Web 应用<br />⑪ geopandas：用于处理地理数据的 Python 工具<br />⑫ IMS-Toucan：多语言和可控的文本转语音工具包<br />⑬ beancount：用文本文件进行复式记账<br /><br /><a href="https://xiaobot.net/p/python_weekly" rel="noopener" target="_blank"><span class="emoji">🐢</span>播客&amp;视频</a> <br /><br />① Ep 48. 专访高天：为了当好 B站 up主，我成为了 Python 核心开发者<br /><br />周刊实行付费订阅制，年费128元，预计50期，超过10万字。现在订阅，每周让自己进步一点点。<br /><br /><span class="emoji">👀</span> <a href="https://xiaobot.net/p/python_weekly" rel="noopener" target="_blank">订阅方式一（小报童）</a> <br /><br /><span class="emoji">👀</span> <a href="https://afdian.net/a/python_weekly" rel="noopener" target="_blank">订阅方式二（爱发电）</a> <br /><br /><span class="emoji">👀</span> <a href="https://pythoncat.top/posts/2024-05-06-information-gap" rel="noopener" target="_blank">想详细了解周刊</a> <br /><br /><span class="emoji">🐱</span>频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img height="476.00" src="https://cdn5.cdn-telegram.org/file/FArNF6GrFD-YZsl6vcyGyu8W9XxmAzWqaPpscNCI50bi-4JHEThF6qT9aSB0DY64qjqdX6xDER5WfRqjnW-T7QpOUAE9IxVmFjhHRjpBDyhuFagh48bjwHuqrOVJvxF_C4XTCBR7EWD3NZB9axqGiRoB-vH__HADZgZd66GBHQgGyoS8Jv1NVq6qk9p_jbVq6cBtXc5mWZH5fC2gas6rJPQicmDRoD9aUILaJp_HJmC3DTLCjpo5gfOdXAkML09c7B8lAV7cKbO_IDqOx6Ddeolg6KP9ivYNSyNb_sZ7X2qip6u3Gxv_CME5RhflRaLqa2JrBlxc2lDrFNUfdAToKQ.jpg" width="800" />
+]]></content:encoded>
+<pubDate>Tue, 13 Aug 2024 10:00:49 GMT</pubDate>
+<pubDate>Tue, 13 Aug 2024 10:00:49 GMT</pubDate>
+</item>
+<item>
+<title>腾讯推出身份证关联游戏账号查询功能 腾讯成长守护8月13日下午宣布推出身份证关联游戏账号查询的功能，将用于未成年人防沉迷。该功能可查询家长自己的身份证账号...</title>
+<link>https://t.me/xhqcankao/12693</link>
+<guid>https://t.me/xhqcankao/12693</guid>
+<content:encoded><![CDATA[
+
+<p><b>腾讯推出身份证关联游戏账号查询功能</b><br /><br />腾讯成长守护8月13日下午宣布推出身份证关联游戏账号查询的功能，将用于未成年人防沉迷。该功能可查询家长自己的身份证账号下，一个月内所有腾讯游戏账号登录、充值状态，而且还能实时通知。家长只需要在“腾讯成长守护”的小程序进行授权，然后关注“腾讯成长守护”公众号，公众号就会实时发送提醒，显示账号、游戏名称、时间等信息。<br /><br />—— <a href="https://mp.weixin.qq.com/s/W824zk4jY-k03rELHUYVoA" rel="noopener" target="_blank">腾讯</a></p>
+]]></content:encoded>
+<pubDate>Tue, 13 Aug 2024 09:56:01 GMT</pubDate>
+<pubDate>Tue, 13 Aug 2024 09:56:01 GMT</pubDate>
+</item>
+<item>
+<title>韩国政府建议整车厂商公开电动汽车电池信息 韩国政府8月13日决定建议各整车厂商主动公开在市面销售的旗下电动汽车的动力电池信息。装载于韩国国内电动汽车的电池...</title>
+<link>https://t.me/xhqcankao/12692</link>
+<guid>https://t.me/xhqcankao/12692</guid>
+<content:encoded><![CDATA[
+
+<p><b>韩国政府建议整车厂商公开电动汽车电池信息</b><br /><br />韩国政府8月13日决定建议各整车厂商主动公开在市面销售的旗下电动汽车的动力电池信息。装载于韩国国内电动汽车的电池信息原本为非公开事项，但随着近期电动汽车火灾事故频发引发车主不安情绪，现代汽车、起亚和奔驰等整车厂商主动公开了旗下电动汽车所装电池品牌。<br /><br />—— <a href="https://m-cn.yna.co.kr/view/ACK20240813003000881?input=tw" rel="noopener" target="_blank">韩联社</a></p>
+]]></content:encoded>
+<pubDate>Tue, 13 Aug 2024 09:28:01 GMT</pubDate>
+<pubDate>Tue, 13 Aug 2024 09:28:01 GMT</pubDate>
+</item>
+
+<item>
 <title>马斯克的“星链”获斯里兰卡许可证 斯里兰卡总统办公室表示，斯里兰卡电信监管机构已向马斯克的“星链”颁发许可证，允许其向斯里兰卡提供卫星宽带服务。斯里兰...</title>
 <link>https://t.me/xhqcankao/12691</link>
 <guid>https://t.me/xhqcankao/12691</guid>
 <content:encoded><![CDATA[
-
 <p><b>马斯克的“星链”获斯里兰卡许可证</b><br /><br />斯里兰卡总统办公室表示，斯里兰卡电信监管机构已向马斯克的“星链”颁发许可证，允许其向斯里兰卡提供卫星宽带服务。斯里兰卡议会上个月通过了一项新的电信法案，28年来首次修订了法律，为“星链”进入斯里兰卡铺平了道路。斯里兰卡官员上个月表示，马斯克的“星链”已于3月份与斯里兰卡进行了接洽，提出了开展业务的建议。他们说，该公司必须为许可证支付关税。<br /><br />—— <a href="https://www.reuters.com/business/media-telecom/sri-lanka-regulator-grants-licence-musks-starlink-satellite-broadband-2024-08-13/" rel="noopener" target="_blank">路透社</a></p>
 ]]></content:encoded>
-<pubDate>Tue, 13 Aug 2024 08:58:01 GMT</pubDate>
 <pubDate>Tue, 13 Aug 2024 08:58:01 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +52,10 @@
 <link>https://t.me/xhqcankao/12690</link>
 <guid>https://t.me/xhqcankao/12690</guid>
 <content:encoded><![CDATA[
-
 <p><b>韩国监管机构：KakaoPay向支付宝擅自提供用户信息</b><br /><br />韩国金融监督院8月13日表示，韩国移动支付服务商 KakaoPay 近六年来未经用户同意向中国支付平台支付宝擅自提供了 4000 万名用户的 542 亿条个人信用信息。据悉，为了满足与苹果公司合作的先决条件，支付宝要求 KakaoPay 提供全体用户的信用信息。而 KakaoPay 未经用户同意就提供了支付宝所要求的全部信息，其中甚至包括未使用过跨境支付服务的用户信息。根据双方合作内容，KakaoPay 用户可在与支付宝签署支付服务协议的线上线下商店进行支付。<br /><br />—— <a href="https://m-cn.yna.co.kr/view/ACK20240813002700881?input=tw" rel="noopener" target="_blank">韩联社</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 13 Aug 2024 08:32:13 GMT</pubDate>
-<pubDate>Tue, 13 Aug 2024 08:32:13 GMT</pubDate>
 </item>
-
 <item>
 <title>印度政府希望让网红向政府登记备案 印度政府计划将社交媒体创作者归类为“数字新闻广播员”，这将强制他们向政府登记备案，成立内容评估委员会在发布前检查所有...</title>
 <link>https://t.me/xhqcankao/12689</link>
@@ -9088,24 +9117,6 @@
 <p><b>阿斯麦CEO：世界需要中国生产的传统芯片</b><br /><br />阿斯麦首席执行官接受采访时表示，包括德国汽车行业在内的芯片买家需要中国芯片制造商目前正在投资的老一代计算机芯片。克里斯托夫·富凯表示：“尤其是汽车行业，包括德国汽车行业，需要更多采用更简单、更成熟的技术制造的芯片。”面对美国主导的针对更先进技术的限制，中国企业正在扩大生产这些旧芯片的产能，这引发了西方对长期供应过剩可能性的担忧。富凯称，全球对这种芯片的需求正在增长，但制造这种芯片的利润并不高，西方公司的投资也不够。“欧洲甚至无法满足其自身需求的一半。”“如果有人想要放慢速度，不管出于什么原因，那么就需要替代方案。阻止别人生产你需要的东西是没有意义的，”福凯说。<br /><br />—— <a href="https://www.reuters.com/technology/asml-ceo-says-world-needs-legacy-chips-china-is-producing-handelsblatt-reports-2024-07-08/" rel="noopener" target="_blank">路透社</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 08 Jul 2024 13:45:34 GMT</pubDate>
-</item>
-<item>
-<title>索尼导体工厂误报化学物质物质排放量 索尼集团旗下半导体制造商索尼半导体制造公司8日宣布，该公司出现有害化学物质排放至工厂外部未进行通报的情况。发生漏报情...</title>
-<link>https://t.me/xhqcankao/11730</link>
-<guid>https://t.me/xhqcankao/11730</guid>
-<content:encoded><![CDATA[
-<p><b>索尼导体工厂误报化学物质物质排放量</b><br /><br />索尼集团旗下半导体制造商索尼半导体制造公司8日宣布，该公司出现有害化学物质排放至工厂外部未进行通报的情况。发生漏报情况的是该公司位于熊本县菊阳町的相机图像传感器工厂，排放物质为氟化氢，该物质常用于半导体的加工和清洗。在2021和2022财年，该工厂曾报“未经无害化处理的废弃物向工厂外排放量”为零，但实际上存在排放情况。目前该工厂正在进行氟化氢排放量调查，并称氟化氢已得到妥善处理。索尼半导体制造公司的其他工厂也在自查是否存在漏报化学品排放的情况。<br /><br />—— <a href="https://www.nikkei.com/article/DGXZQOUC083W60Y4A700C2000000/" rel="noopener" target="_blank">日经新闻</a>、<a href="https://www3.nhk.or.jp/lnews/kumamoto/20240703/5000022549.html" rel="noopener" target="_blank">NHK</a>、<a href="https://sp.m.jiji.com/article/show/3280087" rel="noopener" target="_blank">时事通信社</a></p>
-]]></content:encoded>
-<pubDate>Mon, 08 Jul 2024 13:20:29 GMT</pubDate>
-</item>
-<item>
-<title>🖼 #News 🌌 自留地晚报 【7.8】 1️⃣ MacRumors 报道称，配备 Apple Intelligence的全新 Siri 今年不会推出，将于明年 1 月开测，iOS 18.4 正式上线 2️⃣...</title>
-<link>https://t.me/NewlearnerChannel/13079</link>
-<guid>https://t.me/NewlearnerChannel/13079</guid>
-<content:encoded><![CDATA[
-<p><a href="https://t.me/NewlearnerChannel/13079?q=%23News">#News</a><br /><br /><span class="emoji">🌌</span> 自留地晚报 【7.8】<br /><br /><span class="emoji">1️⃣</span> <a href="https://www.macrumors.com/2024/07/07/new-siri-experience-to-debut-spring-2025/" rel="noopener" target="_blank">MacRumors</a> 报道称，配备 Apple Intelligence的全新 Siri 今年不会推出，将于明年 1 月开测，iOS 18.4 正式上线<br /><br /><span class="emoji">2️⃣</span> <a href="https://9to5mac.com/2024/07/07/report-apple-testing-next-gen-apple-watch-se-made-with-plastic-to-cut-cost/" rel="noopener" target="_blank">9to5Mac</a> 报道称，苹果下一代 Apple Watch SE 计划采用塑料表壳<br /><br /><span class="emoji">3️⃣</span> <a href="https://9to5mac.com/2024/07/07/apple-watch-series-10-new-design-health-features/" rel="noopener" target="_blank">9to5Mac</a> 报道称，苹果 Apple Watch Series 10 更大更薄，新健康功能或推迟<br /><br /><span class="emoji">4️⃣</span> <a href="https://dronedj.com/2024/07/03/dji-osmo-action-5-fcc/" rel="noopener" target="_blank">Dronedj</a> 报道称，大疆新款 Osmo Action 5 Pro 运动相机通过 FCC 认证，1950mAh 电池参与测试、支持 9V 3A 电源输入<br /><br /><span class="emoji">5️⃣</span> <a href="https://www.neowin.net/news/epic-says-apple-wants-the-buttons-for-the-ios-epic-games-store-changed-for-the-next-version/" rel="noopener" target="_blank">Neowin</a> 报道称，iOS Epic Games 应用商店在欧盟上线遇阻，苹果不满其按钮设计<br /><br /><span class="emoji">6️⃣</span> <a href="https://9to5google.com/2024/07/07/pixel-watch-3-fcc/" rel="noopener" target="_blank">9to5Google</a> 报道称，谷歌 Pixel Watch 3 系列智能手表通过 FCC 认证，支持 UWB 与 5GHz Wi-Fi 6<br /><br /><span class="emoji">7️⃣</span> <a href="https://weibo.com/1737755501/OmA9Fri0L" rel="noopener" target="_blank">华硕</a> ROG 掌机 X 官宣 7 月 13 日发布，80Wh 电池、24GB 内存、2280 硬盘位<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/KBJMpXlobGOk6AfQJhUX4sLsmUkVTwwOi2S0k9eshxDqAf1CBcg52HBESLtG1oRSMd8q__otLas_uD--hVQDVg8Y-SQ-y8_UCDLW7dZip4aiM6eMmbdosG-oeCEDxn4HTgdfFrnUKxpjMB3hZrUs4T3kaMo4QwRl4RMzOlgbBjA__iYIrNOQNp7rG6e-JeLQnfCFeEdJ-IY4KV8_dLJvYeoKtLhHOzJj_71DS9FoTWhvTHSQIhureYlNj2tutMNBw33VTlvvWixHUk-JexOp-OUwVc9MYS-jBNO9DthGFHVTh0i-mXjIngAnwfYnaklxlXMDD8gmRafCneJmW-MuZg.jpg" />
-]]></content:encoded>
-<pubDate>Mon, 08 Jul 2024 13:01:58 GMT</pubDate>
 </item>
 </channel>
 </rss>

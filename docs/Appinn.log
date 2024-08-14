@@ -43117,3 +43117,10 @@ Existing_entries: 1000
 Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2024-08-14 17:01:32
+------------------------------------------------------
+Started: 2024-08-14 18:01:24
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 500
+append_entries: 0
+error when rendering xml, skip docs/Appinn

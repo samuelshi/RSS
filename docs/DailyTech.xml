@@ -5,17 +5,37 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>Windows 曝严重安全漏洞，攻击者可零点击远程入侵设备 此漏洞被编号为 CVE-2024-38063，是一个严重漏洞，评分为9.8。它存在于 Windows 的 TCP/IP 网络堆栈中，是...</title>
+<link>https://t.me/xhqcankao/12727</link>
+<guid>https://t.me/xhqcankao/12727</guid>
+<content:encoded><![CDATA[
+
+<p><b>Windows 曝严重安全漏洞，攻击者可零点击远程入侵设备</b><br /><br />此漏洞被编号为 <a href="https://www.cve.org/CVERecord?id=CVE-2024-38063" rel="noopener" target="_blank">CVE-2024-38063</a>，是一个严重漏洞，评分为9.8。它存在于 Windows 的 TCP/IP 网络堆栈中，是一个严重的远程代码执行漏洞。未经身份验证的攻击者可以通过反复向 Windows 设备发送特制的 IPv6 数据包，触发漏洞并实现远程代码执行。<br /> <br />攻击者无需任何用户交互即可利用漏洞，入侵系统并获取最高权限。利用难度低，攻击者可以通过批量扫描互联网，寻找存在漏洞的主机。攻击者无需以用户身份进行身份验证。不需要访问受害者计算机上的任何设置或文件。受害者设备用户不需要进行任何交互操作，无需点击链接、加载图像或执行文件。<br /><br />强烈建议用户立即更新系统至最新版本。微软正在发布相关补丁以修复此漏洞。如果目标计算机上禁用 IPv6，系统不会受到影响。 大多数情况下，用户获取到的 IPv6 地址为公网地址，因此攻击者极有可能对特定公司、学校、机构或目标人群进行有针对性的入侵。<br /><br />—— <a href="https://t.me/DNSPODT/5072" rel="noopener" target="_blank">LoopDNS资讯</a> ，<a href="https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38063" rel="noopener" target="_blank">微软</a></p>
+]]></content:encoded>
+<pubDate>Wed, 14 Aug 2024 12:51:17 GMT</pubDate>
+<pubDate>Wed, 14 Aug 2024 12:51:17 GMT</pubDate>
+</item>
+<item>
+<title>俄罗斯黑客针对前美国大使进行间谍活动 安全研究人员称，与俄罗斯有关的黑客将攻击目标锁定在前美国驻乌克兰大使身上。据多伦多大学公民实验室等民间社会组织周...</title>
+<link>https://t.me/xhqcankao/12726</link>
+<guid>https://t.me/xhqcankao/12726</guid>
+<content:encoded><![CDATA[
+
+<p><b>俄罗斯黑客针对前美国大使进行间谍活动</b><br /><br />安全研究人员称，与俄罗斯有关的黑客将攻击目标锁定在前美国驻乌克兰大使身上。据多伦多大学公民实验室等民间社会组织周三发布的报告称，从2月份开始，攻击者试图窃取美国前官员和学者以及流亡的俄罗斯著名反对派人物和媒体机构的密码。黑客试图诱骗史蒂文·皮弗(曾担任美国驻乌克兰大使)交出密码。黑客假装是皮弗认识的另一位前美国大使，以赢得他的信任并诱骗他在恶意网站上输入他的凭据。研究人员在分析了黑客发送给受害者的恶意文件后得出结论，这些攻击者是一个名为“Cold River”的组织的成员。西方政府和网络安全公司此前曾将该组织与俄罗斯联邦安全局 联系起来。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-08-14/russian-hackers-targeted-former-us-ambassador-to-ukraine-in-spy-effort" rel="noopener" target="_blank">彭博社</a></p>
+]]></content:encoded>
+<pubDate>Wed, 14 Aug 2024 12:25:41 GMT</pubDate>
+<pubDate>Wed, 14 Aug 2024 12:25:41 GMT</pubDate>
+</item>
+
+<item>
 <title>Instagram 未能打击针对女性议员的仇恨言论 反数字仇恨中心的研究显示，随着2024年大选临近，Instagram 未能从其应用中删除针对副总统卡马拉·哈里斯和其他主要...</title>
 <link>https://t.me/xhqcankao/12725</link>
 <guid>https://t.me/xhqcankao/12725</guid>
 <content:encoded><![CDATA[
-
 <p><b>Instagram 未能打击针对女性议员的仇恨言论</b><br /><br />反数字仇恨中心的研究显示，随着2024年大选临近，Instagram 未能从其应用中删除针对副总统卡马拉·哈里斯和其他主要女性议员的恶意评论。周三发布的报告基于对五名共和党和五名民主党女性议员 Instagram 帖子中56万条评论的分析。研究人员举报了今年1月至6月期间议员们的 Instagram 帖子上出现的1,000条违规评论，发现 Meta 对绝大多数评论“未采取任何行动”，其中926条评论在被举报一周后仍可在应用中看到。被举报的评论内容包括带有种族歧视和其他种族主义语言的评论、呼吁暴力和其他辱骂性言论。<br /><br />—— <a href="https://www.cnbc.com/2024/08/14/instagram-not-dealing-with-hate-speech-against-women-politicians-ccdh.html" rel="noopener" target="_blank">CNBC</a>、<a href="https://www.engadget.com/big-tech/instagram-is-failing-to-act-on-abuse-targeting-women-lawmakers-on-both-sides-of-the-aisle-103025621.html?src=rss" rel="noopener" target="_blank">Engadget</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 14 Aug 2024 11:08:35 GMT</pubDate>
-<pubDate>Wed, 14 Aug 2024 11:08:35 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 #Games #DIY #硬件图赏 🎮 Retroid Pocket 3+ 开源掌机使用体验 🔗：完整全文 自从苹果调整了 App Store 对经典游戏模拟器的限制之后，‎一些火热的模...</title>
 <link>https://t.me/NewlearnerChannel/13260</link>
@@ -9086,15 +9106,6 @@
 <p><b>即时通信应用 WhatsApp 在达吉斯坦被限速</b><br /><br />由于 WhatsApp 的管理部门无视停止传播参与极端主义行动的要求，相关部门正在放慢 WhatsApp 在达吉斯坦的运行速度。知情人士透露，减慢外国即时通讯工具速度与相关部门的反恐活动有关。并表示：“WhatsApp 的管理部门收到了要求停止传播参与极端主义行动的要求，但他们没有理睬。”达吉斯坦的 WhatsApp 用户注意到，大约从莫斯科时间 7 月 7 日 13:00 开始，该通讯工具就间歇性工作。消息发送时有很长的延迟。<br /><br />—— <a href="https://tass.ru/obschestvo/21302555" rel="noopener" target="_blank">塔斯社</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 09 Jul 2024 15:09:07 GMT</pubDate>
-</item>
-<item>
-<title>戴森将在英国裁员近30% 约1000人 作为全球重组的一部分，戴森英国约有1000个工作岗位面临裁员风险。该公司以无袋真空吸尘器的发明而闻名，为了应对全球市场的竞...</title>
-<link>https://t.me/xhqcankao/11767</link>
-<guid>https://t.me/xhqcankao/11767</guid>
-<content:encoded><![CDATA[
-<p><b>戴森将在英国裁员近30% 约1000人</b><br /><br />作为全球重组的一部分，戴森英国约有1000个工作岗位面临裁员风险。该公司以无袋真空吸尘器的发明而闻名，为了应对全球市场的竞争，该公司宣布了这一消息。戴森首席执行官汉诺·基尔纳表示，此举将确保戴森“为未来做好准备”，并补充说，公司将为面临裁员风险的员工提供支持。戴森在英国有3500名员工，在威尔特郡、布里斯托尔和伦敦设有办事处。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-07-09/dyson-to-cut-about-1-000-uk-jobs-as-new-ceo-reviews-strategy" rel="noopener" target="_blank">彭博社</a>、<a href="https://www.bbc.com/news/articles/c6p2660ldn2o" rel="noopener" target="_blank">英国广播公司</a></p>
-]]></content:encoded>
-<pubDate>Tue, 09 Jul 2024 14:31:47 GMT</pubDate>
 </item>
 </channel>
 </rss>

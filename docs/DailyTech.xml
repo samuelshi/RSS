@@ -5,17 +5,52 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>🖼 #APP #Tools 📇 弥散卡片：轻松创建弥散风格的文字卡片 🔗: App Store 随着小红书用户越来越多，弥散风格设计也成为最近设计师的最爱，所以弥散风格的...</title>
+<link>https://t.me/NewlearnerChannel/13265</link>
+<guid>https://t.me/NewlearnerChannel/13265</guid>
+<content:encoded><![CDATA[
+
+<p><a href="https://t.me/NewlearnerChannel/13265?q=%23APP">#APP</a> <a href="https://t.me/NewlearnerChannel/13265?q=%23Tools">#Tools</a><b><br /><br /></b><b><span class="emoji">📇</span></b><b> 弥散卡片：轻松创建弥散风格的文字卡片</b><br /><br /><span class="emoji">🔗</span>: <a href="https://apps.apple.com/us/app/diffusecard/id6624303246" rel="noopener" target="_blank">App Store</a><br /><br />随着小红书用户越来越多，弥散风格设计也成为最近设计师的最爱，所以弥散风格的文字卡片制作需求应运而生。<br /><br /><b><span class="emoji">👉</span>功能特色</b><br />• 自定义文本输入：根据你的个性化文字生成卡片。<br />• 自定义背景：移动模糊球的位置，自定义背景颜色，定义背景颜色数量<br />• 文字：可自定义也文字颜色和大小<br /><br /><b><span class="emoji">💡</span>使用步骤</b><br /> 1. 下载弥散卡片，<br /> 2. 自定义卡片的样式和内容，保存到本地，分享。<br /><br /><b><span class="emoji">👨🏻‍💻</span>开发者寄语</b><br />目标是生成弥散风格的文字卡片， 用于分享到设计媒体，更能吸引眼球。<br /><br /><span class="emoji">📈</span><b>未来的计划</b><br />可以自定义图片长宽，可以选择不同字体，添加更多背景等等。<br /><br /><b><span class="emoji">🙋🏻‍♂️</span>用户反馈</b><br />如果对弥散卡片感到满意，鼓励大家与亲友分享你的个性化弥散卡片。欢迎提出更多建议，例如开发更多的自定义功能，如字体，内容长度等。<br /><br />欢迎大家下载、试用并反馈我的新作「<a href="https://apps.apple.com/us/app/diffusecard/id6624303246" rel="noopener" target="_blank">弥散卡片</a>」<span class="emoji">💗</span><br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img height="450.00" src="https://cdn5.cdn-telegram.org/file/kdENgAWMNmgWCAQAslNiYCbe3vuDtWviaIMxxaVrxKyH_qpBVkCRi9-90vjkFE8ALePCFypBN04roqw_g-x3_StZOgAl1Wj7GTgptpSkM0CrcMDPyPrSl5BFGdwxULvW7884BfVS4e1n8jXZARIv4u-1aHnZMICdC2jjeCceUwSb2t539k6dVvIQYYhil6XrXapjRgBp5uafilQlJzjZG7MCkkIEYQ7CzDsZtQTxf_WzJrmudompedtYlIN4Ws_S8NQkNU20gRMZvlevb7YAFD-V9dntKC-PpLlkDlfRxNNFygMVFZZ8TiqBfF08jwH01b7-rpxTp-NaTjv2fq2SVA.jpg" width="800" />
+]]></content:encoded>
+<pubDate>Thu, 15 Aug 2024 04:01:49 GMT</pubDate>
+<pubDate>Thu, 15 Aug 2024 04:01:49 GMT</pubDate>
+</item>
+<item>
+<title>↩️ 研究员：Windows 系统防火墙无法阻止 IPv6 远程代码执行漏洞 根据赛博昆仑实验室研究员Wei透露的部分消息，攻击者构造的IPv6数据包在到达防火墙进行数据处...</title>
+<link>https://t.me/xhqcankao/12743</link>
+<guid>https://t.me/xhqcankao/12743</guid>
+<content:encoded><![CDATA[
+
+<div class="rsshub-quote"><blockquote>
+                                    <p><a href="https://t.me/xhqcankao/12727"><b>风向旗参考快讯</b>:</a></p>
+                                    
+                                    <p>Windows 曝严重安全漏洞，攻击者可零点击远程入侵设备  此漏洞被编号为 CVE-2024-38063，是一个严重漏洞，评分为9.8。它存在于 Windows 的 TCP/IP 网络堆栈中，是一个严重的远程代码执行漏洞。未经身份验证的攻击者可以通过反复向 Windows 设备发送特制的 IPv6 数据包，触发漏洞并实现远程代码执行。   攻击者无需任何用户交互即可利用漏洞，入侵系统并获取最高权限。利用难度低，攻击者可以通过批量扫描互联网，寻找存在漏洞的主机。攻击者无需以用户身份进行身份验证。不需要访问…</p>
+                                </blockquote></div><p><b>研究员：Windows 系统防火墙无法阻止 IPv6 远程代码执行漏洞</b><br /><br />根据赛博昆仑实验室研究员Wei透露的部分消息，攻击者构造的IPv6数据包在到达防火墙进行数据处理之前就可能被触发，因此仅通过开启系统的IPv6防火墙并不能有效阻止攻击。<br /><br />结合该漏洞的特性，这进一步验证了之前的推测，即该漏洞可以用于在内网中进行横向攻击，特别是通过内网IPv6地址实施攻击。由于部分场景下的内网设备长期无法进行系统更新，该漏洞对这些没有网络隔离且长期无法更新系统的环境构成了更大的威胁。<br /><br />—— <a href="https://x.com/XiaoWei___/status/1823532146679799993" rel="noopener" target="_blank">XiaoWei'X</a> ，<a href="https://t.me/DNSPODT/5077" rel="noopener" target="_blank">LoopDNS</a></p>
+]]></content:encoded>
+<pubDate>Thu, 15 Aug 2024 04:36:06 GMT</pubDate>
+<pubDate>Thu, 15 Aug 2024 04:36:06 GMT</pubDate>
+</item>
+<item>
+<title>高端自行车赛车现在容易受到黑客攻击 研究人员发现，高端自行车赛车的无线变速系统易受黑客攻击，这可能会对环法自行车赛等热门赛事产生影响。美国加州大学圣迭...</title>
+<link>https://t.me/xhqcankao/12742</link>
+<guid>https://t.me/xhqcankao/12742</guid>
+<content:encoded><![CDATA[
+
+<p><b>高端自行车赛车现在容易受到黑客攻击</b><br /><br />研究人员发现，高端自行车赛车的无线变速系统易受黑客攻击，这可能会对环法自行车赛等热门赛事产生影响。美国加州大学圣迭戈分校和美国东北大学的研究团队合作开展了这项研究。他们表示，无线变速系统旨在让骑手更好地控制自行车。但这种现代化也带来新的问题，即黑客漏洞。这些漏洞可能被利用，获得不公平的优势，通过操纵变速或干扰换挡操作，可能导致撞车或受伤。研究人员发现，通过记录无线变速系统的无线指令并重新传输，可以使用“现成的设备”在10米范围内发起攻击。通过有针对性的干扰攻击，还可禁用某辆指定自行车的变速功能。<br /><br />—— <a href="https://www.theverge.com/2024/8/14/24220390/bike-hack-wireless-gear-shifters" rel="noopener" target="_blank">TheVerge</a></p>
+]]></content:encoded>
+<pubDate>Thu, 15 Aug 2024 04:07:11 GMT</pubDate>
+<pubDate>Thu, 15 Aug 2024 04:07:11 GMT</pubDate>
+</item>
+
+<item>
 <title>法官称将“拆除”谷歌应用商店的垄断壁垒 加州一名联邦法官表示，他将在未来几周下令谷歌开放其应用商店，并指责这家科技巨头不接受陪审团对其垄断安卓应用分发...</title>
 <link>https://t.me/xhqcankao/12741</link>
 <guid>https://t.me/xhqcankao/12741</guid>
 <content:encoded><![CDATA[
-
 <p><b>法官称将“拆除”谷歌应用商店的垄断壁垒<br /></b><br />加州一名联邦法官表示，他将在未来几周下令谷歌开放其应用商店，并指责这家科技巨头不接受陪审团对其垄断安卓应用分发和计费的裁决。去年12月，陪审团支持热门游戏《堡垒之夜》的开发商，并得出结论，谷歌非法滥用其对安卓应用的控制权。美国旧金山地区法官詹姆斯·多纳托目前正在决定谷歌公司必须做出哪些政策改变才能遵守联邦反垄断法。多纳托在周三的听证会上表示，他打算在未来几周内做出裁决，并正在考虑采取在美国境外适用的补救措施，因为陪审团发现反竞争行为在全球范围内存在。谷歌曾估计实施拟议的变更可能需要12到16个月的时间，但多纳托表示他希望时间表能更快。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-08-14/google-play-can-do-better-on-faster-antitrust-fix-judge-says" rel="noopener" target="_blank">彭博社</a>、<a href="https://www.theverge.com/2024/8/14/24220491/epic-google-android-app-store-monopoly-remedies-hearing" rel="noopener" target="_blank">TheVerge</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 15 Aug 2024 03:37:13 GMT</pubDate>
-<pubDate>Thu, 15 Aug 2024 03:37:13 GMT</pubDate>
 </item>
-
 <item>
 <title>Steam 上线全新评测价值系统：优先展示有价值的评论 Steam 今日宣布上线全新评测价值系统，优先展示那些能最有效帮助玩家做出购买决定的评测。Steam 表示，许多...</title>
 <link>https://t.me/xhqcankao/12740</link>
@@ -9086,15 +9121,6 @@
 <p><b>人工智能需求推动芯片设备巨头阿斯麦订单超出预期</b><br /><br />由于人工智能热潮推动了对这家荷兰公司先进芯片制造机器的需求，阿斯麦的订单量超出预期。阿斯麦周三在声明中表示，这家欧洲市值最高的科技公司第二季度的订单量较前三个月上涨至55.7亿欧元。预期为44.1亿欧元。阿斯麦垄断了生产最先进半导体的机器，其业务越来越受到人工智能应用所需的高性能芯片需求的推动。该公司表示，1月份实施的出口管制规定将影响该公司今年在中国多达15%的销售额。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-07-17/asml-orders-beat-estimates-as-ai-demand-fuels-chip-gear-giant" rel="noopener" target="_blank">彭博社</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 17 Jul 2024 06:15:20 GMT</pubDate>
-</item>
-<item>
-<title>美国将于8月出台限制中国联网汽车的拟议规则 美国商务部出口管制负责人艾伦·艾斯特韦斯表示，商务部计划8月发布有关联网汽车的拟议规则，并预计将对中国和其他...</title>
-<link>https://t.me/xhqcankao/11965</link>
-<guid>https://t.me/xhqcankao/11965</guid>
-<content:encoded><![CDATA[
-<p><b>美国将于8月出台限制中国联网汽车的拟议规则</b><br /><br />美国商务部出口管制负责人艾伦·艾斯特韦斯表示，商务部计划8月发布有关联网汽车的拟议规则，并预计将对中国和其他被视为竞争对手的国家所制造的部分软件实施限制。艾斯特韦斯在论坛上表示：“我们正在研究一些零部件和软件，而不是整辆汽车。这些汽车关键驱动零件管理软件和汽车周边数据，必须由盟国制造。”联网汽车拥有可接入互联网的车载集成网络硬件，与车内外的设备共享数据。艾斯特韦斯表示这种威胁非常严重。<br /><br />—— <a href="https://www.reuters.com/business/autos-transportation/us-issue-proposed-rules-limiting-chinese-vehicle-software-august-2024-07-17/" rel="noopener" target="_blank">路透社</a></p>
-]]></content:encoded>
-<pubDate>Wed, 17 Jul 2024 05:45:08 GMT</pubDate>
 </item>
 </channel>
 </rss>

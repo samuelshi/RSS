@@ -5,14 +5,35 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>欧盟苹果商店将要求开发者提交联系信息 苹果公司今天提醒计划在欧盟分发应用的开发者提交他们的交易商联系信息，该要求将使 App Store 公开每个开发者的地址、电...</title>
+<link>https://t.me/xhqcankao/12764</link>
+<guid>https://t.me/xhqcankao/12764</guid>
+<content:encoded><![CDATA[
+
+<p><b>欧盟苹果商店将要求开发者提交联系信息</b><br /><br />苹果公司今天提醒计划在欧盟分发应用的开发者提交他们的交易商联系信息，该要求将使 App Store 公开每个开发者的地址、电话号码和电子邮件地址。这些信息将显示在开发者的 App Store 页面上。欧盟的《数字服务法案》(DSA) 要求苹果公司验证并显示在欧盟 App Store 上分发应用的所有“交易商”的交易合同信息。通过预付费用或应用内购从苹果 App Store 赚钱的开发者被视为交易商，无论规模大小。2024年10月16日起，在提交应用进行审核之前，必须提供交易商联系信息。2025年2月17日，没有交易商联系信息的应用将从欧盟的 App Store 中移除。<br /><br />—— <a href="https://www.macrumors.com/2024/08/15/app-store-trader-requirement-eu-october/" rel="noopener" target="_blank">Macrumors</a></p>
+]]></content:encoded>
+<pubDate>Fri, 16 Aug 2024 00:01:25 GMT</pubDate>
+<pubDate>Fri, 16 Aug 2024 00:01:25 GMT</pubDate>
+</item>
+<item>
+<title>谷歌将更新 Verizon 版 Pixel 手机以删除有安全风险的演示应用 Verizon 运营商定制版本的谷歌 Pixel 手机中存在安全隐患。安全研究人员表示，该问题与“Showcase...</title>
+<link>https://t.me/xhqcankao/12763</link>
+<guid>https://t.me/xhqcankao/12763</guid>
+<content:encoded><![CDATA[
+
+<p><b>谷歌将更新 Verizon 版 Pixel 手机以删除有安全风险的演示应用</b><br /><br />Verizon 运营商定制版本的谷歌 Pixel 手机中存在安全隐患。安全研究人员表示，该问题与“Showcase.apk”有关，这是为 Verizon 制作的软件，用于在零售店展示 Pixel 设备时将其置于演示模式。该软件通过未加密的网络连接下载配置文件，由于 Showcase 的深度访问权限，这可能会允许不良行为者在设备上执行远程代码执行或远程包安装。该演示应用无法在用户级别卸载。虽然默认情况下不启用，但有多种方法可以激活。谷歌发言人表示：“谷歌将在未来几周内通过软件更新从所有 Pixel 设备中删除该软件。”<br /><br />—— <a href="https://www.engadget.com/mobile/smartphones/researchers-claim-most-google-pixel-phones-shipped-with-exploitable-bloatware-since-2017-185926564.html?src=rss" rel="noopener" target="_blank">Engadget</a></p>
+]]></content:encoded>
+<pubDate>Thu, 15 Aug 2024 23:31:04 GMT</pubDate>
+<pubDate>Thu, 15 Aug 2024 23:31:04 GMT</pubDate>
+</item>
+
+<item>
 <title>Threads 为企业和创作者推出新工具 Meta 旗下的社交平台 Threads 正在推出新功能，称这将使社交网络对企业和数字创作者更有用。Meta 在周四的一篇博客文章中表示...</title>
 <link>https://t.me/xhqcankao/12762</link>
 <guid>https://t.me/xhqcankao/12762</guid>
 <content:encoded><![CDATA[
-
 <p><b>Threads 为企业和创作者推出新工具<br /></b><br />Meta 旗下的社交平台 Threads 正在推出新功能，称这将使社交网络对企业和数字创作者更有用。Meta 在周四的一篇博客文章中表示，Threads 用户现在可以查看提供有关帖子指标和关注者人口统计的信息，并可以撰写多份帖子草稿。定时发布多篇帖子的功能即将推出。这些更新首先添加到 Threads 的网页，最终将在移动应用上推出。新功能尤其可以吸引创作者和企业，因为他们依赖于详细了解受众人口统计和参与度的数据。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-08-15/meta-s-threads-launches-new-tools-for-businesses-and-creators" rel="noopener" target="_blank">彭博社</a></p>
 ]]></content:encoded>
-<pubDate>Thu, 15 Aug 2024 23:00:49 GMT</pubDate>
 <pubDate>Thu, 15 Aug 2024 23:00:49 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +41,10 @@
 <link>https://t.me/xhqcankao/12761</link>
 <guid>https://t.me/xhqcankao/12761</guid>
 <content:encoded><![CDATA[
-
 <p><b>美国国会要求扎克伯格解释为什么毒贩可以在其平台上投放广告<br /></b><br />当地时间8月15日，一个由两党议员组成的团体致函 Meta 公司首席执行官马克·扎克伯格，表达了对该公司未能阻止非法药品广告在其平台上投放的担忧。众议院议员援引了《华尔街日报》的最新报道，报道揭露了脸书和 IG 上大量的广告，这些广告将用户引向可以购买处方药、可卡因和其他娱乐性药物的第三方服务。议员写道，最令人不安的是，尽管 Meta 因“协助非法药品销售”而面临美国联邦检察官的调查，但仍继续投放广告。议员向扎克伯格发送了包含15个问题的清单，旨在了解 Meta 如何解决该问题的更多细节，并要求他在9月6日之前做出回应。<br /><br />—— <a href="https://www.cnbc.com/2024/08/15/lawmakers-letter-to-meta-ceo-mark-zuckerberg-about-illicit-drug-ads.html" rel="noopener" target="_blank">CNBC</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 15 Aug 2024 22:31:09 GMT</pubDate>
-<pubDate>Thu, 15 Aug 2024 22:31:09 GMT</pubDate>
 </item>
-
 <item>
 <title>美国国土安全局将收集移民儿童的面部扫描数据 美国国土安全局 (DHS) 正在寻求改进其面部识别算法，计划使用入境移民儿童的面部数据进行训练。该机构打算收集和分...</title>
 <link>https://t.me/xhqcankao/12760</link>
@@ -9096,24 +9114,6 @@
 <p><a href="https://t.me/NewlearnerChannel/13103?q=%23telegram">#telegram</a> <a href="https://t.me/NewlearnerChannel/13103?q=%23Blog">#Blog</a> <a href="https://t.me/NewlearnerChannel/13103?q=%23Channel">#Channel</a><br /><br /><span class="emoji">✈️</span>【7.14 更新】 <a href="https://www.newlearner.site/2019/12/15/newlearnerchannel.html" rel="noopener" target="_blank">自留地导航页</a><br /> <br /><span class="emoji">📩</span> 投稿 &amp; 编辑申请：<a href="https://t.me/newlearner_pm_bot" target="_blank">@newlearner_pm_bot</a><br /><br /><span class="emoji">👀</span> 本周盘点：<br /><br />• <a href="https://t.me/NewlearnerChannel/13076" rel="noopener" target="_blank">潮流周刊（第184期）- mamala</a><br />• <a href="https://t.me/NewlearnerChannel/13078" rel="noopener" target="_blank">Python 潮流周刊第 59 期</a><br />• <a href="https://t.me/NewlearnerChannel/13081" rel="noopener" target="_blank">BananaBin：让你的 macOS「废纸篓」嗡嗡作响</a><br />• <a href="https://t.me/NewlearnerChannel/13082" rel="noopener" target="_blank">独立开发者故事 #68 - “记录在这浮游世界上走过的每一步足迹”</a><br />• <a href="https://t.me/NewlearnerChannel/13083" rel="noopener" target="_blank">2024 年上半年，我喜爱的黑胶收藏</a><br />• <a href="https://t.me/NewlearnerChannel/13091" rel="noopener" target="_blank">ProNotes：让你的 Apple Notes 支持 Markdown 及 AI</a><br />• <a href="https://t.me/NewlearnerChannel/13092" rel="noopener" target="_blank">Keyboard Simulator：在线键盘样式模拟器</a><br />• <a href="https://t.me/NewlearnerChannel/13093" rel="noopener" target="_blank">Starry：由 AI 驱动的双语对照智能浏览器</a><br />• <a href="https://t.me/NewlearnerChannel/13096" rel="noopener" target="_blank">Switshot 2：游戏截屏与录制全能管理器</a><br />• <a href="https://t.me/NewlearnerChannel/13097" rel="noopener" target="_blank">Apptisan #19｜对话 moimoi 开发者：用类似 Bento 的理念做一款更好看、更好用的名片/卡片 App</a><br /><br /><span class="emoji">🎬</span> 流媒体周报：<a href="https://t.me/NewlearnerChannel/13100" rel="noopener" target="_blank">派拉蒙接受天舞传媒 80 亿美元收购提议，《灌篮高手》内地重映定档，《人生切割术 2》上线时间确定等</a><br /><br /><span class="emoji">🍺</span> 夏天不能没有精酿的陪伴，自从《晚酌的流派 3》开播后，我又恢复了夏夜晚酌的习惯。趁此机会，自己也物色了一些适合晚上在家看的影视作品，好久没认真看了<br /><br /><span class="emoji">🥳</span> 周末依然闲不住，大家一起逛了 1701 市集、体验了 Apple Vision Pro，还看了两场演出，很好的充电过程。拱廊计划书店的倒闭，让我们更加珍惜熟悉的这些地方，它们或将有一天也将无力支撑，但曾带给自己美妙的经历和人生故事<br /><br /><span class="emoji">☀️</span> 希望梅雨天早点结束，这样就可以开始今年的荷花摄影工作了<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/tdBmn-ZpU7Xy1VZxLOdwlrGtOPexHeF2snJZgeTNh1emCt5QAhAENUtLHdBRuvtcTpKguepeoJ4EmlFJHMuNcoQAwz5bU0cC62xL_VS2Tq-Nelqil4jqct6GdluR3vIeS3nAadJNA8LR52v-l6A1RYiJL97vmQG4pN5WcTtFF7OcxBy0pM_4Ni4eXMbj-4PKxPKvkqIZSC2mdimNdSkxa-Tuqrv7eOjniZnPtJQw8M9Kkd9JK2mrGxqsh8erm88MuxNX-P8tT2AvQZCZZF3iVtRuQSoLG0inwNLKWko9O3tJugQgQZyVxxgNGonjjF0rN8CQ6yX-KCVXNl7sw8OIuw.jpg" />
 ]]></content:encoded>
 <pubDate>Sun, 14 Jul 2024 10:03:39 GMT</pubDate>
-</item>
-<item>
-<title>🖼 #News #Economics #Finance 💡《一飞周报》每周带你关注科技导向金融市场与周围的价值信息 本周内容（201st）：Notion 💹 市场 ⁃ 通胀下降强化降息预...</title>
-<link>https://t.me/NewlearnerChannel/13102</link>
-<guid>https://t.me/NewlearnerChannel/13102</guid>
-<content:encoded><![CDATA[
-<p><a href="https://t.me/NewlearnerChannel/13102?q=%23News">#News</a> <a href="https://t.me/NewlearnerChannel/13102?q=%23Economics">#Economics</a> <a href="https://t.me/NewlearnerChannel/13102?q=%23Finance">#Finance</a><br /><br /><br /><span class="emoji">💡</span>《一飞周报》每周带你关注科技导向金融市场与周围的价值信息<br /><br />本周内容（201st）：<a href="https://harryyifei.notion.site/7feda909d0164aeeb15ea594a261c8fc?pvs=4" rel="noopener" target="_blank">Notion</a><br /><br /><span class="emoji">💹</span> 市场<br /> ⁃ 通胀下降强化降息预期<br /> ⁃ 台积电业绩增长<br /> ⁃ 标普指数集中度过高<br /><br /><span class="emoji">📈</span> 股票<br /> ⁃ 波音认罪<br /><br /><span class="emoji">👨🏻‍💻</span> 专栏：<br /> ⁃ 财报季考验投资者信心<br />.....<br /><br />《一飞周报》更多地关注股票投资与科技动态。在这个嘈杂的时代，希望能与自留地一起传递更多有价值的信息。<br /><br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn5.cdn-telegram.org/file/c4rFkxemfrPu0f3d3q6liCd8no6DwLVmYNXXaefV-AnN3J9hr_zseWUEsuroIC0ELdXew9Dm5CtsYjkqjsDzN0FEI2_G8nGnaWK1aehTy6UV3sQ7wENvRwk0y5t1jnKjL7h6Dr8nCFYRtoyP_ym9Fn5DtiH0iHWBV3UNzUVmOAvYR7aw2u5up505N3SGIrG3XloPXjIXYZerM1cXw6Ni1U4J0kLE4OR1OVaLP1Xz-zY6nkmfphEWWFvak3kxuFYNHhbpNFhqWLA0LDHix5Nhrbg2tRABR788-JR5AS7676wMrrZbulf97Lsh92L7QWoYYgHB_0ZV5oAeHhQkZ0cfGw.jpg" />
-]]></content:encoded>
-<pubDate>Sat, 13 Jul 2024 04:02:34 GMT</pubDate>
-</item>
-<item>
-<title>刘润当年有一篇很火的文章，写了一个出租车司机，在别人只能月入两三千的时候，他是怎么做到月入八千的。 最近刘润又采访了这个司机，一个人肚子里是不是真的有...</title>
-<link>https://t.me/jike_collection/10013</link>
-<guid>https://t.me/jike_collection/10013</guid>
-<content:encoded><![CDATA[
-<p>刘润当年有一篇很火的文章，写了一个出租车司机，在别人只能月入两三千的时候，他是怎么做到月入八千的。<br /><br />最近刘润又采访了这个司机，一个人肚子里是不是真的有货，一开口就知道了<br /><br />他说打车最爽快的不是富人，更不是穷人，而是可以报销的人<br /><br />医院出来提药的和提脸盆的，哪个打车更爽快？<br /><br />当然是提脸盆的，他都经历过一轮病痛折磨了，现在出院了，当然觉得要好好享受，打车的钱花了也没什么，提药的可能还在治疗，得省钱治疗，或者可能只是小病痛，住附近的，路程很短接这种不划算<br /><br />他说网约车司机就是“蓝领商人”，很新奇的概念<br /><br />对人性琢磨的透透的，愣是把苦力活干成了脑力技术活，也难怪这样的能挣到钱。<br /><br />by @暴走胡老板  <a href="https://t.me/jike_collection/10013?q=%23%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E8%A1%8C%E4%B8%9A%E5%86%85%E5%B9%95">#你不知道的行业内幕</a></p>
-]]></content:encoded>
-<pubDate>Wed, 17 Jul 2024 01:12:46 GMT</pubDate>
 </item>
 </channel>
 </rss>

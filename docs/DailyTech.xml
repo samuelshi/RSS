@@ -4,18 +4,16 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+
 <item>
 <title>🖼 telegram 的这个设计挺有意思的，随机展示一组 emoji，有点像是端到端加密的验证码，聊天后互相报一下emoji就确保安全了。 by @河马吐司 #大产品小细节</title>
 <link>https://t.me/jike_collection/10098</link>
 <guid>https://t.me/jike_collection/10098</guid>
 <content:encoded><![CDATA[
-
 <p>telegram 的这个设计挺有意思的，随机展示一组 emoji，有点像是端到端加密的验证码，聊天后互相报一下emoji就确保安全了。<br /><br />by @河马吐司  <a href="https://t.me/jike_collection/10098?q=%23%E5%A4%A7%E4%BA%A7%E5%93%81%E5%B0%8F%E7%BB%86%E8%8A%82">#大产品小细节</a></p><img height="480.00" src="https://cdn4.cdn-telegram.org/file/lb0RV7duSnK8sJYwMAB-TcFbk36h72uYAYOLPM9wKgAcIsLLGemkAKGbiJ5lB9O6ywhfJUFWYudcP4qT2PELx0H3teirZtF4-QWxf7TuAO_EnZyUMBYiIorufD6llldHIzUWp7kTMEeantKQ12zM4Vbx0jmKIkrz8dwIjpyyi3ruStQ-fZYASkbcusjx9myDnFE21VvaOxU0mcjdoVQmZ85o1pa_2vxWxYfZAaFSSJ6BB-XuARzgBv3n21_UR96hcrtu_LQmANutzlsr0MKJ1ZlVsxeYj_pKIhBBHr_RhqTJzR1ZYmFCy3fZN77ltphgJOjngP8-90U9gXgtAEpDXg.jpg" width="360" />
 ]]></content:encoded>
 <pubDate>Sat, 17 Aug 2024 06:42:08 GMT</pubDate>
-<pubDate>Sat, 17 Aug 2024 06:42:08 GMT</pubDate>
 </item>
-
 <item>
 <title>波音和洛克希德马丁正在洽谈将火箭发射公司 ULA 出售给 Sierra Space 据两位知情人士透露，波音公司和洛克希德马丁公司正在就将其火箭发射合资企业联合发射联盟 ...</title>
 <link>https://t.me/xhqcankao/12793</link>
@@ -9094,15 +9092,6 @@
 <p><b>亚马逊 Prime Day 促销活动首日美国买家消费72亿美元<br /></b><br />Adobe Analytics 数据显示，亚马逊 Prime Day 首日美国消费者支出同比增长11.7%。报告指出，消费者在活动的首日支出为72亿美元，而2023年的首日支出为64亿美元。报告称，本周二 Prime Day 活动首日是今年最大的电子商务销售日，也是今年最大的移动购物日，消费者通过移动设备消费了35亿美元。Adobe 表示，其“先买后付” (BNPL) 选项同比增长17.1%，推动销售额达到5.4亿美元。报告指出，销售额增长是由于新的需求，而不是由于商品价格上涨。<br /><br />—— <a href="https://techcrunch.com/2024/07/17/us-buyers-spent-7-2-billion-on-the-first-day-of-amazons-prime-day-sales-event/" rel="noopener" target="_blank">Techcrunch</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 18 Jul 2024 02:05:11 GMT</pubDate>
-</item>
-<item>
-<title>NVIDIA 全面转向开源 GPU 内核模块 NVIDIA 于 2022 年 5 月发布了一组 Linux GPU 内核模块，作为具有双重 GPL 和 MIT 许可的开源模块。当时该公司宣布，NVIDIA ...</title>
-<link>https://t.me/xhqcankao/11996</link>
-<guid>https://t.me/xhqcankao/11996</guid>
-<content:encoded><![CDATA[
-<p><b>NVIDIA 全面转向开源 GPU 内核模块</b><br /><br />NVIDIA 于 2022 年 5 月发布了一组 Linux GPU 内核模块，作为具有双重 GPL 和 MIT 许可的开源模块。当时该公司宣布，NVIDIA 开放内核模块最终将取代闭源驱动程序。现在，由于开源 GPU 内核模块实现了同等甚至更好的应用程序性能，NVIDIA 将在即将发布的 R560 驱动程序版本中完全过渡到开源 GPU 内核模块。<br /><br />对于 Grace Hopper 或 Blackwell 等最新平台，用户必须使用开源 GPU 内核模块，这些平台不支持专有驱动程序。对于 Turing、Ampere、Ada Lovelace 或 Hopper 架构的较新 GPU，NVIDIA 建议切换到开源 GPU 内核模块。对于 Maxwell、Pascal 或 Volta 架构的较旧 GPU，开源 GPU 内核模块与平台不兼容，将继续使用 NVIDIA 专有驱动程序。<br /><br />—— <a href="https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/" rel="noopener" target="_blank">NVIDIA</a></p>
-]]></content:encoded>
-<pubDate>Thu, 18 Jul 2024 01:40:11 GMT</pubDate>
 </item>
 </channel>
 </rss>

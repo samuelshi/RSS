@@ -43629,3 +43629,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Append: [❓ #问题求助 安卓显示悬浮时间 https://meta.appinn.net/t/topic/60046](https://t.me/appinnfeed/11938)
 append_entries: 1
 Finish: 2024-08-18 03:01:26
+------------------------------------------------------
+Started: 2024-08-18 04:02:18
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 502
+append_entries: 0
+error when rendering xml, skip docs/Appinn

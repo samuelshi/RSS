@@ -44032,3 +44032,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 502
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-08-20 20:01:55
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [📣 #发现频道 CrazeCat可以实现一键加速的下载工具 https://meta.appinn.net/t/topic/60162](https://t.me/appinnfeed/11953)
+append_entries: 1
+Finish: 2024-08-20 20:01:56

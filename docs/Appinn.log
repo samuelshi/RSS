@@ -44276,3 +44276,11 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 502
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-08-22 10:16:35
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [❓ #问题求助 寻找一个快速笔的记软件，用来快速记录。 https://meta.appinn.net/t/topic/60211](https://t.me/appinnfeed/11969)
+Append: [❓ #问题求助 找到一个精致的提醒休息的mac软件，有什么类似的windows软件吗 https://meta.appinn.net/t/topic/60208](https://t.me/appinnfeed/11968)
+append_entries: 2
+Finish: 2024-08-22 10:16:36

@@ -4,18 +4,16 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>❓ #问题求助 这段代码应该如何改进才能正确识别如 `"` 这种超级奇怪的文件名呢？ https://meta.appinn.net/t/topic/60266</title>
 <link>https://t.me/appinnfeed/11984</link>
 <guid>https://t.me/appinnfeed/11984</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/11984?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />这段代码应该如何改进才能正确识别如 `"` 这种超级奇怪的文件名呢？<br /><a href="https://meta.appinn.net/t/topic/60266" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/60266</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/60266">这段代码应该如何改进才能正确识别如 `"` 这种超级奇怪的文件名呢？</a></b><br /><p>详述 如题，目前遇到的困难是 Linux 允许使用英文双引号作为文件名，而我写的软件希望能正确识别此类标题，同时还要兼容windows的双引号问题（我还不想用正则解决该问题）  代码： 此段代码主要用于解决\符号导致的转义、手误多打的双引号问题  fn rm_special(name: &amp;str) -&gt; String {     let mut temp = name.replace(r#"\"#, r#"/"#).replace(r#"//"#, r#"/"#);          while tem…</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/E0wP-0-kuyZK7tEO2NOFDI01WFoMs_xE4KAP3fOQhhANOjnME-Yr0xDg_rju7pCjwWpHa7kS5mQzKNN4hnoxpqn7RXmfMZQowM-AZ35YDuTvi2DOQd3Ye2iSmyWW3l-bjJP2gqIToD528jSRySex-oXZE-XRH5Rym8sGtNMK0hal6uQNhY-9a9ltUmsP8tAHn2PIjZgNTGaWKvCc7JKcwZjxwlGq4fqK-p-t2RPeujnCWudZgK4u0Ds25yXsHDl1fXpxKLndT-UrvANBqE75Z1Gmfro9M6Ua-wGdJUv04o9-1lsOa56x8NiKHHCEbOfg5YsSg8qbI38v8moWCZSr8A.jpg" width="0" /></blockquote>
 ]]></content:encoded>
 <pubDate>Sat, 24 Aug 2024 03:47:55 GMT</pubDate>
-<pubDate>Sat, 24 Aug 2024 03:47:55 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 请问大家，Windows11笔记本的触摸板如何仅关闭移动光标的功能而保留其余手势功能？ https://meta.appinn.net/t/topic/60258</title>
 <link>https://t.me/appinnfeed/11983</link>
@@ -9010,15 +9008,6 @@
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10491?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />Chrome的同步机制可以单向同步吗?<br /><br /><a href="https://meta.appinn.net/t/topic/55953" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/55953</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/55953">Chrome的同步机制可以单向同步吗?</a></b><br /><p>就是把电脑端的历史记录单向同步给手机端, 但是手机端的历史记录不同步给桌面端</p><img src="https://cdn4.cdn-telegram.org/file/RyY3H3Lg0_mlOY1Be7JG8QSLSua_TGl49N-TAgUHHVT9oNNzxLO2xVbxBi5BFsMAJ2oQG4sFNLPv6jhn7-bwC9XPMo_3IrAevaM1LdxpPM1cMzzocdNyynbuTwxxadEEICJ_1fWq4LSajxIgHQIRkBRvjafKHTKo515_0vAh9l7gRRZ2lUKJTp3FOdt7ytCVCFjIdyhZkFYe7NOrrsAocbWd1cBy6QSJpvVOgRrS73H8Sofqim1HVc2jG7oDnbk6AgPt-oTrdsJoO03QVB0QNNbpGzRcKiBV8AQTKoM7bM9F9DVX8qR6bBMYode-dWmcsQib9Fm8MjtMxRFP-9YbVQ.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Fri, 03 May 2024 08:32:01 GMT</pubDate>
-</item>
-<item>
-<title>❓ #问题求助 关于某pc音箱无法线性调音的问题？ https://meta.appinn.net/t/topic/55952</title>
-<link>https://t.me/appinnfeed/10490</link>
-<guid>https://t.me/appinnfeed/10490</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10490?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />关于某pc音箱无法线性调音的问题？<br /><br /><a href="https://meta.appinn.net/t/topic/55952" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/55952</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/55952">关于某pc音箱无法线性调音的问题？</a></b><br /><p>音箱为 JBL PS3500，除了音质还行其他都拉垮，最严重的问题是声卡驱动太垃圾，无法线性调音。  具体表现为（以下是win11系统调全局音量, 增量为2）   0 静音 2-6 一个音量 8-20 一个音量 22-36 一个音量（这里声音已经非常大了，后续不再继续，音量太大也是它的问题之一） …  谷歌查了一圈无解，准备放弃的时候发现，用软件调音就是线性的，比如视频播放器。  我不是很懂这之间的关系，请问能利用这一点来调节音量吗？  比如用虚拟声卡之类的替换掉系统调音（如前面所说，我在这方面是外行）？…</p><img src="https://cdn4.cdn-telegram.org/file/RyY3H3Lg0_mlOY1Be7JG8QSLSua_TGl49N-TAgUHHVT9oNNzxLO2xVbxBi5BFsMAJ2oQG4sFNLPv6jhn7-bwC9XPMo_3IrAevaM1LdxpPM1cMzzocdNyynbuTwxxadEEICJ_1fWq4LSajxIgHQIRkBRvjafKHTKo515_0vAh9l7gRRZ2lUKJTp3FOdt7ytCVCFjIdyhZkFYe7NOrrsAocbWd1cBy6QSJpvVOgRrS73H8Sofqim1HVc2jG7oDnbk6AgPt-oTrdsJoO03QVB0QNNbpGzRcKiBV8AQTKoM7bM9F9DVX8qR6bBMYode-dWmcsQib9Fm8MjtMxRFP-9YbVQ.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Fri, 03 May 2024 08:20:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

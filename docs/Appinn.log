@@ -44592,3 +44592,10 @@ Existing_entries: 1000
 Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2024-08-24 11:01:36
+------------------------------------------------------
+Started: 2024-08-24 12:01:42
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [❓ #问题求助 这段代码应该如何改进才能正确识别如 `"` 这种超级奇怪的文件名呢？ https://meta.appinn.net/t/topic/60266](https://t.me/appinnfeed/11984)
+append_entries: 1
+Finish: 2024-08-24 12:01:43

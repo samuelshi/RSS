@@ -5,17 +5,26 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>小鹏汽车自研芯片流片，算力是同行三倍 小鹏汽车自研的智能驾驶芯片已经成功流片。有知情人士透露，小鹏智驾芯片专门针对AI需求、端到端大模型等设计，是支持舱...</title>
+<link>https://t.me/xhqcankao/12982</link>
+<guid>https://t.me/xhqcankao/12982</guid>
+<content:encoded><![CDATA[
+
+<p><b>小鹏汽车自研芯片流片，算力是同行三倍</b><br /><br />小鹏汽车自研的智能驾驶芯片已经成功流片。有知情人士透露，小鹏智驾芯片专门针对AI需求、端到端大模型等设计，是支持舱驾一体的中央计算架构芯片，“AI算力接近3颗主流智驾芯片的水平”。同时，今日19:00小鹏10周年及M03上市活动中，小鹏汽车将正式发布自研芯片信息。针对即将揭晓自研芯片的传闻，小鹏汽车CEO何小鹏也在个人微博账号中含蓄表示，“一定不会让大家失望”。<br /><br />—— <a href="https://36kr.com/p/2922321122384776" rel="noopener" target="_blank">36 氪</a></p>
+]]></content:encoded>
+<pubDate>Tue, 27 Aug 2024 02:31:03 GMT</pubDate>
+<pubDate>Tue, 27 Aug 2024 02:31:03 GMT</pubDate>
+</item>
+
+<item>
 <title>法国检察官称逮捕杜罗夫是其它案件调查的一部分 巴黎检察官劳雷·贝库奥在一份声明中表示，此次逮捕是 7 月 8 日“针对未具名人士”调查的一部分，调查涉及一系...</title>
 <link>https://t.me/xhqcankao/12981</link>
 <guid>https://t.me/xhqcankao/12981</guid>
 <content:encoded><![CDATA[
-
 <p><b>法国检察官称逮捕杜罗夫是其它案件调查的一部分</b><br /><br />巴黎检察官劳雷·贝库奥在一份声明中表示，此次逮捕是 7 月 8 日“针对未具名人士”调查的一部分，调查涉及一系列潜在指控，包括共谋传播儿童色情制品和贩卖毒品、洗钱以及拒绝与执法部门合作。<br /><br />贝库奥女士说，调查由网络犯罪和反欺诈专家负责。“正是在这一程序框架内，调查人员对帕维尔·杜罗夫进行了讯问，”她说。目前尚不清楚贝库奥女士列出的任何指控是否会针对杜罗夫先生。<br /><br />在法国，复杂的刑事案件由特别法官处理，他们拥有广泛的调查权，可以对被告进行正式调查，并在他们认为证据充分时对其提出指控。但如果法官认为证据不足以进行审判，他们随后可以撤销指控，而案件可能需要数年时间。<br /><br />—— <a href="https://www.nytimes.com/2024/08/26/business/telegram-founder-arrest-france.html" rel="noopener" target="_blank">纽约时报</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 27 Aug 2024 01:57:01 GMT</pubDate>
-<pubDate>Tue, 27 Aug 2024 01:57:01 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 #News ☀️ 自留地早报【8.27】 1⃣️ Apple ：《无线充电（电力传输）设备无线电管理暂行规定》将于 2024 年 9 月 1 日起施行，MagSafe / Qi2 因频率冲突...</title>
 <link>https://t.me/NewlearnerChannel/13314</link>
@@ -9086,15 +9095,6 @@
 <p><a href="https://t.me/NewlearnerChannel/13169?q=%23App">#App</a> <a href="https://t.me/NewlearnerChannel/13169?q=%23macOS">#macOS</a><br /><br /><b>Spacedrive: 漂亮的文件管理器</b><br /><br /><a href="https://github.com/spacedriveapp/spacedrive" rel="noopener" target="_blank">Github</a> | <a href="https://www.spacedrive.com/" rel="noopener" target="_blank">官网</a><br /><br />与其他主打文件和文件夹操作，多窗口的文件管理器不同，Spacedrive 更多是想为用户管理多平台的文件。<br /><br /><span class="emoji">✨</span> <b>Features</b><br /><br />- 一个文件管理器应该有的功能<br />- 标签<br />- 加密<br />- 多平台文件互传<br />- 存储用量统计<br />- AI 为图片自动打标签<br />- 精美的 UI<br /><br /><span class="emoji">👀</span><b> 和 Finder 相比</b><br /><br />如果你没有太多的跨平台文件管理需求，Spacedrive 的大部分功能和 Finder 类似，但是有着更加精美的 UI。响应速度上，在第一次打开一些文件夹的时候会有明显的家在时间。打开网络设备的时候会卡一下。其他时候，包括预览文件的时候都挺丝滑的。不过我们无法将 Spacedrive 设置成默认文件管理器，大部分情况下自动弹出的还是 Finder。<br /><br /><span class="emoji">⚙️</span>&nbsp;<b>技术</b><br /><br />Spacedrive 是一个创新的虚拟分布式文件系统 (VDFS) 实现，采用了称为 "PRRTT" 的技术栈 (Prisma、Rust、React、TypeScript 和 Tauri)。它的核心使用纯 Rust 编写，通过统一的 API 实现了跨设备的内容操作和访问。该系统利用内容寻址存储 (CAS) 来唯一标识文件，同时保持对存储位置的逻辑文件路径记录。<br /><br />项目使用 Tauri 创建轻量级的原生 OS webview，rspc 实现 Rust 和 TypeScript 前端之间的类型安全通信，而 Prisma 则通过 prisma-client-rust 在前端使用。<br /><br /><span class="emoji">📡</span>&nbsp;<b>未来<br /></b><br />朝着成为多平台文件管理器前进。 Spacedrive 未来计划更多的云平台，例如 Google Drive，Dropbox 和 One Drive 以及云相册平台，例如 Google Photo，Apple Photo。<br /><br />除此之外，Spacedrive 计划添加密钥管理器，第三方安全审计来提升安全性。<br /><br />跨平台必不可少的移动客户端也在路线图中。<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img src="https://cdn1.cdn-telegram.org/file/KU5EfYHd8OqlKcnzmbrVVceSzi5N6Ps7SFPgADhickSNsczUL-P5Al3UOIUNPop-uWaLg5kHcyBj4xN_IE1Of0x-c21aSzgpW26jJsMcHcBC6qx0WqUfdrJ3WwHeMhzEJmLpAIb-mVDlpebeD6LmCoVra_2MQFJLM3oOTiLq6Vd87RnKJfwrIW2eF7om-xPuOBHq0_-WE6ICAfyCksJQ4pmm_R5ss7ajSDNYnZdStl7u9O80aVMNvZ9HiLf_jN6TUAb3qOn3Rr3WXW4YWaIXvZJy7nDUSbqhJ5vBWeu7ejY0y5zCH_y0nzYqnmeIBuqILI1JFLfzCqv8-4nG6n2BJw.jpg" />
 ]]></content:encoded>
 <pubDate>Thu, 25 Jul 2024 07:02:16 GMT</pubDate>
-</item>
-<item>
-<title>全球速卖通因违反韩国个人信息保护法被罚款 韩国个人信息保护委员会25日表示，在前一天召开的全体会议上决定对中国跨境电商平台全球速卖通处以约19.8亿韩元 (约...</title>
-<link>https://t.me/xhqcankao/12189</link>
-<guid>https://t.me/xhqcankao/12189</guid>
-<content:encoded><![CDATA[
-<p><b>全球速卖通因违反韩国个人信息保护法被罚款</b><br /><br />韩国个人信息保护委员会25日表示，在前一天召开的全体会议上决定对中国跨境电商平台全球速卖通处以约19.8亿韩元 (约合人民币1036万元) 的罚款。这是境外电商首次因违反韩国《个人信息保护法》相关规定而被罚款。去年10月举行的国会国政检查会提出个人信息外泄问题，由此个人信息委开始对全球速卖通和 Temu 进行相关调查。经查发现，全球速卖通向境外销售商提供了韩国用户的个人信息。在此过程中，共有超过18万家销售商获取了韩国用户的信息。主要为中国销售商，也有部分其他国家的销售商。<br /><br />—— <a href="https://m-cn.yna.co.kr/view/ACK20240725002600881?input=tw" rel="noopener" target="_blank">韩联社</a></p>
-]]></content:encoded>
-<pubDate>Thu, 25 Jul 2024 07:59:56 GMT</pubDate>
 </item>
 </channel>
 </rss>

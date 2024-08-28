@@ -45286,3 +45286,12 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 530
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-08-29 00:01:50
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [📣 #发现频道 一个专注于网站地图（ sitemap ）生成与数据可视化分析的工具 https://meta.appinn.net/t/topic/60421](https://t.me/appinnfeed/12024)
+Append: [📣 #发现频道 BilibiliSponsorBlock 一款跳过B站视频中恰饭片段的浏览器插件 https://meta.appinn.net/t/topic/60420](https://t.me/appinnfeed/12023)
+Append: [📣 #发现频道 Fideo直播录制软件 https://meta.appinn.net/t/topic/60419](https://t.me/appinnfeed/12022)
+append_entries: 3
+Finish: 2024-08-29 00:01:51

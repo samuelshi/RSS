@@ -45195,3 +45195,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 530
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-08-28 11:01:32
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [📣 #发现频道 【开源自荐】r34自定义URL协议--让大家可以在网页上打开本地的文件 https://meta.appinn.net/t/topic/60390](https://t.me/appinnfeed/12010)
+append_entries: 1
+Finish: 2024-08-28 11:01:33

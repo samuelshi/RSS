@@ -5,17 +5,37 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>SpaceX 猎鹰 9 号着陆回收时发生事故，23 手助推器爆炸 周三，SpaceX 在执行 Starlink 8-6 任务的着陆尝试中失去了一枚可重复使用的猎鹰 9 号助推器。当它降落在...</title>
+<link>https://t.me/xhqcankao/13025</link>
+<guid>https://t.me/xhqcankao/13025</guid>
+<content:encoded><![CDATA[
+
+<p><b>SpaceX 猎鹰 9 号着陆回收时发生事故，23 手助推器爆炸</b><br /><br />周三，SpaceX 在执行 Starlink 8-6 任务的着陆尝试中失去了一枚可重复使用的猎鹰 9 号助推器。当它降落在无人回收船“重力不足”上时，可以看到梅林发动机周围出现绿色闪光，随后发动机部分被火焰吞没，助推器翻倒并爆炸。虽然任务搭载的星链卫星成功入轨部署，但这也终结了编号为 B1062 的助推器 23 次成功回收的记录，也终结了 267 次助推器连续着陆成功的记录。SpaceX 也取消了今天计划发射的另一次星链任务。<br /><br />—— <a href="https://aviationweek.com/aerospace/commercial-space/spacex-suffers-falcon-9-booster-mishap-during-landing" rel="noopener" target="_blank">航空周刊</a>，<a href="https://x.com/SpaceX/status/1828721626587996398" rel="noopener" target="_blank">SpaceX</a></p>
+]]></content:encoded>
+<pubDate>Wed, 28 Aug 2024 11:40:08 GMT</pubDate>
+<pubDate>Wed, 28 Aug 2024 11:40:08 GMT</pubDate>
+</item>
+<item>
+<title>比亚迪汽车正式起诉多个自媒体账号 据比亚迪新闻打假办公室微博消息，近日，公司将正式向自媒体“小雨不懂车”、“虎狼说车”等账号发起诉讼。公司会持续通过法...</title>
+<link>https://t.me/xhqcankao/13024</link>
+<guid>https://t.me/xhqcankao/13024</guid>
+<content:encoded><![CDATA[
+
+<p><b>比亚迪汽车正式起诉多个自媒体账号</b><br /><br />据比亚迪新闻打假办公室微博消息，近日，公司将正式向自媒体“小雨不懂车”、“虎狼说车”等账号发起诉讼。公司会持续通过法律手段维权自身合法的权益。具体情况如下：1、自媒体“小雨不懂车”在其视频中发布不实及侮辱言论，诋毁比亚迪及方程豹品牌声誉。2、自媒体“虎狼说车”及蒋某在多个平台发布针对比亚迪的侮辱诋毁言论，主观恶意明显。<br /><br />—— <a href="https://weibo.com/ttarticle/p/show?id=2309405072391977173325&amp;luicode=10000011&amp;lfid=1005056208962672" rel="noopener" target="_blank">比亚迪</a></p>
+]]></content:encoded>
+<pubDate>Wed, 28 Aug 2024 11:13:18 GMT</pubDate>
+<pubDate>Wed, 28 Aug 2024 11:13:18 GMT</pubDate>
+</item>
+
+<item>
 <title>🖼 #GitHub情报 #AI #Tools #Videos 📹 介绍两个开源的视频翻译 / 字幕添加 AI 项目 随着 Whisper 等 AI 项目的不断发展，许多语音转文本的项目应运而生，有...</title>
 <link>https://t.me/NewlearnerChannel/13325</link>
 <guid>https://t.me/NewlearnerChannel/13325</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://t.me/NewlearnerChannel/13325?q=%23GitHub%E6%83%85%E6%8A%A5">#GitHub情报</a> <a href="https://t.me/NewlearnerChannel/13325?q=%23AI">#AI</a> <a href="https://t.me/NewlearnerChannel/13325?q=%23Tools">#Tools</a> <a href="https://t.me/NewlearnerChannel/13325?q=%23Videos">#Videos</a><br /><br /><span class="emoji">📹</span> <b>介绍两个开源的视频翻译 / 字幕添加 AI 项目</b><br /><br />随着 Whisper 等 AI 项目的不断发展，许多语音转文本的项目应运而生，有开发者进而结合了 FFmpeg 等项目，推出了视频翻译自动化项目<br /><br /><span class="emoji">1️⃣</span> <b>Chenyme-AAVT</b><br /><br /><span class="emoji">🔗</span>：<a href="https://github.com/Chenyme/Chenyme-AAVT" rel="noopener" target="_blank">GitHub</a> | <a href="https://github.com/Chenyme/Chenyme-AAVT/releases" rel="noopener" target="_blank">Releases</a><br /><br /><span class="emoji">👉</span> <b>Features</b><br /><br />- 支持识别和翻译多种语言<br />- 支持全流程本地化、免费化部署<br />- 支持对视频 一键生成博客内容、营销图文<br />- 支持自动化翻译、二次修改字幕、预览视频<br />- 支持开启 GPU 加速、VAD 辅助、FFmpeg 加速<br />- 支持使用 ChatGPT、Claude、Gemini、DeepSeek 等众多大模型翻译引擎<br /><br />该项目致力于提供一个简便高效且免费的媒体识别与翻译自动化流程，帮助用户快速完成音视频字幕的识别、翻译和处理<br /><br /><span class="emoji">2️⃣</span> <b>VideoLingo</b><br /><br /><span class="emoji">🔗</span>：<a href="https://github.com/Huanshere/VideoLingo" rel="noopener" target="_blank">GitHub</a> | <a href="https://www.bilibili.com/video/BV1QsYXeGEPP/" rel="noopener" target="_blank">Demo</a><br /><br /><span class="emoji">👉</span> <b>Features</b><br /><br />- 使用 NLP 和 LLM 进行字幕分割<br />- 智能术语知识库，实现上下文感知翻译<br />- 精确的单词级字幕对齐<br />- GPT-SoVits 高质量的个性化配音<br /><br />这个项目的针对性更强：国外视频搬运 + 配音。但是我们希望大家能够通过两个项目，多多学习和提升自己的外语水平，或将视频私下分享给不具备外语理解能力的人<br /><br /><span class="emoji">📘</span> 关联阅读：<a href="https://t.me/NewlearnerChannel/12269" rel="noopener" target="_blank">MemoAI - 好用的语音转文字工具</a><br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img height="400.00" src="https://cdn5.cdn-telegram.org/file/WjLkjIAf6d74lHrdezS_TUm8VIDY3jkNUaHoqVfU051oN05KtSTcjOcaSEPFVIfMoj7d9DG1-grWa7L6TTDd-FExpwxW_n0T6rEyDcgqcL4xP_k8iJL-6gglBZQHMXHIJIjQ4XnVN8hnvhkX_duP0Owhjz_2uYAreGx3GFxqhA7Y5THgFtJs_aX_i21lwFj3p13KVT1Be74J88eVyIU09B8B0r5obmpm2pyytT7RYi-QH807DNEWLXyAt1lzb00iU19R4St5iB7BtDX9txw7JR6yfWJcdZo67TgtCzmnhpaaRjbxF0URtwknWZOg9VDq4Pjx8ToY-HRDyKDx-Ajodg.jpg" width="800" />
 ]]></content:encoded>
 <pubDate>Wed, 28 Aug 2024 10:03:36 GMT</pubDate>
-<pubDate>Wed, 28 Aug 2024 10:03:36 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 淘宝这个加购物车和立即支付的按钮改动，说你用心险恶吧你是真恶心人，说你牛马为了业绩吧你也真是坏事做尽。无数次误触立即支付，真是想把设计这垃圾玩意...</title>
 <link>https://t.me/jike_collection/10130</link>
@@ -9094,15 +9114,6 @@
 <p><b>加州北区联法院裁决字节跳动必须面对北京美摄代码侵权案的索赔诉讼</b><br /><br />7月23日根据法庭文件显示，北京美摄在美国起诉字节跳动及 TikTok 代码侵权一案在美国北加州联邦地区法院获得受理。美摄此前指控字节跳动的一名员工使用了此前在美摄工作时撰写的源代码。法院近日驳回了字节跳动的动议，裁决其必须面对关于包括版权侵权和商业外观盗用在内的多项索赔。<br /><br />美摄此前在中国法院向字节跳动发起了10起诉讼，索赔人民币22.74亿元，共获得判决赔偿美摄人民币2600余万元。本案于2021年5月提交到得州法院，几经波折和管辖权转移后，最终在加州获得受理。<br /><br />—— 美国加州北区法院 (<a href="https://business.cch.com/ipld/BeijingMeisheNetworkTikTok20240723.pdf" rel="noopener" target="_blank">法庭文件</a>)</p>
 ]]></content:encoded>
 <pubDate>Fri, 26 Jul 2024 14:30:39 GMT</pubDate>
-</item>
-<item>
-<title>以色列法院将关停半岛电视台期限再延长45天 当地时间26日，以色列特拉维夫地方法院批准将对半岛电视台的关停期限再延长45天。 当地时间5月5日，以色列政府宣布，...</title>
-<link>https://t.me/xhqcankao/12235</link>
-<guid>https://t.me/xhqcankao/12235</guid>
-<content:encoded><![CDATA[
-<p><b>以色列法院将关停半岛电视台期限再延长45天</b><br /><br />当地时间26日，以色列特拉维夫地方法院批准将对半岛电视台的关停期限再延长45天。<br /><br />当地时间5月5日，以色列政府宣布，决定关停卡塔尔半岛电视台在以色列的分支机构，禁止其各个频道在以播放，关闭其在以境内的办公室并没收相关设备，以及限制在以境内访问半岛电视台网站。以色列通信部长卡尔希当天签署关停命令，即刻生效。关闭期限为45天，但可以延长。6月13日此禁令曾延长过一次。<br /><br />—— <a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=15272767691946249541" rel="noopener" target="_blank">央视新闻</a></p>
-]]></content:encoded>
-<pubDate>Fri, 26 Jul 2024 14:01:33 GMT</pubDate>
 </item>
 </channel>
 </rss>

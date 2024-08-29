@@ -45410,3 +45410,10 @@ Append: [❓ #问题求助 在WIN11下，有什么好用的五笔输入推荐吗
 Append: [💧 #小众软件 AnythingLLM – 真·一键运行本地 LLM 大语言模型｜全离线操作：与文档聊天、与 AI 聊天 https://www.appinn.com/anythingllm/](https://t.me/appinnfeed/12030)
 append_entries: 2
 Finish: 2024-08-29 18:01:37
+------------------------------------------------------
+Started: 2024-08-29 19:01:27
+Existing_entries: 1002
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 502
+append_entries: 0
+error when rendering xml, skip docs/Appinn

@@ -4,18 +4,16 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>❓ #问题求助 咱们论坛的“————上次访问————”到底是怎么标记的，总感觉标的不太准，是我理解错误吗 https://meta.appinn.net/t/topic/60448</title>
 <link>https://t.me/appinnfeed/12028</link>
 <guid>https://t.me/appinnfeed/12028</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12028?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />咱们论坛的“————上次访问————”到底是怎么标记的，总感觉标的不太准，是我理解错误吗<br /><a href="https://meta.appinn.net/t/topic/60448" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/60448</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/60448">咱们论坛的“————上次访问————”到底是怎么标记的，总感觉标的不太准，是我理解错误吗</a></b><br /><p>我以为是红线以上就是我上次关闭论坛后有更新过的内容，但实际上似乎很少能准确标记？有什么操作能让它识别得准确一点吗</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/D9joHE4hgta9o1IEyIiDI6lQ-FoLBWcGxC4ePs679il_dqtiW2S1E7dfwiZwrhsn76uOgy4fOb873__67WnozzFgsRLjSlTRSeMxgE4If-oDhN8I0KZiYU0y2JyHtr7dLWLe1Sy0XS1pHcqdBFHu5MXV3Ytup1e7_2MkBEChXbZm3XnekE_eGvcjuNMDZ0QjRoET1X8laeMK63NXSbMSwEt3h2aZscI5wllXBJxZHm0XwJdOhpf-rJ19GK2KjmHs_L__aeT8EWQyzJE1pt8txOu-nVuiNVvr4UpR1ixUqdisI42_aGGLrOU0KjNF1sVcW3s1mRI6q-3POmblqOyzjg.jpg" width="0" /></blockquote>
 ]]></content:encoded>
 <pubDate>Thu, 29 Aug 2024 06:47:20 GMT</pubDate>
-<pubDate>Thu, 29 Aug 2024 06:47:20 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 请问有什么不影响 Windows 11 系统的分区软件吗？ https://meta.appinn.net/t/topic/60443</title>
 <link>https://t.me/appinnfeed/12027</link>
@@ -9010,15 +9008,6 @@
 <p><span class="emoji">🧐</span> <a href="https://t.me/appinnfeed/10539?q=%23%E9%98%85%E8%AF%BB">#阅读</a><br />记笔记：用 Multipass 在 Windows 上创建 Ubuntu 虚拟机<br /><br /><a href="https://meta.appinn.net/t/topic/56138" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/56138</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/56138">记笔记：用 Multipass 在 Windows 上创建 Ubuntu 虚拟机</a></b><br /><p>由于之前升级失败，导致 Hyper-V 里的 Ubuntu 直接挂掉了。  幸亏是开发机，挂掉就挂掉吧。  于是准备试试 Multipass：https://multipass.run/  这是一个 Ubuntu 自己开发的虚拟机，比用 Hyper-V 从零开始安装系统要简单许多。  安装 Multipass 需要 Hyper-V，然后直接下载安装即可。  创建虚拟机 使用 Windows 的心终端操作：  启动一台 4 核CPU、8G内存、60G 硬盘的虚拟机：  multipass launch -c…</p><img src="https://cdn4.cdn-telegram.org/file/CfoZtCziX7QqYrMTo7Shhj46qam83M3Xpr9hg0E3NEbGw8YJtjTi2WEFbQoLzaULFI8zTn7fI7gkDaS2wsGbonGiTB1l9DoXMgB4wcRtBzHyL_nHDzHJC8T66Qe8UhhOvXnMRNBOlGiIw3wprd4kdOdgqERSeXHGXpIcIdCWY0AviO9CJ8diuwB6i6fkm11VcFOtEjAmdNGg6VDnP1nHUzLc1C6aQ1rDRG_jEjwNUnYqkT3mbgzQR2Hqv_FgN9JGouRNuQq1G0REc5tmd_x9OUSXMWz_Pls0mOtCK8IhtS-wAzTKNSH4lqcW0DpYKWgIPnRJs3E6nL0W1EQVskRCrA.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Tue, 07 May 2024 13:24:01 GMT</pubDate>
-</item>
-<item>
-<title>📣 #发现频道 【开发者自荐】DVD 播放器 https://meta.appinn.net/t/topic/56133</title>
-<link>https://t.me/appinnfeed/10538</link>
-<guid>https://t.me/appinnfeed/10538</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/10538?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />【开发者自荐】DVD 播放器<br /><br /><a href="https://meta.appinn.net/t/topic/56133" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/56133</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/56133">【开发者自荐】DVD 播放器</a></b><br /><p>软件名称 Nero DVD Player  应用平台 Windows  推荐类型 【开发者自荐】  一句简介 Nero DVD Player 支持 150+格式，包括 NAS、WebDAV 等，兼容性极强，畅享轻松的视频播放体验。  官网：DVD Player | PC Nero  应用简介 Nero DVD 播放器是一款功能强大且用途广泛的软件，有直观简洁的界面和多格式支持的 DVD 播放能力，是电影爱好者和 DVD 爱好者的完美选择。  主要功能：   轻松播放 DVD： 轻松播放 DVD-Video<span class="emoji">™</span>…</p><img src="https://cdn4.cdn-telegram.org/file/CfoZtCziX7QqYrMTo7Shhj46qam83M3Xpr9hg0E3NEbGw8YJtjTi2WEFbQoLzaULFI8zTn7fI7gkDaS2wsGbonGiTB1l9DoXMgB4wcRtBzHyL_nHDzHJC8T66Qe8UhhOvXnMRNBOlGiIw3wprd4kdOdgqERSeXHGXpIcIdCWY0AviO9CJ8diuwB6i6fkm11VcFOtEjAmdNGg6VDnP1nHUzLc1C6aQ1rDRG_jEjwNUnYqkT3mbgzQR2Hqv_FgN9JGouRNuQq1G0REc5tmd_x9OUSXMWz_Pls0mOtCK8IhtS-wAzTKNSH4lqcW0DpYKWgIPnRJs3E6nL0W1EQVskRCrA.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Tue, 07 May 2024 10:04:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

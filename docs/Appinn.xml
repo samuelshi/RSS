@@ -4,6 +4,17 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>❓ #问题求助 AutoHotkey 脚本获取 SC 码不匹配的问题 https://meta.appinn.net/t/topic/60554</title>
+<link>https://t.me/appinnfeed/12055</link>
+<guid>https://t.me/appinnfeed/12055</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12055?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />AutoHotkey 脚本获取 SC 码不匹配的问题<br /><a href="https://meta.appinn.net/t/topic/60554" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/60554</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/60554">AutoHotkey 脚本获取 SC 码不匹配的问题</a></b><br /><p>下面获取sc码的ahk脚本有什么问题吗, 与实际sc码不符  脚本是安装AutoHotInterception后, Development Tools文件夹中的脚本.  问了一圈gpt, 没能解决  图片中, 实际sc码应该是053, 而AHK ScanCode tester给出的是83    代码如下: #SingleInstance force  /* Tool for checking what InputHook reports in AHK */   Sleep 100 ; When hitting…</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/NB7fOocZhM9nV-6aQogDJWVznUqu_EmpCprL8lP-CIrzWeeMEFHJdzrIhhO-b5HoyZL2oisv_UvWQUaEBSlqps-m1za-jdwgfK08bRVFIF-Dh5ikaGAv-cG5K8w3hoGTs1XEzxeYQehXwRZWwb0kpK3lK7S99tg92AoDcoQiiOWgnpYW1uKI4wwCzzzCQNhoJs0xF-AIkIRYYFcF64lQzEoiKKwI-bh33f2CFwB04IVzjGoqFbvdIFJ4Zfropb-ZG_4Dmws6MAOK3JHf9GcJKGvAEuZZPuFdCTS1T49RwxHK8RIo0k1_KD4v6AmQUZHjX3LO_Qg_F7BlpTMtOUu5LA.jpg" width="0" /></blockquote>
+]]></content:encoded>
+<pubDate>Mon, 02 Sep 2024 13:27:53 GMT</pubDate>
+<pubDate>Mon, 02 Sep 2024 13:27:53 GMT</pubDate>
+</item>
 
 <item>
 <title>❓ #问题求助 统计文件数并重新命名文件夹名称 https://meta.appinn.net/t/topic/60551</title>

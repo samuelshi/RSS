@@ -46041,3 +46041,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Append: [❓ #问题求助 AutoHotkey 脚本获取 SC 码不匹配的问题 https://meta.appinn.net/t/topic/60554](https://t.me/appinnfeed/12055)
 append_entries: 1
 Finish: 2024-09-02 22:01:47
+------------------------------------------------------
+Started: 2024-09-02 23:01:26
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 502
+append_entries: 0
+error when rendering xml, skip docs/Appinn

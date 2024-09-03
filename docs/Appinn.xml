@@ -4,15 +4,14 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>🖼 本日评论：Sworld https://meta.appinn.net/t/topic/60454/6 同类产品有挺多的，我补充几个： 1️⃣ Jan 用起来也很方便，主要是好看，文档聊天 3等功能也...</title>
 <link>https://t.me/appinnfeed/12060</link>
 <guid>https://t.me/appinnfeed/12060</guid>
 <content:encoded><![CDATA[
-
 <p>本日评论：Sworld<br /><br /><a href="https://meta.appinn.net/t/topic/60454/6" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/60454/6</a><br /><br />同类产品有挺多的，我补充几个：<br /><br /><span class="emoji">1️⃣</span> Jan 用起来也很方便，主要是好看，文档聊天 3等功能也有，但是貌似比较弱<br /><br /><span class="emoji">2️⃣</span> GPT4All 4 这个是这几个中唯一的原生应用（QT写的），所以是最流畅的，但是不支持公式渲染，它的知识库检索功能应该算是比较不错的<br /><br /><span class="emoji">3️⃣</span> AnythingLLM 感觉操作起来还是尚且有点烦琐，现在我主要用的是LobeChat（用claude 3.5 sonnet聊天）、Continue.dev（用deepseek辅助写代码）以及浏览器的Fission插件，最后是LM Studio偶尔玩玩本地模型<br /><br />为什么我不常使用上面说的几个其他应用呢，我觉得主要有两个问题：<br /><br /><span class="emoji">1️⃣</span> 基于RAG和关键词检索的知识库检索，其实非常不可靠，我自己使用下来体验极差，尤其是只有向量检索的<br /><br /><span class="emoji">2️⃣</span> 本地模型（尤其是70B以下的）效果非常一般，即使是小体积模型中我认为表现很优秀的Gemma2 27B，也只能聊聊天，复杂一些的任务处理不了，至少要Qwen2 72B这种大小的模型才能基本完成大多数任务（而这可能需要48GB以上的显存，我只有8GB或16GB）<br /><br /><span class="emoji">3️⃣</span> 在线API在Deepseek这类性价比模型出现后，价格已经可以接受了，我最多的一天用了100万Token，看上去很多，其实也就一块多钱</p><img height="637.00" src="https://cdn5.cdn-telegram.org/file/c8zoQ-mPnLW5niYjsUxSes6F3mP4nJBcKWB5HI6iBrLEl2VvEo9SMMd3QKeDqvNkz0hVJd9eWzUEhSQhvZ432G6OIBrPpTjSoXHAVqNxh9Dtw8Pg2QhIRkEsDGyqXyY3f-nvmNac3yxtWDaV3vW_MplzZ0QV8ndHz1g31VZQnYbglIpj3Tslpp2s3TCNpg6_Z4NvLbeZxRqr4xVTMZutHrPD7tABlXwz9QWkkykU9kWeQtM8PyRLAQ_ivAUpcx04iIvgyCgGN7EYrMuI76YSzfx71mZ7v4dDuR16dzJzx_q8P1NEtRq_Eg6JwKtxw_Q9lfq65JOwQ_Dfv8mFvgvDfQ.jpg" width="800" />
 ]]></content:encoded>
-<pubDate>Tue, 03 Sep 2024 07:09:35 GMT</pubDate>
 <pubDate>Tue, 03 Sep 2024 07:09:35 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +19,10 @@
 <link>https://t.me/appinnfeed/12059</link>
 <guid>https://t.me/appinnfeed/12059</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">💧</span> <a href="https://t.me/appinnfeed/12059?q=%23%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6">#小众软件</a><br />Alibi – 将 Android 设备用作行车记录仪，开源且完全离线｜自动保存最后 30 分钟的内容<br /><a href="https://www.appinn.com/alibi/" rel="noopener" target="_blank">https://www.appinn.com/alibi/</a></p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/alibi/">Alibi - 将 Android 设备用作行车记录仪，开源且完全离线｜自动保存最后 30 分钟的内容 - 小众软件</a></b><br /><p>Alibi 是一个适用于 Android 的开源工具，它会在后台持续录制（视频或音频，并在停止时自动保存最后 30 分钟的内容。 @Appinn</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/QR8figUH74KP015KilLzbyydNGePLjjpGQtRJcrIb0dzJwW71eQJXbDtTfdqTKBU8d5LLUcUtj4MVT6B2hn1YS6bqDDFNAvifRjqMmy3-JC-Kp82opbwimDjDSM7UWkVUn0ci2UvXDQZrmOhmQiasRRCBX-9v7sUwyo1jyzyPxF9oFmgjX0E6PYtkrdyFi1qAyb5v0u54Ti_gXB6KjcggVbyQu1zsNrZ1U0FucJk2MOS_uIzseG1Rb0ubqI1BNCEV_FgQI6kSNsxOwp4kZ0nsoPkNo-iIfl5jJ-gvROJPZ11pya_k9N871fV-yJBVuMx5IO6F11EMsAmEWTFms2IhA.jpg" width="0" /></blockquote>
 ]]></content:encoded>
 <pubDate>Tue, 03 Sep 2024 07:04:04 GMT</pubDate>
-<pubDate>Tue, 03 Sep 2024 07:04:04 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 还是 GitHub 大气，这么快就通过了GitHub Models</title>
 <link>https://t.me/appinnfeed/12058</link>
@@ -9012,24 +9008,6 @@
 <p><span class="emoji">💧</span> <a href="https://t.me/appinnfeed/10572?q=%23%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6">#小众软件</a><br />Elmo Chat – 快速总结网站内容、在线视频，与 PDF 聊天、翻译等，免费 Chrome 扩展<br /><br /><a href="https://www.appinn.com/elmo-chat/" rel="noopener" target="_blank">https://www.appinn.com/elmo-chat/</a><br /><br /><b>Tags</b>: <a href="https://t.me/appinnfeed/10572?q=%23Chrome">#Chrome</a>, <a href="https://t.me/appinnfeed/10572?q=%23PDF">#PDF</a>, <a href="https://t.me/appinnfeed/10572?q=%23%E6%80%BB%E7%BB%93">#总结</a>, <a href="https://t.me/appinnfeed/10572?q=%23%E6%8F%90%E9%97%AE">#提问</a>, <a href="https://t.me/appinnfeed/10572?q=%23%E6%B5%8F%E8%A7%88%E5%99%A8">#浏览器</a></p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/elmo-chat/">Elmo Chat - 快速总结网站内容、在线视频，与 PDF 聊天、翻译等，免费 Chrome 扩展 - 小众软件</a></b><br /><p>Elmo Chat 是一款 Chrome 侧板烂扩展，它可以针对当前网页进行快速总结（支持中文），也可以处理在线视频（YouTube）、PDF 文档，总结之后，还可以继续提问。目前可免费使用，无需注册。@Appinn</p><img src="https://cdn4.cdn-telegram.org/file/qUPPvQSR0BXa6Stwh06e0USE5B12xl1T6arnVkWJsXXobXrVR1h6ZWj5rWpCn2QP5x74Dr9wVDtBLNdLwG8_qVGqoLAD6fNboTdxq2sicZSDJBLXtU1B3V5qK1h3QfO7MO77V9FHQ3xDuPcKgSjoJJzCMFI08dq0Dg3DrST9Fyc8wKLNolTrVRZTmsH3pXcACIF_2RutHe1qqA-FmAq2eNLpOyS_5XYZZlWxQoLxZIqweoaqGGlqxY4R4ZDXlHOxmQhIHjf_oPlY_GjU-M36BRWaxSsvL3gtTzuIsBwYWnHW0ogfBkRkKkxExGTtztgNllKEEfRu0YoZv7EUAs--Yw.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Sat, 11 May 2024 04:44:02 GMT</pubDate>
-</item>
-<item>
-<title>📣 #发现频道 Rap Generator-让任何Rap爱好者轻松创作Rap称为可能 https://meta.appinn.net/t/topic/56287</title>
-<link>https://t.me/appinnfeed/10571</link>
-<guid>https://t.me/appinnfeed/10571</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/10571?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />Rap Generator-让任何Rap爱好者轻松创作Rap称为可能<br /><br /><a href="https://meta.appinn.net/t/topic/56287" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/56287</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/56287">Rap Generator-让任何Rap爱好者轻松创作Rap称为可能</a></b><br /><p>软件名称 Rap Generator  应用平台  Web  推荐类型 【开发者自荐】  一句简介 生成说唱歌词和歌曲的免费AI工具  应用简介 Rap Generator为免费生成说唱歌词和歌曲提供了一个全面的平台。用户可以输入提示词，选择情绪，并个性化他们的歌词，并可以选择免费创建两首定制的说唱歌曲。此外，用户可以免费下载和收听人工智能生成的说唱歌曲  官方网站 https://rapgenerator.net  截图预览</p><img src="https://cdn4.cdn-telegram.org/file/FcFK5NAosSIZV0xgxuli5N2nwGUe0dq-FpN-W_Kh_N1WVmgk62YO9crLSlLLlv_x2L1F_Gj3fng-tsOb0jFlec7SbDuj2YGLwt9aBaHiNC1-mw5UTkkrDI1qgxqU4m6VWHQZBDX6fjJpBIyOMXpqQlQrjQWAud5Zo1dm5t7zGCjz2hCh8uVTr2S3ZDaFIMvbc8eQjG47dhKhu-x2rYM-dld6S851JBppBqT8tExweHroUVdmtDpsHfTglKLiD1skHF6UbG-5c9BlzzSGoR1SUJ6M2mrO3PjYPLwriCGVsQ32ApYOYkHC87Ii_TsVHSR7VK8tkCkX2bsoPwKyaDJozg.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Sat, 11 May 2024 03:00:01 GMT</pubDate>
-</item>
-<item>
-<title>❓ #问题求助 如何制作一个局域网内的 HTML 游戏网站？ https://meta.appinn.net/t/topic/56277</title>
-<link>https://t.me/appinnfeed/10570</link>
-<guid>https://t.me/appinnfeed/10570</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10570?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />如何制作一个局域网内的 HTML 游戏网站？<br /><br /><a href="https://meta.appinn.net/t/topic/56277" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/56277</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/56277">如何制作一个局域网内的 HTML 游戏网站？</a></b><br /><p>收集了一些 RPG Maker 制作的游戏，由 MV 以后的引擎开发的游戏本质上是一个网页，用 python 之类的工具部署后可以在内网用浏览器游玩。  我想做一个网站链接到这些游戏，可以在局域网内用任意设备游玩。不仅可以节省设备空间不用传输游戏，而且对系统没有要求，在 Android 或 Linux 设备上不用装模拟器了。  实际尝试了一下遇到了几个问题：    存档不知道怎样同步。游戏的存档在浏览器中，位置如图    需要将其与服务端的本地存档实现同步。能想到的方法是服务端开一个ftp，在客户端的浏…</p><img src="https://cdn4.cdn-telegram.org/file/FcFK5NAosSIZV0xgxuli5N2nwGUe0dq-FpN-W_Kh_N1WVmgk62YO9crLSlLLlv_x2L1F_Gj3fng-tsOb0jFlec7SbDuj2YGLwt9aBaHiNC1-mw5UTkkrDI1qgxqU4m6VWHQZBDX6fjJpBIyOMXpqQlQrjQWAud5Zo1dm5t7zGCjz2hCh8uVTr2S3ZDaFIMvbc8eQjG47dhKhu-x2rYM-dld6S851JBppBqT8tExweHroUVdmtDpsHfTglKLiD1skHF6UbG-5c9BlzzSGoR1SUJ6M2mrO3PjYPLwriCGVsQ32ApYOYkHC87Ii_TsVHSR7VK8tkCkX2bsoPwKyaDJozg.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Fri, 10 May 2024 18:44:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

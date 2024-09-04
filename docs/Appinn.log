@@ -46326,3 +46326,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Append: [💧 #小众软件 【新】PowerToys 工作区：一键启动一组程序，并恢复窗口位置 https://www.appinn.com/powertoys-workspaces/](https://t.me/appinnfeed/12072)
 append_entries: 1
 Finish: 2024-09-04 18:01:53
+------------------------------------------------------
+Started: 2024-09-04 19:01:28
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 530
+append_entries: 0
+error when rendering xml, skip docs/Appinn

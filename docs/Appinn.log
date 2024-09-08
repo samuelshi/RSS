@@ -46914,3 +46914,10 @@ Append: [❓ #问题求助 有没有可以监控程序对硬盘访问的工具�
 Append: [❓ #问题求助 有没有好用的游戏存档回档工具？ https://meta.appinn.net/t/topic/60781](https://t.me/appinnfeed/12099)
 append_entries: 2
 Finish: 2024-09-08 14:01:35
+------------------------------------------------------
+Started: 2024-09-08 15:01:48
+Existing_entries: 1002
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 502
+append_entries: 0
+error when rendering xml, skip docs/Appinn

@@ -47387,3 +47387,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Append: [💧 #小众软件 SimpleMindMap – 开源、功能完整的思维导图工具[跨平台/Web] https://www.appinn.com/simplemindmap/](https://t.me/appinnfeed/12125)
 append_entries: 1
 Finish: 2024-09-11 16:01:54
+------------------------------------------------------
+Started: 2024-09-11 17:01:41
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 502
+append_entries: 0
+error when rendering xml, skip docs/Appinn

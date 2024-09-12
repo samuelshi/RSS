@@ -5,17 +5,37 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>蚂蚁集团就65亿美元信贷额度再融资 据知情人士透露，蚂蚁集团正在就 65 亿美元的离岸信贷额度进行再融资，以扩大其全球业务。匿名知情人士表示，这家中国公司计...</title>
+<link>https://t.me/xhqcankao/13437</link>
+<guid>https://t.me/xhqcankao/13437</guid>
+<content:encoded><![CDATA[
+
+<p><b>蚂蚁集团就65亿美元信贷额度再融资</b><br /><br />据知情人士透露，蚂蚁集团正在就 65 亿美元的离岸信贷额度进行再融资，以扩大其全球业务。匿名知情人士表示，这家中国公司计划为其海外子公司蚂蚁国际分配15亿美元的信贷额度。蚂蚁集团在一封电子邮件声明中表示，该公司将从2019年开始为现有的银团银行信贷额度进行再融资。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-09-12/jack-ma-backed-ant-is-refinancing-a-credit-line-of-6-5-billion" rel="noopener" target="_blank">彭博社</a></p>
+]]></content:encoded>
+<pubDate>Thu, 12 Sep 2024 23:00:01 GMT</pubDate>
+<pubDate>Thu, 12 Sep 2024 23:00:01 GMT</pubDate>
+</item>
+<item>
+<title>苹果修复 Vision Pro 安全漏洞，该漏洞可能会泄露输入的内容 今年，由六名计算机科学家组成的小组发现了 Apple Vision Pro 中的一个安全漏洞，该漏洞允许他们重...</title>
+<link>https://t.me/xhqcankao/13436</link>
+<guid>https://t.me/xhqcankao/13436</guid>
+<content:encoded><![CDATA[
+
+<p><b>苹果修复 Vision Pro 安全漏洞，该漏洞可能会泄露输入的内容</b><br /><br />今年，由六名计算机科学家组成的小组发现了 Apple Vision Pro 中的一个安全漏洞，该漏洞允许他们重建人们输入的内容，包括密码、PIN 和消息。当 Vision Pro 用户使用虚拟 Persona 头像时，研究人员能够通过分析 Persona 的眼球运动或“注视”来判断用户在头显虚拟键盘上输入的内容。研究人员称，人们的目光通常会集中在他们接下来可能按下的键上。因此，研究人员在五次猜测内能够92%的准确率识别出人们在消息中输入的字母，对于密码的识别准确率为77%。研究人员于四月份向苹果公司披露了此漏洞，苹果于七月份在 visionOS 1.3 中解决了此问题。<br /><br />—— <a href="https://www.wired.com/story/apple-vision-pro-persona-eye-tracking-spy-typing/" rel="noopener" target="_blank">连线杂志</a></p>
+]]></content:encoded>
+<pubDate>Thu, 12 Sep 2024 22:31:30 GMT</pubDate>
+<pubDate>Thu, 12 Sep 2024 22:31:30 GMT</pubDate>
+</item>
+
+<item>
 <title>OpenAI 发布新的推理模型: OpenAI 刚刚发布新的推理模型，可给ChatGPT Plus 和 Team 用户使用，o1-preview 每周速率限制为 30 条消息，o1-mini 每周速率限制为 5...</title>
 <link>https://t.me/xhqcankao/13435</link>
 <guid>https://t.me/xhqcankao/13435</guid>
 <content:encoded><![CDATA[
-
 <p><b>OpenAI 发布新的推理模型:</b><br />OpenAI 刚刚发布新的推理模型，可给ChatGPT Plus 和 Team 用户使用，o1-preview <b>每周</b>速率限制为 30 条消息，o1-mini <b>每周</b>速率限制为 50 条。目前暂不开放给api (除非你是Tier 5 (消费超过$1000)的api使用者)。<br /><br />根据OpenAI，O1模型可以解决“博士等级”的问题，并在竞赛中取得极好的成绩(AIME 成绩在全美国前500名) 。但是需要注意的是o-1-mini 和o1-preview 并非表现最好的模型，OpenAI并未发布O1（内部模型），并且在一副图表中显示了一个名叫O1-ioi的<a href="https://openai.com/index/learning-to-reason-with-llms/" rel="noopener" target="_blank">具有更好评分</a>的一个模型。但o1-preview大部分评分均远高于GPT-4o。<br /><br />O1-mini在纯数学领域与编码领域甚至可以超过o1-preview评分，并达到接近内部O1模型的<a href="https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/" rel="noopener" target="_blank">评分</a>。<br /><br /><a href="https://platform.openai.com/docs/guides/reasoning" rel="noopener" target="_blank">目前</a>O1系列模型不支持视觉输入，会使用大量的Token在内部进行推理(并且内部推理Token将会收费)，花较长时间进行思考(O1 mini 较快，但是依旧比GPT-4o慢3-5倍，O1-preview可能会花费分钟级时间)<br /><br />—-<a href="https://openai.com/index/introducing-openai-o1-preview/" rel="noopener" target="_blank">OpenAI</a> (更多具体信息请见)</p>
 ]]></content:encoded>
 <pubDate>Thu, 12 Sep 2024 21:32:36 GMT</pubDate>
-<pubDate>Thu, 12 Sep 2024 21:32:36 GMT</pubDate>
 </item>
-
 <item>
 <title>白宫要求人工智能供应商自愿承诺打击深度伪造裸照 白宫表示，几家主要的人工智能供应商已承诺采取措施打击非自愿的深度伪造和儿童性虐待内容。Adobe、Cohere、微...</title>
 <link>https://t.me/xhqcankao/13434</link>
@@ -9054,15 +9074,6 @@
 <p><b>科技巨头拥抱版权：Meta 与环球音乐进一步合作，解决在AI生成内容方面的问题</b><br /><br />8月12日，环球音乐集团宣布与Meta公司达成多年期扩大协议，为旗下艺术家和词曲作者在 Facebook 和 Instagram 等Meta平台上进一步发展创作和商业机遇。声明称，新协议反映了双方共同致力于保护人类创作者和艺术，包括确保艺术家和词曲作者得到公平报酬。作为多方面合作的一部分，Meta和环球音乐将继续合作解决可能影响艺术家和词曲作者的未经授权的AI生成内容等问题。<br /><br />—— <a href="https://www.jiemian.com/article/11547470.html" rel="noopener" target="_blank">界面新闻</a>、<a href="https://www.prnewswire.com/news-releases/meta-and-universal-music-group-announce-expanded-global-agreement-302219807.html" rel="noopener" target="_blank">美通社</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 12 Aug 2024 13:18:12 GMT</pubDate>
-</item>
-<item>
-<title>🖼 #News 🌌 自留地晚报 【8.12】 1️⃣ 9to5Mac 报道称，iPhone 16 系列将较上一代产品调整不大，而 iPhone 17 系列或迎来较大调整，有望推出 “Air”型iPh...</title>
-<link>https://t.me/NewlearnerChannel/13251</link>
-<guid>https://t.me/NewlearnerChannel/13251</guid>
-<content:encoded><![CDATA[
-<p><a href="https://t.me/NewlearnerChannel/13251?q=%23News">#News</a><br /><br /><span class="emoji">🌌</span> 自留地晚报 【8.12】<br /><br /><span class="emoji">1️⃣</span> <a href="https://9to5mac.com/2024/08/11/gurman-slim-iphone-17-foldable/" rel="noopener" target="_blank">9to5Mac</a> 报道称，iPhone 16 系列将较上一代产品调整不大，而 iPhone 17 系列或迎来较大调整，有望推出 “Air”型iPhone<br /><br /><span class="emoji">2️⃣</span> <a href="https://www.wired.com/story/google-android-red-team-qualcomm-gpu-flaws/" rel="noopener" target="_blank">Wired</a> 报道称，谷歌安全团队发现高通 Adreno GPU 驱动超 9 个重要漏洞，OEM 已获补丁推送<br /><br /><span class="emoji">3️⃣</span> <a href="https://9to5mac.com/2024/08/11/paid-apple-intelligence/" rel="noopener" target="_blank">9to5Mac</a> 报道称，虽然苹果公司计划将部分 Apple Intelligence 转变为高达 20 美元 / 月的付费服务，但至少未来 3 年内不会收费<br /><br /><span class="emoji">4️⃣</span> <a href="https://www.etnews.com/20240809000195" rel="noopener" target="_blank">ETNews</a> 报道称，三星电子内部已确认在平泽 P4 工厂建设 1c nm DRAM 内存产线的投资计划，该产线目标明年 6 月投入运营<br /><br /><span class="emoji">5️⃣</span> <a href="https://9to5mac.com/2024/08/11/gurman-apple-vision/" rel="noopener" target="_blank">9to5Mac</a> 报道称，苹果正继续开发新产品，主要包含 Vision Pro 2、更便宜的 Vision 头显以及一款智能眼镜，“平价款”Vision 头显有望明年推出<br /><br /><span class="emoji">6️⃣</span> <a href="https://weibo.com/6617213711/OrVbSd90T" rel="noopener" target="_blank">realme</a> 官宣将于 8 月 14 日发布&nbsp;320W 超光速秒充，这也将是手机有线快充的新纪录<br /><br /><span class="emoji">7️⃣</span> 世界科幻小说最高奖 2024 <a href="https://www.thehugoawards.org/hugo-history/2024-hugo-awards/" rel="noopener" target="_blank">雨果奖</a> 揭晓，《不顾一切的荣耀》获最佳长篇小说奖<br /><br />频道：<a href="https://t.me/NewlearnerChannel" target="_blank">@NewlearnerChannel</a></p><img height="400.00" src="https://cdn5.cdn-telegram.org/file/K3zCFrq0d6nlmCLvkdAI0GtkV6YO8ZivrINyrDrPJ9fKpikWe-xThz1jsGRDOGgF9IYQIUuCN0XGh_5GBp4RVZrDlptWT5E1L6GgwphAMcNP9eGAwkDtDcyy2rsq2jKB7R7LArS3Ohdizf3qTUYak784F9E1SMhQUxhjol4Zaq2sHH8tN7nqJ1cTF1BBbGlmgLz0dKOsfx97W47wFllUqPyKgCIsY2ECYop5a6zVY3ZNMf7NbbVZtsS-2tlpdbb_f10Hh9VqyCLnlWCQJzAkg0bMuukbLNAiu-ueZuiV9TLd4u0JIuKeqYfJD0qTDRoUuJoKNCwqeX_iwrqU_zLChw.jpg" width="800" />
-]]></content:encoded>
-<pubDate>Mon, 12 Aug 2024 13:02:44 GMT</pubDate>
 </item>
 </channel>
 </rss>

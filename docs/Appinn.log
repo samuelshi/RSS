@@ -47500,3 +47500,10 @@ Append: [📣 #发现频道 【开发者自荐】锁屏启动，支持 iOS 18 �
 Append: [❓ #问题求助 有没有可以在PC上导入，导出微信聊天记录，并可以查看，搜索的工具呀？ https://meta.appinn.net/t/topic/60924](https://t.me/appinnfeed/12128)
 append_entries: 2
 Finish: 2024-09-12 16:01:49
+------------------------------------------------------
+Started: 2024-09-12 17:01:26
+Existing_entries: 1002
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [❓ #问题求助 如何在chrome中网页内容改变时发出明显的提示？ https://meta.appinn.net/t/topic/60932](https://t.me/appinnfeed/12130)
+append_entries: 1
+Finish: 2024-09-12 17:01:27

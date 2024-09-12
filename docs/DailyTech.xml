@@ -4,6 +4,17 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+<item>
+<title>OpenAI 发布新的推理模型: OpenAI 刚刚发布新的推理模型，可给ChatGPT Plus 和 Team 用户使用，o1-preview 每周速率限制为 30 条消息，o1-mini 每周速率限制为 5...</title>
+<link>https://t.me/xhqcankao/13435</link>
+<guid>https://t.me/xhqcankao/13435</guid>
+<content:encoded><![CDATA[
+
+<p><b>OpenAI 发布新的推理模型:</b><br />OpenAI 刚刚发布新的推理模型，可给ChatGPT Plus 和 Team 用户使用，o1-preview <b>每周</b>速率限制为 30 条消息，o1-mini <b>每周</b>速率限制为 50 条。目前暂不开放给api (除非你是Tier 5 (消费超过$1000)的api使用者)。<br /><br />根据OpenAI，O1模型可以解决“博士等级”的问题，并在竞赛中取得极好的成绩(AIME 成绩在全美国前500名) 。但是需要注意的是o-1-mini 和o1-preview 并非表现最好的模型，OpenAI并未发布O1（内部模型），并且在一副图表中显示了一个名叫O1-ioi的<a href="https://openai.com/index/learning-to-reason-with-llms/" rel="noopener" target="_blank">具有更好评分</a>的一个模型。但o1-preview大部分评分均远高于GPT-4o。<br /><br />O1-mini在纯数学领域与编码领域甚至可以超过o1-preview评分，并达到接近内部O1模型的<a href="https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/" rel="noopener" target="_blank">评分</a>。<br /><br /><a href="https://platform.openai.com/docs/guides/reasoning" rel="noopener" target="_blank">目前</a>O1系列模型不支持视觉输入，会使用大量的Token在内部进行推理(并且内部推理Token将会收费)，花较长时间进行思考(O1 mini 较快，但是依旧比GPT-4o慢3-5倍，O1-preview可能会花费分钟级时间)<br /><br />—-<a href="https://openai.com/index/introducing-openai-o1-preview/" rel="noopener" target="_blank">OpenAI</a> (更多具体信息请见)</p>
+]]></content:encoded>
+<pubDate>Thu, 12 Sep 2024 21:32:36 GMT</pubDate>
+<pubDate>Thu, 12 Sep 2024 21:32:36 GMT</pubDate>
+</item>
 
 <item>
 <title>白宫要求人工智能供应商自愿承诺打击深度伪造裸照 白宫表示，几家主要的人工智能供应商已承诺采取措施打击非自愿的深度伪造和儿童性虐待内容。Adobe、Cohere、微...</title>

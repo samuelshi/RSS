@@ -48525,3 +48525,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 502
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-09-19 11:03:22
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [❓ #问题求助 CPU、GPU等参数汇总网站模板 https://meta.appinn.net/t/topic/61144](https://t.me/appinnfeed/12173)
+append_entries: 1
+Finish: 2024-09-19 11:03:26

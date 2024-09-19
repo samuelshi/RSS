@@ -5,14 +5,35 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>刷到@Neo张宁 分享的The Verge对Evernote的采访播客，一个小时的对谈听完，感觉信息密度还是有的，但也不是特别多，整个叙事的亮点在于对触底反弹的复盘，贡献了...</title>
+<link>https://t.me/jike_collection/10179</link>
+<guid>https://t.me/jike_collection/10179</guid>
+<content:encoded><![CDATA[
+
+<p>刷到@Neo张宁 分享的The Verge对Evernote的采访播客，一个小时的对谈听完，感觉信息密度还是有的，但也不是特别多，整个叙事的亮点在于对触底反弹的复盘，贡献了不少来自一线产品端的视角。<br /><br />Evernote有过非常辉煌的历史，这是我们都知道的，十年前就成为了最受欢迎的生产力应用，即使它家道中落了，后来崛起的各种笔记应用也没有哪个触及到Evernote曾经抵达的出圈高度，嗯，Notion应该也没有做到。<br /><br />不过可能也正是因为心态膨胀了，才让Evernote头也不回的走上了歪路：它开始想要成为一家生活方式公司，就像科技行业的Nike那样，把重心放在了自营电商上，努力贩卖那些贴牌的袜子、便利贴、咖啡杯等实物商品，结果可想而知，连带着主营业务全面下滑，换了几任CEO都无济于事。<br /><br />2022年，Evernote被意大利公司Bending Spoons收购，并裁掉了所有的美国员工，这被视为摆烂的信号，昔日的创新领头羊被垂暮的欧洲互联网捡走，这个故事大概也不会有什么下文了。<br /><br />Bending Spoons也是一家很有意思的公司，它有点像不良资产收购商和初创企业孵化器的混合体，奉行的策略跟芒格喜欢的那种专在市场上「拣烟屁股」很是接近，就是瞄准发展受阻由盛转衰的产品，在估值大跌的情况下压价买入，然后回炉重造。<br /><br />重造手段也很简单粗暴，把人全部裁光，由自己的团队接手，每个产品也不再是独立的项目了，都共享着同一个开发中台，突出一个节约成本，这套反常识反硅谷的做法也加深了当时对于Evernote命运的悲观态度，但同样很反套路的，Bending Spoons好像还……真把事儿给做成了。<br /><br />这次Evernote能找The Verge做PR，就是因为数据表现非常不错，经过两年时间时间重新实现了起死回生的上升曲线，而播客标题也是长吁一口气的「The great Evernote reboot」。<br /><br />产品负责人表示，Evernote有着特殊性，它和Bending Spoons善于重造的其他工具类应用不同，代码库里的最早痕迹甚至可以追溯到2004年，光是理解和消化它的客户端，就花了很长时间，并意识到重造是不可能的，只能尽可能翻修，一边刷漆一边营业。<br /><br />减少技术债务（Technical Debt）是Evernote改造工程里最难的一件事，不光是屎山代码让人头大，砍功能也是非常容易得罪用户的做法，如果把那些依然留在Evernote里的用户视为忠诚顾客，那么惹恼他们的最直接手段就是让他们在打开Evernote后总会隔三差五的发现有几个按钮又不见了。<br /><br />所有的取舍都关乎平衡，平衡这个词在播客里出现了很多次，在语境里的意思是用最少的痛苦换来最大的改变，Bending Spoons似乎还去找微软咨询过技术问题，而微软那边的反馈是，运营Excel这样的产品，最大的难点在于哪怕你删掉一个只有1%的用户点击的功能，但这仍然意味着千万级的用户在依靠这个功能工作，但是如果一款产品永远只会做加法不能做减法，那到最后一定会变得臃肿不堪并无法使用。<br /><br />「你不可能让每个人都满意，所以我们一开始就明白，新的Evernote必然会搞砸一定比例的用户体验。」<br /><br />Evernote的选择是把「改善生活」这个基础能力当做唯一的竞争力去改写产品，在这个过程中重新圈定它的核心用户，同时也承受非核心用户骂骂咧咧的退出群聊。Bending Spoons以最快的速度改掉了Evernote曾经伟大却不切实际的平台化使命，把Slogan回归到了最通俗的价值点上：「驯服你的工作，管理你的生活」（Tame your work, Organize your life）。<br /><br />至于基础能力的标准是什么，Evernote采用了高频调研的方式，去对用户需求做量化统计，投票越多的，开发排序越是靠前，回归少数服从多数的简单规则，比如用户会说Slack有哪些点很好，没问题，开抄，什么产品经理的尊严和主见，不存在的。<br /><br />砍掉冗余功能也让Evernote找回基础能力变得更容易了，比如新的同步引擎可以让多设备之间的修改始终保持一致，这在最古早时就是Evernote吸引人的地方，但是后来产品越做越大，同步效率也不可避免的被拖累了。<br /><br />每个人都在用不同的方法使用Evernote，在这里面寻找最大公约数很难，但在大规模的量化统计后，主流的用户画像还是出来了，可以分为三类：用来收集和整理各种信息的备份者、希望高效率保存灵感和思路的创作者、构建个人知识库的生产者。<br /><br />也是在这个过程里，Evernote完全的放弃掉了企业市场、项目管理市场、甚至部分程度的协作市场，把有限的资源集中在个人用户身上，只为这些经过提纯后的使用者供给产品，并在社交媒体上遭受着一轮又一轮「你变了」的骂声。<br /><br />但数据不会说谎，Evernote的留存率现在是史上最高的，最近半年的下载量提升了50%以上，久违的新用户开始涌入，曾经濒死的下坠曲线也开始重新上翘，这让公司内部非常兴奋。<br /><br />谈到产品改造，关键词始终还是平衡，AI很强大，但很多人会在笔记里存放敏感信息，甚至包括他们的密码，会有担心被窥探的本能心理，所以Evernote在AI引入上用了相对保守的尺度，也增加了端对端加密的架构，「但是真的希望大家不要用Evernote来存密码，毕竟这不是一款专业的密码管理应用」。<br /><br />还有降本增效的考虑，这也很有难度，Evernote进一步限制了免费用户的功能，同时还上调了订阅价格，没有用户会在调研里说「我希望你们涨价」，但开发者要做的就是向他们证明你能提供的价值远远超过了向他们收取的费用。<br /><br />整个播客听完就感觉Evernote还挺珍惜现在这么一个好的苗头的，Bending Spoons这波操作也给欧洲互联网长脸了，但竞争依旧很激烈，泛笔记类型的替代品和AI新技术都在撕咬生产力市场，Evernote的复兴之路还长得很。<br /><br />当然了，国区的印象笔记早就拆出来了，跟Evernote没啥关系了，这个应该都知道吧，上面发生过的所有事情都跟它无关。<br /><br />source:Vergecast - The great Evernote reboot<br /><br />by @阑夕ོ  <a href="https://t.me/jike_collection/10179?q=%23%E7%A7%91%E6%8A%80%E5%9C%88%E5%A4%A7%E5%B0%8F%E4%BA%8B">#科技圈大小事</a></p>
+]]></content:encoded>
+<pubDate>Thu, 19 Sep 2024 06:30:53 GMT</pubDate>
+<pubDate>Thu, 19 Sep 2024 06:30:53 GMT</pubDate>
+</item>
+<item>
+<title>德国电动汽车销量下滑拖累欧洲汽车市场 欧洲汽车制造商协会周四表示，8月份，德国电动汽车交付量暴跌69%，仅略高于2.7万辆。去年，在德国政府结束对电动汽车公司...</title>
+<link>https://t.me/xhqcankao/13606</link>
+<guid>https://t.me/xhqcankao/13606</guid>
+<content:encoded><![CDATA[
+
+<p><b>德国电动汽车销量下滑拖累欧洲汽车市场</b><br /><br />欧洲汽车制造商协会周四表示，8月份，德国电动汽车交付量暴跌69%，仅略高于2.7万辆。去年，在德国政府结束对电动汽车公司的补贴之前，电动汽车销量曾大幅增长，而今年却出现了逆转。截至8月份，德国电动汽车市场的份额已从去年同期的略高于15%下降至14%，颠覆了汽车制造商摆脱内燃机汽车的战略。整个欧洲，上个月新车注册量与去年同期相比下降了16.5%，至755,717万辆，其中法国和意大利的新车注册量也出现下降。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-09-19/germany-s-slump-in-ev-sales-drags-on-europe-s-auto-market" rel="noopener" target="_blank">彭博社</a></p>
+]]></content:encoded>
+<pubDate>Thu, 19 Sep 2024 06:59:31 GMT</pubDate>
+<pubDate>Thu, 19 Sep 2024 06:59:31 GMT</pubDate>
+</item>
+
+<item>
 <title>印尼调查六百万纳税人信息泄露的事件 印尼税务机构正在调查包括总统佐科威及其部长在内的数百万纳税人数据在网上泄露的指控。发言人德维·阿斯图蒂周四表示：“...</title>
 <link>https://t.me/xhqcankao/13605</link>
 <guid>https://t.me/xhqcankao/13605</guid>
 <content:encoded><![CDATA[
-
 <p><b>印尼调查六百万纳税人信息泄露的事件</b><br /><br />印尼税务机构正在调查包括总统佐科威及其部长在内的数百万纳税人数据在网上泄露的指控。发言人德维·阿斯图蒂周四表示：“我们的技术团队目前正在进行深入调查。”周三在社交媒体平台 X 上的帖子称，大约600万个税务识别号正在黑客网站 BreachForums 上以1.5亿印尼盾的价格出售。据称，泄露的数据中包括总统佐科维、他的儿子兼当选副总统吉布兰·拉卡布明，以及财政部长斯里·穆利亚尼·英卓瓦蒂和其他内阁成员的资料。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-09-19/indonesia-probes-alleged-hack-of-jokowi-six-million-taxpayers" rel="noopener" target="_blank">彭博社</a></p>
 ]]></content:encoded>
-<pubDate>Thu, 19 Sep 2024 06:01:06 GMT</pubDate>
 <pubDate>Thu, 19 Sep 2024 06:01:06 GMT</pubDate>
 </item>
 <item>
@@ -20,10 +41,8 @@
 <link>https://t.me/xhqcankao/13604</link>
 <guid>https://t.me/xhqcankao/13604</guid>
 <content:encoded><![CDATA[
-
 <p><b>微软与初创公司 Anduril 合作开发陆军作战护目镜系统</b><br /><br />国防技术初创公司 Anduril 正在与微软公司合作，提高被称为综合视觉增强系统(IVAS)的美国陆军新型作战护目镜的性能。这款护目镜基于混合现实头显，旨在为士兵提供从夜视能力到空中威胁预警等各种态势感知功能。尽管微软的早期版本让士兵感到头痛和恶心，但陆军对改进后的更轻薄版本表示赞赏。<br /><br />Anduril 周四表示，该项目可能在未来十年为带来高达219亿美元的收入，美国陆军可能会订购多达12.1万台设备，但必须在明年通过高强度作战测试，然后才能投入全面生产。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-09-19/microsoft-teams-with-startup-anduril-on-army-combat-goggle-system" rel="noopener" target="_blank">彭博社</a></p>
 ]]></content:encoded>
-<pubDate>Thu, 19 Sep 2024 05:17:53 GMT</pubDate>
 <pubDate>Thu, 19 Sep 2024 05:17:53 GMT</pubDate>
 </item>
 <item>
@@ -31,13 +50,10 @@
 <link>https://t.me/xhqcankao/13603</link>
 <guid>https://t.me/xhqcankao/13603</guid>
 <content:encoded><![CDATA[
-
 <p><b>疑中国助俄罗斯规避禁令 美国调查中国铀进口量激增<br /><br /></b>美国政府怀疑中国把从俄罗斯进口的浓缩铀出口到美国，以帮助莫斯科绕开美国不准从俄罗斯进口核电站燃料的禁令，正就去年底中国对美出口浓缩铀开始激增的情况展开调查。美国能源部发言人说，美国能源部与其他相关机构一起密切跟踪从中国的进口情况，以确保正确实施最近颁布的《禁止俄罗斯铀进口法》。发言人说，美国正关注来自中国和其他国家的进口情况，以确保他们没有将俄罗斯铀进口作为出口国内生产材料计划的一部分。<br /><br />—— <a href="https://www.reuters.com/markets/commodities/us-probes-uranium-jump-china-amid-concerns-over-russian-import-ban-2024-09-17/" rel="noopener" target="_blank">路透社</a>、<a href="https://m.kzaobao.com/cngov/2024-09/19169784.html" rel="noopener" target="_blank">联合早报</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 19 Sep 2024 05:16:16 GMT</pubDate>
-<pubDate>Thu, 19 Sep 2024 05:16:16 GMT</pubDate>
 </item>
-
 <item>
 <title>韩国近四年发生122起无人机“黑飞”致航班受阻事件 韩国仁川机场公社和韩国机场公社19日提交的资料显示，2020年9月至2024年8月，韩国全国机场共查处506起无人机...</title>
 <link>https://t.me/xhqcankao/13602</link>
@@ -9058,33 +9074,6 @@
 <p><b>鸿海将与苹果公司合作生产桌面机器人</b><br /><br />供应链传出，鸿海集团旗下机壳大厂鸿准因具备量产机器人相关零部件经验，被苹果公司纳入机器人供应链合作名单，双方将携手抢攻庞大的机器人市场商机。据悉，鸿准主要负责苹果公司桌面机器人机构件与机壳相关开发，未来苹果新品上市后，鸿准负责量产机构件，并成为鸿海集团挥军机器人领域的“急先锋”。据彭博社报道，苹果公司目前有一个数百人的团队在开发桌面机器人，将类似 iPad 的显示屏与机械臂结合在一起，并与苹果 Apple Intelligence 将推出的功能连接，打造为苹果智慧家庭中枢系统。计划最早2026或2027年上市。预估售价1000美元。<br /><br />—— <a href="https://money.udn.com/money/story/11162/8170073?from=edn_maintab_index" rel="noopener" target="_blank">台湾经济日报</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 19 Aug 2024 01:30:14 GMT</pubDate>
-</item>
-<item>
-<title>美国东南部的1.7万名 AT&amp;T 员工因合同谈判而罢工 由于在最近的合同谈判中指责公司管理层存在“不公平的劳工行为”，美国东南部1.7万余名 AT&amp;T 员工正在进行罢工...</title>
-<link>https://t.me/xhqcankao/12816</link>
-<guid>https://t.me/xhqcankao/12816</guid>
-<content:encoded><![CDATA[
-<p><b>美国东南部的1.7万名 AT&amp;T 员工因合同谈判而罢工</b><br /><br />由于在最近的合同谈判中指责公司管理层存在“不公平的劳工行为”，美国东南部1.7万余名 AT&amp;T 员工正在进行罢工。代表罢工员工的工会美国通信工人联合会 (CWA) 上周五发表声明称，AT&amp;T 没有真诚地进行谈判，派出的谈判代表没有任何决策权。该工会表示已向美国劳工关系委员会提出申诉。罢工工人包括技术人员、客户服务代表和 AT&amp;T 电线安装工人。AT&amp;T 在声明中否认该公司违反了任何劳动法，并表示希望协商一份新合同。该公司表示：“CWA 关于不公平劳工行为的指控毫无事实依据。我们从第一天起就一直在进行实质性谈判，并希望达成一项有利于我们辛勤工作员工的协议。”<br /><br />—— <a href="https://www.npr.org/2024/08/17/nx-s1-5079614/att-workers-strike-contract-negotiations" rel="noopener" target="_blank">美国公共广播电台</a></p>
-]]></content:encoded>
-<pubDate>Mon, 19 Aug 2024 00:39:58 GMT</pubDate>
-</item>
-<item>
-<title>原来魑魅魍魉是 魑（长得像龍但没有角）、 魅（迷人心智的漂亮鬼）、 魍魉（兴风作浪的水鬼） ↑三位啊 还以为是魑、魅、魍、魉四位呢 中元节鬼知识👻🤪 by ...</title>
-<link>https://t.me/jike_collection/10101</link>
-<guid>https://t.me/jike_collection/10101</guid>
-<content:encoded><![CDATA[
-<p>原来魑魅魍魉是<br />魑（长得像龍但没有角）、<br />魅（迷人心智的漂亮鬼）、<br />魍魉（兴风作浪的水鬼）<br />↑三位啊<br />还以为是魑、魅、魍、魉四位呢<br /><br />中元节鬼知识<span class="emoji">👻</span><span class="emoji">🤪</span><br /><br />by <a href="https://t.me/Usagi_" target="_blank">@Usagi_</a>  <a href="https://t.me/jike_collection/10101?q=%23%E6%97%A0%E7%94%A8%E4%BD%86%E6%9C%89%E8%B6%A3%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86">#无用但有趣的冷知识</a></p>
-]]></content:encoded>
-<pubDate>Sun, 18 Aug 2024 23:14:49 GMT</pubDate>
-</item>
-<item>
-<title>美国康涅狄格州格林尼治镇学校将于九月起禁止使用大部分手机、智能手表等 根据美国格林威治镇公立学校手机和个人设备规定，从九月份开始，学生将不允许在学校上...</title>
-<link>https://t.me/xhqcankao/12815</link>
-<guid>https://t.me/xhqcankao/12815</guid>
-<content:encoded><![CDATA[
-<p><b>美国康涅狄格州格林尼治镇学校将于九月起禁止使用大部分手机、智能手表等</b><br /><br />根据美国格林威治镇公立学校手机和个人设备规定，从九月份开始，学生将不允许在学校上课期间拿出手机发送短信或浏览社交媒体。对于幼儿园到五年级的学生，学区鼓励家长不要让孩子带手机上学。如果家长认为在特殊情况下有安全需要，那么在上学期间必须将手机关机并放在储物柜或背包里。对于中学生，学区官员鼓励家长推迟购买手机产品。但如果学生将手机带到学校，则需要在整个上学日内将手机关机并放在背包或储物柜中。课间、午餐或教学时段内不得使用手机，使用手机拍摄黑板笔记或其他学习策略须获教师许可。从幼儿园到八年级的学生不得佩戴智能手表等设备，医疗除外。<br /><br />—— <a href="https://www.greenwichtime.com/news/education/article/greenwich-schools-cellphones-ban-fitbit-19660245.php" rel="noopener" target="_blank">Greenwichtime</a></p>
-]]></content:encoded>
-<pubDate>Sun, 18 Aug 2024 23:39:30 GMT</pubDate>
 </item>
 </channel>
 </rss>

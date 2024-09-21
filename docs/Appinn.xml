@@ -5,17 +5,26 @@
 <link>https://t.me/s/appinnfeed</link>
 
 <item>
+<title>❓ #问题求助 如何隐藏power shell的窗口到系统托盘 https://meta.appinn.net/t/topic/61252</title>
+<link>https://t.me/appinnfeed/12193</link>
+<guid>https://t.me/appinnfeed/12193</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12193?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />如何隐藏power shell的窗口到系统托盘<br /><a href="https://meta.appinn.net/t/topic/61252" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/61252</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/61252">如何隐藏power shell的窗口到系统托盘</a></b><br /><p>在用CapsWriter Offline，但是总是挂着两个窗口，感觉有点繁琐。在看作者的 b 站视频的时候，看到一条弹幕说可以隐藏 power shell 的窗口。  在网上搜索只能找到启用脚本的时候，偷偷运行或者输入某些代码达到隐藏运行的效果，没有找到可以把窗口最小化到系统托盘图标的方法。  那条弹幕是这么写的：  PowerShel下拉设置外观闪洗上“始终在通知区域中导示图标和最小化时在通知区城隐藏终端”，图标右键Windows可选择窗口  但是我在 PowerShell 里面只能找到属性，还更新到了7.5，下载的…</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/rbrbI_NNKH93HNfIoX66l29oWJHwKMe0ncip5EqB5yslLsTWXrvl1hG9iA5LiX43mgLfg6iyJu0LCWV-G1pnJ4vvQ4iSgDlkUKRPRkzq5rfTAc42GbtzrHqbiEx0feLvy-QuNFwdfyOtcJczW1s2LjNw0JPhH1hSJyD3kWe6z22cdNR2w47HfzFSHp0twxcK7ZWje632kot_Hej1L0XZBa324sl7WkHXJK_MLHEJELf_GG8YNfS79WY_lnyEolQw7JIBfOicp6WfoC9TcwpE0-V8q4MFUzkBp0PtT-GOpXjMJxJ57bl0Yb5eS7Izcsnq6Eh1HvQc2EcY5dyFqkV-Jw.jpg" width="0" /></blockquote>
+]]></content:encoded>
+<pubDate>Sat, 21 Sep 2024 13:22:40 GMT</pubDate>
+<pubDate>Sat, 21 Sep 2024 13:22:40 GMT</pubDate>
+</item>
+
+<item>
 <title>❓ #问题求助 求一个屏幕标注软件 https://meta.appinn.net/t/topic/61251</title>
 <link>https://t.me/appinnfeed/12192</link>
 <guid>https://t.me/appinnfeed/12192</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12192?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />求一个屏幕标注软件<br /><a href="https://meta.appinn.net/t/topic/61251" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/61251</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/61251">求一个屏幕标注软件</a></b><br /><p>需求：按下快捷键后，鼠标状态转为画笔，能在屏幕上标注一些内容，再次按下快捷键后鼠标取消画笔状态，能够对电脑正常操作，标注内容依然显示在屏幕上，不影响鼠标对其它窗口内容的点击。  试过水豚鼠标助手，对屏幕操作的时候会清空画板。</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/rbrbI_NNKH93HNfIoX66l29oWJHwKMe0ncip5EqB5yslLsTWXrvl1hG9iA5LiX43mgLfg6iyJu0LCWV-G1pnJ4vvQ4iSgDlkUKRPRkzq5rfTAc42GbtzrHqbiEx0feLvy-QuNFwdfyOtcJczW1s2LjNw0JPhH1hSJyD3kWe6z22cdNR2w47HfzFSHp0twxcK7ZWje632kot_Hej1L0XZBa324sl7WkHXJK_MLHEJELf_GG8YNfS79WY_lnyEolQw7JIBfOicp6WfoC9TcwpE0-V8q4MFUzkBp0PtT-GOpXjMJxJ57bl0Yb5eS7Izcsnq6Eh1HvQc2EcY5dyFqkV-Jw.jpg" width="0" /></blockquote>
 ]]></content:encoded>
 <pubDate>Sat, 21 Sep 2024 12:52:47 GMT</pubDate>
-<pubDate>Sat, 21 Sep 2024 12:52:47 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 Ipfs公关 https://meta.appinn.net/t/topic/61245</title>
 <link>https://t.me/appinnfeed/12191</link>
@@ -9010,15 +9019,6 @@
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10709?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />LANDrop无法识别到同一wify下的其他设备可能是什么原因？<br /><br /><a href="https://meta.appinn.net/t/topic/56762" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/56762</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/56762">LANDrop无法识别到同一wify下的其他设备可能是什么原因？</a></b><br /><img src="https://cdn4.cdn-telegram.org/file/o37LORf5Mu4t8vUnsdormvsCoskB0tU4hIKIiUOTQ9P3cE8GlCd8XRLYZSdxQ6WrxmX-ok21z1l2pEkcTzLw53kUO3KOm4yoOKH6y_8HOKPqR9b4kvF_EAAg4uRJ_IehRwqkL4dQoAfX5xgAtm2rFg4gfJcJdeuxcOUIdPpBjzBhGiKZ7I7Y-wInswG3uS3zMdpGZ5P4B0gzfsj7eg_jx5RQiV9PPCyy2IvJlLZ_8BeKxFYa_FOrbwiBytbOSK0F_zM_kVNi3lYU__LxTqTUhOhmtc-ndazLd03rg-IxQ5Vdo_m_UMkhlE55qySsjNqCPyy9KCiXm6b9yc-MbPJClQ.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Tue, 21 May 2024 09:36:01 GMT</pubDate>
-</item>
-<item>
-<title>❓ #问题求助 Onedrive的回收站能否筛查指定文件夹下的文件 https://meta.appinn.net/t/topic/56756</title>
-<link>https://t.me/appinnfeed/10708</link>
-<guid>https://t.me/appinnfeed/10708</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10708?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />Onedrive的回收站能否筛查指定文件夹下的文件<br /><br /><a href="https://meta.appinn.net/t/topic/56756" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/56756</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/56756">Onedrive的回收站能否筛查指定文件夹下的文件</a></b><br /><p>我有一张纪念意义很重要的照片放在onedrive里（普通个人版本的onedrive），并且没有在其他地方留有存档，是很多年前存的了，一直就放在那里  但是最近发现那张照片不见了，我不清楚是怎么回事，想找回来  但是因为我把onedrive作为了另一个软件的数据路径，那个软件最近删除了可能几万个文件，导致onedrive的网页端的回收站里面全是它的文件，我没有办法筛选到那张照片  所以想问问有没有什么办法可以在回收站中查看指定文件夹下被删除的文件  或者Windows的资源管理器里能不能直接像“文件历史版…</p><img src="https://cdn4.cdn-telegram.org/file/o37LORf5Mu4t8vUnsdormvsCoskB0tU4hIKIiUOTQ9P3cE8GlCd8XRLYZSdxQ6WrxmX-ok21z1l2pEkcTzLw53kUO3KOm4yoOKH6y_8HOKPqR9b4kvF_EAAg4uRJ_IehRwqkL4dQoAfX5xgAtm2rFg4gfJcJdeuxcOUIdPpBjzBhGiKZ7I7Y-wInswG3uS3zMdpGZ5P4B0gzfsj7eg_jx5RQiV9PPCyy2IvJlLZ_8BeKxFYa_FOrbwiBytbOSK0F_zM_kVNi3lYU__LxTqTUhOhmtc-ndazLd03rg-IxQ5Vdo_m_UMkhlE55qySsjNqCPyy9KCiXm6b9yc-MbPJClQ.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Tue, 21 May 2024 08:32:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -4,6 +4,17 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>❓ #问题求助 Javascript 转义字符的困惑？ https://meta.appinn.net/t/topic/61324</title>
+<link>https://t.me/appinnfeed/12210</link>
+<guid>https://t.me/appinnfeed/12210</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12210?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />Javascript 转义字符的困惑？<br /><a href="https://meta.appinn.net/t/topic/61324" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/61324</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/61324">Javascript 转义字符的困惑？</a></b><br /><p>javascript 转义字符的困惑 我有一个base64编码的原始字符串，我想解码以后替换其中的一部分内容，需要将其中 Unicode 字符转成 Unicode 码点，但是是生成的是双斜杠的，我无论如何都替换不成单反斜杠的。简单说我想将  [{"name":"String","value":"EFG\\u6DF1\\u5733"}]  转换成  [{"name":"String","value":"EFG\u6DF1\u5733"}]  困扰了几天毫无结果，哪位大佬能指点一下。  测试代码  function…</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/d2rXYvV775KLqrfizHNOy_43j8FEMuxuHI7b1ojlGw7Gjwf_NYQiA8PVtHRmtBed9H2ujxdJ3Uh8po0pBK9czqZtoOtZzxfWcG2I4-Hf9t-lLLLl-RWcpAmFJDiXgFK8UkWAWW_Ih825m70CIc0AkkvIVjFvrs6bqscqKCVdnHixTcFVg5R_QTbhu6CznlkbUzvcFhsTy-bf7N8Fg9mLGX3PeVB8439G-cz4Uu6kGIICGtVz2_evfsgdWfQwrrrk40LtSj-XO5S5eHJDGg2zaaVxL1-Zii1lwIR13W7coBYUi0SgXZXtUrvQfstxs3KiPTXN90dPNtcsP344P0W44w.jpg" width="0" /></blockquote>
+]]></content:encoded>
+<pubDate>Tue, 24 Sep 2024 04:22:48 GMT</pubDate>
+<pubDate>Tue, 24 Sep 2024 04:22:48 GMT</pubDate>
+</item>
 
 <item>
 <title>❓ #问题求助 寻找一款字体管理软件 https://meta.appinn.net/t/topic/61315</title>

@@ -5,17 +5,48 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>美国加利福尼亚州新法律要求一键取消订阅 美国加州州长加文·纽瑟姆已经签署了加州的“点击取消”法案 (286号议会法案)，使消费者更容易选择退出订阅。该法案于2...</title>
+<link>https://t.me/xhqcankao/13752</link>
+<guid>https://t.me/xhqcankao/13752</guid>
+<content:encoded><![CDATA[
+
+<p><b>美国加利福尼亚州新法律要求一键取消订阅<br /></b><br />美国加州州长加文·纽瑟姆已经签署了加州的“点击取消”法案 (286号议会法案)，使消费者更容易选择退出订阅。该法案于2024年4月提出，要求允许在线或应用内注册的公司同样提供在线或应用内取消订阅的功能。”加州议会议员皮拉尔·夏瓦表示：“286号议会法案是全国最全面的‘点击取消’立法，确保加州居民可以像注册时一样轻松地取消不需要的自动续订，只需点击一两次。”<br /><br />—— <a href="https://www.engadget.com/general/californias-click-to-cancel-subscription-bill-is-signed-into-law-123058770.html?src=rss" rel="noopener" target="_blank">Engadget</a></p>
+]]></content:encoded>
+<pubDate>Wed, 25 Sep 2024 13:40:55 GMT</pubDate>
+<pubDate>Wed, 25 Sep 2024 13:40:55 GMT</pubDate>
+</item>
+<item>
+<title>俄罗斯在中国建立了秘密的作战无人机项目 据欧洲情报机构的两名消息人士和泄露的5份文件称，俄罗斯已在中国建立了武器项目，以开发和生产用于对乌克兰战争的远程...</title>
+<link>https://t.me/xhqcankao/13751</link>
+<guid>https://t.me/xhqcankao/13751</guid>
+<content:encoded><![CDATA[
+
+<p><b>俄罗斯在中国建立了秘密的作战无人机项目</b><br /><br />据欧洲情报机构的两名消息人士和泄露的5份文件称，俄罗斯已在中国建立了武器项目，以开发和生产用于对乌克兰战争的远程攻击无人机。根据其中一份今年早些时候俄罗斯国有武器公司 Almaz-Antey 的子公司 IEMZ Kupol 提交给国防部的报告，携带50公斤有效载荷可续航2000公里的 Garpiya-3 (G3) 是由中国专家根据 Garpiya-A1 的蓝图重新设计的，并在其帮助下完成了制造和试飞。 Kupol 在随后的更新中告诉国防部，它能够在中国的一家工厂大规模生产包括 G3 在内的无人机，以便这些武器可以部署在乌克兰的“特别军事行动”中。另外两份独立单据显示，Kupol 公司已在其位于俄罗斯伊热夫斯克市的总部接收了七架中国制造的军用无人机，其中包括两架 G3。其中一张单据要求以人民币付款，但并未指明交货日和具体中国供应商。<br /><br />—— <a href="https://www.reuters.com/world/russia-has-secret-war-drones-project-china-intel-sources-say-2024-09-25/" rel="noopener" target="_blank">路透社</a></p>
+]]></content:encoded>
+<pubDate>Wed, 25 Sep 2024 13:11:04 GMT</pubDate>
+<pubDate>Wed, 25 Sep 2024 13:11:04 GMT</pubDate>
+</item>
+<item>
+<title>🖼 📧 Outlook 邮箱验证发生变更，Mac 原生 Mail 可能受到影响 微软在 6 月底批量发送了邮件，提示微软将于 9 月 16 日停止对使用用户名和密码验证的第三方...</title>
+<link>https://t.me/AppleNuts/2135</link>
+<guid>https://t.me/AppleNuts/2135</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">📧</span> <b>Outlook 邮箱验证发生变更，Mac 原生 Mail 可能受到影响</b><br /><br />微软在 6 月底批量发送了邮件，提示微软将于 9 月 16 日停止对使用用户名和密码验证的第三方邮件、日历客户端支持，届时你将无法通过它们访问 <a href="http://outlook.com/" rel="noopener" target="_blank">Outlook.com</a>, Hotmail 或 <a href="http://live.com/" rel="noopener" target="_blank">Live.com</a>.<br /><br />因此如果你在 Mac 上使用原生的 Apple Mail，并配置使用 IMAP 的方式收发邮件将受到影响，具体表现为 Mail 会反复提示 Outlook 账户密码不对，输入 App 密码也无法解决问题。<br /><br />因为 iOS 的 Apple Mail 原生支持 Outlook 的 OAuth2 协议认证，而 Mac 的却没有这个选项。<br /><br /><b>解决方案</b><br />在 macOS 的 Mail &gt; Accounts 中移除旧的 Outlook 配置，然后重新添加一个账户。<br /><br />新账户的选择列表中，服务商选择 Microsoft Exchange，然后使用你的 Outlook 账户进行登陆即可解决问题。<br /><br /><a href="https://support.microsoft.com/zh-cn/office/%E6%96%B0%E5%BC%8F%E8%BA%AB%E4%BB%BD%E9%AA%8C%E8%AF%81%E6%96%B9%E6%B3%95%E7%8E%B0%E5%9C%A8%E9%9C%80%E8%A6%81%E7%BB%A7%E7%BB%AD%E5%9C%A8%E9%9D%9Emicrosoft%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6%E5%BA%94%E7%94%A8%E4%B8%AD%E5%90%8C%E6%AD%A5-outlook-%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6-c5d65390-9676-4763-b41f-d7986499a90d" rel="noopener" target="_blank">微软 - 新式身份验证方法现在需要继续在非Microsoft电子邮件应用中同步 Outlook 电子邮件</a></p><img height="800.00" src="https://cdn5.cdn-telegram.org/file/gKJ2khu15ZZTXmJUCycnXPdTmg7je-d-J7Thm3hjQMmeQbnyJyjsycLyMV_lo_4YVY5RT2nhKgew2X_HELjhWuSmCO977v6-rqHx7E9qkoDeBtBcdakHb82VDsUhzCDFgDmQ_ZS6VL7bz0m1vKqDOzzbYOztxsaZAk3M4YCyN3YOtqhiw9mAYSTXGq9_T_W2hqGBQgwqs0ycSZE_Yw4Wa3MIQ_dbOSbVUGext7pfgULm84KzV_xoSVQVxNKHswnub9xRGKQ1tkiH8BrrXXqxb7IGwAacmtAPzybo97WsIfMGiVbt5hjQOjDertwD6-5gSSIGFWq7ag_6Ctvs_Mo71g.jpg" width="632" />
+]]></content:encoded>
+<pubDate>Wed, 25 Sep 2024 13:55:13 GMT</pubDate>
+<pubDate>Wed, 25 Sep 2024 13:55:13 GMT</pubDate>
+</item>
+
+<item>
 <title>谷歌指责微软滥用欧盟云计算市场主导地位 当地时间9月25日，谷歌向欧盟委员会正式提起诉讼，指控微软在云计算市场存在反竞争行为。谷歌称，微软利用不公平的许可...</title>
 <link>https://t.me/xhqcankao/13750</link>
 <guid>https://t.me/xhqcankao/13750</guid>
 <content:encoded><![CDATA[
-
 <p><b>谷歌指责微软滥用欧盟云计算市场主导地位</b><br /><br />当地时间9月25日，谷歌向欧盟委员会正式提起诉讼，指控微软在云计算市场存在反竞争行为。谷歌称，微软利用不公平的许可条款，通过其占主导地位的Windows Server和Microsoft Office产品，让大量客户难以使用除Azure云基础设施产品以外的任何产品。谷歌表示，微软还将其协作应用Teams与云平台捆绑，限制了用户选择。谷歌敦促欧盟委员会进行干预，声称需要采取监管行动结束微软的市场主导地位并恢复竞争平衡。<br /><br />—— <a href="https://www.cnbc.com/2024/09/25/google-files-eu-antitrust-complaint-accusing-microsoft-of-stifling-cloud-competition.html" rel="noopener" target="_blank">CNBC</a>、<a href="https://www.bloomberg.com/news/articles/2024-09-25/google-accuses-microsoft-of-abusing-dominance-in-eu-cloud-market" rel="noopener" target="_blank">彭博社</a>、<a href="https://m.jiemian.com/article/11763862.html" rel="noopener" target="_blank">界面新闻</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 25 Sep 2024 12:18:02 GMT</pubDate>
-<pubDate>Wed, 25 Sep 2024 12:18:02 GMT</pubDate>
 </item>
-
 <item>
 <title>X 发布马斯克接管以来首份全面透明度报告 报告详细列出了今年上半年的内容删除和账户暂停情况，报告显示，自该公司上次共享数据以来，账户暂停数量增加了两倍多...</title>
 <link>https://t.me/xhqcankao/13749</link>
@@ -9050,15 +9081,6 @@
 <p><b>中国信通院：中国宽带千兆用户占比近三成</b><br /><br />中国信通院8月24日公布今年1至7月份中国通信业经济运行情况。电信业务收入累计完成10354亿元，同比增长3%；三家基础电信企业完成互联网宽带业务收入1593亿元，同比增长5.2%；三家基础电信企业完成移动数据流量业务收入3817亿元，同比下降2.1%。<br /><br />固定宽带接入用户稳步增长，千兆用户占比近三成。截至7月末，三家基础电信企业的固定互联网宽带接入用户总数达6.56亿户，比上年末净增1977万户；移动电话方面，三家基础电信企业及中国广电的移动电话用户总数达17.72亿户，比上年末净增2812万户。其中，5G移动电话用户达9.5亿户，比上年末净增1.28亿户，占移动电话用户的53.6%。<br /><br />—— <a href="https://mp.weixin.qq.com/s/nEeLxdIaTmYYVR7KGCFlyw" rel="noopener" target="_blank">中国信通院</a></p>
 ]]></content:encoded>
 <pubDate>Sat, 24 Aug 2024 10:15:24 GMT</pubDate>
-</item>
-<item>
-<title>🖼 肯德基这个杯子设计真不错。刚刚不小心碰到了，杯子经过自由落体+1080度转体后空翻成功落地，然后原地旋转2圈半，最后水没撒出来。 刚刚掉下去的时候，脑里...</title>
-<link>https://t.me/jike_collection/10116</link>
-<guid>https://t.me/jike_collection/10116</guid>
-<content:encoded><![CDATA[
-<p>肯德基这个杯子设计真不错。刚刚不小心碰到了，杯子经过自由落体+1080度转体后空翻成功落地，然后原地旋转2圈半，最后水没撒出来。<br /><br />刚刚掉下去的时候，脑里已经在喊救命了，旁白都是人，但凡撒到任何一个人身上都很难搞。所幸有惊无险，KFC，YYDS！<br /><br />by @快乐加冰不加糖  <a href="https://t.me/jike_collection/10116?q=%23%E5%A4%A7%E4%BA%A7%E5%93%81%E5%B0%8F%E7%BB%86%E8%8A%82">#大产品小细节</a></p><img height="600.00" src="https://cdn4.cdn-telegram.org/file/oMpJioafQ_Za8i5eirJdMmXW2AHpG43IDzVKDvqUtO8wzyUleJtvp66Lg5KhRhGB49wkW6FxvRq3NTANdtuuv0d3w6GC5hLKBMY1EKzdrH9ZygwvMj30qtW_fhB_g0aoEKi2LpiULKvCkRfwSO5DIqRjx84sE8rZYtKGfGmo7jr8bo_3HsuOahdM4VAOYT-wphh8A-7YrHJ-P672Hd-KYuBm4amGlRQLVevuL1P2n73_pU8BD9I4EB2VMZ4-yxT3rmZoEfOtDPtL3qOQ_DUsVa6RVi9BQI9m20oJ-Be2RLkmV8Ru3Y9Uy854ED-x0j03o2hJ41CLOvhVUMlK906toA.jpg" width="450" />
-]]></content:encoded>
-<pubDate>Sat, 24 Aug 2024 09:13:53 GMT</pubDate>
 </item>
 </channel>
 </rss>

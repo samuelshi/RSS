@@ -4,6 +4,17 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>❓ #问题求助 win11的剪贴板复制只能保留纯文本，请问是何原因，该如何修复？ https://meta.appinn.net/t/topic/61397</title>
+<link>https://t.me/appinnfeed/12227</link>
+<guid>https://t.me/appinnfeed/12227</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12227?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br /> win11的剪贴板复制只能保留纯文本，请问是何原因，该如何修复？<br /><a href="https://meta.appinn.net/t/topic/61397" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/61397</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/61397">win11的剪贴板复制只能保留纯文本，请问是何原因，该如何修复？</a></b><br /><p>起因是我的office粘贴功能只有仅保留文本功能，因为word，excel，powerpoint全部都是这样，我推断是操作系统的剪贴板的问题。  借助坛子推荐的 ClipboardViewer 这个工具，观察了复制后的剪贴板内容。 在粘贴正常的机器上，显示的结果是： Rich Text Format HTML Format Text UnicodeText SystemString 内容非常丰富. 因为内容比较多，这里就不粘贴内容了。  但在故障的机器上，显示的结果只有： Text UnicodeText…</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/vezyFrDxM4U9bBayZbufOdKHs-wBVOhYebuH3NDW_6K4DrTPmCEtnoJMXVmVAhTsZKlN6xb0sCbjIDKKqo8NkMGY3Qk0Z_JbHvypxwtvZ2RhPY6AtRqVnJ6iWmBx_kV40sF2nCHgLtIFm9Yir2a4VwjgDUfXv7WaFqgGpMdlLEn54z5cB_JmIUEo1EbPi5yWHqp8idDRLKstsRcdjGlzheFbWCirRRV_2R7-Z3_Ae_KGW_ziVQXBaIdwPT016Ruu6c-E5_6CZn08sF5LznEIMy5bglKdWIF8h4ZXhq9_OqpBD9Ubngyx10KBQaQ6phV96geIHJMZG5f2UPXilL_0mQ.jpg" width="0" /></blockquote>
+]]></content:encoded>
+<pubDate>Wed, 25 Sep 2024 23:52:52 GMT</pubDate>
+<pubDate>Wed, 25 Sep 2024 23:52:52 GMT</pubDate>
+</item>
 
 <item>
 <title>💧 #小众软件 老牌音乐播放器 Winamp 已在 GitHub 开放源代码，但…别急 https://www.appinn.com/winamp-open-source/</title>

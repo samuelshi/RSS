@@ -4,15 +4,14 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>❓ #问题求助 chrome扩展程序如何备份 https://meta.appinn.net/t/topic/61436</title>
 <link>https://t.me/appinnfeed/12237</link>
 <guid>https://t.me/appinnfeed/12237</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12237?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />chrome扩展程序如何备份<br /><a href="https://meta.appinn.net/t/topic/61436" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/61436</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/61436">chrome扩展程序如何备份</a></b><br /><p>众所周知，对于chrome内核的浏览器在登录账号开启自动同步的情况下，在新设备登录时会自动安装原有扩展程序，但是原有扩展程序设置会丢失，需要重新配置（只有少数扩展程序会有导入导出配置的选项）。所以有没有办法直接本地备份所有扩展程序，后面启用通过开发者模式进行安装（加载已解压的程序），一键恢复？  问题背景：本人目前使用的是brave，手机与电脑的同步似乎不会自动帮你安装扩展到新电脑端。这个问题不大。只是有些扩展程序需要登录账号，重新配置使用偏好比较麻烦。下面是论坛的类似帖子：  Chrome的已安装扩展转移问题</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/cKHCC_KxKHHWLNmdGA_VXtYKQuKv14KRu4shWNM5a4HwEy0wlvRtzE19GebxIfil8_RMDz2ujs7aThpvmP3ikV8SiZzdt8DZN03IQhwWabxXvqdRe18T1nSGt2_2lXrxQnl6G9CGokrf91suoOJyXMX-2zzr6Lhw-t_RgISrpN_Cnx717wRTX4NGDtNdbqymIezkjNRATf8QsX267LXxhl722-i9iv1OjNW5lQ0SD9BO9TbqeeM1LJA3Q194Cxd4L67UZLr5ml9qEQUg4_XRImOgf-FDvqImDo0n33WTp__bTbmxZaWhhZsCsS4ljAedsqOLDEwmZ9-OhMafGiR-WA.jpg" width="0" /></blockquote>
 ]]></content:encoded>
-<pubDate>Fri, 27 Sep 2024 07:42:07 GMT</pubDate>
 <pubDate>Fri, 27 Sep 2024 07:42:07 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +19,10 @@
 <link>https://t.me/appinnfeed/12236</link>
 <guid>https://t.me/appinnfeed/12236</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12236?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />Vmware, u盘启动的问题<br /><a href="https://meta.appinn.net/t/topic/61435" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/61435</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/61435">Vmware, u盘启动的问题</a></b><br /><p>请教vmware初级问题:  安装了vm v15, 新建一个虚拟机, 选以后再安装系统, 选win10(自动是scsi硬盘)…新建完成后, 修改设置, 添加一个ide硬盘, 使用物理磁盘, 选择我的peU盘. 完成. 启动后, 就是如图的样子.    问题来了:  我没格式化这个虚拟机的硬盘和设置bios呢, 怎么自动都是EFI?  我理解, IDE就是我的U盘pe, scsi就是硬盘, 对吗?  为什么U盘pe没启动?</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/cKHCC_KxKHHWLNmdGA_VXtYKQuKv14KRu4shWNM5a4HwEy0wlvRtzE19GebxIfil8_RMDz2ujs7aThpvmP3ikV8SiZzdt8DZN03IQhwWabxXvqdRe18T1nSGt2_2lXrxQnl6G9CGokrf91suoOJyXMX-2zzr6Lhw-t_RgISrpN_Cnx717wRTX4NGDtNdbqymIezkjNRATf8QsX267LXxhl722-i9iv1OjNW5lQ0SD9BO9TbqeeM1LJA3Q194Cxd4L67UZLr5ml9qEQUg4_XRImOgf-FDvqImDo0n33WTp__bTbmxZaWhhZsCsS4ljAedsqOLDEwmZ9-OhMafGiR-WA.jpg" width="0" /></blockquote>
 ]]></content:encoded>
 <pubDate>Fri, 27 Sep 2024 07:27:12 GMT</pubDate>
-<pubDate>Fri, 27 Sep 2024 07:27:12 GMT</pubDate>
 </item>
-
 <item>
 <title>💧 #小众软件 Pomotroid – 简单美观的番茄钟｜该休息啦计时器[Win/macOS/Linux] https://www.appinn.com/pomotroid/</title>
 <link>https://t.me/appinnfeed/12235</link>
@@ -9012,24 +9008,6 @@
 <p><a href="https://t.me/CopilotOfficialBot" target="_blank">@CopilotOfficialBot</a><br /><br />微软 Copilot 机器人</p>
 ]]></content:encoded>
 <pubDate>Sat, 25 May 2024 16:55:03 GMT</pubDate>
-</item>
-<item>
-<title>🔁 JetBrains 发布用于 Rust 开发的 RustRover IDE (Score: 150+ in 12 hours) https://readhacker.news/s/68tEU</title>
-<link>https://t.me/appinnfeed/10758</link>
-<guid>https://t.me/appinnfeed/10758</guid>
-<content:encoded><![CDATA[
-<p>Forwarded From <b><a href="https://t.me/hackernews100cn/1557">Hacker News 中文内容</a></b> (IFTTT)</p><p>JetBrains 发布用于 Rust 开发的 RustRover IDE (Score: 150+ in 12 hours)<br /><a href="https://readhacker.news/s/68tEU" rel="noopener" target="_blank">https://readhacker.news/s/68tEU</a></p>
-]]></content:encoded>
-<pubDate>Sat, 25 May 2024 16:48:00 GMT</pubDate>
-</item>
-<item>
-<title>❓ #问题求助 求推荐：安卓本地阅读APP。要求简单干净，无需登录，不收集个人信息 https://meta.appinn.net/t/topic/56922</title>
-<link>https://t.me/appinnfeed/10757</link>
-<guid>https://t.me/appinnfeed/10757</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10757?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />求推荐：安卓本地阅读APP。要求简单干净，无需登录，不收集个人信息<br /><br /><a href="https://meta.appinn.net/t/topic/56922" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/56922</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/56922">求推荐：安卓本地阅读APP。要求简单干净，无需登录，不收集个人信息</a></b><br /><p>干净是第一优先。   有本地阅读即可。 有线上阅读是减分项，账号系统是超级减分项，强制登录的一律 pass。 乱要手机权限的一律 pass，不要网络权限最好。 最好开源。  16 年的【掌阅】是我理想中的 app，可惜现在已经打不开了。  24 年的【掌阅】，我靠，信息收集列表，信息共享名单滚了几屏都不见底的，总不能我看什么书都被你知道吧。</p><img src="https://cdn4.cdn-telegram.org/file/ViIwWJK_6opKuPnx_UDoym7DLJ-yTjsokavjQfzoWCe0_mKCH8jYoR_1mEjXyjKBhb0qVOzN12qGLYj2qePB-aNY6uURZ2X33G-drWBsn2iiOhKOFtYaKJfBuZbTvPwFGqGE8PWBPnZOdVEW6Lcm8zCxP2A2CaBQDoRcesMSNexMsSSUYj7Xl4zDfhvhda3nmFcY8-uxHlkSJ6K4y8jodED9P9f0BDZ_SrbHZpwyGi1XJcpXNq4r7SVEbLSsC7Bmw01juLJFnraR-6d4TXpXIYobbMNnroFKipJbnQaoOArmC2Unz-0qnNOYgnobdYf_w27soTfWC5jaB-Ma5xMI7w.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Sat, 25 May 2024 14:48:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

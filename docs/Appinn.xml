@@ -4,6 +4,39 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>❓ #问题求助 如何“无痕地”实现穿透性可写入文件夹共享（无人值守本地文件接收）？ https://meta.appinn.net/t/topic/61546</title>
+<link>https://t.me/appinnfeed/12258</link>
+<guid>https://t.me/appinnfeed/12258</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12258?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />如何“无痕地”实现穿透性可写入文件夹共享（无人值守本地文件接收）？<br /><a href="https://meta.appinn.net/t/topic/61546" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/61546</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/61546">如何“无痕地”实现穿透性可写入文件夹共享（无人值守本地文件接收）？</a></b><br /><p>现状：   电脑A在某路由器下，所在组织B的网络路由分支不明 电脑A开共享时，大多数电脑无法在局域网中找到电脑A； 需要使用电脑A来接收组织B中其他用户上传的含文件夹结构的文件。  需求：   在不更改路由设置、不更改上传用的电脑的情况下，让其他用户能够直接往电脑A的共享文件夹中上传文件； 最好上传用户不需要使用客户端； 尽可能低的使用门槛，因为组织B中的用户电脑水平不高； 最好像使用远程桌面工具般无痕地穿透网络。  已否决选项：   聊天软件直传：无法无人值守接收文件； 远程桌面工具：无法让用户远程访问时只能看到共享文件夹；…</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/j1BTc_cWOqS8dkwiK3FiKsITE0V5bc09WCqm9AwFKK_iYIkjQvZBiZVaFFRndL76-gC9oaped1W4_vBrh4OF7-O0xpVidwauCdxT2ndvNEK8VRCm6jSmhaeV8_u7GIwAFP4KFMAMt-UTJH8CzV8F_c9Yrncr-soyKvecdx7eVBX-ypPQpCuXb5Uj5pa5v48bDincA62VqxaX3j-jRfsO3lB2Hi3fnA9PaRply1e3MqT16EJ9BH4Y5IQ-2_iBbWSMbwPhYLguG_pQfq9EKPeDKf3VHnXtypj3M7y7VzFQOKqbPuo1oz-pc_6UXh4n4zeTbZ65nyWsUr9_6HRu23c_gQ.jpg" width="0" /></blockquote>
+]]></content:encoded>
+<pubDate>Mon, 30 Sep 2024 08:57:53 GMT</pubDate>
+<pubDate>Mon, 30 Sep 2024 08:57:53 GMT</pubDate>
+</item>
+<item>
+<title>💧 #小众软件 如何让 Windows 搜索（索引）运行的更快？禁用索引器回退 https://www.appinn.com/search-indexing-in-windows/</title>
+<link>https://t.me/appinnfeed/12257</link>
+<guid>https://t.me/appinnfeed/12257</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">💧</span> <a href="https://t.me/appinnfeed/12257?q=%23%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6">#小众软件</a><br />如何让 Windows 搜索（索引）运行的更快？禁用索引器回退<br /><a href="https://www.appinn.com/search-indexing-in-windows/" rel="noopener" target="_blank">https://www.appinn.com/search-indexing-in-windows/</a></p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/search-indexing-in-windows/">如何让 Windows 搜索（索引）运行的更快？禁用索引器回退 - 小众软件</a></b><br /><p>在本地策略组编辑器里（运行里输入 gpedit.msc 打开），有一个叫做禁用索引器回退的功能，位于：</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/nt2EixxIn7Zv4rRm0raQLAmOpkD763_esib7dCU3tygGWHSyKKL1bGPiMSx9BCgWBrEnweGTnQOB3bwM8HX_haZ8NSOdpVWHguM5QCKg9gcZmTGe6ADyZ3ZT3G4lkiE1WxyWEFX9d_ORXWpYnf6j19KzT6DoLn2EnpZcVloU7b8QMYkWsr-PFMQEwWuUbwwk5OYYw1rXMp4EGg-AnCU0NzjdbbFf5dVlF-rNF8wtmdnyJHCE-6tVqIILRUiLPveDkRbSOewnvFCIOXLhaWAO67Ps6d0cO0R8IBCEXeY_TzNuBXbdPIZxgmzy0tNzK7eWa7c_IMmbsXPoVzy38EzeCw.jpg" width="0" /></blockquote>
+]]></content:encoded>
+<pubDate>Mon, 30 Sep 2024 08:23:24 GMT</pubDate>
+<pubDate>Mon, 30 Sep 2024 08:23:24 GMT</pubDate>
+</item>
+<item>
+<title>📣 #发现频道 HIDELL: 自动隐藏用户目录下的“点文件”和“点文件夹” https://meta.appinn.net/t/topic/61545</title>
+<link>https://t.me/appinnfeed/12256</link>
+<guid>https://t.me/appinnfeed/12256</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/12256?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />HIDELL: 自动隐藏用户目录下的“点文件”和“点文件夹”<br /><a href="https://meta.appinn.net/t/topic/61545" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/61545</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/61545">HIDELL: 自动隐藏用户目录下的“点文件”和“点文件夹”</a></b><br /><p>软件名称 HIDELL  应用平台  Windows  推荐类型 【开发者自荐】  一句简介 HIDELL：hide like linux  一款可以让Windows系统用户主目录变“整洁”的托盘软件，它会自动隐藏“点文件”和“点文件夹”  应用简介  激活后自动隐藏 手动控制隐藏与显示 支持开机自启  开发中功能：  添加任意目录监控  截图预览：                                                 官方网站 GitHub - llanc/hidell: HIDELL</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/j1BTc_cWOqS8dkwiK3FiKsITE0V5bc09WCqm9AwFKK_iYIkjQvZBiZVaFFRndL76-gC9oaped1W4_vBrh4OF7-O0xpVidwauCdxT2ndvNEK8VRCm6jSmhaeV8_u7GIwAFP4KFMAMt-UTJH8CzV8F_c9Yrncr-soyKvecdx7eVBX-ypPQpCuXb5Uj5pa5v48bDincA62VqxaX3j-jRfsO3lB2Hi3fnA9PaRply1e3MqT16EJ9BH4Y5IQ-2_iBbWSMbwPhYLguG_pQfq9EKPeDKf3VHnXtypj3M7y7VzFQOKqbPuo1oz-pc_6UXh4n4zeTbZ65nyWsUr9_6HRu23c_gQ.jpg" width="0" /></blockquote>
+]]></content:encoded>
+<pubDate>Mon, 30 Sep 2024 08:05:44 GMT</pubDate>
+<pubDate>Mon, 30 Sep 2024 08:05:44 GMT</pubDate>
+</item>
 
 <item>
 <title>❓ #问题求助 有没有透明蒙板可以写写画画的？ https://meta.appinn.net/t/topic/61540</title>

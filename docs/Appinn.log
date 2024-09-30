@@ -50242,3 +50242,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2024-09-30 16:01:56
+------------------------------------------------------
+Started: 2024-09-30 17:01:37
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [❓ #问题求助 如何“无痕地”实现穿透性可写入文件夹共享（无人值守本地文件接收）？ https://meta.appinn.net/t/topic/61546](https://t.me/appinnfeed/12258)
+Append: [💧 #小众软件 如何让 Windows 搜索（索引）运行的更快？禁用索引器回退 https://www.appinn.com/search-indexing-in-windows/](https://t.me/appinnfeed/12257)
+Append: [📣 #发现频道 HIDELL: 自动隐藏用户目录下的“点文件”和“点文件夹” https://meta.appinn.net/t/topic/61545](https://t.me/appinnfeed/12256)
+append_entries: 3
+Finish: 2024-09-30 17:01:37

@@ -4,15 +4,14 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>❓ #问题求助 如何“无痕地”实现穿透性可写入文件夹共享（无人值守本地文件接收）？ https://meta.appinn.net/t/topic/61546</title>
 <link>https://t.me/appinnfeed/12258</link>
 <guid>https://t.me/appinnfeed/12258</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12258?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />如何“无痕地”实现穿透性可写入文件夹共享（无人值守本地文件接收）？<br /><a href="https://meta.appinn.net/t/topic/61546" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/61546</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/61546">如何“无痕地”实现穿透性可写入文件夹共享（无人值守本地文件接收）？</a></b><br /><p>现状：   电脑A在某路由器下，所在组织B的网络路由分支不明 电脑A开共享时，大多数电脑无法在局域网中找到电脑A； 需要使用电脑A来接收组织B中其他用户上传的含文件夹结构的文件。  需求：   在不更改路由设置、不更改上传用的电脑的情况下，让其他用户能够直接往电脑A的共享文件夹中上传文件； 最好上传用户不需要使用客户端； 尽可能低的使用门槛，因为组织B中的用户电脑水平不高； 最好像使用远程桌面工具般无痕地穿透网络。  已否决选项：   聊天软件直传：无法无人值守接收文件； 远程桌面工具：无法让用户远程访问时只能看到共享文件夹；…</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/j1BTc_cWOqS8dkwiK3FiKsITE0V5bc09WCqm9AwFKK_iYIkjQvZBiZVaFFRndL76-gC9oaped1W4_vBrh4OF7-O0xpVidwauCdxT2ndvNEK8VRCm6jSmhaeV8_u7GIwAFP4KFMAMt-UTJH8CzV8F_c9Yrncr-soyKvecdx7eVBX-ypPQpCuXb5Uj5pa5v48bDincA62VqxaX3j-jRfsO3lB2Hi3fnA9PaRply1e3MqT16EJ9BH4Y5IQ-2_iBbWSMbwPhYLguG_pQfq9EKPeDKf3VHnXtypj3M7y7VzFQOKqbPuo1oz-pc_6UXh4n4zeTbZ65nyWsUr9_6HRu23c_gQ.jpg" width="0" /></blockquote>
 ]]></content:encoded>
-<pubDate>Mon, 30 Sep 2024 08:57:53 GMT</pubDate>
 <pubDate>Mon, 30 Sep 2024 08:57:53 GMT</pubDate>
 </item>
 <item>
@@ -20,10 +19,8 @@
 <link>https://t.me/appinnfeed/12257</link>
 <guid>https://t.me/appinnfeed/12257</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">💧</span> <a href="https://t.me/appinnfeed/12257?q=%23%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6">#小众软件</a><br />如何让 Windows 搜索（索引）运行的更快？禁用索引器回退<br /><a href="https://www.appinn.com/search-indexing-in-windows/" rel="noopener" target="_blank">https://www.appinn.com/search-indexing-in-windows/</a></p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/search-indexing-in-windows/">如何让 Windows 搜索（索引）运行的更快？禁用索引器回退 - 小众软件</a></b><br /><p>在本地策略组编辑器里（运行里输入 gpedit.msc 打开），有一个叫做禁用索引器回退的功能，位于：</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/nt2EixxIn7Zv4rRm0raQLAmOpkD763_esib7dCU3tygGWHSyKKL1bGPiMSx9BCgWBrEnweGTnQOB3bwM8HX_haZ8NSOdpVWHguM5QCKg9gcZmTGe6ADyZ3ZT3G4lkiE1WxyWEFX9d_ORXWpYnf6j19KzT6DoLn2EnpZcVloU7b8QMYkWsr-PFMQEwWuUbwwk5OYYw1rXMp4EGg-AnCU0NzjdbbFf5dVlF-rNF8wtmdnyJHCE-6tVqIILRUiLPveDkRbSOewnvFCIOXLhaWAO67Ps6d0cO0R8IBCEXeY_TzNuBXbdPIZxgmzy0tNzK7eWa7c_IMmbsXPoVzy38EzeCw.jpg" width="0" /></blockquote>
 ]]></content:encoded>
-<pubDate>Mon, 30 Sep 2024 08:23:24 GMT</pubDate>
 <pubDate>Mon, 30 Sep 2024 08:23:24 GMT</pubDate>
 </item>
 <item>
@@ -31,13 +28,10 @@
 <link>https://t.me/appinnfeed/12256</link>
 <guid>https://t.me/appinnfeed/12256</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/12256?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />HIDELL: 自动隐藏用户目录下的“点文件”和“点文件夹”<br /><a href="https://meta.appinn.net/t/topic/61545" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/61545</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/61545">HIDELL: 自动隐藏用户目录下的“点文件”和“点文件夹”</a></b><br /><p>软件名称 HIDELL  应用平台  Windows  推荐类型 【开发者自荐】  一句简介 HIDELL：hide like linux  一款可以让Windows系统用户主目录变“整洁”的托盘软件，它会自动隐藏“点文件”和“点文件夹”  应用简介  激活后自动隐藏 手动控制隐藏与显示 支持开机自启  开发中功能：  添加任意目录监控  截图预览：                                                 官方网站 GitHub - llanc/hidell: HIDELL</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/j1BTc_cWOqS8dkwiK3FiKsITE0V5bc09WCqm9AwFKK_iYIkjQvZBiZVaFFRndL76-gC9oaped1W4_vBrh4OF7-O0xpVidwauCdxT2ndvNEK8VRCm6jSmhaeV8_u7GIwAFP4KFMAMt-UTJH8CzV8F_c9Yrncr-soyKvecdx7eVBX-ypPQpCuXb5Uj5pa5v48bDincA62VqxaX3j-jRfsO3lB2Hi3fnA9PaRply1e3MqT16EJ9BH4Y5IQ-2_iBbWSMbwPhYLguG_pQfq9EKPeDKf3VHnXtypj3M7y7VzFQOKqbPuo1oz-pc_6UXh4n4zeTbZ65nyWsUr9_6HRu23c_gQ.jpg" width="0" /></blockquote>
 ]]></content:encoded>
 <pubDate>Mon, 30 Sep 2024 08:05:44 GMT</pubDate>
-<pubDate>Mon, 30 Sep 2024 08:05:44 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 有没有透明蒙板可以写写画画的？ https://meta.appinn.net/t/topic/61540</title>
 <link>https://t.me/appinnfeed/12255</link>
@@ -9014,33 +9008,6 @@
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10785?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />求安卓上能适应高度浏览heif格式照片的app<br /><br /><a href="https://meta.appinn.net/t/topic/57012" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/57012</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/57012">求安卓上能适应高度浏览heif格式照片的app</a></b><br /><p>小米手机上有很多heif格式照片，小米相册快看图库都默认适应宽度浏览，不知道 大神有何app推荐，可以直接全部默认适应高度浏览，且支持heif格式</p><img src="https://cdn4.cdn-telegram.org/file/VQWurj4baydKjYEAo5nmvBQH83O0oVYjuqKYRjCZQ9dnVzv0CNtVxEjL08AesF6S8dEDpKGn3xQm0jn2hOo4Sk0KFmBbe3uxDw6ENGzlbBAbarBW5bbUuyfiOZFMub6Tl4fI0lUK8pMfDFyzhGSeBjZNhWrkBAOnFsD1VGHLCwImFaMNTmiBWl2vY3ZSDXvaYLD-C22-8HtP1aGYMwv7LXmwHiRWybEEFdU1-w7N30C40juC-3EeOoUfSMjtOC5U5pxOmhKHhgvf4guZrSDLF07nad8-LceSj2GzkInR8h9jADbAF-Z6Lx_HvTHPWF6bQX8MFdcu04Ef57XwX-UBfw.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Tue, 28 May 2024 08:12:01 GMT</pubDate>
-</item>
-<item>
-<title>💧 #小众软件 有用 iPhone、安卓看 CAD 的软件吗？｜CAD看图王 https://www.appinn.com/gstar-cad-viewer/ Tags: #问答, #CAD, #图纸</title>
-<link>https://t.me/appinnfeed/10784</link>
-<guid>https://t.me/appinnfeed/10784</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">💧</span> <a href="https://t.me/appinnfeed/10784?q=%23%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6">#小众软件</a><br />有用 iPhone、安卓看 CAD 的软件吗？｜CAD看图王<br /><br /><a href="https://www.appinn.com/gstar-cad-viewer/" rel="noopener" target="_blank">https://www.appinn.com/gstar-cad-viewer/</a><br /><br /><b>Tags</b>: <a href="https://t.me/appinnfeed/10784?q=%23%E9%97%AE%E7%AD%94">#问答</a>, <a href="https://t.me/appinnfeed/10784?q=%23CAD">#CAD</a>, <a href="https://t.me/appinnfeed/10784?q=%23%E5%9B%BE%E7%BA%B8">#图纸</a></p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/gstar-cad-viewer/">有用 iPhone、安卓看 CAD 的软件吗？｜CAD看图王 - 小众软件</a></b><br /><p>@却上眉梢 同学推荐了CAD看图王，而 @Lithium 同学也推荐了同款，并且说：还可以 WebDAV 连接网盘，直接看 NAS 上的数据。</p><img src="https://cdn4.cdn-telegram.org/file/tv8fqa7b93NHYC2qixgQM1rzUW3ZJcdNocZWw1rVCQFkzEfmCtO90k8uOZuVICTN8L_-u5o7cu8usL8NeylgCjFrQ_axO4a42kby5VQofcUMmu8C5hEaRgun57CzF7uGJFmRIG0Ui3ZvcPMSSVliiQ3apkLq5NPap_RKbTdHIWoY0ZuXJoK2J-JdjVKMUQN3XA1zWYoHkiNIJEvtSdyYPdgUvb5lcoyLMiWUcIrx92oSUaGUQkHUpw6i3PCLrSzsisCwDkaO8N7y1XVC4eSb4XmRpEdxZW5a8sZnIVpAfZt5PUXBCTL7WhUggpam8Y3ChBFjNlR6rM4BC16_rYT4lg.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Tue, 28 May 2024 06:36:01 GMT</pubDate>
-</item>
-<item>
-<title>🧐 #阅读 WP21 - WordPress 21 岁了 https://meta.appinn.net/t/topic/57004</title>
-<link>https://t.me/appinnfeed/10783</link>
-<guid>https://t.me/appinnfeed/10783</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">🧐</span> <a href="https://t.me/appinnfeed/10783?q=%23%E9%98%85%E8%AF%BB">#阅读</a><br />WP21 - WordPress 21 岁了<br /><br /><a href="https://meta.appinn.net/t/topic/57004" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/57004</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/57004">WP21 - WordPress 21 岁了</a></b><br /><p>Wordpress 的创始人 Matt 在今天昨天发布了名为 WP21 的博客，居然没有使用华丽的词藻，只是简单的说了几句，点赞。    似乎就在昨天，WordPress 才刚刚进入青少年阶段，而转眼间，它就已经到了可以喝酒的年纪了！距离 Mike 和我发布第一个 WordPress 版本（分叉 Michel 在 b2/cafélog 上的工作）已有 21 年了。  一路走来，有许多里程碑和亮点，未来还会有更多。我一直在思考 WordPress 早年成功的要素，在今年及以后的建设过程中，我们应该牢记这些要素。以下是我的…</p><img src="https://cdn4.cdn-telegram.org/file/VQWurj4baydKjYEAo5nmvBQH83O0oVYjuqKYRjCZQ9dnVzv0CNtVxEjL08AesF6S8dEDpKGn3xQm0jn2hOo4Sk0KFmBbe3uxDw6ENGzlbBAbarBW5bbUuyfiOZFMub6Tl4fI0lUK8pMfDFyzhGSeBjZNhWrkBAOnFsD1VGHLCwImFaMNTmiBWl2vY3ZSDXvaYLD-C22-8HtP1aGYMwv7LXmwHiRWybEEFdU1-w7N30C40juC-3EeOoUfSMjtOC5U5pxOmhKHhgvf4guZrSDLF07nad8-LceSj2GzkInR8h9jADbAF-Z6Lx_HvTHPWF6bQX8MFdcu04Ef57XwX-UBfw.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Tue, 28 May 2024 06:16:01 GMT</pubDate>
-</item>
-<item>
-<title>💧 #小众软件 图小小 – 开源、批量，图片压缩工具，支持 JPEG、PNG、WEBP、AVIF、SVG 和 GIF 图像 https://www.appinn.com/pic-smaller/ Tags: #在线应用, #...</title>
-<link>https://t.me/appinnfeed/10782</link>
-<guid>https://t.me/appinnfeed/10782</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">💧</span> <a href="https://t.me/appinnfeed/10782?q=%23%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6">#小众软件</a><br />图小小 – 开源、批量，图片压缩工具，支持&nbsp;JPEG、PNG、WEBP、AVIF、SVG 和 GIF 图像<br /><br /><a href="https://www.appinn.com/pic-smaller/" rel="noopener" target="_blank">https://www.appinn.com/pic-smaller/</a><br /><br /><b>Tags</b>: <a href="https://t.me/appinnfeed/10782?q=%23%E5%9C%A8%E7%BA%BF%E5%BA%94%E7%94%A8">#在线应用</a>, <a href="https://t.me/appinnfeed/10782?q=%23%E5%9B%BE%E7%89%87%E5%8E%8B%E7%BC%A9">#图片压缩</a></p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/pic-smaller/">图小小 - 开源、批量，图片压缩工具，支持&nbsp;JPEG、PNG、WEBP、AVIF、SVG 和 GIF 图像 - 小众软件</a></b><br /><p>图小小（Pic Smaller）是一款开源的图片压缩工具，可以批量处理文件与文件夹，支持&nbsp;JPEG、PNG、WEBP、AVIF、SVG 和 GIF 图像格式，简单易用，可自托管。@Appinn</p><img src="https://cdn4.cdn-telegram.org/file/qpMGigrY1ui6rB2tPRaKuvy8SQJWABKKZX6pNPHCzi1MDR2-E-lZXZnERHI-UpxyaUuQnfDki1p675Rk0xCPnG7xLJGJ7djeAX3k9Yigc2K425uitBzCbrIqPLSOP0nD6iAEUmIUer0LGrdB8B9028xlixDq1pD66Xu9k8QHOhFNzwssOx-vBgKnRJrkbUyvGPQdirDfWhKG1vaTsijfdVHfeRHHVKD9HkX-TVp42Tpy40jBBn-gaskl4Mxkp_y1qgu8p4LJvrwJrfrs7Ioytg9mLLtzXmaCc-AudMTVbT197uk4g0OVAVlBnLRyPNCDZl8yijqgwmz4eLmVGvaxBg.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Tue, 28 May 2024 04:00:02 GMT</pubDate>
 </item>
 </channel>
 </rss>

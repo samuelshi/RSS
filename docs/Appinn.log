@@ -50491,3 +50491,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 502
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-10-02 08:04:03
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [📣 #发现频道 【开发者自荐】清爽超好用的「房贷计算器」，买房人请收藏 https://meta.appinn.net/t/topic/61585](https://t.me/appinnfeed/12265)
+append_entries: 1
+Finish: 2024-10-02 08:04:04

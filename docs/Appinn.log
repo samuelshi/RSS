@@ -50517,3 +50517,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Append: [❓ #问题求助 Edge浏览器不会自动跳转/刷新网页 https://meta.appinn.net/t/topic/61588](https://t.me/appinnfeed/12266)
 append_entries: 1
 Finish: 2024-10-02 11:05:16
+------------------------------------------------------
+Started: 2024-10-02 12:01:43
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 502
+append_entries: 0
+error when rendering xml, skip docs/Appinn

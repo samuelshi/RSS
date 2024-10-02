@@ -5,14 +5,35 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>🖼 前段时间抓了个永远到不了深圳北的大爷，现在又来个一直晕倒的年轻小伙 by @哥飞 #你不知道的行业内幕</title>
+<link>https://t.me/jike_collection/10227</link>
+<guid>https://t.me/jike_collection/10227</guid>
+<content:encoded><![CDATA[
+
+<p></p><div class="tgme_widget_message_text js-message_text" dir="auto">前段时间抓了个永远到不了深圳北的大爷，现在又来个一直晕倒的年轻小伙<br /><br />by @哥飞  <a href="https://t.me/jike_collection/10227?q=%23%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E8%A1%8C%E4%B8%9A%E5%86%85%E5%B9%95">#你不知道的行业内幕</a></div><p></p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/iP7n74IM6dvbUQtTY23RjYr0zB05WM1fBKcShF2fvL3XTcECb0T_wjTst-i65OKNMLpHY6jkBo1SQ-wiGr9gxL1HSG5d-dlAAHMmM48HlkgFbMNIKtkY9cue-K1kmRYiFcGO_OBoRt9ZpMG5YFcyiRdw6g-NJeCacAoOVDdxDTWYntL3w41Y-gvH_02MshIy3DaQjHGMXsSZxhNPEk82Q_29rc9svbPd8_8urwtt_CVyYqi9-KXa2MK_XHtlfQc6D-JYRzr3zM3akAcG7I9ZcCdYhCXyI6yUhFXvYo63-eV5K-c8aDeiWkDUPFWGV8QPcySXyv-3deCGYPWP1NnWGg.jpg" width="271" /><img height="0.00" src="https://cdn4.cdn-telegram.org/file/kDF4mfPzylQIbpKy0pY4kP8QMals3S9I8Qmk9dnkCCN1qjKO-JMj_8aphXxNJ9QphrUex0_bOhyRPTCx4_JP2c_DG56MZMxqwW6I0x_5tXaJ6V2bng_Wc2tdLgC3CfbjnkOg8VGJsZwvJQpIsgMN1CHCnTR-xmeomV7KrEGRReet3oHZ4QDdVLSyXaBTKyrcrx2uV6rmpjjh4Iq7WWam7yHXGybKmAHOYb84JYDyMmgcDEerfqXgXRBFubxSNzZXno8QYevLF3VAzowS_H7Xv8p6ReGTBn6GQyXEWtA0Ww0fJq3cTFF0VXyRD-ecyGlVeEPoj5YItpfJcOle5SiYeA.jpg" width="161" /><img height="0.00" src="https://cdn4.cdn-telegram.org/file/f5MwSYuPTyvgAZysPf7XJulfO_RGubVKie5wQFsHXVjYX3M-DQ0CtZhKcY_tmcn3I76t3t0n7uBdloaQgWjENeyF5dOCzjfMNOyrRsnziv5d7MmLtGjqRAB9PkE9ECuhVMLLgOgkC0WJRY5wt8JLfoQPgp1iBlQDsaupqFQ1N-y-KLAxbXJs76qaap6izJKQDceupR3c8nG7C0Nc5-LkT37sHSl4FNC0mzwKsqMjZsRhFq7z02uH6BIJt2xBV0n70Q4bwwX6cgyt6ExPdkuTUG8fWXSmsc27_7l21TdqalZ4F3HVfhhpK-uGKAwG27775y2L5faDFSc1t9lelhrylA.jpg" width="161" />
+]]></content:encoded>
+<pubDate>Wed, 02 Oct 2024 14:32:29 GMT</pubDate>
+<pubDate>Wed, 02 Oct 2024 14:32:29 GMT</pubDate>
+</item>
+<item>
+<title>Cloudflare 阻挡了创世界纪录的 3.8 Tbps DDoS 攻击 自 9 月初以来，Cloudflare 的 DDoS 保护系统一直在抵御为期一个月的超大容量 L3/4 DDoS 攻击。Cloudflare ...</title>
+<link>https://t.me/xhqcankao/13925</link>
+<guid>https://t.me/xhqcankao/13925</guid>
+<content:encoded><![CDATA[
+
+<p><b>Cloudflare 阻挡了创世界纪录的 3.8 Tbps DDoS 攻击</b><br /><br />自 9 月初以来，Cloudflare 的 DDoS 保护系统一直在抵御为期一个月的超大容量 L3/4 DDoS 攻击。Cloudflare 的防御系统在整个月内缓解了超过一百次超大容量 L3/4 DDoS 攻击，其中许多攻击超过每秒 20 亿个数据包 (Bpps) 和每秒 3 兆兆位 (Tbps)。最大的攻击峰值为 3.8 Tbps——这是目前公开披露的最大规模攻击。检测和缓解是完全自主的。<br /><br />此次攻击活动针对的是金融服务、互联网和电信等行业的多个客户。此次攻击活动的目标是带宽饱和以及在线应用程序和设备的资源耗尽。高数据包速率攻击似乎源自多种类型的受感染设备，包括 MikroTik 设备、DVR 和 Web 服务器，这些设备协同工作，向目标发送大量流量。高比特率攻击似乎源自大量受感染的华硕家用路由器，可能利用了<a href="https://censys.com/june-20-improper-authentication-vulnerability-in-asus-routers/" rel="noopener" target="_blank">Censys</a> 最近发现的 CVE 9.8 (严重) 漏洞。<br /><br />—— <a href="https://blog.cloudflare.com/how-cloudflare-auto-mitigated-world-record-3-8-tbps-ddos-attack/" rel="noopener" target="_blank">Cloudflare</a></p>
+]]></content:encoded>
+<pubDate>Wed, 02 Oct 2024 14:31:25 GMT</pubDate>
+<pubDate>Wed, 02 Oct 2024 14:31:25 GMT</pubDate>
+</item>
+
+<item>
 <title>特斯拉第三季度交付量回升 同比增长6.4% 在连续两个季度下滑之后，特斯拉汽车销量终于开始回升。特斯拉报告称，今年第三季度生产469796辆，同比增长9.1%。环比增...</title>
 <link>https://t.me/xhqcankao/13924</link>
 <guid>https://t.me/xhqcankao/13924</guid>
 <content:encoded><![CDATA[
-
 <p><b>特斯拉第三季度交付量回升 同比增长6.4%</b><br /><br />在连续两个季度下滑之后，特斯拉汽车销量终于开始回升。特斯拉报告称，今年第三季度生产469796辆，同比增长9.1%。环比增长14.4%。第三季度交付了462890辆，同比增长6.4%。环比增长5.8%。其中 MODEL 3/Y 交付439975辆。特斯拉生产和销售的车辆数量都比今年早些时候多。这并不是说特斯拉没有面临挑战。整体而言，电动汽车销量的增长速度仍低于几年前，消费者纷纷购买混合动力汽车，而不是纯电动汽车。特斯拉只生产电动汽车，因此与产品线更加多样化的传统汽车制造商相比，可能处于某种劣势。<br /><br />—— <a href="https://www.theverge.com/2024/10/2/24260159/tesla-q3-2024-delivery-production-increase" rel="noopener" target="_blank">Theverge</a>、<a href="https://www.bloomberg.com/news/articles/2024-10-02/tesla-posts-its-first-quarter-of-vehicle-sales-growth-this-year" rel="noopener" target="_blank">彭博社</a></p>
 ]]></content:encoded>
-<pubDate>Wed, 02 Oct 2024 13:59:24 GMT</pubDate>
 <pubDate>Wed, 02 Oct 2024 13:59:24 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +41,10 @@
 <link>https://t.me/xhqcankao/13923</link>
 <guid>https://t.me/xhqcankao/13923</guid>
 <content:encoded><![CDATA[
-
 <p><b>微软 Office 2024 买断制消费版今日上线</b><br /><br />微软公司推出了消费者版 Office 2024，目前已上架微软应用商店。该产品专为不想订阅 Microsoft 365 的用户设计。Office 2024 包含了微软过去几年向 Microsoft 365 订阅用户提供的许多更新。Office 2024 家庭和学生版的售价为149.99美元，家庭和商业版售价为249.99美元。Office 2024 支持 Win 10、11 以及苹果 macOS 的三个最新版本。家庭和学生版、家庭和商业版拥有五年的支持生命周期，将持续支持到2029年10月9日，期间微软公司会提供更新和安全补丁。<br /><br />—— <a href="https://www.microsoft.com/en-us/microsoft-365/blog/2024/09/30/office-2024-for-consumers-available-october-1/" rel="noopener" target="_blank">微软博客</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 02 Oct 2024 13:28:12 GMT</pubDate>
-<pubDate>Wed, 02 Oct 2024 13:28:12 GMT</pubDate>
 </item>
-
 <item>
 <title>谷歌致力于开发有推理能力的人工智能 谷歌正在开发类似于人类推理能力的人工智能软件，类似于 OpenAI 的 o1。据知情人士透露，谷歌的多个团队近几个月来在人工智...</title>
 <link>https://t.me/xhqcankao/13922</link>
@@ -9044,24 +9062,6 @@
 <p><b>亚马逊结账页面崩溃 购物者遇到错误页面</b><br /><br />亚马逊公司的零售网站在周五出现问题，导致部分购物者无法购买商品。用户在点击购物车中的“前往结账”按钮时，报告遇到错误页面。故障发生在亚马逊的电商网站和移动应用中。网络状况监测网站 Downdetector 注意到，从美国纽约时间下午4点左右开始，亚马逊网站的问题急剧增加。亚马逊的错误页面包括一条出错信息，以及一张亚马逊员工宠物狗的照片。对于这家全球最大的在线零售商来说，宕机可能会造成高昂的损失。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-08-30/amazon-checkout-crashes-shoppers-get-error-page-with-dogs" rel="noopener" target="_blank">彭博社</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 30 Aug 2024 22:57:40 GMT</pubDate>
-</item>
-<item>
-<title>巴西最高法院下令在全国范围内暂停 X 平台 巴西最高法院周五下令在全国范围内暂停马斯克的社交网络 X，此前该公司发誓要无视早先有关内容审核和在巴西任命法定代...</title>
-<link>https://t.me/xhqcankao/13093</link>
-<guid>https://t.me/xhqcankao/13093</guid>
-<content:encoded><![CDATA[
-<p><b>巴西最高法院下令在全国范围内暂停 X 平台</b><br /><br />巴西最高法院周五下令在全国范围内暂停马斯克的社交网络 X，此前该公司发誓要无视早先有关内容审核和在巴西任命法定代表的法院命令。法院首席法官亚历山大·德莫赖斯还下令对在巴西被禁期间使用VPN或其他方式访问 X 的个人或企业处以每日罚款。法院周五通过巴西政府网站发布声明称，已下令“立即全面暂停 X 在巴西境内的运营，直至法院的司法裁决得到遵守，罚款得到支付。”该声明还表示，该命令将一直有效，“直至该公司在巴西的法定代表被任命。”苹果和谷歌有五天时间将该应用从应用商店中下架。<a href="https://www.gov.br/anatel/pt-br/anatel-recebe-intimacao-do-stf-para-suspensao-do-x-antigo-twitter" rel="noopener" target="_blank">该国的 ISP</a> 仅有24小时的时间来执行该命令。<br /><br />—— <a href="https://www.cnbc.com/2024/08/30/brazil-orders-suspension-of-elon-musks-x.html" rel="noopener" target="_blank">CNBC</a></p>
-]]></content:encoded>
-<pubDate>Fri, 30 Aug 2024 22:11:57 GMT</pubDate>
-</item>
-<item>
-<title>🖼 ⚛️ Apple 正式开启 Apple Intelligence 测试 Apple 在今日凌晨发布 iOS 18.1 第一个开发者测试版，开始启动对 Apple Intelligence 的测试。一直苦等 iOS ...</title>
-<link>https://t.me/AppleNuts/2090</link>
-<guid>https://t.me/AppleNuts/2090</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">⚛️</span> <b>Apple 正式开启 Apple Intelligence 测试</b><br /><br />Apple 在今日凌晨发布 iOS 18.1 第一个开发者测试版，开始启动对 Apple Intelligence 的测试。一直苦等 iOS 18 真正新特性的小伙伴坐不住了，希望第一时间尝试。<br /><br /><span class="emoji">⚠️</span> 注意：你的设备必须是非大陆和欧盟的 iPhone 15 Pro 和 iPhone 15 Pro Max 才能体验 Apple Intelligence.<br /><br /><span class="emoji">💡</span> <b>新能力解锁</b><br />目前在 iOS 18.1 beta 1 中解锁的功能如下：<br /><br /><b>* 全新 Siri</b><br /><b>* 通话录音</b>：会用 AI 的声音告诉你“我正在录音，请注意”。和 Zoom 会议中开启录制效果类似。<br /><b>* 智能改写</b>：可以将你输入的部分用 AI 重写，调整语气，调整篇幅长短等等。<br /><br /><span class="emoji">🔒</span> <b>冤种用户：锁硬件</b><br />目前为止 Apple Intelligence 为硬件锁，如果你的设备是在<b>中国大陆</b>购买的，那么无论你的地理位置、IP 地址是什么，你都无法使用 Apple Intelligence 的任何功能。<br /><br />如果你是在 <b>欧盟</b> 购买的设备， 那么如果你的<b>物理位置</b>在<b>欧盟</b>，则无法使用 Apple Intelligence 的任何功能，反之则可以使用；例如：德国购买的设备可以在中国大陆使用<br /><br /><b>香港</b>和<b>澳门</b>不受影响；<b>英国</b>因为脱欧，因此也不受影响。Apple 可能后续会调整政策。<br /><br /><span class="emoji">🙊</span> <b>加入测试</b><br />如果你的设备是在<b>非中国大陆和欧盟</b>地区购买的，那么需要将设备更新至 iOS 18.1 beta 1 后，进入 Settings &gt; Apple Intelligence &amp; Siri，点击 Join the Apple Intelligence Waitlist<br /><br />如果你的页面提示 Apple Intelligence 在当前国家或地区不可用，只需要将切换<b>系统设置</b>的 <b>国家和地区</b>，改为 <b>美国</b> 即可。<br /><br /><span class="emoji">⬆️</span> <b>更新至测试版</b><br />如果你只希望更新 iOS 18 系列的 beta，不想更新至 macOS Sequoia，而且又怕 OTA 更新不稳，希望通过线刷的方式升级.<br /><br />没关系，我帮你提取了最新 Xcode 的设备驱动，只需要在当前 macOS 安装这个驱动，你就可以通过 Finder 将 iPhone 升级至 iOS 18 系列测试版了。<br /><a href="https://t.me/AppleNuts/2090?comment=3085344" rel="noopener" target="_blank">https://t.me/AppleNuts/2090?comment=3085344</a></p><img height="400.00" src="https://cdn5.cdn-telegram.org/file/Z6vLQiu-rtiWD-mS7RNiGvBvUcVbzvhAvlpqhOFAklClUgtfJHFyLnOWOlvgnvRaCXSeQSr-bBtCutAVG04EXknq36YPh0PigVUWaoo5Apdj610XPo9l0jX2weaa9if2uUZRroli8t5iqLftyHyFiYzh7j5iOB_GiwQ9RGYYIhO67xm7vl1okuj2bbgcQg8C8QwloubiOZ8676_UzKq7eWk-SbbGvXT5M3qFE29_NBrBiIsTcUUMz7UxJBsWKkR1_d8Ho4tdq8PMnPtjxBzs3zJ6u4x49H-ZxKdg2YiwDWJOt2gK4QM9Xq4jlL3U4ES8niBuFQijEJP7Vo_9fVetZw.jpg" width="800" />
-]]></content:encoded>
-<pubDate>Tue, 30 Jul 2024 02:03:13 GMT</pubDate>
 </item>
 </channel>
 </rss>

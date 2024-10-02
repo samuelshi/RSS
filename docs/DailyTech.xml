@@ -4,15 +4,14 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+
 <item>
 <title>🖼 前段时间抓了个永远到不了深圳北的大爷，现在又来个一直晕倒的年轻小伙 by @哥飞 #你不知道的行业内幕</title>
 <link>https://t.me/jike_collection/10227</link>
 <guid>https://t.me/jike_collection/10227</guid>
 <content:encoded><![CDATA[
-
 <p></p><div class="tgme_widget_message_text js-message_text" dir="auto">前段时间抓了个永远到不了深圳北的大爷，现在又来个一直晕倒的年轻小伙<br /><br />by @哥飞  <a href="https://t.me/jike_collection/10227?q=%23%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E8%A1%8C%E4%B8%9A%E5%86%85%E5%B9%95">#你不知道的行业内幕</a></div><p></p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/iP7n74IM6dvbUQtTY23RjYr0zB05WM1fBKcShF2fvL3XTcECb0T_wjTst-i65OKNMLpHY6jkBo1SQ-wiGr9gxL1HSG5d-dlAAHMmM48HlkgFbMNIKtkY9cue-K1kmRYiFcGO_OBoRt9ZpMG5YFcyiRdw6g-NJeCacAoOVDdxDTWYntL3w41Y-gvH_02MshIy3DaQjHGMXsSZxhNPEk82Q_29rc9svbPd8_8urwtt_CVyYqi9-KXa2MK_XHtlfQc6D-JYRzr3zM3akAcG7I9ZcCdYhCXyI6yUhFXvYo63-eV5K-c8aDeiWkDUPFWGV8QPcySXyv-3deCGYPWP1NnWGg.jpg" width="271" /><img height="0.00" src="https://cdn4.cdn-telegram.org/file/kDF4mfPzylQIbpKy0pY4kP8QMals3S9I8Qmk9dnkCCN1qjKO-JMj_8aphXxNJ9QphrUex0_bOhyRPTCx4_JP2c_DG56MZMxqwW6I0x_5tXaJ6V2bng_Wc2tdLgC3CfbjnkOg8VGJsZwvJQpIsgMN1CHCnTR-xmeomV7KrEGRReet3oHZ4QDdVLSyXaBTKyrcrx2uV6rmpjjh4Iq7WWam7yHXGybKmAHOYb84JYDyMmgcDEerfqXgXRBFubxSNzZXno8QYevLF3VAzowS_H7Xv8p6ReGTBn6GQyXEWtA0Ww0fJq3cTFF0VXyRD-ecyGlVeEPoj5YItpfJcOle5SiYeA.jpg" width="161" /><img height="0.00" src="https://cdn4.cdn-telegram.org/file/f5MwSYuPTyvgAZysPf7XJulfO_RGubVKie5wQFsHXVjYX3M-DQ0CtZhKcY_tmcn3I76t3t0n7uBdloaQgWjENeyF5dOCzjfMNOyrRsnziv5d7MmLtGjqRAB9PkE9ECuhVMLLgOgkC0WJRY5wt8JLfoQPgp1iBlQDsaupqFQ1N-y-KLAxbXJs76qaap6izJKQDceupR3c8nG7C0Nc5-LkT37sHSl4FNC0mzwKsqMjZsRhFq7z02uH6BIJt2xBV0n70Q4bwwX6cgyt6ExPdkuTUG8fWXSmsc27_7l21TdqalZ4F3HVfhhpK-uGKAwG27775y2L5faDFSc1t9lelhrylA.jpg" width="161" />
 ]]></content:encoded>
-<pubDate>Wed, 02 Oct 2024 14:32:29 GMT</pubDate>
 <pubDate>Wed, 02 Oct 2024 14:32:29 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +19,10 @@
 <link>https://t.me/xhqcankao/13925</link>
 <guid>https://t.me/xhqcankao/13925</guid>
 <content:encoded><![CDATA[
-
 <p><b>Cloudflare 阻挡了创世界纪录的 3.8 Tbps DDoS 攻击</b><br /><br />自 9 月初以来，Cloudflare 的 DDoS 保护系统一直在抵御为期一个月的超大容量 L3/4 DDoS 攻击。Cloudflare 的防御系统在整个月内缓解了超过一百次超大容量 L3/4 DDoS 攻击，其中许多攻击超过每秒 20 亿个数据包 (Bpps) 和每秒 3 兆兆位 (Tbps)。最大的攻击峰值为 3.8 Tbps——这是目前公开披露的最大规模攻击。检测和缓解是完全自主的。<br /><br />此次攻击活动针对的是金融服务、互联网和电信等行业的多个客户。此次攻击活动的目标是带宽饱和以及在线应用程序和设备的资源耗尽。高数据包速率攻击似乎源自多种类型的受感染设备，包括 MikroTik 设备、DVR 和 Web 服务器，这些设备协同工作，向目标发送大量流量。高比特率攻击似乎源自大量受感染的华硕家用路由器，可能利用了<a href="https://censys.com/june-20-improper-authentication-vulnerability-in-asus-routers/" rel="noopener" target="_blank">Censys</a> 最近发现的 CVE 9.8 (严重) 漏洞。<br /><br />—— <a href="https://blog.cloudflare.com/how-cloudflare-auto-mitigated-world-record-3-8-tbps-ddos-attack/" rel="noopener" target="_blank">Cloudflare</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 02 Oct 2024 14:31:25 GMT</pubDate>
-<pubDate>Wed, 02 Oct 2024 14:31:25 GMT</pubDate>
 </item>
-
 <item>
 <title>特斯拉第三季度交付量回升 同比增长6.4% 在连续两个季度下滑之后，特斯拉汽车销量终于开始回升。特斯拉报告称，今年第三季度生产469796辆，同比增长9.1%。环比增...</title>
 <link>https://t.me/xhqcankao/13924</link>
@@ -9044,24 +9040,6 @@
 <p><b>美国推迟对华关税最终裁决 料未来几天公布</b><br /><br />美国拜登政府周五再次推迟公布美国对中国产电动汽车、电池、半导体和光伏电池大幅加征关税的最终决定，称将在未来几天内公布决定。美国贸易代表办公室发言人说，该机构“继续就拟议修改”特朗普政府在2018年和2019年对中国产品征收的关税 “制定最终决定”。起初，对电动汽车征收100%、对半导体和光伏电池征收50%、对锂离子电池、钢铁和铝等主要矿产品、船岸起重机和注射器征收25%的关税，原定于8月1日生效。但贸易代表办公室于7月30日将实施时间推迟到了9月份，称需要更多时间来研究来自行业的1100多条公众意见。该机构将新的最后期限定为8月31日，周五的公告进一步推迟了该期限。<br /><br />—— <a href="https://www.reuters.com/markets/ustr-says-decision-section-301-tariffs-chinese-imports-be-announced-coming-days-2024-08-30/" rel="noopener" target="_blank">路透社</a></p>
 ]]></content:encoded>
 <pubDate>Sat, 31 Aug 2024 00:00:35 GMT</pubDate>
-</item>
-<item>
-<title>荷兰首相称将在对华出口限制决定中权衡阿斯麦的利益 荷兰首相肖夫周五表示，荷兰政府在决定进一步收紧阿斯麦芯片制造设备对华出口规则时，将考虑到该公司的经济...</title>
-<link>https://t.me/xhqcankao/13095</link>
-<guid>https://t.me/xhqcankao/13095</guid>
-<content:encoded><![CDATA[
-<p><b>荷兰首相称将在对华出口限制决定中权衡阿斯麦的利益</b><br /><br />荷兰首相肖夫周五表示，荷兰政府在决定进一步收紧阿斯麦芯片制造设备对华出口规则时，将考虑到该公司的经济利益。肖夫在回答有关可能进一步限制阿斯麦对华出口及服务的问题时说：“我们正在进行谈判，良好的谈判，我们也在特别关注阿斯麦的经济利益，这些利益需要与其他风险进行权衡，而经济利益是极其重要的”。肖夫补充说，“对荷兰来说，阿斯麦是一个极其重要的创新产业，在任何情况下都不应受到影响，因为这将损害阿斯麦的全球地位”。彭博社此前报导称，荷兰政府计划限制阿斯麦控股公司在中国维修和维护其半导体设备的能力。<br /><br />—— <a href="https://www.reuters.com/markets/netherlands-weigh-asmls-interests-china-export-restriction-decision-pm-says-2024-08-30/" rel="noopener" target="_blank">路透社</a></p>
-]]></content:encoded>
-<pubDate>Fri, 30 Aug 2024 23:28:59 GMT</pubDate>
-</item>
-<item>
-<title>亚马逊结账页面崩溃 购物者遇到错误页面 亚马逊公司的零售网站在周五出现问题，导致部分购物者无法购买商品。用户在点击购物车中的“前往结账”按钮时，报告遇到...</title>
-<link>https://t.me/xhqcankao/13094</link>
-<guid>https://t.me/xhqcankao/13094</guid>
-<content:encoded><![CDATA[
-<p><b>亚马逊结账页面崩溃 购物者遇到错误页面</b><br /><br />亚马逊公司的零售网站在周五出现问题，导致部分购物者无法购买商品。用户在点击购物车中的“前往结账”按钮时，报告遇到错误页面。故障发生在亚马逊的电商网站和移动应用中。网络状况监测网站 Downdetector 注意到，从美国纽约时间下午4点左右开始，亚马逊网站的问题急剧增加。亚马逊的错误页面包括一条出错信息，以及一张亚马逊员工宠物狗的照片。对于这家全球最大的在线零售商来说，宕机可能会造成高昂的损失。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-08-30/amazon-checkout-crashes-shoppers-get-error-page-with-dogs" rel="noopener" target="_blank">彭博社</a></p>
-]]></content:encoded>
-<pubDate>Fri, 30 Aug 2024 22:57:40 GMT</pubDate>
 </item>
 </channel>
 </rss>

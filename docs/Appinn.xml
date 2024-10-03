@@ -5,17 +5,26 @@
 <link>https://t.me/s/appinnfeed</link>
 
 <item>
+<title>💧 #小众软件 【新】PowerToys v0.85.0 新建+功能（New+）：根据模板新建文件夹和文件 https://www.appinn.com/powertoys-new/</title>
+<link>https://t.me/appinnfeed/12272</link>
+<guid>https://t.me/appinnfeed/12272</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">💧</span> <a href="https://t.me/appinnfeed/12272?q=%23%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6">#小众软件</a><br />【新】PowerToys v0.85.0 新建+功能（New+）：根据模板新建文件夹和文件<br /><a href="https://www.appinn.com/powertoys-new/" rel="noopener" target="_blank">https://www.appinn.com/powertoys-new/</a></p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/powertoys-new/">【新】PowerToys v0.85.0 新建+功能（New+）：根据模板新建文件夹和文件 - 小众软件</a></b><br /><p>PowerToys v0.85.0 新增了一个非常新鲜的功能：New+（新建+），这是一个可以根据模板来创建文件夹、文件的新功能。并且集成到了系统右键中，随时点击菜单中的新建+来创建新文件/文件夹。@Appinn</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/iiDFoPyBSGp5FmMFmFNA1ZTeZptwH4qHUdBbHTbP7bkQXWRqlE9nlg-gT-_PG2OV7IHjqHje8TWjPgFoVbqdSemPkLeD02V-qrvLvT2heue46oW1Rbh8Y7EQCFUotx2-_cl0tCJhI4JKzulKamLcSRzIU8yi2Mt7x149C85nMYxE3mGo_JdESr2CD66EvGF5e7bmBss9n9d5koeOMqsqcqEBBbgTVZZhOIH8_a-EbGGc3I3ALjMMoFb9ttyb6eML0UPCE8CFqIoMVi5fmxg5u5VC87GEVhVqzIzmWF0pBM7MLpPLuwr-Wrk-fAJkKoLUyXRRPR4SGTJTkxOa0-uBqw.jpg" width="0" /></blockquote>
+]]></content:encoded>
+<pubDate>Thu, 03 Oct 2024 08:23:45 GMT</pubDate>
+<pubDate>Thu, 03 Oct 2024 08:23:45 GMT</pubDate>
+</item>
+
+<item>
 <title>❓ #问题求助 Ahk 怎么实现多屏幕在任务栏滚动滚轮调节音量，以及设置音量调节幅度为1 https://meta.appinn.net/t/topic/61622</title>
 <link>https://t.me/appinnfeed/12271</link>
 <guid>https://t.me/appinnfeed/12271</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12271?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />Ahk 怎么实现多屏幕在任务栏滚动滚轮调节音量，以及设置音量调节幅度为1<br /><a href="https://meta.appinn.net/t/topic/61622" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/61622</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/61622">Ahk 怎么实现多屏幕在任务栏滚动滚轮调节音量，以及设置音量调节幅度为1</a></b><br /><p>不懂 ahk，我目前的代码如下，Windows 平台下有两个问题：   Send {Volume_Up} 调节音量的步长为 2，希望为 1 在多屏幕时，只能在主屏幕任务栏调节音量，副屏幕不行  #If MouseIsOver("ahk_class Shell_TrayWnd")     WheelUp::Send {Volume_Up}     WheelDown::Send {Volume_Down}  MouseIsOver(WinTitle) {     MouseGetPos,,, Win   …</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/rKaRXhCqxkNyNTf8cDllSb4Hv7domFwDwA1Ce_yjhbcC4IvWv47LicZYFcnM_oC50840K75qvJKhhzdxXD3AvicHfqSMNmgL-LQZclmg6dzifwaBMimm9ZDl9pE2YjvxBr3qELJzfUqyLAW0v2ne4uG3fNx-ly7jPWoCBtNjnp8WSrBLqEm_zyBffXpAV2-6LT9wqr1lgxklKvUcbDM1JmrBzoJVS8H4Vif9vZy8scrbLmDEmQxnq7HjOGlBRfjW7297xh_lB9X0fXb07wVM_h90r61A-rlTQktxl_wEhpoXj4ZkBz_O5gEJUl0m8DqfSw7EeLQ6T-OBtFz-vIPFwQ.jpg" width="0" /></blockquote>
 ]]></content:encoded>
 <pubDate>Thu, 03 Oct 2024 07:18:00 GMT</pubDate>
-<pubDate>Thu, 03 Oct 2024 07:18:00 GMT</pubDate>
 </item>
-
 <item>
 <title>📣 #发现频道 [开发者自荐] Orderly Favorites 一款有序的网页收藏夹，告别杂乱无章的书签，让收藏变得简单、有序。 https://meta.appinn.net/t/topic/61616</title>
 <link>https://t.me/appinnfeed/12270</link>
@@ -9010,15 +9019,6 @@
 <p>著名的轻量级 Web 服务器 caddy 2.8 发布<br /><br /><a href="https://github.com/caddyserver/caddy/releases/tag/v2.8.0" rel="noopener" target="_blank">https://github.com/caddyserver/caddy/releases/tag/v2.8.0</a></p><blockquote><b>GitHub</b><br /><b><a href="https://github.com/caddyserver/caddy/releases/tag/v2.8.0">Release v2.8.0 · caddyserver/caddy</a></b><br /><p>Caddy 2.8 is here! With hundreds of improvements, Caddy is more scalable and capable than ever before. Featuring ACME Renewal Information (ARI) support, HTTP/3 to proxy backends, and so much more t...</p><img src="https://cdn4.cdn-telegram.org/file/BMS5TV14G0PE9GNDJF-Fz68qK3eKtiuq7S0ftNRd1aVWqPC-MZIKUD-_6-wS3M1CZBfV0P062ImHzkxTS0a64Wr5E_THXW3F3oW4GItwND0Az0OBc3YFD6DxzXWne378x1NusRL-J1wGzufk3mKrC_vMg_33FU6CQMUe7UU4Hwdm1e8uvEjr03hkQfedbQaF7HSHQisOgOXRjbqhsN_QVVQF4D0bOXLbEyAYzquS2a2Un3RP8lOlMkZhCCiWPQ9nFRQ-bLW2IfArhEY7hHPfnfdQyvSR-fB11cV6za06uZP2k2H0IERsX63f8axKQ1kSR-9EHMQO2cU-VKaPOqdmeA.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Thu, 30 May 2024 01:42:49 GMT</pubDate>
-</item>
-<item>
-<title>💧 #小众软件 Lima – macOS 上的 Linux 虚拟机、Docker 容器，像 WSL2 一样 https://www.appinn.com/lima-vm/ Tags: #macOS, #Docker, #虚拟机</title>
-<link>https://t.me/appinnfeed/10798</link>
-<guid>https://t.me/appinnfeed/10798</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">💧</span> <a href="https://t.me/appinnfeed/10798?q=%23%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6">#小众软件</a><br />Lima – macOS 上的 Linux 虚拟机、Docker 容器，像 WSL2 一样<br /><br /><a href="https://www.appinn.com/lima-vm/" rel="noopener" target="_blank">https://www.appinn.com/lima-vm/</a><br /><br /><b>Tags</b>: <a href="https://t.me/appinnfeed/10798?q=%23macOS">#macOS</a>, <a href="https://t.me/appinnfeed/10798?q=%23Docker">#Docker</a>, <a href="https://t.me/appinnfeed/10798?q=%23%E8%99%9A%E6%8B%9F%E6%9C%BA">#虚拟机</a></p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/lima-vm/">Lima - macOS 上的 Linux 虚拟机、Docker 容器，像 WSL2 一样 - 小众软件</a></b><br /><p>Lima 是一款运行在 macOS 上的 Linux 虚拟机，支持文件共享和端口转发，支持 Docker，就像 Windows 系统里自带的虚拟机 WSL2 一样。@Appinn</p><img src="https://cdn4.cdn-telegram.org/file/ZaIKc4oOG1cCpTpfv4_JKhxwF9r-OZmKBqD3NIFg-GLb7hKVJ7fqaVKaHwVoyt2GEvi3AOg7jbsKH5xU8DyC3IlfABZKFC84e6rGMLcWenLrKjtv02Ffzj5LapeksyDhf6UlX6ADAP6L6wTwCQJjzhoZOj2v6vD8r_53lHTzCTkMAzRw9CrA1SUPe3BtwgH9_gJ9fv107X_2fOzrSiP5OAfO-z1oPhGvbSmvDFYlAx_mZXjs2Wn0e-9l4_dah0i2wU9FXGIS2E3KQuRmx4d5i-bZJVHBiW6MDnLpyJfWn-y8jC6Q2ILFZ8jwHEJEJBfg4ZN08duLrJClQMrCkwnUGA.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Wed, 29 May 2024 12:20:02 GMT</pubDate>
 </item>
 </channel>
 </rss>

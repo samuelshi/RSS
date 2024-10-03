@@ -4,6 +4,17 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>❓ #问题求助 Ahk 怎么实现多屏幕在任务栏滚动滚轮调节音量，以及设置音量调节幅度为1 https://meta.appinn.net/t/topic/61622</title>
+<link>https://t.me/appinnfeed/12271</link>
+<guid>https://t.me/appinnfeed/12271</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12271?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />Ahk 怎么实现多屏幕在任务栏滚动滚轮调节音量，以及设置音量调节幅度为1<br /><a href="https://meta.appinn.net/t/topic/61622" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/61622</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/61622">Ahk 怎么实现多屏幕在任务栏滚动滚轮调节音量，以及设置音量调节幅度为1</a></b><br /><p>不懂 ahk，我目前的代码如下，Windows 平台下有两个问题：   Send {Volume_Up} 调节音量的步长为 2，希望为 1 在多屏幕时，只能在主屏幕任务栏调节音量，副屏幕不行  #If MouseIsOver("ahk_class Shell_TrayWnd")     WheelUp::Send {Volume_Up}     WheelDown::Send {Volume_Down}  MouseIsOver(WinTitle) {     MouseGetPos,,, Win   …</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/rKaRXhCqxkNyNTf8cDllSb4Hv7domFwDwA1Ce_yjhbcC4IvWv47LicZYFcnM_oC50840K75qvJKhhzdxXD3AvicHfqSMNmgL-LQZclmg6dzifwaBMimm9ZDl9pE2YjvxBr3qELJzfUqyLAW0v2ne4uG3fNx-ly7jPWoCBtNjnp8WSrBLqEm_zyBffXpAV2-6LT9wqr1lgxklKvUcbDM1JmrBzoJVS8H4Vif9vZy8scrbLmDEmQxnq7HjOGlBRfjW7297xh_lB9X0fXb07wVM_h90r61A-rlTQktxl_wEhpoXj4ZkBz_O5gEJUl0m8DqfSw7EeLQ6T-OBtFz-vIPFwQ.jpg" width="0" /></blockquote>
+]]></content:encoded>
+<pubDate>Thu, 03 Oct 2024 07:18:00 GMT</pubDate>
+<pubDate>Thu, 03 Oct 2024 07:18:00 GMT</pubDate>
+</item>
 
 <item>
 <title>📣 #发现频道 [开发者自荐] Orderly Favorites 一款有序的网页收藏夹，告别杂乱无章的书签，让收藏变得简单、有序。 https://meta.appinn.net/t/topic/61616</title>

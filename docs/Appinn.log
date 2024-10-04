@@ -50832,3 +50832,11 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 502
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-10-04 13:01:39
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [❓ #问题求助 知乎长网页越往下方就越卡顿，有无解决办法？ https://meta.appinn.net/t/topic/61635](https://t.me/appinnfeed/12277)
+Append: [📣 #发现频道 Tab Copy V4: 支持自定义、批量、按钮、快捷键的浏览器网页复制工具（Chrome 插件） https://meta.appinn.net/t/topic/61634](https://t.me/appinnfeed/12276)
+append_entries: 2
+Finish: 2024-10-04 13:01:40

@@ -50968,3 +50968,10 @@ Append: [❓ #问题求助 安卓能开机启动widget的工具？ https://meta.
 Append: [❓ #问题求助 Ios语音聊天app来电不响铃，是苹果的限制吗 https://meta.appinn.net/t/topic/61653](https://t.me/appinnfeed/12283)
 append_entries: 2
 Finish: 2024-10-05 09:28:25
+------------------------------------------------------
+Started: 2024-10-05 10:22:54
+Existing_entries: 1002
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 530
+append_entries: 0
+error when rendering xml, skip docs/Appinn

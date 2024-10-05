@@ -4,18 +4,16 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>📣 #发现频道 【自荐】Edge扩展 自动隐私模式 https://meta.appinn.net/t/topic/61666</title>
 <link>https://t.me/appinnfeed/12285</link>
 <guid>https://t.me/appinnfeed/12285</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/12285?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />【自荐】Edge扩展 自动隐私模式<br /><a href="https://meta.appinn.net/t/topic/61666" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/61666</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/61666">【自荐】Edge扩展 自动隐私模式</a></b><br /><p>自动隐私模式 简介 这是一个Chrome/Edge浏览器的扩展，用于打开特定网页时自动进入隐私模式。  主要用于测试一些需要用隐私模式（无痕）打开的网站。  功能  黑名单管理，通过浏览器的popup页面管理黑名单，可以点击添加当前tab的域名，或者手动填写要过滤的网站。 自动进入隐私模式，当黑名单中的页面打开时自动进入隐私模式，并删除对应的历史纪录。  安装 目前已经上架到Edge Extension Store   也可以通过源码自行安装</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/VQImk6rPZXAWXh8CfGIYyDaXJNKg4EQ91HMVjLEkCAaG5asRvgbs7JJ9jtPaNBJioXewEKhGfj7h3DTACTGNMcWyTe11rIY74FBP-BU3-Pas0BlyNUaJJUE6iLP2E8LWw3-CLqh75kuKrbuLX2dDa5cC-tgtWoTgoTQZJBXj9NRvU1MdJayv4-W8FY3fyJjOsnLopSolhHpWKr0VXrR_Bb358uzTZzV47DveWgB6jHX9PfXoPKmEuSr24XEHz9xAUV8ypJDCAcHqFq8gFUtPVtzm5z18GfCdIyL995EaFBvXwL1wptf3ul7KhkpSXEz-kXG0e56cEtZphkJl70Gdyg.jpg" width="0" /></blockquote>
 ]]></content:encoded>
 <pubDate>Sat, 05 Oct 2024 05:25:15 GMT</pubDate>
-<pubDate>Sat, 05 Oct 2024 05:25:15 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 安卓能开机启动widget的工具？ https://meta.appinn.net/t/topic/61654</title>
 <link>https://t.me/appinnfeed/12284</link>
@@ -9010,15 +9008,6 @@
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10814?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />WebView2的那个指定版本的便携版怎么让系统默认调用它？<br /><br /><a href="https://meta.appinn.net/t/topic/57104" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/57104</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/57104">WebView2的那个指定版本的便携版怎么让系统默认调用它？</a></b><br /><p>我之前说过我的Clash依赖WebView2但是新版使用起来有问题（现在确定是Clash的问题。），找单独卸载工具然后安装旧版，但是禁止更新只能禁止几天，过两天微软又是高权限给我更新了，想搞便携但那个文档我实在看不懂，机翻的就很难搞，求助。</p><img src="https://cdn4.cdn-telegram.org/file/Pr4hEc0EDFOGOSeIHELKZxAC4scVWdjwL7ogirGCU6djmOfmLZmmbjAfrpTVuA6ggeqT_JyM-ceWVlzJWjF50NAcbiDGutW_d38DsheuHXGbyWn9qYTiiq1pEb-DAuSKYK-mNnbAZDNu3sCHGBKsCHnaRI7KZwcWDOLJX4P46v7E7kdcO5OwrwWoYMnLkj_GHZxGsgsOFfUIEFYF75-E_ItTcgd4JdfZqH9UordjBMtUnfMUnQIwPwETmPHgZH-kJHGPCpzhMw-9PKcd7lX_dEOxluxSDQk3Ml5ftvJGslfccNN4ZZqPW6HjN3pOZYS_4vpIEL3Qwlr9cehiHnu9dw.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Thu, 30 May 2024 13:04:01 GMT</pubDate>
-</item>
-<item>
-<title>❓ #问题求助 WSL 提示系统找不到指定的文件 https://meta.appinn.net/t/topic/57103</title>
-<link>https://t.me/appinnfeed/10813</link>
-<guid>https://t.me/appinnfeed/10813</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10813?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />WSL 提示系统找不到指定的文件<br /><br /><a href="https://meta.appinn.net/t/topic/57103" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/57103</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/57103">WSL 提示系统找不到指定的文件</a></b><br /><p>在命令行中执行命令 wsl 报错 系统找不到指定的文件，尝试重新安装 WSL 功能无效。  wsl 命令默认的路径是 C:\Windows\system32\wsl.exe，还有另一个 wsl.exe 位于 C:\Program Files\WSL\wsl.exe，后者可正常运行。是否有办法替换 wsl 命令所执行的应用，或者删除掉 system32 下的 wsl.exe？</p><img src="https://cdn4.cdn-telegram.org/file/Pr4hEc0EDFOGOSeIHELKZxAC4scVWdjwL7ogirGCU6djmOfmLZmmbjAfrpTVuA6ggeqT_JyM-ceWVlzJWjF50NAcbiDGutW_d38DsheuHXGbyWn9qYTiiq1pEb-DAuSKYK-mNnbAZDNu3sCHGBKsCHnaRI7KZwcWDOLJX4P46v7E7kdcO5OwrwWoYMnLkj_GHZxGsgsOFfUIEFYF75-E_ItTcgd4JdfZqH9UordjBMtUnfMUnQIwPwETmPHgZH-kJHGPCpzhMw-9PKcd7lX_dEOxluxSDQk3Ml5ftvJGslfccNN4ZZqPW6HjN3pOZYS_4vpIEL3Qwlr9cehiHnu9dw.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Thu, 30 May 2024 12:48:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -4,6 +4,17 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>❓ #问题求助 Win11-24h2（LTSC）如何做到Debian双系统共用一蓝牙键盘 https://meta.appinn.net/t/topic/61705</title>
+<link>https://t.me/appinnfeed/12295</link>
+<guid>https://t.me/appinnfeed/12295</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12295?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />Win11-24h2（LTSC）如何做到Debian双系统共用一蓝牙键盘<br /><a href="https://meta.appinn.net/t/topic/61705" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/61705</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/61705">Win11-24h2（LTSC）如何做到Debian双系统共用一蓝牙键盘</a></b><br /><p>如题，原来的教程全废了，看起来辣鸡巨硬又动了注册表……  原来是找到这个目录底下，Key内的各项就是各蓝牙设备的配置详情，现在只能找到鼠标，键盘的配置消失了直接……（另外吐槽一下竟然要TrustedInstaller权限，就尼玛离谱）  HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\BTHPORT\Parameters\Keys\  但是现在，我连接了蓝牙键盘（罗技K380）以后，在此目录下完全找不到……而直接搜索蓝牙的地址以后，我发现了一大堆…</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/YN_QWV138xe8R9E9U8vBq-u8kVAr8SLSpl2sR_gbmJtsTwjhox5Aa3pt1rzsh0romRkFztKQrJlOz1ThoeOw8sF2VdxT39GIpwW2ftOgOn8JWt8LNpHxCCRJKxLCKR1RbdzAtkVj_LBj_lyvaddDdfzfxZYtl9J1_OROH2-o8bMfflXJztmVflPzjkEcTlYt9A1VRV38M8ZzaNAarjBZvrVu-WVlek_GzFIbkoXvDskpgSdmagaYBmSlhHp2wdj_mL-NBvwMDoK3sgSl3AIueBYKLMOXkyKSOgEa6YLaEtxwqPhz4qy4xY6Ges2K9ETzvJRoryhnyWwfu2r7HJZr9Q.jpg" width="0" /></blockquote>
+]]></content:encoded>
+<pubDate>Sun, 06 Oct 2024 10:03:24 GMT</pubDate>
+<pubDate>Sun, 06 Oct 2024 10:03:24 GMT</pubDate>
+</item>
 
 <item>
 <title>❓ #问题求助 Android手机上有没有能录音 钉钉语音通话 的方式 https://meta.appinn.net/t/topic/61700</title>

@@ -4,6 +4,17 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+<item>
+<title>面向渗透的 USB Army Knife 开源项目发布 ​十月初，开源项目 USB Army Knife 1.0 版本发布，面向测试人员和渗透测试专家。该项目采用 JavaScript 和 C++ 开发，...</title>
+<link>https://t.me/xhqcankao/14011</link>
+<guid>https://t.me/xhqcankao/14011</guid>
+<content:encoded><![CDATA[
+
+<p><b>面向渗透的 USB Army Knife 开源项目发布</b><br /><br />十月初，开源项目 USB Army Knife 1.0 版本发布，面向测试人员和渗透测试专家。该项目采用 JavaScript 和 C++ 开发，已在 MIT 许可证下在 GitHub 上提供，允许自由使用和修改。USB Army Knife 是一款通用软件，设计用于在 ESP32-S3 开发板等紧凑型设备上运行。支持广泛的安全测试工具，包括 USB 设备仿真和网络协议漏洞利用。该项目的主要功能包括 BadUSB 支持、存储设备仿真、网络设备模拟以及使用 ESP32 Marauder 库进行 WiFi 和蓝牙漏洞利用。该项目还包含基于 Bootstrap 构建的 Web 界面，简化了配置和使用。<br /><br />—— <a href="https://www.securitylab.ru/news/552713.php" rel="noopener" target="_blank">Securitylab.ru</a>、<a href="https://github.com/i-am-shodan/USBArmyKnife" rel="noopener" target="_blank">GitHub</a></p>
+]]></content:encoded>
+<pubDate>Mon, 07 Oct 2024 07:32:03 GMT</pubDate>
+<pubDate>Mon, 07 Oct 2024 07:32:03 GMT</pubDate>
+</item>
 
 <item>
 <title>韩国就TikTok是否违反个人信息法开展检查 韩国个人信息保护委员会正就中国短视频平台 TikTok 违反个人信息保护法的可能性进行检查。若通过资料审查发现 TikTok ...</title>

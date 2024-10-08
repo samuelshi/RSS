@@ -51438,3 +51438,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Append: [📣 #发现频道 HexHub | 一款强大的SSH/SFTP、数据库、Docker 跨平台桌面客户端 https://meta.appinn.net/t/topic/61752](https://t.me/appinnfeed/12301)
 append_entries: 1
 Finish: 2024-10-08 12:01:35
+------------------------------------------------------
+Started: 2024-10-08 13:01:32
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 530
+append_entries: 0
+error when rendering xml, skip docs/Appinn

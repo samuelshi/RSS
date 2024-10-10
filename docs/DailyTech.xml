@@ -4,15 +4,14 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+
 <item>
 <title>安全研究员展示使用打火机电弧获取root权限 著名安全研究员 David "retr0id" Buchanan 通过利用打火机上的压电点火器翻转其内存中的位，成功利用运行笔记本电脑...</title>
 <link>https://t.me/xhqcankao/14121</link>
 <guid>https://t.me/xhqcankao/14121</guid>
 <content:encoded><![CDATA[
-
 <p><b>安全研究员展示使用打火机电弧获取root权限</b><br /><br />著名安全研究员 David "retr0id" Buchanan  通过利用打火机上的压电点火器翻转其内存中的位，成功利用运行笔记本电脑的软件来获取 shell。Buchanan 承认，他的实验需要对目标设备进行一些不太精细的硬件修改，“如果你将一根约 10 厘米长的‘天线’线连接到笔记本电脑的 DRAM 数据总线上，它就会对电磁干扰变得格外敏感，以至于点击附近的压电弧光打火机都会引起位翻转。”相关的概念证明程序已经发布到 <a href="https://github.com/DavidBuchanan314/dram_emfi/blob/348bd15c9e767bff5968a4fcc80a97b81dc63bda/ddr3_dq7.py" rel="noopener" target="_blank">GitHub</a> 上。<br /><br />通过一些额外的步骤，Buchanan 成功地改变了机器逻辑，获取到 root 权限，让他可以读写物理内存中的任何一点。 他只需在天线附近打响普通压电打火机，就能在机器内存中诱发有针对性的比特翻转错误，从而获得访问权限。这种方法的成功率并不完全是 100%，通常"需要点击几次打火机才能获得良好的效果"。 尽管如此，该演示仍然让人大开眼界，展示了电磁故障注入攻击的范围。<br /><br />—— <a href="https://www.hackster.io/news/david-buchanan-opens-a-shell-on-his-laptop-the-hard-way-with-a-controlled-electromagnetic-pulse-791463b9118b" rel="noopener" target="_blank">Hackster</a></p>
 ]]></content:encoded>
-<pubDate>Thu, 10 Oct 2024 15:42:45 GMT</pubDate>
 <pubDate>Thu, 10 Oct 2024 15:42:45 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +19,10 @@
 <link>https://t.me/xhqcankao/14120</link>
 <guid>https://t.me/xhqcankao/14120</guid>
 <content:encoded><![CDATA[
-
 <p>Epic 游戏喜加一：《帝国霸业：银河生存》《生存者：磨难》<br /><br />本周限免：《<a href="https://store.epicgames.com/zh-CN/p/empyrion-galactic-survival-fbd99f" rel="noopener" target="_blank">帝国霸业：银河生存</a>》《<a href="https://store.epicgames.com/zh-CN/p/outliver-tribulations-679884" rel="noopener" target="_blank">生存者：磨难</a>》<br /><br />截止日期：10 月 17 日 23 点<br /><br />下周限免：《无敌少侠：原子伊芙》《卡牌之王》</p><img height="450.00" src="https://cdn5.cdn-telegram.org/file/iZbyFhAxUYU5XQXSNgMFliOlGuCDJoWywES3bK3XEeOyakNxdQiUK1UX716_oU87_UAYUfBGVm8kmVheC44tbd08Yd6QKqaqlam2vdUy_wqzYdPxw_cTwJy-R1S36W06BzTC8UCi7KMuxGAJOycpXayVnIAia42nAeJWOgEOFBQXSWo9QsPZI5ZPKoeDmvGSObk3JHbelBLAprsoUjpcHT5DeHVK_feL_CX2aUgfvvrGxo8dlHnxAuRxzaHyLiiB6E7hRQJg7YJ7mQA-ttO_CM1ZosHmC94XcY1Avo-jtPRokoO8nKpV04pNpnVn6VgrZe4Ub4tczdayiFHPWdxxfA.jpg" width="800" />
 ]]></content:encoded>
 <pubDate>Thu, 10 Oct 2024 15:10:05 GMT</pubDate>
-<pubDate>Thu, 10 Oct 2024 15:10:05 GMT</pubDate>
 </item>
-
 <item>
 <title>丰田章男：未来转向纯电动汽车将导致失业 丰田汽车公司董事长周四表示，未来转向纯电动汽车将导致从事发动机相关技术的人员失业，包括该行业的许多供应商。丰田...</title>
 <link>https://t.me/xhqcankao/14119</link>
@@ -9052,24 +9048,6 @@
 <p><span class="emoji">🧪</span> Apple 发布 [测试版] 软件更新<br /><br /> * iOS 18 beta 5 (22A5326f)<br /> * iPadOS 18 beta 5 (22A5326f)<br /> * macOS 15 beta 5 (24A5309e)<br /> * tvOS 18 beta 5 (22J5335d)<br /> * visionOS 2 beta 5 (22N5297g)<br /> * watchOS 11 beta 5 (22R5328e)</p>
 ]]></content:encoded>
 <pubDate>Mon, 05 Aug 2024 17:20:02 GMT</pubDate>
-</item>
-<item>
-<title>欧盟机构：今年8月是有记录以来最热8月 欧盟气候监测机构哥白尼气候变化服务局周五发布报告说，刚刚过去的8月与2023年8月并列成为该机构自1940年有记录以来最热...</title>
-<link>https://t.me/xhqcankao/13263</link>
-<guid>https://t.me/xhqcankao/13263</guid>
-<content:encoded><![CDATA[
-<p><b>欧盟机构：今年8月是有记录以来最热8月</b><br /><br />欧盟气候监测机构哥白尼气候变化服务局周五发布报告说，刚刚过去的8月与2023年8月并列成为该机构自1940年有记录以来最热的8月。报告说，今年8月全球平均地表气温为16.82摄氏度，较工业化前(1850年至1900年)水平高出1.51摄氏度。根据《巴黎协定》提出的控温目标，到本世纪末，应将全球平均气温较工业化前水平升高幅度控制在2摄氏度之内，并为把升温控制在1.5摄氏度内而努力。<br /><br />哥白尼气候变化服务局副局长萨曼莎·伯吉斯表示，在过去的3个月中，地球经历了有记录以来最热的6月和8月、最热的一天以及最热的北半球夏季。这一系列创纪录高温，增加了今年成为有记录以来最热年份的可能性。<br /><br />—— <a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=17658620442175006774" rel="noopener" target="_blank">央视新闻</a></p>
-]]></content:encoded>
-<pubDate>Fri, 06 Sep 2024 09:56:08 GMT</pubDate>
-</item>
-<item>
-<title>德国起草针对中国网上折扣零售商的法规 ​德国杂志《Capital》报道，德国政府正在起草新法规，以确保 Temu 和 Shein 等中国网上折扣零售商遵守产品安全、环境保...</title>
-<link>https://t.me/xhqcankao/13262</link>
-<guid>https://t.me/xhqcankao/13262</guid>
-<content:encoded><![CDATA[
-<p><b>德国起草针对中国网上折扣零售商的法规</b><br /><br />德国杂志《Capital》报道，德国政府正在起草新法规，以确保 Temu 和 Shein 等中国网上折扣零售商遵守产品安全、环境保护、消费者权益以及海关和税法等方面的标准和规定。该杂志称，德国经济部目前正在起草一份电商行动计划，并评估新的措施和对现有法规的潜在修订。经济部近几个月来已就此问题与德国联邦州、欧盟委员会和欧洲议会进行了会谈。经济部国务秘书吉戈尔德今年六月会见了 Temu 和 Shein 的代表。根据欧盟现行规定，从非欧盟国家网上购买的包裹，如价值低于150欧元，则无需通过海关。<br /><br />—— <a href="https://www.reuters.com/sustainability/germany-drafting-regulations-chinese-online-discounters-capital-reports-2024-09-05/" rel="noopener" target="_blank">路透社</a></p>
-]]></content:encoded>
-<pubDate>Fri, 06 Sep 2024 09:20:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

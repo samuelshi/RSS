@@ -51769,3 +51769,13 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 502
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-10-10 17:01:46
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [📣 #发现频道 闪思笔记一款本地化的笔记软件 https://meta.appinn.net/t/topic/61834](https://t.me/appinnfeed/12315)
+Append: [🖼 Video Station 被自家抛弃了？](https://t.me/appinnfeed/12314)
+Append: [🖼 群晖 DSM 7.2.2-72806 已经更新1个月了，才看到 https://www.synology.com/zh-hk/releaseNote/DSM?os=DSM&version=7.2](https://t.me/appinnfeed/12313)
+Append: [❓ #问题求助 NAS虚拟机安装windows卡顿 https://meta.appinn.net/t/topic/61824](https://t.me/appinnfeed/12312)
+append_entries: 4
+Finish: 2024-10-10 17:01:47

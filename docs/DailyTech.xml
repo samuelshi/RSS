@@ -5,14 +5,68 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>Win 11 集成 1Password 等通行密钥服务 微软即将大幅改进 Windows 11 对通行密钥的支持。重新设计的 Windows Hello 体验将允许选择如何保存通行密钥，可以同步到...</title>
+<link>https://t.me/xhqcankao/14117</link>
+<guid>https://t.me/xhqcankao/14117</guid>
+<content:encoded><![CDATA[
+
+<p><b>Win 11 集成 1Password 等通行密钥服务<br /></b><br />微软即将大幅改进 Windows 11 对通行密钥的支持。重新设计的 Windows Hello 体验将允许选择如何保存通行密钥，可以同步到微软帐户或存储在 1Password、Bitwarden 或其他通行密钥提供商处。第三方密码和通行密钥管理器的新 API 意味着开发人员可以直接接入 Windows 11 体验，因此可以在 PC 上使用移动设备上的相同通行密钥进行身份验证。微软还重新设计了 Windows Hello 提示，包括设置将通行密钥同步到用户的微软帐户或将其保存到其他地方的功能。完成一次性设置过程后，用户可以使用面部识别、指纹或 PIN 在多个 Windows 11 设备上使用通行密钥进行身份验证。<br /><br />—— <a href="https://www.theverge.com/2024/10/10/24266780/microsoft-windows-11-passkey-redesign-windows-hello" rel="noopener" target="_blank">Theverge</a></p>
+]]></content:encoded>
+<pubDate>Thu, 10 Oct 2024 13:05:54 GMT</pubDate>
+<pubDate>Thu, 10 Oct 2024 13:05:54 GMT</pubDate>
+</item>
+<item>
+<title>高通芯片的一个零日漏洞已被黑客利用攻击 Android 用户 周一，芯片制造商高通证实，黑客利用了一个新发现的芯片零日漏洞。高通援引谷歌威胁分析小组未指明的“迹...</title>
+<link>https://t.me/xhqcankao/14116</link>
+<guid>https://t.me/xhqcankao/14116</guid>
+<content:encoded><![CDATA[
+
+<p><b>高通芯片的一个零日漏洞已被黑客利用攻击 Android 用户</b><br /><br />周一，芯片制造商高通证实，黑客利用了一个新发现的芯片零日漏洞。高通援引谷歌威胁分析小组未指明的“迹象”，称正式编号为 <a href="https://www.cve.org/CVERecord?id=CVE-2024-43047" rel="noopener" target="_blank">CVE-2024-43047</a> 的零日漏洞，“可能受到有限的、有针对性的利用”。美国网络安全机构 CISA 已将高通漏洞列入已知或已被利用的漏洞列表。高通在其公告中列出了受此漏洞影响的 64 种芯片组，其中包括该公司的旗舰产品骁龙 8 Gen 1 移动平台。<br /><br />高通表示受影响 FASTRPC 驱动程序的问题的补丁已在9月提供给 OEM 设备制造商，并强烈建议尽快在受影响的设备上部署更新。目前，谷歌仅表示，“有限的、有针对性的利用”，表明黑客活动很可能针对特定个人，而不是大量目标。但不清楚哪些人成为目标，也不清楚为什么。<br /><br />—— <a href="https://techcrunch.com/2024/10/09/hackers-were-targeting-android-users-with-qualcomm-zero-day/" rel="noopener" target="_blank">TechCrunch</a></p>
+]]></content:encoded>
+<pubDate>Thu, 10 Oct 2024 12:35:37 GMT</pubDate>
+<pubDate>Thu, 10 Oct 2024 12:35:37 GMT</pubDate>
+</item>
+<item>
+<title>富士康郑州厂四台籍员工被中国公安拘捕 富士康郑州厂A事业群(苹果产线)四名台籍干部从今年1月起陆续被当地公安逮捕。他们被指控“非公收贿”罪名，其中两人还被...</title>
+<link>https://t.me/xhqcankao/14115</link>
+<guid>https://t.me/xhqcankao/14115</guid>
+<content:encoded><![CDATA[
+
+<p><b>富士康郑州厂四台籍员工被中国公安拘捕</b><br /><br />富士康郑州厂A事业群(苹果产线)四名台籍干部从今年1月起陆续被当地公安逮捕。他们被指控“非公收贿”罪名，其中两人还被指控随意挪用资金。不过，鸿海发表声明称公司没有遭遇任何损失，没有资金被挪用问题，也没有向当地公安报案的纪录。四名台湾员工被带走后，被带到指定居所监视居住，目前已在看守所待超过三个月以上。台湾陆委会周三通过书面声明称，这起案件情节相当怪异，郑州公安以相当于台湾的“背信罪”当作拘留四名员工的理由。不过鸿海表示公司毫无损失，这四名员工毫无伤害公司利益的情事。不排除是源自少数公安腐败滥权。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-10-10/china-detains-four-taiwanese-employees-at-apple-s-iphone-city" rel="noopener" target="_blank">彭博社</a>、<a href="https://www.zaobao.com/realtime/china/story20241010-5016639#amp_tf=%E6%9D%A5%E6%BA%90%EF%BC%9A%251%24s&amp;aoh=17285605442087&amp;" rel="noopener" target="_blank">联合早报</a></p>
+]]></content:encoded>
+<pubDate>Thu, 10 Oct 2024 12:05:36 GMT</pubDate>
+<pubDate>Thu, 10 Oct 2024 12:05:36 GMT</pubDate>
+</item>
+<item>
+<title>OPENAI请求法院驳回马斯克提起的诉讼 今年2月，美国企业家马斯克提起诉讼，称其在为 OpenAI 的创立提供资金等支持时，与该公司两名联合创始人曾有协议，OpenAI ...</title>
+<link>https://t.me/xhqcankao/14114</link>
+<guid>https://t.me/xhqcankao/14114</guid>
+<content:encoded><![CDATA[
+
+<p><b>OPENAI请求法院驳回马斯克提起的诉讼</b><br /><br />今年2月，美国企业家马斯克提起诉讼，称其在为 OpenAI 的创立提供资金等支持时，与该公司两名联合创始人曾有协议，OpenAI 应为“非营利组织”，但 OpenAI 违背了创始目标和使命，转而追求利润。6月，马斯克撤回这一诉讼，8月份又重新起诉。近日，OpenAI 请求法官驳回马斯克的诉讼。<br /><br />OpenAI 方面在给法庭的文件中称，马斯克的诉讼是其为了自身竞争优势而采取的持续骚扰 OpenAI 的做法。文件称，马斯克曾支持 OpenAI 寻求“安全有益地发展通用人工智能”的目标，但在发现自己无法主导这一过程后放弃了对这一目标的支持。OpenAI 还称，马斯克已经推出了自己的人工智能公司，正试图利用司法系统在该领域获得竞争优势。<br /><br />—— <a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=5708516682766412545" rel="noopener" target="_blank">央视新闻</a></p>
+]]></content:encoded>
+<pubDate>Thu, 10 Oct 2024 11:35:17 GMT</pubDate>
+<pubDate>Thu, 10 Oct 2024 11:35:17 GMT</pubDate>
+</item>
+<item>
+<title>2024年诺贝尔文学奖授予韩国作家韩江 瑞典当地时间10月10日，瑞典学院将2024年度诺贝尔文学奖颁给了韩国作家韩江，以表彰“她用充满诗意的散文，直面历史创伤，...</title>
+<link>https://t.me/xhqcankao/14113</link>
+<guid>https://t.me/xhqcankao/14113</guid>
+<content:encoded><![CDATA[
+
+<p><b>2024年诺贝尔文学奖授予韩国作家韩江</b><br /><br />瑞典当地时间10月10日，瑞典学院将2024年度诺贝尔文学奖颁给了韩国作家韩江，以表彰“她用充满诗意的散文，直面历史创伤，揭示人类生命的脆弱”。1970年，韩江出生于韩国光州，父亲和两位哥哥都是作家。从延世大学毕业后，韩江先后投身诗歌和小说创作。1999年，她凭借短篇小说《童佛》拿到韩国小说文学奖。此后，她先后出版了《植物妻子》、《玄鹿》、《素食者》。2010年之后，她的作品包括《少年来了》、《白》，新作《不要告别》于2021年出版。<br /><br />—— <a href="https://www.nobelprize.org/prizes/literature/2024/press-release/" rel="noopener" target="_blank">诺贝尔官网</a></p>
+]]></content:encoded>
+<pubDate>Thu, 10 Oct 2024 11:07:17 GMT</pubDate>
+<pubDate>Thu, 10 Oct 2024 11:07:17 GMT</pubDate>
+</item>
+
+<item>
 <title>苹果 Apple TV+ 将加入美区 Prime Video 亚马逊周三表示，Apple TV+ 将于本月晚些时候在美国的 Prime Video 上推出，价格为每月 9.99 美元。这对这家落后于流媒...</title>
 <link>https://t.me/xhqcankao/14112</link>
 <guid>https://t.me/xhqcankao/14112</guid>
 <content:encoded><![CDATA[
-
 <p><b>苹果 Apple TV+ 将加入美区 Prime Video</b><br /><br />亚马逊周三表示，Apple TV+ 将于本月晚些时候在美国的 Prime Video 上推出，价格为每月 9.99 美元。这对这家落后于流媒体竞争对手的 iPhone 制造商来说是一个提升。苹果 Apple TV+ 流媒体服务以其《足球教练》、《晨间直播秀》和《人生切割术》等原创剧集而闻名，迄今为止，该服务通过专注于内部内容在流媒体领域脱颖而出，这一策略帮助其获得了 72 项艾美奖提名。亚马逊将在 Prime Video 上添加 Apple TV+ 作为频道。<br /><br />—— <a href="https://www.reuters.com/business/media-telecom/amazon-adds-apple-tv-its-prime-video-streaming-service-us-2024-10-10/" rel="noopener" target="_blank">路透社</a></p>
 ]]></content:encoded>
-<pubDate>Thu, 10 Oct 2024 10:50:22 GMT</pubDate>
 <pubDate>Thu, 10 Oct 2024 10:50:22 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +74,10 @@
 <link>https://t.me/xhqcankao/14111</link>
 <guid>https://t.me/xhqcankao/14111</guid>
 <content:encoded><![CDATA[
-
 <p><b>未来三天可能发生大地磁暴 中国北部有机会出现极光<br /></b><br />北京时间10月8日08时至10月10日08时，太阳先后发生五次明显爆发活动。本次观测到太阳在48小时内多次爆发CME，其中10月9日的第一次喷发刚好正对地球而来，并且能量物质多、传播速度快。结合对太阳活动情况的掌握，预判：未来三天，可能发生强地磁活动。其中10日晚间到11日晚间，可能出现大地磁暴，如果没有新的爆发活动出现，12日可能会出现小到中等地磁暴，随后逐渐恢复平静。10日晚间开始，尤其是11日凌晨到12日凌晨的这段时间里，中国北部有机会出现较为明显的极光，部分地区甚至有出现红绿复合极光的可能。<br /><br />—— <a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=9364659462198258310" rel="noopener" target="_blank">央视新闻</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 10 Oct 2024 10:20:51 GMT</pubDate>
-<pubDate>Thu, 10 Oct 2024 10:20:51 GMT</pubDate>
 </item>
-
 <item>
 <title>淘宝天猫将上线“加价选顺丰”服务，商家未履约须赔付15元 10月10日消息，为满足用户日常消费的升级体验，淘宝天猫将上线“加价选顺丰”运费模板的功能，消费者...</title>
 <link>https://t.me/xhqcankao/14110</link>
@@ -9052,24 +9103,6 @@
 <p><b>高通正探讨收购英特尔部分芯片设计业务</b><br /><br />据两位知情人士透露，高通已经探索收购英特尔部分设计业务的可能性，以增强该公司的产品组合。知情人士称，这家移动芯片制造商已经考虑收购英特尔的不同业务，英特尔目前正努力创造现金，并希望剥离业务部门并出售其他资产。高通高管对英特尔的客户端 PC 设计业务非常感兴趣，但高通也在关注其所有的设计部门。另一位了解高通业务的消息人士称，高通收购英特尔的其他业务，如服务器业务，意义不大。英特尔发言人表示，高通尚未就潜在收购事宜与英特尔接触，并拒绝就其计划发表评论。发言人表示英特尔“坚定地致力于我们的 PC 业务”。<br /><br />—— <a href="https://www.reuters.com/technology/qualcomm-has-explored-acquiring-pieces-intel-chip-design-business-sources-say-2024-09-06/" rel="noopener" target="_blank">路透社</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 06 Sep 2024 06:41:10 GMT</pubDate>
-</item>
-<item>
-<title>拼多多商家店铺基础保证金下调到500元 拼多多最新发布的商家通知显示，商家店铺的基础保证金将从1000元下调到500元，新入驻的个人店铺、企业店铺初始化保证金也...</title>
-<link>https://t.me/xhqcankao/13256</link>
-<guid>https://t.me/xhqcankao/13256</guid>
-<content:encoded><![CDATA[
-<p><b>拼多多商家店铺基础保证金下调到500元</b><br /><br />拼多多最新发布的商家通知显示，商家店铺的基础保证金将从1000元下调到500元，新入驻的个人店铺、企业店铺初始化保证金也将下调至500元。<br /><br />据了解，拼多多此次下调商家店铺保证金正在进行集中测试，首批享受该政策的商家已经覆盖近70个类目，部分商家已经完成提现，数百万商家将因此受益，尤其是多店铺经营的商家，经营成本进一步降低。这也是继技术服务费、推广服务费等退返权益之后，拼多多向商家推出的又一项减免政策。<br /><br />—— <a href="https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Ftech%2Finternet%2F2024-09-06%2Fdoc-incneshu4928154.shtml&amp;from=redirect" rel="noopener" target="_blank">新浪科技</a></p>
-]]></content:encoded>
-<pubDate>Fri, 06 Sep 2024 06:10:46 GMT</pubDate>
-</item>
-<item>
-<title>中国可重复使用试验航天器成功着陆 中国在酒泉卫星发射中心成功发射的可重复使用试验航天器，在轨飞行268天后，于9月6日成功返回预定着陆场。此次试验的圆满成功...</title>
-<link>https://t.me/xhqcankao/13255</link>
-<guid>https://t.me/xhqcankao/13255</guid>
-<content:encoded><![CDATA[
-<p><b>中国可重复使用试验航天器成功着陆</b><br /><br />中国在酒泉卫星发射中心成功发射的可重复使用试验航天器，在轨飞行268天后，于9月6日成功返回预定着陆场。此次试验的圆满成功，标志着中国可重复使用航天器技术渐趋成熟，后续可为和平利用太空提供更加便捷、廉价的往返方式。<br /><br />—— <a href="http://www.news.cn/tech/20240906/3423bf10af6749fe9130642214b2b044/c.html" rel="noopener" target="_blank">新华社</a></p>
-]]></content:encoded>
-<pubDate>Fri, 06 Sep 2024 05:45:20 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -51800,3 +51800,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 530
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-10-10 21:06:19
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [💧 #小众软件 为微软电子教鞭 ZoomIt v8.0.1 添加快捷键小抄｜新功能 DemoType：自动输入演示文本 https://www.appinn.com/zoomit-v8-demotype/](https://t.me/appinnfeed/12318)
+append_entries: 1
+Finish: 2024-10-10 21:06:20

@@ -4,18 +4,16 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>❓ #问题求助 主机没有连接显示器的情况下，能有办法串流吗？ https://meta.appinn.net/t/topic/61852</title>
 <link>https://t.me/appinnfeed/12322</link>
 <guid>https://t.me/appinnfeed/12322</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12322?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />主机没有连接显示器的情况下，能有办法串流吗？<br /><a href="https://meta.appinn.net/t/topic/61852" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/61852</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/61852">主机没有连接显示器的情况下，能有办法串流吗？</a></b><br /><p>情况是这样的：    被控主机没接显示器，平常都是远程桌面上去    这次想试试用 sunshine+moonlight 串流，结果发现串流的是远程桌面，只要一关远程桌面或者最小化，moonlight 就黑屏了    装了 Parsec-VDD，在没接显示器、只是远程桌面时加不了虚拟显示器，查了 Parsec-VDD 的 issue，有人也提了这个问题，没解决    看到有人说用 Parsec-VDD-cli，试了也不行，即使是把 Parsec-VDD-cli 加了计划任务“启动时”执行也不行    想…</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/a8zl4FiH1HJZ7Ea5SQXrEKjboJreLEZQjjJy87EfFTI1AnYNdxbRMjZOfhexoPzwXZ3PXj469YfRDG5ByvQKS2eKz2OLTzGsun5ZcL5EijFIdtcYcvEyUNsRQJj8hql404iq2z2QLepCf0XPdeq8KJeAIOD5sIW8XAIrPbtOy_uK218bsud5Xy9WXvjB029mBP-7UNdnnn-McydeLPrpWR5Tdw5-d-F4FgyEYS0CQMnswHzTHH7CLtUsIey0Q2FObxEADrJXndzbADgy56Ab8f5D9OgIT0nK76dTfwQmofZDo-IOLm7rJYxKYn3BN_B9bjKqaXYjaCY5eui68edm0w.jpg" width="0" /></blockquote>
 ]]></content:encoded>
 <pubDate>Fri, 11 Oct 2024 01:57:10 GMT</pubDate>
-<pubDate>Fri, 11 Oct 2024 01:57:10 GMT</pubDate>
 </item>
-
 <item>
 <title>📣 #发现频道 【开发者自荐】Luna Swapping 开源的 AI 换脸写真应用解决方案 https://meta.appinn.net/t/topic/61851</title>
 <link>https://t.me/appinnfeed/12321</link>
@@ -9010,15 +9008,6 @@
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10850?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />求替换无效图片的油猴脚本<br /><br /><a href="https://meta.appinn.net/t/topic/57320" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/57320</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/57320">求替换无效图片的油猴脚本</a></b><br /><p>求一个替换无效图片的油猴脚本,谢谢! 如题,下面这个页面的多媒体信息标签页中有几张无效图片.  可是页面是动态的js,我在网上找了几个方法替换无效图片为本地图片(base64),都没什么效果.  只好来这里求求各位大神帮忙写一个油猴脚本.谢谢. http://www.especies.cn/baike/taxon/sp2000TaxaTree_2023/Zygophyllum%20macropterum</p><img src="https://cdn4.cdn-telegram.org/file/kGURiatVWZRPkgFRbeYNt7DVAZjgGB15xtGpwxKj4YJm29KJpc-6INEBVQvkSHTQzEouGImtmsrhULo9t5iDDuZF1x1zhsM0DJSdjiPImGan_4_LBW6ZPUP56RXrnFV8C4071RbdqLj-nKK_rFVcpwjIBYeJaSPCUq56eLtwkrWXa2eHEpnRYITJm04pQjDhHGK_5slzAJYxrQfHWhrugBXF3MNaH3eQJI26qGb8IyPz02fvbfOuIFe46XiCNkORGocOhnW8qsA3UVFIK6NOQNFLGyJpu0YEgW2l4o1s1-ebKc80gsKd55r2gbFKbcz7F5Lmxi9TdRYN6vvAp63NZA.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Wed, 05 Jun 2024 03:16:02 GMT</pubDate>
-</item>
-<item>
-<title>❓ #问题求助 群晖NAS备份Iphone相册如何指定文件夹 https://meta.appinn.net/t/topic/57310</title>
-<link>https://t.me/appinnfeed/10849</link>
-<guid>https://t.me/appinnfeed/10849</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10849?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />群晖NAS备份Iphone相册如何指定文件夹<br /><br /><a href="https://meta.appinn.net/t/topic/57310" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/57310</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/57310">群晖NAS备份Iphone相册如何指定文件夹</a></b><br /><p>如题，在用群晖NAS备份iPhone照片的时候遇到了一个问题。  我手机上的软件是Synology Drive，可以自动备份手机上的照片。  但是问题是，不能指定特定的文件夹。  比如我有一个相册，命名为“资料”，我只想将这个相册备份到NAS，而不需要将手机全部照片都备份。但是这个软件无法设置。  给他设置“读取部分相册”的选项，备份功能直接打不开；设置全部访问，就会全部都备份……  所以有没有什么办法能指定文件夹备份？</p><img src="https://cdn4.cdn-telegram.org/file/sRdi6RUGuuxIuniwe05qTuI5nWVpGKN7SaYq5Lb3DN6nZ64mLqMtL_LFPcADoHqf90QUU_-WJ9aO65EzbDrQTxEAi-bNkOuZKAQm4YHDNs4EnntJrnLln9hLLkv8DTYBthydYmseXNW5TkUoPgRe2q6i8oMtVoQI8xsx3Sz3sDkmAPYuEvCL8tE7Uyc3S1YMwegJIzFdA9LjyQLzdLLb1VsrucWPhgiQg0EbR9SKUNvt7Vi46Qhep8JRFBXLfLG6QBPKAknnQdxRkLhftptd7gpz9FaG10pwn__LeSdSuIB6JQkt_QY-GsqP7rDHHGLzIwPLlqkAokaLEv_m7k-Cmw.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Tue, 04 Jun 2024 13:08:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

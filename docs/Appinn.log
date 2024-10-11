@@ -51968,3 +51968,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 502
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-10-11 22:01:48
+Existing_entries: 1003
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [❓ #问题求助 请问有没有把多个文件夹里面的文件同时批量移动到另一个文件夹的软件呢？ https://meta.appinn.net/t/topic/61888](https://t.me/appinnfeed/12333)
+append_entries: 1
+Finish: 2024-10-11 22:01:49

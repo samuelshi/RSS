@@ -51928,3 +51928,10 @@ Append: [❓ #问题求助 想找上海小学生教材使用的字体 https://me
 Append: [📣 #发现频道 一个基于 Python 的 ChatGPT Telegram Bot [无限 Token] （代码已开源）支持 Docker 快速搭建 https://meta.appinn.net/t/topic/61862](https://t.me/appinnfeed/12323)
 append_entries: 2
 Finish: 2024-10-11 16:01:45
+------------------------------------------------------
+Started: 2024-10-11 17:01:40
+Existing_entries: 1002
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 530
+append_entries: 0
+error when rendering xml, skip docs/Appinn

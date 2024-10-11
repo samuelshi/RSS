@@ -51961,3 +51961,10 @@ Append: [❓ #问题求助 如果设置自己账户的头像为 Gravatar，似�
 Append: [❓ #问题求助 2024 年，如何将 Win10 1511 升级到 21H2？ https://meta.appinn.net/t/topic/61880](https://t.me/appinnfeed/12330)
 append_entries: 3
 Finish: 2024-10-11 20:01:56
+------------------------------------------------------
+Started: 2024-10-11 21:05:41
+Existing_entries: 1003
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 502
+append_entries: 0
+error when rendering xml, skip docs/Appinn

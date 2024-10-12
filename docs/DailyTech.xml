@@ -4,6 +4,28 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+<item>
+<title>苹果研究人员表示AI模型不具有推理能力 苹果公司的六位人工智能研究人员刚刚发表了一篇关于大语言模型LLM的极好文章，他们勇于挑战主流模式。其中有一段很关键：...</title>
+<link>https://t.me/xhqcankao/14168</link>
+<guid>https://t.me/xhqcankao/14168</guid>
+<content:encoded><![CDATA[
+
+<p><b>苹果研究人员表示AI模型不具有推理能力</b><br /><br />苹果公司的六位人工智能研究人员刚刚发表了一篇关于大语言模型LLM的极好<a href="https://arxiv.org/pdf/2410.05229" rel="noopener" target="_blank">文章</a>，他们勇于挑战主流模式。其中有一段很关键：“我们在语言模型中没有发现形式推理的证据 .... 它们的行为可以用复杂的模式匹配来更好地解释。事实上，这种模式匹配非常脆弱，改变名称可以使结果改变大约10%！”（一句话）改变一个词以不相关的方式重复两遍或添加一些不相关的信息可能会给你不同的答案。<br /><br />LLM 缺乏足够抽象和正规推理的另一个表现是，问题越大，性能往往越差。在解决小问题时性能还可以，但很快就会下降。我们可以在整数运算中看到同样的情况。无论是旧模型还是新模型，在越来越大的乘法运算问题上，我们都能多次观察到运算速度下降的现象。埃隆·马斯克的自动驾驶出租车可能也会遭遇类似的问题：它们在最常见的情况下可能能够安全运行，但在某些情况下也可能难以进行足够的抽象推理。<br /><br />—— <a href="https://garymarcus.substack.com/p/llms-dont-do-formal-reasoning-and" rel="noopener" target="_blank">Marcus on AI</a></p>
+]]></content:encoded>
+<pubDate>Sat, 12 Oct 2024 15:56:20 GMT</pubDate>
+<pubDate>Sat, 12 Oct 2024 15:56:20 GMT</pubDate>
+</item>
+<item>
+<title>FAA 已签发星舰第五次飞行项目环境评估与发射许可证 美国联邦航空管理局(FAA)当地时间10月12日为星舰第五次试飞签发了环境评估再评估文件与修改后的发射许可证 ...</title>
+<link>https://t.me/xhqcankao/14167</link>
+<guid>https://t.me/xhqcankao/14167</guid>
+<content:encoded><![CDATA[
+
+<p><b>FAA 已签发星舰第五次飞行项目环境评估与发射许可证</b><br /><br />美国联邦航空管理局(FAA)当地时间10月12日为星舰第五次试飞签发了环境评估再评估文件与修改后的<a href="https://drs.faa.gov/browse/excelExternalWindow/DRSDOCID173891218620231102140506.0001" rel="noopener" target="_blank">发射许可证</a> 。FAA 已制定了一份书面重新评估 (WR)，以解决拟议项目对墨西哥湾前部隔热罩位置的更新、有关超重型助推器着陆产生的音爆的附加信息、音爆建模的更新以及水喷淋系统的使用更新。根据 WR 得出结论，不需要准备新的或补充信息来支持发射许可证修改。<br /><br />星舰第五次飞行测试计划将于 10 月 13 日发射，发射窗口将于美国中部时间上午7：00打开，直播将于发射前30分钟开始。目前 SpaceX 已经完成了所有发射前准备，本次试飞将增加使用机械臂进行一级超重助推器的回收试验，但只有在飞行状态良好时才会进行尝试。<br /><br />—— <a href="https://www.faa.gov/space/stakeholder_engagement/spacex_starship" rel="noopener" target="_blank">FAA</a></p>
+]]></content:encoded>
+<pubDate>Sat, 12 Oct 2024 15:26:32 GMT</pubDate>
+<pubDate>Sat, 12 Oct 2024 15:26:32 GMT</pubDate>
+</item>
 
 <item>
 <title>上海移动在上海5条地铁线实现5G-A网络覆盖 截至10月11日，上海移动已在本市1号线、6号线、7号线、8号线、12号线5条地铁线实现了5G-A网络覆盖，以提升用户在地铁...</title>

@@ -5,14 +5,57 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>2024年10月12日 🌍资讯快读 1、中方跨部门工作组赴巴基斯坦处置“10·6”恐袭事件 https://www.jiemian.com/article/11813227.htm 2、我国成功回收首颗可重复...</title>
+<link>https://t.me/jike_collection/10264</link>
+<guid>https://t.me/jike_collection/10264</guid>
+<content:encoded><![CDATA[
+
+<p>2024年10月12日<br /><span class="emoji">🌍</span>资讯快读<br />1、中方跨部门工作组赴巴基斯坦处置“10·6”恐袭事件<br /><a href="https://www.jiemian.com/article/11813227.htm" rel="noopener" target="_blank">https://www.jiemian.com/article/11813227.htm</a><br />2、我国成功回收首颗可重复使用返回式技术试验卫星<br /><a href="https://www.jiemian.com/article/11815942.html" rel="noopener" target="_blank">https://www.jiemian.com/article/11815942.html</a><br />3、余华英卖的第一个孩子是亲生儿子：5000元卖到河北<br /><a href="https://www.thepaper.cn/newsDetail_forward_28995329" rel="noopener" target="_blank">https://www.thepaper.cn/newsDetail_forward_28995329</a><br />4、伊朗宣布正在考虑退出《不扩散核武器条约》<br /><a href="https://www.thepaper.cn/newsDetail_forward_28997697" rel="noopener" target="_blank">https://www.thepaper.cn/newsDetail_forward_28997697</a><br />5、特斯拉展示新款人形机器人 Optimus:可以执行日常任务和提供服务<br /><a href="https://www.pingwest.com/w/299025" rel="noopener" target="_blank">https://www.pingwest.com/w/299025</a><br /><br /><span class="emoji">👬</span>即刻镇小报<br />1、专注力是一种被低估的超级技能<br /><a href="https://m.okjike.com/originalPosts/67060a801bdec5e1e7cb9ecc" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/67060a801bdec5e1e7cb9ecc</a><br />2、失业2年，做自媒体18个月，0-7.2W粉，聊点心里话<br /><a href="https://m.okjike.com/originalPosts/6706b13736482cc6c2af5b29" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/6706b13736482cc6c2af5b29</a><br />3、iphone上最简便碎片信息收集工具就是微信，没有必要折腾各种第三方inbox<br /><a href="https://m.okjike.com/originalPosts/67073008318e130b9398a57e" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/67073008318e130b9398a57e</a><br />4、ChatGPT 的记忆功能，是需要刻意养号的<br /><a href="https://m.okjike.com/originalPosts/6707993d4014c977c6739f05" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/6707993d4014c977c6739f05</a><br />5、聊聊影视飓风《清晰度不如4年前！视频变糊是你的错觉吗？》<br /><a href="https://m.okjike.com/originalPosts/6707f0a14014c977c67a670c" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/6707f0a14014c977c67a670c</a><br /><br />今日即刻镇小报内容来自 <a href="https://t.me/Szhans" target="_blank">@Szhans</a> @斐斐不会飞 <a href="https://t.me/noteBeliever" target="_blank">@noteBeliever</a> @评论尸 @阑夕ོ ，感谢以上即友的创作与分享。 <a href="https://t.me/jike_collection/10264?q=%23%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88">#一觉醒来发生了什么</a></p>
+]]></content:encoded>
+<pubDate>Sat, 12 Oct 2024 00:27:22 GMT</pubDate>
+<pubDate>Sat, 12 Oct 2024 00:27:22 GMT</pubDate>
+</item>
+<item>
+<title>谷歌正准备让用户在 Android 上可以直接运行 Linux 应用程序 谷歌工程师已经开始开发一款适用于安卓的新终端应用。这款终端应用是安卓虚拟化框架 (AVF) 的一部分...</title>
+<link>https://t.me/xhqcankao/14157</link>
+<guid>https://t.me/xhqcankao/14157</guid>
+<content:encoded><![CDATA[
+
+<p><b>谷歌正准备让用户在 Android 上可以直接运行 Linux 应用程序</b><br /><br />谷歌工程师已经开始开发一款适用于安卓的新终端应用。这款终端应用是安卓虚拟化框架 (AVF) 的一部分，包含一个通过本地 IP 地址连接到 Linux 虚拟机的 WebView，可让用户从安卓系统直接运行 Linux 命令。一组标签为 <code>ferrochrome-dev-option</code> 的补丁最近提交给 AOSP，在“设置”&gt;“系统”&gt;“开发者选项”下添加了一个名为“Linux 终端”的新开发者选项。根据其拟议描述，此新选项将启用“在 VM 内运行的 Linux 终端应用”。切换此选项可启用与 AVF 捆绑在一起的终端应用。谷歌表示现有的“LinuxInstaller”应用将“很快合并到终端应用中”。AVF 已经支持图形和部分输入选项，正准备增加对备份和恢复快照、嵌套虚拟化和对 x86_64 架构设备的支持。<br /><br />—— <a href="https://www.androidauthority.com/android-linux-terminal-app-3489887/" rel="noopener" target="_blank">Android Authority</a>，<a href="https://youtu.be/Be6oBsw41aQ" rel="noopener" target="_blank">演示视频</a></p>
+]]></content:encoded>
+<pubDate>Sat, 12 Oct 2024 02:07:25 GMT</pubDate>
+<pubDate>Sat, 12 Oct 2024 02:07:25 GMT</pubDate>
+</item>
+<item>
+<title>黑客让全美各地扫地机器人发出辱骂言论 美国全国各地的扫地机器人在几天之内均遭到黑客攻击。这使得攻击者不仅能控制扫地机器人，还能利用扬声器向附近的任何人...</title>
+<link>https://t.me/xhqcankao/14156</link>
+<guid>https://t.me/xhqcankao/14156</guid>
+<content:encoded><![CDATA[
+
+<p><b>黑客让全美各地扫地机器人发出辱骂言论</b><br /><br />美国全国各地的扫地机器人在几天之内均遭到黑客攻击。这使得攻击者不仅能控制扫地机器人，还能利用扬声器向附近的任何人发出种族歧视和辱骂性言论。所有受影响的扫地机器人都是同一品牌和型号，即中国制造的科沃斯 Deebot X2s。这个问题的根源在于一个安全漏洞，恶意行为者可以利用该漏洞绕过所需的四位数安全 PIN 码，从而控制扫地机器人。漏洞最初于2023年12月曝光。目前科沃斯公司已经开发出一个补丁来消除上述安全漏洞，预计将于11月左右推出。<br /><br />—— <a href="https://www.abc.net.au/news/2024-10-11/robot-vacuum-yells-racial-slurs-at-family-after-being-hacked/104445408" rel="noopener" target="_blank">澳大利亚广播公司</a>、<a href="https://gizmodo.com/hacked-robot-vacuums-across-the-us-started-yelling-slurs-2000511013" rel="noopener" target="_blank">Gizmodo</a></p>
+]]></content:encoded>
+<pubDate>Sat, 12 Oct 2024 01:33:00 GMT</pubDate>
+<pubDate>Sat, 12 Oct 2024 01:33:00 GMT</pubDate>
+</item>
+<item>
+<title>富士康四员工在郑州被捕 国台办证实涉受贿等罪被查 富士康郑州厂传四名台籍干部被中国大陆公安以“非公收贿”带走侦办，中国大陆国台办证实，当事人涉嫌非国家工...</title>
+<link>https://t.me/xhqcankao/14155</link>
+<guid>https://t.me/xhqcankao/14155</guid>
+<content:encoded><![CDATA[
+
+<p><b>富士康四员工在郑州被捕 国台办证实涉受贿等罪被查</b><br /><br />富士康郑州厂传四名台籍干部被中国大陆公安以“非公收贿”带走侦办，中国大陆国台办证实，当事人涉嫌非国家工作人员受贿罪、挪用资金罪等被查。中国大陆国台办发言人朱凤莲10月11日晚以答记者问形式通报，据了解，当事人涉嫌非国家工作人员受贿罪、挪用资金罪等犯罪行为，被有关部门依法调查，目前案件正在侦办中。朱凤莲称，有关部门严格依法办案，依法保障其合法权益。朱凤莲没有进一步透露案件详情，包括被带走的四人何时被拘留、在富士康的职位等。<br /><br />—— <a href="https://www.zaobao.com.sg/realtime/china/story20241012-5073220" rel="noopener" target="_blank">联合早报</a></p>
+]]></content:encoded>
+<pubDate>Sat, 12 Oct 2024 00:20:01 GMT</pubDate>
+<pubDate>Sat, 12 Oct 2024 00:20:01 GMT</pubDate>
+</item>
+
+<item>
 <title>互联网档案馆仍处于瘫痪中 预计几天后恢复 ​根据创始人布鲁斯特·卡勒的最新消息，因网络攻击导致数字图书馆和“网站时光机”服务瘫痪的互联网档案馆将在“几天...</title>
 <link>https://t.me/xhqcankao/14154</link>
 <guid>https://t.me/xhqcankao/14154</guid>
 <content:encoded><![CDATA[
-
 <p><b>互联网档案馆仍处于瘫痪中 预计几天后恢复</b><br /><br />根据创始人布鲁斯特·卡勒的最新消息，因网络攻击导致数字图书馆和“网站时光机”服务瘫痪的互联网档案馆将在“几天内”恢复。互联网档案馆本周早些时候遭遇数据泄露和DDoS攻击，导致3100多万用户信息泄露，包括电子邮件地址、显示名称、密码更改时间戳和其他信息。目前，如果你尝试访问互联网档案馆网站，你会看到一条通知，上面写着该网站“暂时”离线。“网站时光机”的链接也无法加载。卡勒写道：“数据是安全的。我们正在检查和加强服务，因此服务处于离线状态。很抱歉，但这是必要的。工作人员正在努力工作。预计时间：几天，而不是几周。”<br /><br />—— <a href="https://www.theverge.com/2024/10/11/24268040/internet-archive-data-breach-outage-hacked" rel="noopener" target="_blank">Theverge</a></p>
 ]]></content:encoded>
-<pubDate>Fri, 11 Oct 2024 23:52:46 GMT</pubDate>
 <pubDate>Fri, 11 Oct 2024 23:52:46 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +63,10 @@
 <link>https://t.me/xhqcankao/14153</link>
 <guid>https://t.me/xhqcankao/14153</guid>
 <content:encoded><![CDATA[
-
 <p><b>波音将裁员1.7万人并推迟首批 777X 交付</b><br /><br />波音公司将裁员 17,000 人，777X 喷气式飞机的首批交付推迟一年，波音第三季度录得50亿美元的亏损，因为这家美国飞机制造商在长达一个月的罢工期间状况持续下滑。首席执行官凯利·奥特伯格在给员工的信中表示，在持续的罢工导致波音 737 MAX、767 和 777 飞机停产后，波音必须缩减员工队伍“以适应我们的财务现实”。奥特伯格在信中说道：“我们重新调整了员工人数，以适应我们的财务现实和更集中的优先事项。在接下来的几个月里，我们计划将员工总数减少约 10%。裁员将包括高管、经理和普通员工。”<br /><br />—— <a href="https://www.reuters.com/business/aerospace-defense/boeing-cut-17000-jobs-delay-first-777x-delivery-strike-hits-finances-2024-10-11/?utm_medium=Social&amp;utm_source=twitter" rel="noopener" target="_blank">路透社</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 11 Oct 2024 23:15:52 GMT</pubDate>
-<pubDate>Fri, 11 Oct 2024 23:15:52 GMT</pubDate>
 </item>
-
 <item>
 <title>苹果的 USB SuperDrive 外置光驱或已停产 几个月前，SuperDrive 在美国的苹果在线商店断货，现在在所有国家/地区都被列为售罄或无货。鉴于该产品至今仍未恢复销...</title>
 <link>https://t.me/xhqcankao/14152</link>
@@ -9048,24 +9088,6 @@
 <p><b>瑞典建议2岁以下儿童不应接触电子屏幕</b><br /><br />瑞典表示，2岁以下的儿童不应接触任何电子屏幕。这项建议是由瑞典公共卫生机构在本月初新学年开始时发布的。新冠疫情封锁加剧了该问题，因为学校转向远程教学，而居家办公的家长则依赖电视节目和电影来让孩子保持忙碌。瑞典建议儿童不应接触任何电子屏幕，包括电视。随着儿童年龄的增长，这些建议略有放宽：2至5岁的儿童每天在屏幕前的时间最多为1小时，而6至12岁的儿童每天在屏幕前的时间最多为2小时。青少年每天的屏幕时间不应超过3小时。瑞典的建议是在研究发现儿童过度使用数码设备会带来睡眠质量下降、抑郁和身体活动受限等负面影响之后提出的。<br /><br />—— <a href="https://apnews.com/article/sweden-children-screen-time-cellphones-14f171cbc5f91c6af9c35cf48bdb10f3" rel="noopener" target="_blank">美联社</a></p>
 ]]></content:encoded>
 <pubDate>Sat, 07 Sep 2024 09:53:56 GMT</pubDate>
-</item>
-<item>
-<title>美国呼吁科技巨头协助规避俄伊网络审查 美国白宫周四召集 CloudFlare、亚马逊、谷歌、微软和社会活动人士举行会谈，鼓励美国科技巨头为政府资助的互联网审查规避...</title>
-<link>https://t.me/xhqcankao/13289</link>
-<guid>https://t.me/xhqcankao/13289</guid>
-<content:encoded><![CDATA[
-<p><b>美国呼吁科技巨头协助规避俄伊网络审查</b><br /><br />美国白宫周四召集 CloudFlare、亚马逊、谷歌、微软和社会活动人士举行会谈，鼓励美国科技巨头为政府资助的互联网审查规避工具提供更多数字带宽。获美国支持的开放技术基金会 (OTF) 发现，互联网审查规避工具在俄罗斯、伊朗、缅甸和严格审查互联网的专制国家中使用量激增。OTF 主席坎宁安表示，OTF 在会议上向科技公司提出的建议是帮助提供折扣或补贴的服务器带宽，以满足OTF 资助的 VPN 应用快速增长的需求。坎宁安说：“过去几年，我们看到 VPN 的需求激增，主要由俄罗斯和伊朗用户推动。十年来，我们每月常规支持约900万 VPN 用户，现在这个数字已经增长超过四倍。”<br /><br />—— <a href="https://www.reuters.com/technology/us-calls-big-tech-help-evade-online-censors-russia-iran-2024-09-05/" rel="noopener" target="_blank">路透社</a></p>
-]]></content:encoded>
-<pubDate>Sat, 07 Sep 2024 06:19:12 GMT</pubDate>
-</item>
-<item>
-<title>华为三折叠新机Mate XT非凡大师开启预订 华为终端9月7日在微博宣布，华为Mate XT非凡大师于9月7日12:08开启预订。华为此前预告将三折叠新机命名为华为Mate XT非...</title>
-<link>https://t.me/xhqcankao/13288</link>
-<guid>https://t.me/xhqcankao/13288</guid>
-<content:encoded><![CDATA[
-<p><b>华为三折叠新机Mate XT非凡大师开启预订</b><br /><br />华为终端9月7日在微博宣布，华为Mate XT非凡大师于9月7日12:08开启预订。华为此前预告将三折叠新机命名为华为Mate XT非凡大师。京东页面显示，华为 Mate XT 非凡大师版将于9月20日开售，提供瑞红、玄黑配色，16GB+1TB、16GB+512GB 存储版本。<br /><br />—— <a href="https://m.jiemian.com/article/11689268.html" rel="noopener" target="_blank">界面新闻</a></p>
-]]></content:encoded>
-<pubDate>Sat, 07 Sep 2024 05:06:24 GMT</pubDate>
 </item>
 </channel>
 </rss>

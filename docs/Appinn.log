@@ -52042,3 +52042,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 502
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-10-12 10:21:57
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [📣 #发现频道 【自荐】Oysape - SSH客户端和CI/CD工具 https://meta.appinn.net/t/topic/61893](https://t.me/appinnfeed/12334)
+append_entries: 1
+Finish: 2024-10-12 10:21:58

@@ -52372,3 +52372,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Append: [📣 #发现频道 [开源自荐] 快速预览链接插件 https://meta.appinn.net/t/topic/61960](https://t.me/appinnfeed/12344)
 append_entries: 1
 Finish: 2024-10-14 13:01:37
+------------------------------------------------------
+Started: 2024-10-14 14:01:46
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 502
+append_entries: 0
+error when rendering xml, skip docs/Appinn

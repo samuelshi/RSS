@@ -4,6 +4,17 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>❓ #问题求助 Ffmpeg hevc_nvenc的-cq和 -qmax -qmin到底什么关系？ https://meta.appinn.net/t/topic/61988</title>
+<link>https://t.me/appinnfeed/12351</link>
+<guid>https://t.me/appinnfeed/12351</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12351?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />Ffmpeg hevc_nvenc的-cq和 -qmax -qmin到底什么关系？<br /><a href="https://meta.appinn.net/t/topic/61988" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/61988</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/61988">Ffmpeg hevc_nvenc的-cq和 -qmax -qmin到底什么关系？</a></b><br /><p>搞不太明白怎么配合使用，用一小段视频测了一下，命令行大概是  ffmpeg  -hwaccel cuda -c:v hevc_nvenc       -cq 41         -qmin 1      -qmax 33 -i 1.mp4   out.mp4  以下是压缩参数：         压缩前3011KB     -cq -qmin -qmax Output File (KB)   21 1 36 10764   30 1 36 4441   38 1 36 1996   38   1993 …</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/EBNPNgrUygLIfIpZqwOcIrXdM3Ej5kMyK68ei8cGjVCmOBoJSUNc7jzhjLnqaGW1qn0cKJyrEodkDwd_fZtC5SwnCOGzz0oNX4gbMqba4JrOS-ZASBsKdAhUWPm7raa8jZ7cuYbcYCKQYEhgKTRdRQeSHjZKE5a7pbnO8TdMaqjsdCsbAFbFgfDzQ5iq0Wiu1jEyX1q1-dSIsFFA9ExkXHlCSCyHXGH6QppnFxo3HobaO6mXXfaX9tobItmzdLGBvxC5y3EJaCLOS3XBlG81DAIYEPlbD4Z2vufFcm2IIzyydQo9CWaLAaHfuOuP1gOtZISaKkb9TejhN5WxQEYJOg.jpg" width="0" /></blockquote>
+]]></content:encoded>
+<pubDate>Mon, 14 Oct 2024 21:22:41 GMT</pubDate>
+<pubDate>Mon, 14 Oct 2024 21:22:41 GMT</pubDate>
+</item>
 
 <item>
 <title>📣 #发现频道 【开发者自荐】BetterWe 一款习惯打卡·待办完成·积累积分·兑换心愿的 iOS App https://meta.appinn.net/t/topic/61985</title>

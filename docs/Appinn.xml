@@ -4,18 +4,16 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>❓ #问题求助 Ffmpeg hevc_nvenc的-cq和 -qmax -qmin到底什么关系？ https://meta.appinn.net/t/topic/61988</title>
 <link>https://t.me/appinnfeed/12351</link>
 <guid>https://t.me/appinnfeed/12351</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12351?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />Ffmpeg hevc_nvenc的-cq和 -qmax -qmin到底什么关系？<br /><a href="https://meta.appinn.net/t/topic/61988" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/61988</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/61988">Ffmpeg hevc_nvenc的-cq和 -qmax -qmin到底什么关系？</a></b><br /><p>搞不太明白怎么配合使用，用一小段视频测了一下，命令行大概是  ffmpeg  -hwaccel cuda -c:v hevc_nvenc       -cq 41         -qmin 1      -qmax 33 -i 1.mp4   out.mp4  以下是压缩参数：         压缩前3011KB     -cq -qmin -qmax Output File (KB)   21 1 36 10764   30 1 36 4441   38 1 36 1996   38   1993 …</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/EBNPNgrUygLIfIpZqwOcIrXdM3Ej5kMyK68ei8cGjVCmOBoJSUNc7jzhjLnqaGW1qn0cKJyrEodkDwd_fZtC5SwnCOGzz0oNX4gbMqba4JrOS-ZASBsKdAhUWPm7raa8jZ7cuYbcYCKQYEhgKTRdRQeSHjZKE5a7pbnO8TdMaqjsdCsbAFbFgfDzQ5iq0Wiu1jEyX1q1-dSIsFFA9ExkXHlCSCyHXGH6QppnFxo3HobaO6mXXfaX9tobItmzdLGBvxC5y3EJaCLOS3XBlG81DAIYEPlbD4Z2vufFcm2IIzyydQo9CWaLAaHfuOuP1gOtZISaKkb9TejhN5WxQEYJOg.jpg" width="0" /></blockquote>
 ]]></content:encoded>
 <pubDate>Mon, 14 Oct 2024 21:22:41 GMT</pubDate>
-<pubDate>Mon, 14 Oct 2024 21:22:41 GMT</pubDate>
 </item>
-
 <item>
 <title>📣 #发现频道 【开发者自荐】BetterWe 一款习惯打卡·待办完成·积累积分·兑换心愿的 iOS App https://meta.appinn.net/t/topic/61985</title>
 <link>https://t.me/appinnfeed/12350</link>
@@ -9010,15 +9008,6 @@
 <p><span class="emoji">💧</span> <a href="https://t.me/appinnfeed/10879?q=%23%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6">#小众软件</a><br />有人制作假冒 App 还上架到了应用商店，开发者很生气，但又能做什么呢？<br /><br /><a href="https://www.appinn.com/fake-app-uploaded-app-store/" rel="noopener" target="_blank">https://www.appinn.com/fake-app-uploaded-app-store/</a><br /><br /><b>Tags</b>: <a href="https://t.me/appinnfeed/10879?q=%23%E4%B8%9A%E7%95%8C%E6%B6%88%E6%81%AF">#业界消息</a>, <a href="https://t.me/appinnfeed/10879?q=%23%E5%81%87%E5%86%92">#假冒</a></p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/fake-app-uploaded-app-store/">有人制作假冒 App 还上架到了应用商店，开发者很生气，但又能做什么呢？ - 小众软件</a></b><br /><p>今天有同学发了这样一个帖子：</p><img src="https://cdn4.cdn-telegram.org/file/TFSrH_TuqM9fwAR6LtPf8eNp6EkBF41_XDxkrfe54JlLdf074h_7VkmeIsedIevWxRtDmkBFLYke9IbzwxqO8qJ01Y_Qt_YU4N-JnvCZtCMjvUGy_gb1nStpJpBc9tZQoiZ7IXsuOL0Hv2jys3sD4zY7gk_Kmr0BTjWOvn3OVUVrAoZyLuUODI5LPO1j-3fdBXZdfNQvpa6Brtoe3hDemURw1mvevt5nDTUlKL-Da88gbiTQP6uVJNDncyq5miQ7pcsZ7Gmw3mJh34aSMNg9kYtBeqtdOZR3ZjB29CYVIN6qz-E85-tWvb-MA7sOPFIHFKnVo2xoyV5QpwBzYYZwQA.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Fri, 07 Jun 2024 09:24:01 GMT</pubDate>
-</item>
-<item>
-<title>📣 #发现频道 【自荐】易条形-一款在线批量条形码生成工具 https://meta.appinn.net/t/topic/57416</title>
-<link>https://t.me/appinnfeed/10878</link>
-<guid>https://t.me/appinnfeed/10878</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/10878?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />【自荐】易条形-一款在线批量条形码生成工具<br /><br /><a href="https://meta.appinn.net/t/topic/57416" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/57416</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/57416">【自荐】易条形-一款在线批量条形码生成工具</a></b><br /><p>易条形是一款完全免费的条形码生成工具，可以帮助你快速生成条形码，支持生成18种条形码生成。  目前支持生成包括CODE128、CODE128A、CODE128B、CODE128C、EAN、EAN-13、UPC、EAN-8、EAN-5、EAN-2、CODE39、ITF14、MSI、MSI10、MSI11、MSI1010、MSI1110、pharmacode、codabar等条形码类型。  本次更新内容  1、增加多种条形码导出方式以及格式  2、支持条形码排版导出，支持多种纸张及大小  3、优化条形码数据…</p><img src="https://cdn4.cdn-telegram.org/file/CxabUZMuVZbv8YbejBdRQvkLZtzqldgzqL32aZI8apTL7U1WDmNZEvR60Ogqz-b2lwUTDvcXsZCBoKAELerUCrhVNdrTkMu91OnIkJG2UheiMS8txs18w266OcCwp2R-jo3xf2wye2nA1HqMEe-db-xyzNFr8t5gMYgB7cPPbNn7vTMvzhcZqNLHqo3wiExi4pgV6chUVnA4rsWL3QR0nL7arBn96NONSpvNyx7jBBmpglU0tFAs_qlRzcewMgCOqdu-HmmOhs3mLDCH4EfPcf4tmQIc4DGA3k7tknCH1QBmJ8nHgBENc_pfyOQe3E8oG07jTshGGV-z0FwEzqqCzQ.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Fri, 07 Jun 2024 09:08:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

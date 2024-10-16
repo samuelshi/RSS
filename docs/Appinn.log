@@ -52742,3 +52742,10 @@ Append: [📣 #发现频道 为任何JSON文件添加注释的VSCODE插件 https
 Append: [🖼 Downdetector 还挺准的。 https://downdetector.com/status/canva/ Canva 自己的状态页面都正常，但已经300多人报告故障了.。。](https://t.me/appinnfeed/12371)
 append_entries: 3
 Finish: 2024-10-16 21:06:28
+------------------------------------------------------
+Started: 2024-10-16 22:01:33
+Existing_entries: 1003
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 530
+append_entries: 0
+error when rendering xml, skip docs/Appinn

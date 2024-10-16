@@ -5,17 +5,26 @@
 <link>https://t.me/s/appinnfeed</link>
 
 <item>
+<title>📣 #发现频道 在Vitepress/dumi/rspack/docsify等基于markdown静态网站生成中渲染显示树的最佳方式 https://meta.appinn.net/t/topic/62061</title>
+<link>https://t.me/appinnfeed/12369</link>
+<guid>https://t.me/appinnfeed/12369</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/12369?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />在Vitepress/dumi/rspack/docsify等基于markdown静态网站生成中渲染显示树的最佳方式<br /><a href="https://meta.appinn.net/t/topic/62061" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/62061</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/62061">在Vitepress/dumi/rspack/docsify等基于markdown静态网站生成中渲染显示树的最佳方式</a></b><br /><p>在使用Vitepress/dumi/rspack/docsify等静态网站生成时，一般均支持直接在Markdown中渲染显示Vue/React组件，这给个网站非常丰富极致的表现力，我们在创建静态网站时开心的使用各种Vue/React组件，但是在输出树结构时，实际场景中存在几个问题：   现有的树组件一般均属于某个UI套件的一部分，比较重 树组件的数据一般使用JSON进行描述，冗余很多， 对于在网站输出场景比较交麻烦.  因此，隆重推荐LiteTree这个适用于React/Vue的树组件，专用MarkDown场景准备，具有：…</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/AjPZhNKUJQJ1CNe0XRAcpGz9lCbOdOdG-gEO7j0G10xVrvcgTqjmEst38G_1j6cuvIPztMUjJnwwlUkdJTKB-stj3NuuSEPm7hTgekjjdjay9AxMXIpfgW_o2jHVnLdHScBBIDFFxMdl2PcgRalRj4zNIZNHWyQcUIFovBmcFXSGEomo8AEFdKGlzsqGb_e-Y5_V-NiHpXgIsl8Qq1D-PMXaldY1Z_8VVTJ639IrDGxfjM83CYFZZijtZEUpf5EiyjSTDNsbYltrTimUbFgk5Z8jzgExs308jxDZH0PmGMpuCMtYByvR06j4rFVipSj_rdONmxaDMG1vv_HBqTKzUA.jpg" width="0" /></blockquote>
+]]></content:encoded>
+<pubDate>Wed, 16 Oct 2024 09:01:20 GMT</pubDate>
+<pubDate>Wed, 16 Oct 2024 09:01:20 GMT</pubDate>
+</item>
+
+<item>
 <title>❓ #问题求助 Onedrive文件下载求助：需要第三方工具下载所有 Onedrive 文件到本地 https://meta.appinn.net/t/topic/62055</title>
 <link>https://t.me/appinnfeed/12368</link>
 <guid>https://t.me/appinnfeed/12368</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12368?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />Onedrive文件下载求助：需要第三方工具下载所有 Onedrive 文件到本地<br /><a href="https://meta.appinn.net/t/topic/62055" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/62055</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/62055">Onedrive文件下载求助：需要第三方工具下载所有 Onedrive 文件到本地</a></b><br /><p>需要将onedrive上的所有文件夹及文件都下载到本地，并且保留访问权限，是否有命令或者工具可以实现？</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/AjPZhNKUJQJ1CNe0XRAcpGz9lCbOdOdG-gEO7j0G10xVrvcgTqjmEst38G_1j6cuvIPztMUjJnwwlUkdJTKB-stj3NuuSEPm7hTgekjjdjay9AxMXIpfgW_o2jHVnLdHScBBIDFFxMdl2PcgRalRj4zNIZNHWyQcUIFovBmcFXSGEomo8AEFdKGlzsqGb_e-Y5_V-NiHpXgIsl8Qq1D-PMXaldY1Z_8VVTJ639IrDGxfjM83CYFZZijtZEUpf5EiyjSTDNsbYltrTimUbFgk5Z8jzgExs308jxDZH0PmGMpuCMtYByvR06j4rFVipSj_rdONmxaDMG1vv_HBqTKzUA.jpg" width="0" /></blockquote>
 ]]></content:encoded>
 <pubDate>Wed, 16 Oct 2024 07:47:52 GMT</pubDate>
-<pubDate>Wed, 16 Oct 2024 07:47:52 GMT</pubDate>
 </item>
-
 <item>
 <title>📣 #发现频道 RedDot用小圆点颜色实时显示输入法模式 https://meta.appinn.net/t/topic/62044</title>
 <link>https://t.me/appinnfeed/12366</link>
@@ -9010,15 +9019,6 @@
 <p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/10895?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />【自荐】流沙职位搜索引擎，设计优美，响应速度快，职位丰富<br /><br /><a href="https://meta.appinn.net/t/topic/57471" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/57471</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/57471">【自荐】流沙职位搜索引擎，设计优美，响应速度快，职位丰富</a></b><br /><p>软件名称 流沙  应用平台  web  推荐类型 【开发者自荐】  一句简介 流沙是一个海外职位搜索引擎，方便想找海外工作的朋友，网站设计简洁，结构清晰，免费无广告，无需登录就能跳转到目标网站投递简历信息  图片预览    官方网站 liusha</p><img src="https://cdn4.cdn-telegram.org/file/kuwqUoB_77v_RxDKQxiPmavg1sJNXwp7xyR9cAO2pQ4qsEjMCOiVN26pECv8BnOmh9mxobb6y_OkgjNvlbwSDDWfXzXKX2TF40frR87FJ1ZroRUVda0uG1Ql4SlPOOZliC1mwJFOHda6t7W_IeKavY7TSOjIe8DR2VlFJzzaGBkczLt03Kc6ZuL1lTTzpjxC0gu0IZb7dlRWVyu3TY6ugkip6ZXJSpfshJ_A4csr_WphwXcPOCGI5ViQPFJjSecgsS5izTiG0fT89cHAQj-Cvlq5UMYNdU5492c4EcCc9nsHdcSVx-t17sFbDduRMVGw0UC2st_5McZW7rY-8Tn3ZA.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Sun, 09 Jun 2024 08:52:01 GMT</pubDate>
-</item>
-<item>
-<title>❓ #问题求助 如何对一个有大量文件（>100GB）的本地目录做历史版本管理？ https://meta.appinn.net/t/topic/57470</title>
-<link>https://t.me/appinnfeed/10894</link>
-<guid>https://t.me/appinnfeed/10894</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/10894?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />如何对一个有大量文件（&gt;100GB）的本地目录做历史版本管理？<br /><br /><a href="https://meta.appinn.net/t/topic/57470" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/57470</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/57470">如何对一个有大量文件（&gt;100GB）的本地目录做历史版本管理？</a></b><br /><p>问题背景 我在给一个大型游戏（解压后体积 &gt; 100 GB）做修改。  由于游戏文件散乱在各个子目录，我必须在不同目录中增删内容。而且，因为大部分目录都有 10~1000 个项目，一旦我离开某个目录，再回来的时候就很难记住自己刚才添加/删除了什么。  有的时候我需要应用一些实验性的补丁（也就是一组覆盖到游戏目录的文件）。运气好的话，补丁会正常工作，但更多时候补丁没法工作，所以我需要撤回刚才的补丁。另一方面，因为我本身在玩这个游戏，和别人联机时我也不得不暂时撤回大量的补丁更改，并在事后加回来。  问题描述…</p><img src="https://cdn4.cdn-telegram.org/file/kuwqUoB_77v_RxDKQxiPmavg1sJNXwp7xyR9cAO2pQ4qsEjMCOiVN26pECv8BnOmh9mxobb6y_OkgjNvlbwSDDWfXzXKX2TF40frR87FJ1ZroRUVda0uG1Ql4SlPOOZliC1mwJFOHda6t7W_IeKavY7TSOjIe8DR2VlFJzzaGBkczLt03Kc6ZuL1lTTzpjxC0gu0IZb7dlRWVyu3TY6ugkip6ZXJSpfshJ_A4csr_WphwXcPOCGI5ViQPFJjSecgsS5izTiG0fT89cHAQj-Cvlq5UMYNdU5492c4EcCc9nsHdcSVx-t17sFbDduRMVGw0UC2st_5McZW7rY-8Tn3ZA.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Sun, 09 Jun 2024 08:40:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

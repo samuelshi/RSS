@@ -5,14 +5,46 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>微信开发人员在修改 TLS 时引入了安全漏洞 研究人员称，消息应用巨头微信使用了自定义修改版的 TLS 网络协议，因此引入了安全漏洞。微信使用 MMTLS，这是一种基...</title>
+<link>https://t.me/xhqcankao/14304</link>
+<guid>https://t.me/xhqcankao/14304</guid>
+<content:encoded><![CDATA[
+
+<p><b>微信开发人员在修改 TLS 时引入了安全漏洞</b><br /><br />研究人员称，消息应用巨头微信使用了自定义修改版的 TLS 网络协议，因此引入了安全漏洞。微信使用 MMTLS，这是一种基于 TLS 1.3 的加密协议。开发人员基本上对标准 TLS 进行了调整，但应用程序的加密实现方式“与十亿用户使用的应用程序所期望的加密级别不一致，例如它使用确定性 IV 和缺乏前向保密性。”但更彻底的分析显示，它提供了两层加密，明文内容被包裹在“业务层加密”中，而得到的密文则被包裹在 MMTLS 加密中，密文将通过微信网络发送。这有效缓解了对 MMTLS 缺陷的可能的攻击，但这些缺陷在标准版 TLS 中并不存在。<br /><br />研究人员表示，只有在中国，开发人员才会逆潮流而行，自行开发加密系统，而且一般来说，这些系统都不如标准 TLS 1.3 或 QUIC 实现有效。<br /><br />—— <a href="https://www.theregister.com/2024/10/17/wechat_devs_modded_tls_introducing/" rel="noopener" target="_blank">The Register</a></p>
+]]></content:encoded>
+<pubDate>Thu, 17 Oct 2024 15:33:35 GMT</pubDate>
+<pubDate>Thu, 17 Oct 2024 15:33:35 GMT</pubDate>
+</item>
+<item>
+<title>🖼 Epic 游戏喜加一：《无敌少侠：原子伊芙》《卡牌之王》 本周限免：《无敌少侠：原子伊芙》《卡牌之王》 截止日期：10 月 24 日 23 点 下周限免：《Moving O...</title>
+<link>https://t.me/xhqcankao/14303</link>
+<guid>https://t.me/xhqcankao/14303</guid>
+<content:encoded><![CDATA[
+
+<p>Epic 游戏喜加一：《无敌少侠：原子伊芙》《卡牌之王》<br /><br />本周限免：《<a href="https://store.epicgames.com/zh-CN/p/atom-eve-ff090d" rel="noopener" target="_blank">无敌少侠：原子伊芙</a>》《<a href="https://store.epicgames.com/zh-CN/p/kardboard-kings-0962f8" rel="noopener" target="_blank">卡牌之王</a>》<br /><br />截止日期：10 月 24 日 23 点<br /><br />下周限免：《Moving Out》</p><img height="450.00" src="https://cdn5.cdn-telegram.org/file/YDDxolHUIX3CrMCh_jgfJY3CElhpI19ZpYsA5XVdOCvrsf-ULLgQkISUCh2xarR1YNi0TIc_mszfh3h_B2nf-GEoKMmPXwtzzlJjDN6NbPW0rrkgF-fA1SLcaGaVo2ZR2VNYA1CHMAMyLm_GObt8OH2W9UCqu8CmQsHPJ9EMuCDkDrHr5cw7NwvwOU9EM_RR1fWu8TN9yzVvb9bQe5k0NqqOsZi6yZloU6Em8J4wG3JglHq7ZVKSJ6ilDdA2UKzn3aCRY9WHWLzLqJv863vbgV6_wHOtOdnxpXMSZMh6732zXCcjm04AZGbUDFo3M0b2jrNfBTjhmlXdAyhCG62_YA.jpg" width="800" />
+]]></content:encoded>
+<pubDate>Thu, 17 Oct 2024 15:01:49 GMT</pubDate>
+<pubDate>Thu, 17 Oct 2024 15:01:49 GMT</pubDate>
+</item>
+<item>
+<title>🖼 🎂 29 岁啦 29 岁是我最忙的一年，以至于频道最近也没有太多空余时间打理，给各位道个歉。 无论是在 TikTok 的超高强度工作，还是我自己读的兼职 Master...</title>
+<link>https://t.me/AppleNuts/2146</link>
+<guid>https://t.me/AppleNuts/2146</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">🎂</span> <b>29 岁啦</b><br /><br />29 岁是我最忙的一年，以至于频道最近也没有太多空余时间打理，给各位道个歉。<br /><br />无论是在 TikTok 的超高强度工作，还是我自己读的兼职 Master，还是早希望追求 WLB拥有自己真正生活准备跳槽而不断准备的技术面试，它们完全填满了我的全部时间。<br /><br />希望 29 岁的生日能给我繁忙、焦灼的生活收尾，开启人生新篇章，希望愿望成真，能更频繁地给大家带来更新。<br /><br />祝各位身体健康，工作顺利。感谢各位订阅我的频道 <span class="emoji">❤️</span><br /><br />这个频道更多的是和 Apple 相关的，更多关于我个人在新加坡的生活可以关注 Instagram：<a href="https://t.me/Hackl0us" target="_blank">@Hackl0us</a></p><img height="320.00" src="https://cdn5.cdn-telegram.org/file/gPdyaa-ag6m4dGBorVZ1Jqfy2_TnHx_EX6FpODF-h8GI7Tlnhd07RZesgtQFR79D_2f0UMPl873nvEQlT-_hiwUoEWsQ9Yu4boQHSxbR5ZBKpZEqaGAkPinFmDCSspKveWikyfDTkcImsaNWpwATIffoG5uAY6B2WSbcGx5K1rtfuy9xjmYpc9T2NjfVK4OSLN1kIF5Ma_6vriCX00Tj9OqBXW0w5tBCPdWjsKlHPQ_bS39uC84LjjfL_aQLk7hagsR0X5Sbw6zqaZ2DHkt66arTW4Ny4HOde0IlXl2H6o89q7Pd8FajN42zi0JjkfzP652OkJUTYavIFQ_fXDj6qg.jpg" width="782" />
+]]></content:encoded>
+<pubDate>Thu, 17 Oct 2024 15:09:56 GMT</pubDate>
+<pubDate>Thu, 17 Oct 2024 15:09:56 GMT</pubDate>
+</item>
+
+<item>
 <title>Instagram 添加新功能防止青少年性勒索诈骗 社交媒体平台 Instagram 最新更新旨在加强对性勒索的防护措施。Meta 称，通过这些改变，将使“潜在诈骗”帐户更难在 ...</title>
 <link>https://t.me/xhqcankao/14302</link>
 <guid>https://t.me/xhqcankao/14302</guid>
 <content:encoded><![CDATA[
-
 <p><b>Instagram 添加新功能防止青少年性勒索诈骗<br /></b><br />社交媒体平台 Instagram 最新更新旨在加强对性勒索的防护措施。Meta 称，通过这些改变，将使“潜在诈骗”帐户更难在 Instagram 上针对青少年。该公司将开始把此类账户的关注请求发送到用户的垃圾邮件文件夹或完全屏蔽它们。该社交应用还将开始测试一种警报功能，当青少年收到来自此类账户的消息时，会通知他们该消息似乎来自不同的国家。此外，当该公司检测到潜在的骗子已经关注某个青少年时，会阻止他们查看青少年的关注者列表和在照片中标记他们的账户。<br /><br />—— <a href="https://www.engadget.com/social-media/instagram-is-adding-new-features-to-prevent-teen-sextortion-scams-111047916.html?src=rss" rel="noopener" target="_blank">Engadget</a></p>
 ]]></content:encoded>
-<pubDate>Thu, 17 Oct 2024 13:56:06 GMT</pubDate>
 <pubDate>Thu, 17 Oct 2024 13:56:06 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +52,10 @@
 <link>https://t.me/xhqcankao/14300</link>
 <guid>https://t.me/xhqcankao/14300</guid>
 <content:encoded><![CDATA[
-
 <p><b>网站使用 Cloudflare 可能会阻止RSS用户<br /><br /></b>在 Cloudflare 的仪表板中，可以找到旨在阻止自动化流量进入网站的工具。特别是“自动程序攻击模式”和下面的“阻止 AI 自动程序”选项。启用后，这些功能最终会阻止通过 RSS 阅读器访问网站的用户，即使 RSS 阅读器是合法的并且不是恶意自动程序。当 RSS 阅读器尝试读取网站时，Cloudflare 会向其提出许多阅读器无法完成的交互式质询。在其他情况下，Cloudflare 会无缘无故地阻止 RSS 阅读器访问网站。解决 Cloudflare 阻止 RSS 阅读器访问网站的唯一方法是直接联系站长并要求制定自定义规则来解除阻止。<br /><br />—— <a href="https://openrss.org/blog/using-cloudflare-on-your-website-could-be-blocking-rss-users" rel="noopener" target="_blank">OpenRSS</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 17 Oct 2024 13:23:10 GMT</pubDate>
-<pubDate>Thu, 17 Oct 2024 13:23:10 GMT</pubDate>
 </item>
-
 <item>
 <title>微软 Azure 将终止个人 OpenAI API 服务 中国大陆仅企业客户可订阅 有多位开发者据称已收到邮件，其使用的微软 Azure OpenAI 服务将于2024年10月21日终止。原因...</title>
 <link>https://t.me/xhqcankao/14299</link>
@@ -9052,24 +9081,6 @@
 <p>2024年9月12日<br /><span class="emoji">🌍</span>资讯快读<br />1、中国连续15年保持东盟第一大贸易伙伴<br /><a href="https://www.jiemian.com/article/11706426.html" rel="noopener" target="_blank">https://www.jiemian.com/article/11706426.html</a><br />2、中疾控发布9月健康防护提示：需关注新型冠状病毒感染、猴痘、鼠疫、霍乱<br /><a href="https://www.jiemian.com/article/11706277.html" rel="noopener" target="_blank">https://www.jiemian.com/article/11706277.html</a><br />3、第21届中国-东盟博览会将于9月24日至28日在广西南宁举行<br /><a href="https://www.jiemian.com/article/11706442.html" rel="noopener" target="_blank">https://www.jiemian.com/article/11706442.html</a><br />4、专家解读延迟退休改革：可更好适应劳动者多样化发展需求<br /><a href="https://www.jiemian.com/article/11705477.html" rel="noopener" target="_blank">https://www.jiemian.com/article/11705477.html</a><br />5、泰勒·斯威夫特否认“支持特朗普”，宣布将投票给哈里斯<br /><a href="https://www.jiemian.com/article/11704905.html" rel="noopener" target="_blank">https://www.jiemian.com/article/11704905.html</a><br /><br /><span class="emoji">👬</span>即刻镇小报<br />1、分享个好东西：谷歌搜索气泡图<br /><a href="https://m.okjike.com/originalPosts/66e086ad610bbfc39ff6dc21" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/66e086ad610bbfc39ff6dc21</a><br />2、大部分打工人觉得打工很痛苦，都是因为太过于追求意义感<br /><a href="https://m.okjike.com/originalPosts/66e05a560d29ae60aa1818bd" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/66e05a560d29ae60aa1818bd</a><br />3、推荐几个最近一直看的AI优质信息源，已记录在册<br /><a href="https://m.okjike.com/originalPosts/66e12d188644b1f43f8cdd75" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/66e12d188644b1f43f8cdd75</a><br />4、出海需求挖掘，分享一个有效的“七步法”<br /><a href="https://m.okjike.com/originalPosts/66e1169cbdf61db025dfbc86" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/66e1169cbdf61db025dfbc86</a><br />5、一直喜欢比较厚重的书，这类书会给人一种知识沉淀的感觉。<br /><a href="https://m.okjike.com/originalPosts/66e03e266fbc73186f6389d8" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/66e03e266fbc73186f6389d8</a><br /><br />今日即刻镇小报内容来自 @Lucas小杨 @猫叔不想油腻 @-子炎- @七只路 @盐汽水 ，感谢以上即友的创作与分享。 <a href="https://t.me/jike_collection/10170?q=%23%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88">#一觉醒来发生了什么</a></p><blockquote><b>Jiemian</b><br /><b><a href="https://www.jiemian.com/article/11706426.html">中国连续15年保持东盟第一大贸易伙伴|界面新闻 · 快讯</a></b><br /><p>2013年以来，中国与东盟贸易年均增速7.5%，2023年双边贸易额达9117亿美元。中国连续15年保持东盟第一大贸易伙伴，东盟连续4年保持中国第一大贸易伙伴。今年1—7月，中国与东盟双边贸易额达5520亿美元，同比增长7.7%，占同期中国外贸进出口总额的15.8%；中国对东盟全行业直接投资129.6亿美元，同比增长15.3%。</p></blockquote>
 ]]></content:encoded>
 <pubDate>Wed, 11 Sep 2024 23:41:29 GMT</pubDate>
-</item>
-<item>
-<title>中国要求车厂将电动汽车关键技术留在国内 据知情人士透露，中国强烈建议其汽车制造商确保先进的电动汽车技术留在国内，即使他们在全球范围内建厂以避免对中国出...</title>
-<link>https://t.me/xhqcankao/13406</link>
-<guid>https://t.me/xhqcankao/13406</guid>
-<content:encoded><![CDATA[
-<p><b>中国要求车厂将电动汽车关键技术留在国内</b><br /><br />据知情人士透露，中国强烈建议其汽车制造商确保先进的电动汽车技术留在国内，即使他们在全球范围内建厂以避免对中国出口产品的惩罚性关税。中国政府鼓励中国汽车制造商向其海外工厂出口“全散件”，这意味着车辆的关键部件将在国内生产，然后运往目的地市场进行最终组装。中国商务部七月份与十多家汽车制造商举行了一次会议，这些汽车制造商还被告知他们不应在印度进行任何与汽车相关的投资。此外，希望在土耳其投资的汽车制造商应首先通知工信部以及中国驻土耳其大使馆。官员告诉参会者，制造商不应盲目跟风或相信外国政府的投资呼吁。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-09-12/china-asks-its-carmakers-to-keep-key-ev-technology-at-home" rel="noopener" target="_blank">彭博社</a></p>
-]]></content:encoded>
-<pubDate>Thu, 12 Sep 2024 03:01:11 GMT</pubDate>
-</item>
-<item>
-<title>苹果 AirPods 4 具有隐藏的电容式配对按钮 苹果 AirPods 4 无线耳机取消了充电盒背面的设置按钮，转而采用了一个隐藏的电容式按钮。用于配对和重置 AirPods 4 的...</title>
-<link>https://t.me/xhqcankao/13405</link>
-<guid>https://t.me/xhqcankao/13405</guid>
-<content:encoded><![CDATA[
-<p><b>苹果 AirPods 4 具有隐藏的电容式配对按钮</b><br /><br />苹果 AirPods 4 无线耳机取消了充电盒背面的设置按钮，转而采用了一个隐藏的电容式按钮。用于配对和重置 AirPods 4  的隐藏按钮位于充电盒的正面。要启动配对模式，可以打开 AirPods 4 充电盒，然后在隐藏控件所在的正面双击。此隐藏按钮还用于恢复出厂设置，三击或长按手势均可启动重置。充电盒上的状态指示灯也更加隐蔽。当充电盒未充电或关闭时，没有明显的 LED 点显示。仅在打开充电盒或放在充电器上时，指示灯才会出现在白色塑料下方。<br /><br />—— <a href="https://www.macrumors.com/2024/09/11/airpods-4-hidden-button/" rel="noopener" target="_blank">MacRumors</a></p>
-]]></content:encoded>
-<pubDate>Thu, 12 Sep 2024 02:31:10 GMT</pubDate>
 </item>
 </channel>
 </rss>

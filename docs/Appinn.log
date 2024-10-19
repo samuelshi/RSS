@@ -53185,3 +53185,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 530
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-10-19 19:01:37
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [❓ #问题求助 Windows下有无简单而自由地创建安装/绿化/卸载/补丁程序的方法 https://meta.appinn.net/t/topic/62145](https://t.me/appinnfeed/12393)
+append_entries: 1
+Finish: 2024-10-19 19:01:41

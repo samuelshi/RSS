@@ -5,14 +5,112 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>🖼 字节跳动大模型训练被实习生攻击，涉事者已被辞退 10月18日，多个微信群流传一则消息：“某头部大厂的大模型训练被实习生入侵，注入了破坏代码，导致其训练...</title>
+<link>https://t.me/jike_collection/10287</link>
+<guid>https://t.me/jike_collection/10287</guid>
+<content:encoded><![CDATA[
+
+<p>字节跳动大模型训练被实习生攻击，涉事者已被辞退<br /><br />10月18日，多个微信群流传一则消息：“某头部大厂的大模型训练被实习生入侵，注入了破坏代码，导致其训练成果不可靠，可能需要重新训练。据称遭到入侵的代码注入了8000多张卡，带来的损失可能超过千万美元。”<br /><br />界面新闻从知情人士处获悉，该头部大厂为字节跳动。此事发生在今年6月，起因是某高校的博士在字节跳动商业化技术团队实习，因对团队资源分配不满，使用攻击代码破坏团队的模型训练任务。<br /><br />界面新闻向字节跳动方面求证此事，截至目前，官方未进行回应。<br /><br />传闻显示，该田姓实习生利用了HF（huggingface）的漏洞，在公司的共享模型里写入破坏代码，导致模型的训练效果忽高忽低，无法产生预期的训练效果，而且AML团队无法核查原因。但传闻曝出之后，该实习生还在某微信群里辟谣称，自己发完论文后就从字节跳动离职，这个当口有另一个人钻漏洞改模型代码，把锅扣到自己头上。<br /><br />界面新闻从知情人士处了解到，字节跳动内部已经调查明确此事为田姓实习生所为。目前，该实习生已被辞退，字节跳动同时把此事同步给阳光诚信联盟和企业反舞弊联盟，以及该实习生所在的学校。但这名实习生被辞退后到处“辟谣”甩锅，称是其他人所为。<br /><br />但该实习生攻击的并不是豆包大模型，而是商业化技术团队的模型训练任务，影响了该技术团队的一些业务进展，但整体对公司造成的损失并没有传闻中的超过千万美元那么大。<br /><br />一位技术安全专家告诉界面新闻，HF漏洞产生肯定是单一性集中训练，此事暴露了字节跳动技术训练存在安全管理问题。公司既没做权限隔离，也没有做好共用代码的审计。正常情况下，每次大的代码变动必须做审计，无论谁做操作都有痕迹记录，一个人想动代码是不可能的。<br /><br />上述技术安全专家表示，目前行业通用的做法是做三级隔离导向性部署，每一级只有镜像，每次先扫描。调用按次算、必须密钥。每一级完成后，才能进入下一级，而上一级自动删除，进行分级训练。<br /><br />by @互联网新鲜事  <a href="https://t.me/jike_collection/10287?q=%23%E7%A7%91%E6%8A%80%E5%9C%88%E5%A4%A7%E5%B0%8F%E4%BA%8B">#科技圈大小事</a></p><img height="398.00" src="https://cdn4.cdn-telegram.org/file/erzo_dZKKRliJM1Vf0RPSvk4514gikwJJtF9hvj6-cVsvJJeul-wdFBbS0Lt_PdDGv-HkYpV_slZw5TfZLfj_7MVd4DXb8F-fhksrs851ob6jp4RLsKYz-7aG2od1BA3eJzOFC_sSqZXpavksNO7TaLJXgxVqUfUK2TntT3ybZA3LTl4jxQdnbpGMSsg1GydB9eS9LfWcP4QTzr32JnNr_uW1Y-gyAaCu8RPP5-uw7cv145a39L4TKgesag0KWq87aW47M7d8EMo6vBvrejjgWy1eGaIopb7Lk0kiqY4GJRwHJWE5hskOEVHXqELVjaMwUJ3bEHtgP1_PuNRnUsK6g.jpg" width="700" />
+]]></content:encoded>
+<pubDate>Sat, 19 Oct 2024 02:01:55 GMT</pubDate>
+<pubDate>Sat, 19 Oct 2024 02:01:55 GMT</pubDate>
+</item>
+<item>
+<title>2024年10月19日 🌍资讯快读 1、六大国有银行均已下调人民币存款利率 https://www.jiemian.com/article/11845041.html 2、11月1日起铁路客运将推广使用电子发票...</title>
+<link>https://t.me/jike_collection/10286</link>
+<guid>https://t.me/jike_collection/10286</guid>
+<content:encoded><![CDATA[
+
+<p>2024年10月19日<br /><span class="emoji">🌍</span>资讯快读<br />1、六大国有银行均已下调人民币存款利率<br /><a href="https://www.jiemian.com/article/11845041.html" rel="noopener" target="_blank">https://www.jiemian.com/article/11845041.html</a><br />2、11月1日起铁路客运将推广使用电子发票<br /><a href="https://www.jiemian.com/article/11848498.html" rel="noopener" target="_blank">https://www.jiemian.com/article/11848498.html</a><br />3、上海松江站正式挂牌年底前启用，系沪苏湖高铁全线最大新建站<br /><a href="https://www.thepaper.cn/newsDetail_forward_29074781" rel="noopener" target="_blank">https://www.thepaper.cn/newsDetail_forward_29074781</a><br />4、独居女子被陌生男子从窗外凝视？警方：系摆拍，2人被行政处罚<br /><a href="https://www.thepaper.cn/newsDetail_forward_29065133" rel="noopener" target="_blank">https://www.thepaper.cn/newsDetail_forward_29065133</a><br />5、欧洲央行宣布降息25个基点<br /><a href="https://36kr.com/newsflashes/2996562706345865" rel="noopener" target="_blank">https://36kr.com/newsflashes/2996562706345865</a><br />6、韩方称朝鲜派兵援俄，尹锡悦召开紧急会议讨论对策<br /><a href="https://www.jiemian.com/article/11849099.html" rel="noopener" target="_blank">https://www.jiemian.com/article/11849099.html</a><br /><br /><span class="emoji">👬</span>即刻镇小报<br />1、天下没有白喂的饭，每一口都是要还的<br /><a href="https://m.okjike.com/originalPosts/67106b7ce1c67e8236adbbb3" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/67106b7ce1c67e8236adbbb3</a><br />2、按照自己的价值观和想要成为的人，梳理生活各个方面经常要做的决策<br /><a href="https://m.okjike.com/originalPosts/67105caa86a326b13b02e0de" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/67105caa86a326b13b02e0de</a><br />3、找到自己的增长模式，并用科学的手段和方法论，一点点改善<br /><a href="https://m.okjike.com/originalPosts/670e9de8792c5b6e5ca281cb" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/670e9de8792c5b6e5ca281cb</a><br />4、我在国内看过的最大的一次极光爆发<br /><a href="https://m.okjike.com/originalPosts/6711257ba8855e724b2448d3" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/6711257ba8855e724b2448d3</a><br />5、从佳能换到了索尼，换门的代驾是很大的<br /><a href="https://m.okjike.com/originalPosts/670e6837acb0647a211900ba" rel="noopener" target="_blank">https://m.okjike.com/originalPosts/670e6837acb0647a211900ba</a><br /><br />今日即刻镇小报内容来自 @洛怀 @有趣的自律大人 @生姜iris @到我办公室来一下 @汐笺 ，感谢以上即友的创作与分享。 <a href="https://t.me/jike_collection/10286?q=%23%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88">#一觉醒来发生了什么</a></p><blockquote><b>Jiemian</b><br /><b><a href="https://www.jiemian.com/article/11845041.html">六大国有银行均已下调人民币存款利率|界面新闻 · 快讯</a></b><br /><p>中国银行、中国工商银行、中国农业银行、中国建设银行、交通银行、中国邮政储蓄银行等多家银行发布公告，从今天（10月18日）起，下调人民币存款挂牌利率。其中活期存款利率下调5个基点，从0.15%调整为0.1%；三个月、六个月、一年、两年、三年和5年定期存款利率均下调25个基点。调整后，一年定期存款利率为1.1%。这是今年以来主要商业银行第二次下调人民币存款利率。</p></blockquote>
+]]></content:encoded>
+<pubDate>Sat, 19 Oct 2024 01:27:25 GMT</pubDate>
+<pubDate>Sat, 19 Oct 2024 01:27:25 GMT</pubDate>
+</item>
+<item>
+<title>在小红书交换个微信比《天才枪手》里作弊还难。 by @pchn #大产品小细节</title>
+<link>https://t.me/jike_collection/10285</link>
+<guid>https://t.me/jike_collection/10285</guid>
+<content:encoded><![CDATA[
+
+<p>在小红书交换个微信比《天才枪手》里作弊还难。<br /><br />by <a href="https://t.me/pchn" target="_blank">@pchn</a>  <a href="https://t.me/jike_collection/10285?q=%23%E5%A4%A7%E4%BA%A7%E5%93%81%E5%B0%8F%E7%BB%86%E8%8A%82">#大产品小细节</a></p>
+]]></content:encoded>
+<pubDate>Sat, 19 Oct 2024 00:10:17 GMT</pubDate>
+<pubDate>Sat, 19 Oct 2024 00:10:17 GMT</pubDate>
+</item>
+<item>
+<title>🖼 ❤️ by @哈尔滨今局 #无用但有趣的冷知识</title>
+<link>https://t.me/jike_collection/10284</link>
+<guid>https://t.me/jike_collection/10284</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❤️</span><br /><br />by @哈尔滨今局  <a href="https://t.me/jike_collection/10284?q=%23%E6%97%A0%E7%94%A8%E4%BD%86%E6%9C%89%E8%B6%A3%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86">#无用但有趣的冷知识</a></p><img height="800.00" src="https://cdn4.cdn-telegram.org/file/Yuhx9pwssOxKLzH1VX_ekrLTB669PjwMgeDMqHw614eU1N2He_l7x55l74ojNo3zIViNwK0thPtQ1ELqiq0695J7S71MG6emYNLGdj1j6L0Gzy79GAwoSXMw1c_m5cWZ_DciiQue4gcch8Je-sdxSfTEi2gQqSBFYfsg3subxFdCcKqKjTUIpIQr9L4Htl_6arLsNtSgSFin1loHZ_pVfg4Gl1pZ7YC_fU9fU4Nw3L_dbb7zKtXLmxiA-tE8DxfH21LrSgXHOLvhQwl2YppYTyrAkmocIT_2hyIalV9cfXwcjOfg2aAvGNy1dJaNPIKmapraRa1yZj4sVmlU38w2sg.jpg" width="607" />
+]]></content:encoded>
+<pubDate>Sat, 19 Oct 2024 00:10:00 GMT</pubDate>
+<pubDate>Sat, 19 Oct 2024 00:10:00 GMT</pubDate>
+</item>
+<item>
+<title>荷兰政府公布限制量子技术出口的措施 荷兰政府周五宣布，如果企业想要在欧盟以外地区销售量子计算机，就需要获得出口许可证。荷兰外贸与发展援助大臣雷内特·克...</title>
+<link>https://t.me/xhqcankao/14341</link>
+<guid>https://t.me/xhqcankao/14341</guid>
+<content:encoded><![CDATA[
+
+<p><b>荷兰政府公布限制量子技术出口的措施</b><br /><br />荷兰政府周五宣布，如果企业想要在欧盟以外地区销售量子计算机，就需要获得出口许可证。荷兰外贸与发展援助大臣雷内特·克莱弗在致荷兰议会的一封信中写道：“内阁采取这一举措主要出于国家安全原因。”该法规将于今年12月1日生效，适用于八种类型的量子计算机、量子测量设备和芯片制造技术等产品。克莱弗表示，“少数公司”将受到影响。虽然这些措施官方上是中立的，但美国一直在督促荷兰限制向中国出口芯片制造设备，目标是阻止阿斯麦向中国销售先进光刻机。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-10-18/dutch-unveil-a-measure-that-curbs-exports-of-quantum-technology" rel="noopener" target="_blank">彭博社</a></p>
+]]></content:encoded>
+<pubDate>Sat, 19 Oct 2024 02:05:23 GMT</pubDate>
+<pubDate>Sat, 19 Oct 2024 02:05:23 GMT</pubDate>
+</item>
+<item>
+<title>古巴主要热电厂突发故障致全国停电 古巴能源和矿业部18日在社交媒体上说，该国主要热电厂安东尼奥·吉特拉斯热电厂当天上午突发故障，全国电力系统随后完全断电...</title>
+<link>https://t.me/xhqcankao/14340</link>
+<guid>https://t.me/xhqcankao/14340</guid>
+<content:encoded><![CDATA[
+
+<p><b>古巴主要热电厂突发故障致全国停电</b><br /><br />古巴能源和矿业部18日在社交媒体上说，该国主要热电厂安东尼奥·吉特拉斯热电厂当天上午突发故障，全国电力系统随后完全断电。古巴能源和矿业部电力负责人拉萨罗·格拉当天在接受采访时说，目前正逐步启动该国的热电厂和发电机，多地已初步尝试恢复供电。但他没有透露电力系统何时能够稳定供电。古巴国家主席迪亚斯-卡内尔在社交媒体上说，国家领导层正优先关注并解决这起能源突发事件。受美国制裁影响，长期以来古巴难以进口燃料以及维修严重老化的发电厂设备，全国电力供应紧张。<br /><br />—— <a href="http://www.xinhuanet.com/20241019/f6b7b5790ece415ead94a0b3359ff15c/c.html" rel="noopener" target="_blank">新华社</a></p>
+]]></content:encoded>
+<pubDate>Sat, 19 Oct 2024 01:40:18 GMT</pubDate>
+<pubDate>Sat, 19 Oct 2024 01:40:18 GMT</pubDate>
+</item>
+<item>
+<title>美国议员敦促日本加强对中国芯片的限制 美国主要议员敦促日本加强对向中国销售芯片制造设备的限制，并警告称，如果东京不采取行动，华盛顿可能会对日本企业实施...</title>
+<link>https://t.me/xhqcankao/14339</link>
+<guid>https://t.me/xhqcankao/14339</guid>
+<content:encoded><![CDATA[
+
+<p><b>美国议员敦促日本加强对中国芯片的限制</b><br /><br />美国主要议员敦促日本加强对向中国销售芯片制造设备的限制，并警告称，如果东京不采取行动，华盛顿可能会对日本企业实施措施，或禁止‘向中国销售芯片制造设备的工具制造商’获得美国半导体补贴。美国众议院中国事务特别委员会的两党高层在10月15日致日本驻美大使山田重夫的信中概述了他们的担忧。他们驳斥了关于限制措施对东京威力科创 (TEL) 等芯片设备公司产生了实质性负面影响的论点，并强调了美国、日本和荷兰之间的合作对于减缓中国芯片雄心的重要性。委员会主席、共和党人约翰·穆勒纳尔和委员会民主党籍副主席拉贾·克里希纳穆尔蒂在信中写道：关于这些公司因现有限制而受到损害的说法“似乎经不起推敲”。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-10-18/japan-pressed-by-us-lawmakers-to-strengthen-chip-curbs-on-china" rel="noopener" target="_blank">彭博社</a></p>
+]]></content:encoded>
+<pubDate>Sat, 19 Oct 2024 01:15:16 GMT</pubDate>
+<pubDate>Sat, 19 Oct 2024 01:15:16 GMT</pubDate>
+</item>
+<item>
+<title>人工智能改变招聘方式：英国毕业生面临严峻就业市场 英国毕业生面临着有史以来最激烈的就业竞争，因为他们正驶入进入一个增速放缓的劳动力市场，每个职位的申请...</title>
+<link>https://t.me/xhqcankao/14338</link>
+<guid>https://t.me/xhqcankao/14338</guid>
+<content:encoded><![CDATA[
+
+<p><b>人工智能改变招聘方式：英国毕业生面临严峻就业市场</b><br /><br />英国毕业生面临着有史以来最激烈的就业竞争，因为他们正驶入进入一个增速放缓的劳动力市场，每个职位的申请人数都因人工智能的使用而激增。英国学生雇主协会周四表示，在2024年，实施毕业生培训计划的雇主平均每个职位收到140份申请，比2023年多出59%。人工智能使申请工作变得更容易和更快捷，但也导致申请量激增、拉低了质量，从而造成更多的拒绝。一些学生正在求助于人工智能工具来帮助他们撰写求职信和管理大量的申请，但问题是，这项技术并不擅长量身定制，而且在求职者和雇主双方，每个人都在努力研究如何使用它。<br /><br />—— <a href="https://www.ftchinese.com/interactive/176184" rel="noopener" target="_blank">英国金融时报</a></p>
+]]></content:encoded>
+<pubDate>Sat, 19 Oct 2024 00:50:11 GMT</pubDate>
+<pubDate>Sat, 19 Oct 2024 00:50:11 GMT</pubDate>
+</item>
+<item>
+<title>加拿大企业可申请暂时免除对中国电动汽车和金属征收的关税 加拿大财政部周五表示，加拿大企业可以申请暂时减免进口中国电动汽车、钢铁和铝产品的关税。加拿大财...</title>
+<link>https://t.me/xhqcankao/14337</link>
+<guid>https://t.me/xhqcankao/14337</guid>
+<content:encoded><![CDATA[
+
+<p><b>加拿大企业可申请暂时免除对中国电动汽车和金属征收的关税<br /></b><br />加拿大财政部周五表示，加拿大企业可以申请暂时减免进口中国电动汽车、钢铁和铝产品的关税。加拿大财政部在声明中说，在特殊和例外情况下将给予减免。这项措施旨在帮助企业调整供应链以应对新的关税。加拿大于8月底宣布了这些措施，理由是中国有意推行国家指导的产能过剩政策。10月1日起对中国制造电动汽车征收100%的附加税。10月22日对从中国进口的部分钢铁和铝产品征收25%的附加税。加拿大财政部表示：“为确保加拿大工业有足够的时间调整供应链，减免税将在特定和特殊情况下提供救济” 该部表示，“联邦政府将考虑适当的减免期限，并打算在大多数情况下只提供过渡性减免”。<br /><br />—— <a href="https://www.reuters.com/business/canada-firms-can-request-temporary-relief-tariffs-china-evs-metals-2024-10-18/" rel="noopener" target="_blank">路透社</a></p>
+]]></content:encoded>
+<pubDate>Sat, 19 Oct 2024 00:20:15 GMT</pubDate>
+<pubDate>Sat, 19 Oct 2024 00:20:15 GMT</pubDate>
+</item>
+
+<item>
 <title>苹果 iPhone 16 Pro BUG导致随机卡死和重启 根据 Reddit、MacRumors 论坛和苹果支持社区的投诉，部分 iPhone 16 型号似乎存在导致随机重启的 BUG。受影响的用户...</title>
 <link>https://t.me/xhqcankao/14336</link>
 <guid>https://t.me/xhqcankao/14336</guid>
 <content:encoded><![CDATA[
-
 <p><b>苹果 iPhone 16 Pro BUG导致随机卡死和重启</b><br /><br />根据 Reddit、MacRumors 论坛和苹果支持社区的投诉，部分 iPhone 16 型号似乎存在导致随机重启的 BUG。受影响的用户会发现他们的 iPhone 意外卡死然后重新启动。自9月份 iPhone 16 机型首次推出以来，有关该问题的报告就一直存在，并持续到本周。用户升级到 iOS 18.0.1和 iOS 18.1 也没有解决该问题。问题似乎是随机出现的，显示屏将停止响应或对触摸输入的响应非常慢，然后 iPhone 将快速重启。也有报道称 iPhone 在待机模式下意外重启。几乎所有投诉都集中在 iPhone 16 Pro 和 iPhone 16 Pro Max，可能该问题仅限于这些 Pro 机型。<br /><br />—— <a href="https://www.macrumors.com/2024/10/18/iphone-16-pro-restart-bug/" rel="noopener" target="_blank">MacRumors</a></p>
 ]]></content:encoded>
-<pubDate>Fri, 18 Oct 2024 23:50:17 GMT</pubDate>
 <pubDate>Fri, 18 Oct 2024 23:50:17 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +118,10 @@
 <link>https://t.me/xhqcankao/14335</link>
 <guid>https://t.me/xhqcankao/14335</guid>
 <content:encoded><![CDATA[
-
 <p><b>SK海力士涉对华泄露芯片技术高管二审加刑</b><br /><br />涉嫌向中国泄露SK海力士芯片核心技术、窃取三星电子子公司设备图纸的SK海力士合作企业副社长A某二审仍获刑，且刑量加重。首尔高等法院刑事7部18日就该案作出二审裁决，认定A某违反《产业技术法》和《防止不正当竞争及商业秘密保护法》，并判处其有期徒刑1年零6个月，刑量较一审增加6个月。一审被判缓刑的研究所所长等其他3名职员二审被判处有期徒刑1年到1年零6个月不等刑期。合作企业的法人被处罚金10亿韩元，较一审多6亿韩元。A某等人涉嫌从2018年起把其与SK海力士合作过程中所掌握的HKMG半导体制造技术和清洁配方等半导体相关核心技术、商业秘密泄露给中国半导体竞争企业。<br /><br />—— <a href="https://m-cn.yna.co.kr/view/ACK20241018004000881?input=tw" rel="noopener" target="_blank">韩联社</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 18 Oct 2024 23:20:10 GMT</pubDate>
-<pubDate>Fri, 18 Oct 2024 23:20:10 GMT</pubDate>
 </item>
-
 <item>
 <title>美国法官要求谷歌开放 Play 商店的判决被暂缓执行 谷歌暂时不必立即修改其 Play 商店政策，因为加利福尼亚州的一位联邦法官暂时搁置了其命令，该命令原本将迫使...</title>
 <link>https://t.me/xhqcankao/14334</link>
@@ -9052,24 +9147,6 @@
 <p><b>欧盟拒绝中国电动车企的最低价格提议</b><br /><br />欧盟委员会周四表示，已收到中国电动汽车制造商提出的向欧盟提供最低进口价格提议，以此来避免关税，但被欧盟委员会全部拒绝。正在对中国产电动汽车进行反补贴调查的欧盟委员会表示，几家电动汽车出口商已提交了价格承诺，即出口商承诺遵守最低进口价格，以抵消补贴。欧盟委员会发言人表示：“我们的审查重点在于这些提议是否能够消除补贴的有害影响，以及能否得到有效监督和执行。欧盟委员会的结论是，这些提议均不符合这些要求。”<br /><br />—— <a href="https://www.reuters.com/business/autos-transportation/eu-says-it-has-rejected-minimum-price-offers-chinese-ev-exporters-2024-09-12/" rel="noopener" target="_blank">路透社</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 12 Sep 2024 23:30:34 GMT</pubDate>
-</item>
-<item>
-<title>蚂蚁集团就65亿美元信贷额度再融资 据知情人士透露，蚂蚁集团正在就 65 亿美元的离岸信贷额度进行再融资，以扩大其全球业务。匿名知情人士表示，这家中国公司计...</title>
-<link>https://t.me/xhqcankao/13437</link>
-<guid>https://t.me/xhqcankao/13437</guid>
-<content:encoded><![CDATA[
-<p><b>蚂蚁集团就65亿美元信贷额度再融资</b><br /><br />据知情人士透露，蚂蚁集团正在就 65 亿美元的离岸信贷额度进行再融资，以扩大其全球业务。匿名知情人士表示，这家中国公司计划为其海外子公司蚂蚁国际分配15亿美元的信贷额度。蚂蚁集团在一封电子邮件声明中表示，该公司将从2019年开始为现有的银团银行信贷额度进行再融资。<br /><br />—— <a href="https://www.bloomberg.com/news/articles/2024-09-12/jack-ma-backed-ant-is-refinancing-a-credit-line-of-6-5-billion" rel="noopener" target="_blank">彭博社</a></p>
-]]></content:encoded>
-<pubDate>Thu, 12 Sep 2024 23:00:01 GMT</pubDate>
-</item>
-<item>
-<title>苹果修复 Vision Pro 安全漏洞，该漏洞可能会泄露输入的内容 今年，由六名计算机科学家组成的小组发现了 Apple Vision Pro 中的一个安全漏洞，该漏洞允许他们重...</title>
-<link>https://t.me/xhqcankao/13436</link>
-<guid>https://t.me/xhqcankao/13436</guid>
-<content:encoded><![CDATA[
-<p><b>苹果修复 Vision Pro 安全漏洞，该漏洞可能会泄露输入的内容</b><br /><br />今年，由六名计算机科学家组成的小组发现了 Apple Vision Pro 中的一个安全漏洞，该漏洞允许他们重建人们输入的内容，包括密码、PIN 和消息。当 Vision Pro 用户使用虚拟 Persona 头像时，研究人员能够通过分析 Persona 的眼球运动或“注视”来判断用户在头显虚拟键盘上输入的内容。研究人员称，人们的目光通常会集中在他们接下来可能按下的键上。因此，研究人员在五次猜测内能够92%的准确率识别出人们在消息中输入的字母，对于密码的识别准确率为77%。研究人员于四月份向苹果公司披露了此漏洞，苹果于七月份在 visionOS 1.3 中解决了此问题。<br /><br />—— <a href="https://www.wired.com/story/apple-vision-pro-persona-eye-tracking-spy-typing/" rel="noopener" target="_blank">连线杂志</a></p>
-]]></content:encoded>
-<pubDate>Thu, 12 Sep 2024 22:31:30 GMT</pubDate>
 </item>
 </channel>
 </rss>

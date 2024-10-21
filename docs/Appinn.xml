@@ -4,15 +4,14 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>❓ #问题求助 如何用AutoHotkey向“打开/保存”类对话框发送SendMessage以改变其路径？ https://meta.appinn.net/t/topic/62211</title>
 <link>https://t.me/appinnfeed/12408</link>
 <guid>https://t.me/appinnfeed/12408</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12408?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />如何用AutoHotkey向“打开/保存”类对话框发送SendMessage以改变其路径？<br /><a href="https://meta.appinn.net/t/topic/62211" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/62211</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/62211">如何用AutoHotkey向“打开/保存”类对话框发送SendMessage以改变其路径？</a></b><br /><p>如何向该对话框窗口发送message来实现？而不是向控件Edit1 Edit2等发送路径，再配合模拟键击什么的。据我观察，这种需求，Listary是做的最好的，我猜他就是向窗口发送消息。  因为连这种他都能切换路径，那就只能是发消息了：</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/CmLeN1js-OiAELEG8DoGN2LuNYJYQoLEG9qpON0wP4P1bDNlWiWlByplUwmjk9byDPZi7gLic9gobM68vwHC4VXgsKRtApIlkKVIMT8l5cBE0UOzX4aDS9_GcouN_GW8xX3LrwwL4-ERcKQ6LiIXZy6Carg7zV79EKyXsHN6UPvbgDzeML3WS9AgdSDZ6qw3QPED0FTOw2sgD84EEiAvp5sR7ig0snldZpe5UAJBCLt-aemQ21FMw4szysha9DOYNSk6bAI9AdhSbgomZg2lPl92YDzPEN3gADlvGt7QXWw16YFydYuKfDDrpiZe5hdRyHXfkWbWKlUMa77POrM9yw.jpg" width="0" /></blockquote>
 ]]></content:encoded>
-<pubDate>Mon, 21 Oct 2024 14:32:53 GMT</pubDate>
 <pubDate>Mon, 21 Oct 2024 14:32:53 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +19,10 @@
 <link>https://t.me/appinnfeed/12407</link>
 <guid>https://t.me/appinnfeed/12407</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/12407?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />【自荐】为了在BOSS上开挂找工作，我写了个chrome插件<br /><a href="https://meta.appinn.net/t/topic/62210" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/62210</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/62210">【自荐】为了在BOSS上开挂找工作，我写了个chrome插件</a></b><br /><p>最近准备找工作，每条猛猛刷BOSS，感觉自己陷入了一个循环，每天检索新的岗位，看JD详情，匹配需求，不感兴趣 or 沟通一下。  某一天一拍大腿，这么重复的活，为啥不让AI帮我干呢，于是我喊来了  ChatGPT、Calude、Cursor、V0这几位好朋友，开干！  于是就有了这个插件，“百分投简历”(100resume)，一键爬取BOSS上的信息，并且让AI帮你分析这个岗位适不适合你，咱直接从匹配度100分的岗位开始沟通，效率嘎嘎高。  目前，主要的插件功能已经实现，可以在这里下载，有兴趣的小伙伴可…</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/UyzLv-zUGL81OqyqnxHZT1Fy0-cAtvbWGDPASLhAJBsd4SI9yrPoUnNUMxRZVgqdd-h-sEcIzpOtu2qgxpQo40ZOm_T1gIvK_kKO5oy34cRmopqL8GqCw0pe0WgI_udxp5b9pkeIMKNXzUZ_yPH9w6zSlhqPCpg6tX9kT5kfSmSNzrxdqNJLDY79LzQVYONLN3TYPlGgPQS5rErq0G1IXk1lMAZw9ZnfEK1vjnnbsteIBXwgY7pT2Z14a-OeQMRuZTUZ7JXvZfXa9UcXlOroM-7qJ-4UYlgXFD3QOGBfgs7B6bfe_sH6Cdn0MHR6kbKCtxxSVoRNBcjr_duQegFU_w.jpg" width="0" /></blockquote>
 ]]></content:encoded>
 <pubDate>Mon, 21 Oct 2024 14:25:15 GMT</pubDate>
-<pubDate>Mon, 21 Oct 2024 14:25:15 GMT</pubDate>
 </item>
-
 <item>
 <title>💧 #小众软件 拓竹A1 – 全尺寸入门级 3D 打印机，政府补贴 15%，到手只需 1388 元 https://www.appinn.com/bambulab-a1/</title>
 <link>https://t.me/appinnfeed/12406</link>
@@ -9012,24 +9008,6 @@
 <p><span class="emoji">💧</span> <a href="https://t.me/appinnfeed/10937?q=%23%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6">#小众软件</a><br />KineStop 晕车援助：iOS 18 新功能「车辆运动提示」早已在 Android 实现，今天就能用<br /><br /><a href="https://www.appinn.com/kinestop/" rel="noopener" target="_blank">https://www.appinn.com/kinestop/</a><br /><br /><b>Tags</b>: <a href="https://t.me/appinnfeed/10937?q=%23Android">#Android</a>, <a href="https://t.me/appinnfeed/10937?q=%23%E5%9D%90%E8%BD%A6">#坐车</a>, <a href="https://t.me/appinnfeed/10937?q=%23%E5%BC%80%E8%BD%A6">#开车</a>, <a href="https://t.me/appinnfeed/10937?q=%23%E6%8F%90%E7%A4%BA">#提示</a>, <a href="https://t.me/appinnfeed/10937?q=%23%E6%99%95%E8%BD%A6">#晕车</a>, <a href="https://t.me/appinnfeed/10937?q=%23%E6%B1%BD%E8%BD%A6">#汽车</a>, <a href="https://t.me/appinnfeed/10937?q=%23%E8%BD%A6%E8%BE%86">#车辆</a></p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/kinestop/">KineStop 晕车援助：iOS 18 新功能「车辆运动提示」早已在 Android 实现，今天就能用 - 小众软件</a></b><br /><p>KineStop 是一款通过传感器识别车辆运动，进而在屏幕上提示用户，以达到防止晕车的功能。目前只需要 Android 7.0，即开机用。与前几天 iOS 18 新功能「车辆运动提示」几乎一模一样。@Appinn</p><img src="https://cdn4.cdn-telegram.org/file/OS9frmbJoyRxu9udg2wXRHE1s-v2W8ODgRDa8LNWewPwM7020wTA35DFh93tM6VF-ZyczPe6VdRZ3cycdzLkGx7107MXZ8SyxYdMrGjKDLIJjxuHCnYdubErUVEk69gCMixEEjfy9Rr1b-Q4RqMEMe3LMw3iIjHvOSYIcoqM9D6Gp6eY5CLuSOt1c_kAxEn5aIdkAIzhUYuJ1cpInG9GFx28a1hFfBz6qQlBIwuTeeTg67kERAlWO2LEkyVtm2X7zBc2B594S-CRMVqc773_bAVPUcv8wL7Aco5Fjunw4VPuPiauLuxBVx3927fpm1yGS6m1cvdklp4sSJ4wsi_SDA.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Thu, 13 Jun 2024 06:24:03 GMT</pubDate>
-</item>
-<item>
-<title>今日份 BeReal 又来了，然而依旧没有好友😂</title>
-<link>https://t.me/appinnfeed/10936</link>
-<guid>https://t.me/appinnfeed/10936</guid>
-<content:encoded><![CDATA[
-<p>今日份 BeReal 又来了，然而依旧没有好友<span class="emoji">😂</span></p>
-]]></content:encoded>
-<pubDate>Thu, 13 Jun 2024 05:34:33 GMT</pubDate>
-</item>
-<item>
-<title>📣 #发现频道 【开发者自荐】【开源】biliLive-tools——录播处理工具 https://meta.appinn.net/t/topic/57614</title>
-<link>https://t.me/appinnfeed/10935</link>
-<guid>https://t.me/appinnfeed/10935</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/10935?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />【开发者自荐】【开源】biliLive-tools——录播处理工具<br /><br /><a href="https://meta.appinn.net/t/topic/57614" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/57614</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/57614">【开发者自荐】【开源】biliLive-tools——录播处理工具</a></b><br /><p>软件名称 biliLive-tools  应用平台  Windows Linux  推荐类型 【开发者自荐】  一句简介 一个用于录播的一站式工具，支持弹幕转换与视频压制并上传至B站，支持录播姬与blrec的webhook自动化处理。  应用简介  支持 Danmufactory GUI 支持 ffmpeg 转封装 支持视频与弹幕压制 支持b站分P投稿 支持录播姬与blrec的webhook 支持B站视频下载  截图预览：                                         …</p><img src="https://cdn4.cdn-telegram.org/file/cdKTSW6FWll8BSmbcxgVAgeh40sL3h-JLreGsOzU64YGunTkyzFFD5Qth2QdnvrHK8pPWtO09lRSJ2a8sK5yE68Xe0jdti2GetM-BZp7zwKxP7m5qyqfl1kuVAb9kR6Ic79KpA8pAvKUqSgvpvauT_B0FvCoTS2WqV1wkxVsHxLVwWJPttFncCe-9PjSLMIYcnSp7g6SrVUEx65lf8k3UlRGsdqk_235QT2Dg00uKETEQWERdNqOYCIwhO3vIhjc4B5JusTX4G1UVfvwrAuXwG-vITGvoMbcsLdZLn7CA49dcV1gIS-EAERj0FiV3qleRBmszSiKJNFE1fYEKrEvLg.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Thu, 13 Jun 2024 04:40:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

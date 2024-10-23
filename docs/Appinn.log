@@ -53598,3 +53598,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Append: [❓ #问题求助 有没有那种下b站高品质视频的小白工具？ https://meta.appinn.net/t/topic/62257](https://t.me/appinnfeed/12418)
 append_entries: 1
 Finish: 2024-10-23 12:01:45
+------------------------------------------------------
+Started: 2024-10-23 13:01:24
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 530
+append_entries: 0
+error when rendering xml, skip docs/Appinn

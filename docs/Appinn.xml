@@ -4,6 +4,17 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>❓ #问题求助 关于批量压缩(含有特殊字符)? https://meta.appinn.net/t/topic/62287</title>
+<link>https://t.me/appinnfeed/12424</link>
+<guid>https://t.me/appinnfeed/12424</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12424?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />关于批量压缩(含有特殊字符)?<br /><a href="https://meta.appinn.net/t/topic/62287" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/62287</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/62287">关于批量压缩(含有特殊字符)?</a></b><br /><p>请问一下各位大能大佬批量是有什幺问题吗…怎幺不能压缩下面文档…  压出来都只有1KB  小弟猜测是因为 &amp;  的關係  ABC_&amp;__v1.2.3_b123_arm7+arm64.apk  以下是小弟的批量能帮我修改一下能正常压缩上面文档名  @echo off set var2=123  chcp 65001 set "ZIP=D:\TOOLS\NoSetup\7-zip x64\7z.exe"  :loop if exist "%~1\" (     "%ZIP%" a -t7z "%~n1.7z"…</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/hlN3MGXMBP9xwZb1uascK4B17Fj-CNLVFzqce785i4gNDM7s_kVaf7Sq8tYH94O2nY0fKaCd8R2b3JfAXneJs3tM9oxKVjcCsMS5j3DKN7pWbT-kz4fdvy3-rOo1LnlaNTX5-WYSNd6kX1VZbMVmYDV4l4uSxBrEr-ZG7b54w2JDhNc8p5hPjGenpgPUd6035kABEwoxfCuj19Nidwl_7Oa2x3OZ3yzdK3EPIcFEJlLnO-5EwUhyPErgJn9_8pYKhI-91dx3_cfWzhw_bhxAzGEsvaTAMbmKjheta6C8LH2CyGRBLCYs7FQl1sOwmi41iGNAEaoLl-1bnxLObjyUOQ.jpg" width="0" /></blockquote>
+]]></content:encoded>
+<pubDate>Thu, 24 Oct 2024 00:52:47 GMT</pubDate>
+<pubDate>Thu, 24 Oct 2024 00:52:47 GMT</pubDate>
+</item>
 
 <item>
 <title>❓ #问题求助 剪藏互联网文章的笔记软件有推荐吗 https://meta.appinn.net/t/topic/62281</title>

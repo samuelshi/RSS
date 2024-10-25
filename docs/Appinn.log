@@ -53888,3 +53888,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 530
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-10-25 10:25:03
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [第52个素数诞生。人类史上最大素数纪录再创新高：梅森素数M136279841问世 https://meta.appinn.net/t/topic/62330 人类史上最大素数纪录再创新高。自1996年启动...](https://t.me/appinnfeed/12435)
+append_entries: 1
+Finish: 2024-10-25 10:25:05

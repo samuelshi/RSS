@@ -53983,3 +53983,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 530
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-10-26 00:01:29
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [❓ #问题求助 有什么办法加速chrome启动时打开1500个标签的速度？ https://meta.appinn.net/t/topic/62374](https://t.me/appinnfeed/12444)
+append_entries: 1
+Finish: 2024-10-26 00:01:30

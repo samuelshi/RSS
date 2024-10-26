@@ -54065,3 +54065,10 @@ Append: [❓ #问题求助 求推荐私有HTML文件管理方案 https://meta.ap
 Append: [💧 #小众软件 胡闹搬家（Moving Out）在 Epic 游戏商店限免｜经典多人游戏，最多4人 https://www.appinn.com/moving-out/](https://t.me/appinnfeed/12445)
 append_entries: 2
 Finish: 2024-10-26 12:01:34
+------------------------------------------------------
+Started: 2024-10-26 13:01:21
+Existing_entries: 1002
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 502
+append_entries: 0
+error when rendering xml, skip docs/Appinn

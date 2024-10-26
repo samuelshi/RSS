@@ -54125,3 +54125,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 502
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-10-26 22:01:23
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [❓ #问题求助 关于电视机顶盒或者怎么看直播的问题 https://meta.appinn.net/t/topic/62405](https://t.me/appinnfeed/12451)
+append_entries: 1
+Finish: 2024-10-26 22:01:24

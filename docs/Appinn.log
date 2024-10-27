@@ -54278,3 +54278,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 502
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-10-27 21:29:00
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [❓ #问题求助 公网IP变化导致外部无法访问NAS https://meta.appinn.net/t/topic/62436](https://t.me/appinnfeed/12458)
+append_entries: 1
+Finish: 2024-10-27 21:29:01

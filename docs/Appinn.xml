@@ -5,17 +5,26 @@
 <link>https://t.me/s/appinnfeed</link>
 
 <item>
+<title>❓ #问题求助 公网IP变化导致外部无法访问NAS https://meta.appinn.net/t/topic/62436</title>
+<link>https://t.me/appinnfeed/12458</link>
+<guid>https://t.me/appinnfeed/12458</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12458?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />公网IP变化导致外部无法访问NAS<br /><a href="https://meta.appinn.net/t/topic/62436" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/62436</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/62436">公网IP变化导致外部无法访问NAS</a></b><br /><p>如题，本来NAS已经配置好了，使用ddns-go插件，能够通过外网进行访问，但是前段时间发现访问不了了，看了一下原来是公网IP变化了  但是ddns-go不就是为了解决动态IP的吗？  不知道是啥原因？有大佬有经验的吗</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/KPDDhNWzkRlRe7_VQJH47I0h3SeohU1KIC9rpJY_PpM9QmJ_5cP1qdtCRiWWsQUKZ2-jZKC-IcjwrMNuzguS37_NJmeJmPEfXFH7qZ9Rm_Uvv784zhsEfX0T6O0CN2F7I3BXT3rWF-HoW4losEJlvhDxFtKVSGG06ejvFHhptixOGapaomhmRhFpMtYy-gCbLB4LVwju0gylixdYvz8DhyKNtUqyizkcUgKQMvODno8g2NfBeyolxSqIuEIqTEreLvTDH5ntdD1btRbw2UFeIdgaYhZe2xSr9A_7d6iLTKI3Uiyh-eiIS798MEj05YAvcziDkUdQqZePZKLEgy4uaQ.jpg" width="0" /></blockquote>
+]]></content:encoded>
+<pubDate>Sun, 27 Oct 2024 13:27:35 GMT</pubDate>
+<pubDate>Sun, 27 Oct 2024 13:27:35 GMT</pubDate>
+</item>
+
+<item>
 <title>💧 #小众软件 Arc 浏览器将停止开发？又要发布一款新浏览器？ https://www.appinn.com/is-arc-browser-over/</title>
 <link>https://t.me/appinnfeed/12457</link>
 <guid>https://t.me/appinnfeed/12457</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">💧</span> <a href="https://t.me/appinnfeed/12457?q=%23%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6">#小众软件</a><br />Arc 浏览器将停止开发？又要发布一款新浏览器？<br /><a href="https://www.appinn.com/is-arc-browser-over/" rel="noopener" target="_blank">https://www.appinn.com/is-arc-browser-over/</a></p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/is-arc-browser-over/">Arc 浏览器将停止开发？又要发布一款新浏览器？ - 小众软件</a></b><br /><p>Arc 浏览器自从诞生之日起就争议不断，似乎陷入了一种奇怪的境地：忠实用户视其为浏览器里的新发明，越用越爱；普通用户视其为洪水猛兽，一点也不喜欢他们的「炒作方式」。现在其背后的开发商 The Browser Company 决定「设计一个人人都可以使用且全新的浏览器」。而针对</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/Z2R-ZMZZdSRH_-MmX7Yki2-e93ACT_5cjGzsIvt5dZY87PqhEoHvZFW0OLfKizDCmQTj82nki8b66K4EzKIZ_tOpQMfgm712Vl52f916aF8TyIscBDS3kQT9Swx8Aa_WyAsvOs-sh8INDFVaITh00tGXtRel6D0O2Lg1I5NI6jEXEbLd2fu_bWCptA6l1u6f-fuxfA3X_Lw68X98cuWnnnWtAerYXfVKU4V21WImYd6qpVTzxe9TDKt1BFIxXWgnuKqNsYjuzdUngsP8NHCi29LSmEYhgXOM4Dpw3CiyTmyllqO-S5kUgeISIgevQ49pIM6CoTaSXioOBHYjA-xAwQ.jpg" width="0" /></blockquote>
 ]]></content:encoded>
 <pubDate>Sun, 27 Oct 2024 10:18:44 GMT</pubDate>
-<pubDate>Sun, 27 Oct 2024 10:18:44 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 有没有任务栏直接显示倒计日如阿健 https://meta.appinn.net/t/topic/62424</title>
 <link>https://t.me/appinnfeed/12456</link>
@@ -9010,15 +9019,6 @@
 <p>前几天有用户反馈 浏览器插件 Circle 阅读助手会大量打开什么值得买页面<br /><br /><a href="https://meta.appinn.net/t/topic/22134/49?u=qingwa" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/22134/49?u=qingwa</a><br /><br />开发者检查后发现：<br /><br />Circle 阅读助手存在一个功能即：自动展开被折叠的内容，保证尽可能的解析完整的内容，而不是仅仅展示未被折叠的一部分。为了实现这个功能，内部存在一个小的算法：查找“查看全文”或者“查看更多”文案，找到之后判断文案的父标签，如果父标签是 A 并且存在 onclick 属性就自动点击，以此实现自动展开被折叠的内容。</p><img src="https://cdn5.cdn-telegram.org/file/rAOLIwMvoRl4okLJPcMB5imY0t0Vfa4ZPzyH4_TVmDWWcVs2c5o8PrpIWk83gJ2m-UZ7hmPA6HsViua_8IbbwBBXL0_5ck1_PzE1FkmbINlKeVDRtho5Ljgd015ugmBEa8HZBVXfFcveDnVN_QyRxktDv8GKDrWsaGYeJY62BqUos0NY1teTX8K4pJ3xjS547cX7oyERFKryQhTkXIwAvn3J2gsgEa1md6Bu2V1ByFN_z8v7E5mkW5Bo7usrzwzEhdbQcd2mCPG8bq6hsiZYLaRap2ddF6KxKMlFT-_UtTLAH3N8TxZ2A5zwtua1UAC-Fc1Y0LhLV2x01zKgk0ggLw.jpg" />
 ]]></content:encoded>
 <pubDate>Tue, 18 Jun 2024 02:49:55 GMT</pubDate>
-</item>
-<item>
-<title>🧐 #阅读 自托管 Llama-3 8B-Instruct 大语言模型与 ChatGPT 的成本对比 https://meta.appinn.net/t/topic/57783</title>
-<link>https://t.me/appinnfeed/10991</link>
-<guid>https://t.me/appinnfeed/10991</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">🧐</span> <a href="https://t.me/appinnfeed/10991?q=%23%E9%98%85%E8%AF%BB">#阅读</a><br />自托管 Llama-3 8B-Instruct 大语言模型与 ChatGPT 的成本对比<br /><br /><a href="https://meta.appinn.net/t/topic/57783" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/57783</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/57783">自托管 Llama-3 8B-Instruct 大语言模型与 ChatGPT 的成本对比</a></b><br /><p>作者：Sid Premkumar   摘要：假设你的模型 100% 利用率，使用 EKS 自我托管 Llama-3 8B-Instruct 模型每处理 1 百万个 tokens 的成本大约是 17 美元，而 ChatGPT 处理相同任务的成本仅为 1 美元。如果选择自我托管硬件，成本可以降至每 1 百万个 tokens 低于 0.01 美元，但需要约 5.5 年才能收回成本。  硬件选择 背景：所有测试均在 EKS 集群上运行。每个测试节点仅运行系统必需的 pods（如 prometheus、 nvidia…</p><img src="https://cdn4.cdn-telegram.org/file/ph9KEi7lyv0VpUJN6cGsKffmCQ7LbJs4sKzUyQVBEoSmSZoHO3LzQCnGcZzr3SKoxMEuXWrF6f6doH3qpsXLWDPLXlpd4qxQkjV_9s8VXdzh76QO-5l0jz_RAU085iY7veZjOFyHpGUxJCz9uqrkwnM6jffG7Ff8NC8Mwzmx3SgGmP_xKteW9RRTxW4D3y2p_3TZy5vp2FSyvPjHiDM0M913P7E3m-wYzFjSY3s3CB2jLBzpwUy6nqMEQPek_Iu-fPLC9gkO93RrtpLyWdQ8rH4v5bh0t2CFvsOV_86UcTTODaJ_gOnKQUjonT0Gd-pMVCgoukual52cnxTvw9zerA.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 02:44:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

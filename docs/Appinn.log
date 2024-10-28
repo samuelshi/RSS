@@ -54391,3 +54391,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 530
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-10-28 15:01:38
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [📣 #发现频道 「爱贝壳内容同步助手」一键全网分发你的动态、图文、视频内容，日常高效运营自媒体/社交平台/社群的利器 https://meta.appinn.net/t/topic/6246...](https://t.me/appinnfeed/12462)
+append_entries: 1
+Finish: 2024-10-28 15:01:39

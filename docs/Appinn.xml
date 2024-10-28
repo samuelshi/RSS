@@ -4,6 +4,39 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>❓ #问题求助 请问flask项目如何在子线程中获取数据库连接？ https://meta.appinn.net/t/topic/62470</title>
+<link>https://t.me/appinnfeed/12465</link>
+<guid>https://t.me/appinnfeed/12465</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12465?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />请问flask项目如何在子线程中获取数据库连接？<br /><a href="https://meta.appinn.net/t/topic/62470" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/62470</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/62470">请问flask项目如何在子线程中获取数据库连接？</a></b><br /><p>我在用flask_apscheduler来编写一个控制定时任务的web项目，我遇到了一个问题，就是这些任务是在子线程中运行的，而子线程中访问不到flaskapp或者SQLAlchemy的数据库连接。  我的项目大致如下：  使用threadpool的调度器，并使用SQLAlchemy进行持久化。然后提供一个web接口，可以通过请求添加任务，并在一个单独的任务信息表中记录任务必要的信息，因为任务信息可能会改变，而且很多，所以不是在注册任务时作为参数传递给任务调度器，而是传递一个任务的UUID，等实际要运行…</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/hQUpHPej_DNi6jrbWVIJBRpiiWqXcfQZY7CBeJ8KR8MLUnpsGvUFU8JrCsORS_A4cDvojyXZh4fZGPEmYDC_0Xi0EJoL3d5plSxaXnOxT-mXTxhgmBxSwyrkCUo9t43zXp5-2S5eRsk7ygyCpDt2YdnjGSUP5UaNn-ExR5VmOGkyGJiS8Asg-zOtpQtaMTvSiDCdZgO_fj9CFPRPEYfxGZ5U2_Vf1kbN7SgnoH2n8dpYlORHJaQTEL7LRtLevF3arareoiEWkJKT5KBRZbrwZzjak54lDE-mHBhUMrFk3fDChwRzidZtXvXINtep6gjvmRUtU4m26BniUbypPIxaxg.jpg" width="0" /></blockquote>
+]]></content:encoded>
+<pubDate>Mon, 28 Oct 2024 09:47:56 GMT</pubDate>
+<pubDate>Mon, 28 Oct 2024 09:47:56 GMT</pubDate>
+</item>
+<item>
+<title>❓ #问题求助 有没有自发众筹NAS共享的渠道？ https://meta.appinn.net/t/topic/62469</title>
+<link>https://t.me/appinnfeed/12464</link>
+<guid>https://t.me/appinnfeed/12464</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12464?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />有没有自发众筹NAS共享的渠道？<br /><a href="https://meta.appinn.net/t/topic/62469" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/62469</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/62469">有没有自发众筹NAS共享的渠道？</a></b><br /><p>这个不是软件，不知道能不能在这求助。  大概就是听说有那种就是爱好者组团，然后凑钱有人去搭建和维护NAS影视库，然后报团的人大家分摊月费给维护的人一点收入去维护设备、内容、公网流量这些。  有没有人做类似的东西，或者知道这种东西应该去那里求团？  想要找类似儿童动画和中文配音科教纪录片内容的NAS影视组团。现在在用Xiaoya但也还是要花心思。想要打听打听有没有能组团开车的地方。  我自己有IPV6可以访问IPV6的资源。</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/hQUpHPej_DNi6jrbWVIJBRpiiWqXcfQZY7CBeJ8KR8MLUnpsGvUFU8JrCsORS_A4cDvojyXZh4fZGPEmYDC_0Xi0EJoL3d5plSxaXnOxT-mXTxhgmBxSwyrkCUo9t43zXp5-2S5eRsk7ygyCpDt2YdnjGSUP5UaNn-ExR5VmOGkyGJiS8Asg-zOtpQtaMTvSiDCdZgO_fj9CFPRPEYfxGZ5U2_Vf1kbN7SgnoH2n8dpYlORHJaQTEL7LRtLevF3arareoiEWkJKT5KBRZbrwZzjak54lDE-mHBhUMrFk3fDChwRzidZtXvXINtep6gjvmRUtU4m26BniUbypPIxaxg.jpg" width="0" /></blockquote>
+]]></content:encoded>
+<pubDate>Mon, 28 Oct 2024 09:47:55 GMT</pubDate>
+<pubDate>Mon, 28 Oct 2024 09:47:55 GMT</pubDate>
+</item>
+<item>
+<title>💧 #小众软件 无限鼠标 – 你一定没见过这样用鼠标：可以突破屏幕边缘[Win] https://www.appinn.com/infinimouse/</title>
+<link>https://t.me/appinnfeed/12463</link>
+<guid>https://t.me/appinnfeed/12463</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">💧</span> <a href="https://t.me/appinnfeed/12463?q=%23%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6">#小众软件</a><br />无限鼠标 – 你一定没见过这样用鼠标：可以突破屏幕边缘[Win]<br /><a href="https://www.appinn.com/infinimouse/" rel="noopener" target="_blank">https://www.appinn.com/infinimouse/</a></p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/infinimouse/">无限鼠标 - 你一定没见过这样用鼠标：可以突破屏幕边缘[Win] - 小众软件</a></b><br /><p>前几日，有同学发微博 @小众软件 提问：大佬们，我有一个小众需求，电脑带左中右三个显示器，想把鼠标光标从左显示器左侧移到右显示器右侧(右移左同理)，有没有什么解决方案或思路？</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/fTpRUWG7BDNmllb9VL8WmYZH9HUnPIhgyLEOVAGXSidwA4baoQR8BpbD4xPJsfzL_eThuMlaSqGqZ635mxqUA5ks8Gu3vpaADEnS7LmW3jveDWWVf8tJJZb5kvdA_amZSl3miLVzeBb9lWjd_Qo_5LNXZMzdv6ZObkzqaUDJwEiTYkKatK-KRye82IqcUW2If7FqKyFroexwp4vK4YnZHorvKVXKgGEIFocyotQUyo0J2j2zp_JHC6S3uCQqYcHbwmld229PjPdkjdf0h3i6RDGORCqH0RXv5CD3ToTjjTQ993Fs_8t3m8pzXjsbeICZJeMYqMdkoaEsGVP6lnWm1w.jpg" width="0" /></blockquote>
+]]></content:encoded>
+<pubDate>Mon, 28 Oct 2024 09:13:29 GMT</pubDate>
+<pubDate>Mon, 28 Oct 2024 09:13:29 GMT</pubDate>
+</item>
 
 <item>
 <title>📣 #发现频道 「爱贝壳内容同步助手」一键全网分发你的动态、图文、视频内容，日常高效运营自媒体/社交平台/社群的利器 https://meta.appinn.net/t/topic/6246...</title>

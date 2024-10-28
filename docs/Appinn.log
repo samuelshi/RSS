@@ -54377,3 +54377,10 @@ Existing_entries: 1000
 Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2024-10-28 12:01:40
+------------------------------------------------------
+Started: 2024-10-28 13:01:57
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [📣 #发现频道 把AWS变成个人网盘：使用Rust构建的亚马逊云盘客户端 https://meta.appinn.net/t/topic/62459](https://t.me/appinnfeed/12461)
+append_entries: 1
+Finish: 2024-10-28 13:02:02

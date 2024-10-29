@@ -54579,3 +54579,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 530
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-10-29 19:01:23
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [💧 #小众软件 史上最简单建站：WordPress Studio 发布，只需点两下鼠标，就能创建一个网站 https://www.appinn.com/wordpress-studio/](https://t.me/appinnfeed/12477)
+append_entries: 1
+Finish: 2024-10-29 19:01:24

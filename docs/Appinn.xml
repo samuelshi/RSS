@@ -4,15 +4,14 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>❓ #问题求助 如何同时使用Tailscale和其他VPN？ https://meta.appinn.net/t/topic/62556</title>
 <link>https://t.me/appinnfeed/12490</link>
 <guid>https://t.me/appinnfeed/12490</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12490?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />如何同时使用Tailscale和其他VPN？<br /><a href="https://meta.appinn.net/t/topic/62556" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/62556</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/62556">如何同时使用Tailscale和其他VPN？</a></b><br /><p>如何同时使用Tailscale和其他VPN？ 主要是在手机上用，平台不限。  1.使用Exit Node 大致是找一台设备，开着clash，然后安装Tailscale并设为exit node，然后在其他设备上连接到同个Tailnet。  这个方案的问题是：所有流量受限于exit node的网速，一般的家宽基本不够。 所以我不想用。  2.使用Userspace Networking 文档如下   大致是使用Tailscaled开一个socks5和http代理，然后在Shadowrocket中将这个代理作…</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/Je0EPIuAe7i47PrVU3eqT95hdUgVqvX_8I8HlaE7AL9QZlLbQGh2W4MZWolnuSY8_s3AmNd-HuRlMQUxCCpJZGnMmDJm96JT2J4PNoit4y9WRcwljIdgRRMSYjb-xgDa-aYG6eYMkT7o7YqtUYoSp4gJRyRN7oH_1aolwby1hkNgBv5LC67KjNqRezNFihd7b-QWe2NSZ__c5jHsraHFqJJzKMH5J0U2lXFE6eAYBlKKZkBQJ_gwGYNaVouNntuhLVpqxKB7Fk_m_X-L4uDEm9RlEr2QNkPX6MiIqqzzOd4JftM_MMjddXu8pAEwVhG4oIEMTRTOp5ZbKcGYAq3fPQ.jpg" width="0" /></blockquote>
 ]]></content:encoded>
-<pubDate>Wed, 30 Oct 2024 13:42:56 GMT</pubDate>
 <pubDate>Wed, 30 Oct 2024 13:42:56 GMT</pubDate>
 </item>
 <item>
@@ -20,10 +19,8 @@
 <link>https://t.me/appinnfeed/12489</link>
 <guid>https://t.me/appinnfeed/12489</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12489?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />有没有可以嵌在桌面的便签<br /><a href="https://meta.appinn.net/t/topic/62519" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/62519</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/62519">有没有可以嵌在桌面的便签</a></b><br /><p>平时会记录一些信息，时不时要看，之前一直记录在记事本里，但是感觉还是不太方便，有没有一款便签，可以把记录的文字信息直接嵌入在桌面上，返回桌面时还在，最好可以设置背景透明度，找了好几款都不合适，敬业签可以嵌入，但是又是登录又是会员，很多功能都是用不到的，  不知道大家有推荐的吗  谢谢</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/Je0EPIuAe7i47PrVU3eqT95hdUgVqvX_8I8HlaE7AL9QZlLbQGh2W4MZWolnuSY8_s3AmNd-HuRlMQUxCCpJZGnMmDJm96JT2J4PNoit4y9WRcwljIdgRRMSYjb-xgDa-aYG6eYMkT7o7YqtUYoSp4gJRyRN7oH_1aolwby1hkNgBv5LC67KjNqRezNFihd7b-QWe2NSZ__c5jHsraHFqJJzKMH5J0U2lXFE6eAYBlKKZkBQJ_gwGYNaVouNntuhLVpqxKB7Fk_m_X-L4uDEm9RlEr2QNkPX6MiIqqzzOd4JftM_MMjddXu8pAEwVhG4oIEMTRTOp5ZbKcGYAq3fPQ.jpg" width="0" /></blockquote>
 ]]></content:encoded>
-<pubDate>Wed, 30 Oct 2024 13:42:56 GMT</pubDate>
 <pubDate>Wed, 30 Oct 2024 13:42:56 GMT</pubDate>
 </item>
 <item>
@@ -31,10 +28,8 @@
 <link>https://t.me/appinnfeed/12488</link>
 <guid>https://t.me/appinnfeed/12488</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">💧</span> <a href="https://t.me/appinnfeed/12488?q=%23%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6">#小众软件</a><br />LittleBigMouse – 让多屏幕操作丝滑如一，鼠标移动再无边界<br /><a href="https://www.appinn.com/littlebigmouse/" rel="noopener" target="_blank">https://www.appinn.com/littlebigmouse/</a></p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/littlebigmouse/">LittleBigMouse - 让多屏幕操作丝滑如一，鼠标移动再无边界 - 小众软件</a></b><br /><p>LittleBigMouse 解决了这一问题，在鼠标跨越边界的时候，会自动计算在下个显示器上的合理位置，以此消除死区，让显示器之间的交互更符合直觉。</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/suPpnJqdrLPIeB8ZgfHJmJ8rgror9neBtx-7S3e-GWeIvx80z2ez3eDzMlYTC0p0eG0HwlSSYH-dZ1lKtLaL9tHtcoxQLbvGAwJ4x7lGvSguEL1OrtjOtstVUjjN4wRMANnvwzbU22_Cz3naZCOsQZRgulX6c0mYoL34k-lkcHod3rAED8KlzvQhVYFWwig-CFih-4bxruNMwMxPmBPPUcDLndmde54uZn-waKqODhrw9K2rf4AwqvAQsUN66UxHlgRIfvrvVXgi288M4gFkfWDzt_-hK0IncS5hCTinJrbfzTx0KY34eI6sScCCktNRNcnYvLaQTUko0giQRCJhZA.jpg" width="0" /></blockquote>
 ]]></content:encoded>
-<pubDate>Wed, 30 Oct 2024 13:38:04 GMT</pubDate>
 <pubDate>Wed, 30 Oct 2024 13:38:04 GMT</pubDate>
 </item>
 <item>
@@ -42,13 +37,10 @@
 <link>https://t.me/appinnfeed/12487</link>
 <guid>https://t.me/appinnfeed/12487</guid>
 <content:encoded><![CDATA[
-
 <p>GitHub 推出实验性AI编程工具 “Spark”，用户可以用自然语言快速创建小型Web应用<br /><br /><a href="https://githubnext.com/projects/github-spark" rel="noopener" target="_blank">https://githubnext.com/projects/github-spark</a></p><img height="257.00" src="https://cdn5.cdn-telegram.org/file/sFuSSjN1szFwueYp8ITM4_uHPv3BzPE-olmBNCAL5xMWWG_JkBxbsqZnxWvUKQ0lZ3Cj_W3HqGSzxkNH-QOzaHgzvz-7JjREVHnY98SjIS3YhLunV3FA1w3hbMxSLKjmDqJh9f3W-tWKLvWZf8szsLdTGrBuOFk72T8ErdCKB94zP0TkmSiegPmyUqyWzz-MwK7xd2Y32bHHAEfPZ_szlYVCAULuA8IFT5UPOpJ20b7T6HEoq_8OExi84SZ7jLpf8CABZuiEXKdVcRM8y7trOt_SVmkdm9USnn3tmf5xw408GLKP25aC0y4VbkGJDv9XSkzE7_c7Uvni1CMVSy-JPA.jpg" width="800" />
 ]]></content:encoded>
 <pubDate>Wed, 30 Oct 2024 13:31:29 GMT</pubDate>
-<pubDate>Wed, 30 Oct 2024 13:31:29 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 安卓手机发出声音的时候震动或者弹出弹窗提示 https://meta.appinn.net/t/topic/62554</title>
 <link>https://t.me/appinnfeed/12486</link>
@@ -9016,42 +9008,6 @@
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/11029?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />Totalcommander里面怎么调用quicklook？<br /><br /><a href="https://meta.appinn.net/t/topic/57877" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/57877</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/57877">Totalcommander里面怎么调用quicklook？</a></b><br /><p>我参考网上教程设置totalcommand，然后发现都不能调用quicklook去快速预览。  https://github-wiki-see.page/m/QL-Win/QuickLook/wiki/Total-Commander  弹出错误显示“”另一个quicklook进程正在运行“。  把后台的quicklook退出也没有反应。  但是我同样的方法设置everything，调用又是可以的。</p><img src="https://cdn4.cdn-telegram.org/file/PuiDH87nOe7cJVLW5WeYaRSfDkT1OU50Xbvqvw2Z-70Mzr6I8UOXsypNpdhQwkxWi7z9pm8sruqovfcttV6ht01ctl-qD-1AeBZoD7Ek2dAQ8nPVSe8vuiws0pjHm-lZHC863SxrdDcmig5fJve3L2I2vB7dv-mgdqgPOZpjPatZZwjEj0MP1EkWu08Aqp_5Fjqgk8OiGVN0-HAW-8Vgn5Hc-_qHsmLyYBtUfVRAC1J1UtL2gVCjl9FRm2aqy1-r74myT84vANL6VmPhMjPDgZjk-8f8lud7ZNFxLYWfruroxlqiKo4cKZRV7GSq7gBxct6quPQLp5oVL3CELm0r2A.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Thu, 20 Jun 2024 02:24:01 GMT</pubDate>
-</item>
-<item>
-<title>🖼 一张老图：https://x.com/chenshaoju/status/1340880540090519554 二张新图：https://x.com/rebecca_hoshino/status/1803024767076975024</title>
-<link>https://t.me/appinnfeed/11027</link>
-<guid>https://t.me/appinnfeed/11027</guid>
-<content:encoded><![CDATA[
-<p></p><div class="tgme_widget_message_text js-message_text" dir="auto">一张老图：<a href="https://x.com/chenshaoju/status/1340880540090519554" rel="noopener" target="_blank">https://x.com/chenshaoju/status/1340880540090519554</a><br /><br />二张新图：<a href="https://x.com/rebecca_hoshino/status/1803024767076975024" rel="noopener" target="_blank">https://x.com/rebecca_hoshino/status/1803024767076975024</a></div><p></p><img src="https://cdn5.cdn-telegram.org/file/IT13DANiWEacJVJzCMIkbVSVRnStIHnWW8UjQq6EzqfCsP_FFHSYDn9pV9L9HrbXicYr5pE5serf5Fayn09vY_pKFs-bdMyoFi-GpXfjWSigMf2p-c7trstfN92yJpiSEiFcot4ntDTdfxJilPMP06De-Eu2gzZS0F1YQlIKBdeD-MG7gY2G_HEveVVMwLRfymT6x4IMcQv3FYIBn4QU9mUPvjfzuAlMIvZuZAAjO4T-0mMfUohymXu9ABYg4XMij_u6pqHT-WzZ5u6e7ZbtbDdzgohJU123kDErQB-wUgQ7bwyq4cbu5Q0hhuZ4GUUVAI13TcItWR_QjECh2QKgpg.jpg" /><img src="https://cdn5.cdn-telegram.org/file/IaXmzH9Ey7P7hK0joAXfv_Ug883dQyTJqd_l2S4c2Hxsq8gWwje3rozK7_qUqMvF8EIWE4fNeCVR6WmtRh6stJ-UPTGREC_29zLGVz3A_rLhtMMw-h31lheEf6XKy36CCEkVEIj2bNdyNb5FrOOxOizl7jiv4BibC8nCdSN1uACw_OeBHDyg5S2PXFjNSqB9OkJ1tYOx37wmtOyhiJZZk7eVUFGF99TOvjeUuVAzuDY2pQpFvhKUSBgsq2Rul2SawNMToPbhIuoWJ9goCeHoIQfr7YfoAaw0SeQqjwOSpFaUB4_s0smggXrsFohMtjsTJ6lh-HRxxtq8DEDFmfJ8Ng.jpg" />
-]]></content:encoded>
-<pubDate>Thu, 20 Jun 2024 02:08:44 GMT</pubDate>
-</item>
-<item>
-<title>📣 #发现频道 飞鸟 m3u8 视频下载器, IPTV播放器 https://meta.appinn.net/t/topic/57871</title>
-<link>https://t.me/appinnfeed/11026</link>
-<guid>https://t.me/appinnfeed/11026</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/11026?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />飞鸟 m3u8 视频下载器, IPTV播放器<br /><br /><a href="https://meta.appinn.net/t/topic/57871" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/57871</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/57871">飞鸟 m3u8 视频下载器, IPTV播放器</a></b><br /><p>工具名称 飞鸟 m3u8 视频下载器, IPTV播放器  工具说明 飞鸟 m3u8 视频下载器 是一个 下载播放 m3u8视频，hls直播、IPTV的多功能下载器。  本质上，m3u8视频，hls直播、IPTV 都是m3u8格式的视频， 所以本工具同时支持这三种场景  亮点功能 重点说明  代理播放：解决m3u8 CORS访问受限问题。 IPTV 有效性检测： 直接 + 代理双路检测，直观展示m3u8资源是否有效。  这两个功能重点都是尽可能发现真实有效的m3u8视频。 这是在线m3u8办不到的。  m3u8播放器比较…</p><img src="https://cdn4.cdn-telegram.org/file/PuiDH87nOe7cJVLW5WeYaRSfDkT1OU50Xbvqvw2Z-70Mzr6I8UOXsypNpdhQwkxWi7z9pm8sruqovfcttV6ht01ctl-qD-1AeBZoD7Ek2dAQ8nPVSe8vuiws0pjHm-lZHC863SxrdDcmig5fJve3L2I2vB7dv-mgdqgPOZpjPatZZwjEj0MP1EkWu08Aqp_5Fjqgk8OiGVN0-HAW-8Vgn5Hc-_qHsmLyYBtUfVRAC1J1UtL2gVCjl9FRm2aqy1-r74myT84vANL6VmPhMjPDgZjk-8f8lud7ZNFxLYWfruroxlqiKo4cKZRV7GSq7gBxct6quPQLp5oVL3CELm0r2A.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Wed, 19 Jun 2024 23:28:02 GMT</pubDate>
-</item>
-<item>
-<title>❓ #问题求助 tc网络怎么加载webdav https://meta.appinn.net/t/topic/57873</title>
-<link>https://t.me/appinnfeed/11025</link>
-<guid>https://t.me/appinnfeed/11025</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/11025?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />tc网络怎么加载webdav<br /><br /><a href="https://meta.appinn.net/t/topic/57873" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/57873</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/57873">tc网络怎么加载webdav</a></b><br /><p>TC添加webdav插件没有反应，在网络里边没有webdav选项</p><img src="https://cdn4.cdn-telegram.org/file/PuiDH87nOe7cJVLW5WeYaRSfDkT1OU50Xbvqvw2Z-70Mzr6I8UOXsypNpdhQwkxWi7z9pm8sruqovfcttV6ht01ctl-qD-1AeBZoD7Ek2dAQ8nPVSe8vuiws0pjHm-lZHC863SxrdDcmig5fJve3L2I2vB7dv-mgdqgPOZpjPatZZwjEj0MP1EkWu08Aqp_5Fjqgk8OiGVN0-HAW-8Vgn5Hc-_qHsmLyYBtUfVRAC1J1UtL2gVCjl9FRm2aqy1-r74myT84vANL6VmPhMjPDgZjk-8f8lud7ZNFxLYWfruroxlqiKo4cKZRV7GSq7gBxct6quPQLp5oVL3CELm0r2A.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Wed, 19 Jun 2024 23:28:02 GMT</pubDate>
-</item>
-<item>
-<title>📣 #发现频道 DrawingPics，Mac 本地 AI StableDiffusion 画图软件，无限制无登陆 https://meta.appinn.net/t/topic/57872</title>
-<link>https://t.me/appinnfeed/11024</link>
-<guid>https://t.me/appinnfeed/11024</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/11024?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />DrawingPics，Mac 本地 AI StableDiffusion 画图软件，无限制无登陆<br /><br /><a href="https://meta.appinn.net/t/topic/57872" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/57872</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/57872">DrawingPics，Mac 本地 AI StableDiffusion 画图软件，无限制无登陆</a></b><br /><img src="https://cdn4.cdn-telegram.org/file/PuiDH87nOe7cJVLW5WeYaRSfDkT1OU50Xbvqvw2Z-70Mzr6I8UOXsypNpdhQwkxWi7z9pm8sruqovfcttV6ht01ctl-qD-1AeBZoD7Ek2dAQ8nPVSe8vuiws0pjHm-lZHC863SxrdDcmig5fJve3L2I2vB7dv-mgdqgPOZpjPatZZwjEj0MP1EkWu08Aqp_5Fjqgk8OiGVN0-HAW-8Vgn5Hc-_qHsmLyYBtUfVRAC1J1UtL2gVCjl9FRm2aqy1-r74myT84vANL6VmPhMjPDgZjk-8f8lud7ZNFxLYWfruroxlqiKo4cKZRV7GSq7gBxct6quPQLp5oVL3CELm0r2A.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Wed, 19 Jun 2024 23:28:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

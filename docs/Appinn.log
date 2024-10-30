@@ -54756,3 +54756,11 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 530
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-10-30 21:06:31
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [❓ #问题求助 安卓手机发出声音的时候震动或者弹出弹窗提示 https://meta.appinn.net/t/topic/62554](https://t.me/appinnfeed/12486)
+Append: [❓ #问题求助 求一款方便老人记录血压测量结果及用药记录的APP https://meta.appinn.net/t/topic/62553](https://t.me/appinnfeed/12485)
+append_entries: 2
+Finish: 2024-10-30 21:06:32

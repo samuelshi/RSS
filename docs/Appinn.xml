@@ -4,15 +4,14 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>❓ #问题求助 Mpv怎么设置永久显示最底下的osc 工具栏？ https://meta.appinn.net/t/topic/62539</title>
 <link>https://t.me/appinnfeed/12483</link>
 <guid>https://t.me/appinnfeed/12483</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12483?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />Mpv怎么设置永久显示最底下的osc 工具栏？<br /><a href="https://meta.appinn.net/t/topic/62539" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/62539</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/62539">Mpv怎么设置永久显示最底下的osc 工具栏？</a></b><br /><p>I searched several times but nothing worked.</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/g0CuafBo7zfL7wW4nL2xYbPNKvH54JAHjLAgZDBZuMdrOLCEzjw9wGi-TwjXz-d5Qcc8_ndodsU3W3ZDLi0CEFEjjNW6r-Ra5z0P7W2P_PD5Y7ltbniPBQF8rYFcALUum11dOcCd0d0NF9erMx98haO-f4J_IQ90FNAiDj6KYSB2-Si9eocq9qO56bdhBmeSvJuHIAyZQr6L4MtlGDbIZWXnVON105dornY6LZYAkZxRcv9RwRn2iuH4FhdSXCid2O-Y3OlgGFiBOgHssMaBuP86qXZZAfA2mn-S83XdLL8QisXv59aaLRUKn-yPx-De54eE15o5d28ZuYhrFVyoew.jpg" width="0" /></blockquote>
 ]]></content:encoded>
-<pubDate>Wed, 30 Oct 2024 05:42:42 GMT</pubDate>
 <pubDate>Wed, 30 Oct 2024 05:42:42 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +19,10 @@
 <link>https://t.me/appinnfeed/12482</link>
 <guid>https://t.me/appinnfeed/12482</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12482?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />AHK 怎么将某一个程序的所有窗口无感的最小化<br /><a href="https://meta.appinn.net/t/topic/62535" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/62535</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/62535">AHK 怎么将某一个程序的所有窗口无感的最小化</a></b><br /><p>RT, 怎么使用Autohotkey 将某一个程序(比如explorer 或 notepad)的所有窗口无感的最小化.  尝试了一下WinMinimize, 他不支持用Class来过滤 效率也不高.  我的使用场景是因为Groupy偶尔会抽风 所以希望能够定期重启资源管理器然后自动恢复到关闭前的路径.  获取路径, 重启, 恢复之前的路径这部分都解决了没问题, 卡在怎么最小化的恢复.  Run, explorer %folderPath%, ,Min  这个试过 但是会导致窗口无法手动点击任务栏唤起, 所以换思路了…</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/g0CuafBo7zfL7wW4nL2xYbPNKvH54JAHjLAgZDBZuMdrOLCEzjw9wGi-TwjXz-d5Qcc8_ndodsU3W3ZDLi0CEFEjjNW6r-Ra5z0P7W2P_PD5Y7ltbniPBQF8rYFcALUum11dOcCd0d0NF9erMx98haO-f4J_IQ90FNAiDj6KYSB2-Si9eocq9qO56bdhBmeSvJuHIAyZQr6L4MtlGDbIZWXnVON105dornY6LZYAkZxRcv9RwRn2iuH4FhdSXCid2O-Y3OlgGFiBOgHssMaBuP86qXZZAfA2mn-S83XdLL8QisXv59aaLRUKn-yPx-De54eE15o5d28ZuYhrFVyoew.jpg" width="0" /></blockquote>
 ]]></content:encoded>
 <pubDate>Wed, 30 Oct 2024 05:07:50 GMT</pubDate>
-<pubDate>Wed, 30 Oct 2024 05:07:50 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼 没有回复了。 我不知道他在问什么，他也不知道我在问什么</title>
 <link>https://t.me/appinnfeed/12481</link>
@@ -9012,24 +9008,6 @@
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/11021?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />有什么内存占用非常大的网页？<br /><br /><a href="https://meta.appinn.net/t/topic/57859" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/57859</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/57859">有什么内存占用非常大的网页？</a></b><br /><p>用来测试chrome extension  Auto Tab Discard    的功能</p><img src="https://cdn4.cdn-telegram.org/file/uQMYXcVft5A0OKw2W2h8RLs7eZK1ZEmSjryf2GnvMZW2WMHCe9aB6MTpZ72jyG92jBf_mWcW9xPPr4mrwDxQYTh6r5RCkdCIvzs8vlccBvCkPOThrPPV8gvUM_k9Xwsz7khLaNpynq03LjwswR8v-tB8g6NBNJCPYwJ01ekQjwrRd7Mraj6hpvrgXfHWB3hKz7Vbap93DDdSWIEAtOm5iXy3eG0PCPoe13XpSSSfzPok4BLbfxVj7ofV_xot-sw03I5lEuQJDz-YA7k8xjORahwrGQacG82NadW0QrgL4_yRpyyETAA7zbYHIjoHDAge_wlhC1kT4fq52f6jW_4ArQ.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Wed, 19 Jun 2024 14:52:00 GMT</pubDate>
-</item>
-<item>
-<title>📣 #发现频道 中夹英，更适合中国宝宝学 English 的方法 https://meta.appinn.net/t/topic/57854</title>
-<link>https://t.me/appinnfeed/11020</link>
-<guid>https://t.me/appinnfeed/11020</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/11020?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />中夹英，更适合中国宝宝学 English 的方法<br /><br /><a href="https://meta.appinn.net/t/topic/57854" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/57854</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/57854">中夹英，更适合中国宝宝学 English 的方法</a></b><br /><p>产品名称：马大哈翻译 产品效果                                                 产品介绍 【马大哈翻译】会把你日常浏览的网页抽取一部分中文替换成词库里的words（比如六级词库），让大家在真实的语境种，不断的积累词汇。  我们在做什么   创造英文环境。大多数人国人很难有英文环境进行输入，我们希望通过中夹英的方式，让大家在日常生活中也能不断积累英文词汇。    无痛学习英语。被英文覆盖掉的内容，即使你没学过这个单词，你也可以通过上下文的语境能猜测出它是什么…</p><img src="https://cdn4.cdn-telegram.org/file/WjYp7u3ka15kvgtxvnFhgUF0u7KiJFx5ny-MiJ2jSS92htdVzLs0sWa5F79CRZn6exSP66fAoQzHLRJrnwpDXW6R671dvksgZvXzM_-E4GSqqNNKWUkeFJOoQURR_bXzVgZ_lObcCOKSfziYh0VvEPRlYsya8jy3ZIeh87K7uOnNx66l721pfK-sxwLd3wLKvfY4YLE1zU6MDnf4crfZs_5xjNmF5sx8B07No714unGMTjVXBU1dwrPyNmcjpqOpbtLkofiEClEqb-wyjdVEwQX58NH-hGKSXvgg-LYOpho-8zaLhCzchSiBN1RDBSJ5XGfwG6_lmKBTXzFn7MU2jQ.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Wed, 19 Jun 2024 12:52:01 GMT</pubDate>
-</item>
-<item>
-<title>🖼 百度盘下个3.9G的东西😂 用这货：https://www.appinn.com/bypy-baidupan-client-python/</title>
-<link>https://t.me/appinnfeed/11019</link>
-<guid>https://t.me/appinnfeed/11019</guid>
-<content:encoded><![CDATA[
-<p>百度盘下个3.9G的东西<span class="emoji">😂</span><br /><br />用这货：<a href="https://www.appinn.com/bypy-baidupan-client-python/" rel="noopener" target="_blank">https://www.appinn.com/bypy-baidupan-client-python/</a></p><img src="https://cdn5.cdn-telegram.org/file/KtPjGs8Xl3Rh9bfZZBnkGfhwIanYYMqZ0yjAdeXV6A-7UT_rU6VeehbqTufD6-B4ns_KwmZ_gsK_PzdvYC3aCmZJwRKjoz0IK5Q3jrCWZOA1jPrIv9Umwg90zu-nefxBBm53LrGFK2xzpnxQYQaNpux0vrpIuZBzQYnqVxvXPmvFSaSatoVeq1B1LYPTsWnfwrcYJFfZ3mmCaRcaf5gI_0x7_k6a0NHJN0TflW26K5hZhp6By1m4Lv8LuZ4WKrvpFYyvilSmrzbdC4XHKwTagJdARAYmgfQdBinOxV45bh9ShLop-SgMf72V-7w4f1W2C0waVnlRKqqdgN-DGzQy5w.jpg" />
-]]></content:encoded>
-<pubDate>Wed, 19 Jun 2024 11:43:37 GMT</pubDate>
 </item>
 </channel>
 </rss>

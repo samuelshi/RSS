@@ -54724,3 +54724,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 530
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-10-30 16:01:43
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [📣 #发现频道 【开发者自荐】知我 AI - PC 本地运行大模型的客户端 https://meta.appinn.net/t/topic/62542](https://t.me/appinnfeed/12484)
+append_entries: 1
+Finish: 2024-10-30 16:01:44

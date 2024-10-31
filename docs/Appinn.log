@@ -54891,3 +54891,10 @@ Append: [📣 #发现频道 【开发者自荐】TubePod -- 一个功能强大�
 Append: [❓ #问题求助 VirtualBox这个增强功能包到底啥情况 https://meta.appinn.net/t/topic/62586](https://t.me/appinnfeed/12497)
 append_entries: 2
 Finish: 2024-10-31 16:01:43
+------------------------------------------------------
+Started: 2024-10-31 17:01:26
+Existing_entries: 1002
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 502
+append_entries: 0
+error when rendering xml, skip docs/Appinn

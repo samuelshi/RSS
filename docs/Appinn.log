@@ -54927,3 +54927,10 @@ Append: [📣 #发现频道 空气时钟 一款极简、多彩，但没啥用的
 Append: [❓ #问题求助 ffmpeg压静态帧多的影片时对动态部分丢帧过多 https://meta.appinn.net/t/topic/62604](https://t.me/appinnfeed/12500)
 append_entries: 3
 Finish: 2024-10-31 21:06:20
+------------------------------------------------------
+Started: 2024-10-31 22:01:34
+Existing_entries: 1003
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 502
+append_entries: 0
+error when rendering xml, skip docs/Appinn

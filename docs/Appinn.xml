@@ -5,14 +5,35 @@
 <link>https://t.me/s/appinnfeed</link>
 
 <item>
+<title>🖼 macOS 菜单栏日历小工具 Itsycal 更新 0.15.5 1️⃣ 修正了一个错误，即一周警报误差了9个小时。非常感谢 Michael 发现并修复了这个错误。 2️⃣ 新增*隐藏...</title>
+<link>https://t.me/appinnfeed/12504</link>
+<guid>https://t.me/appinnfeed/12504</guid>
+<content:encoded><![CDATA[
+
+<p>macOS 菜单栏日历小工具 <a href="https://www.appinn.com/itsycal-for-mac/" rel="noopener" target="_blank">Itsycal</a> 更新 0.15.5<br /><br /><span class="emoji">1️⃣</span> 修正了一个错误，即一周警报误差了9个小时。非常感谢 Michael 发现并修复了这个错误。<br /><br /><span class="emoji">2️⃣</span> 新增*隐藏*设置，当你将鼠标悬停在日期上时，即可显示活动细节。<br /><br />要试用它，请打开 Terminal.app，然后输入默认设置：`write com.mowglii.ItsycalApp ShowEventPopoverOnHover -bool YES`<br /><br />要禁用，请输入相同的命令，但将 “YES ”改为 “NO”。</p><img height="704.00" src="https://cdn5.cdn-telegram.org/file/kIveF53HfSL5e2IYtgwq2Ovt39v8eCvdWXciIJdhnzrFfHsf8_5FK1GfTFdbSoq9RFPrByUAFAIIRWx8W5jg19rvlAoFRTX5r1XQQjpSjsnu9vMpB1OtA1sZDT3F13j50iAIDKm5mJXxAU7ooBLvgVJ1N2LFqYp5WYn4C7KERyco3U7umvH-Pxr4tKTLnhkDCBoEBjsgz3RHd-okpdpXnmvoHNczk0W7Fp-uBu_RCmtntCXOKk5Matyk5bhH-wcxdCbbCeg5e7TFaWIdw7hfUB2qNk4O6tv4uXs0bYpyVvJjQWzBRaC4tbaQpDYZNqplOuI9M-MbqgoZym65SokkXg.jpg" width="624" />
+]]></content:encoded>
+<pubDate>Thu, 31 Oct 2024 13:25:30 GMT</pubDate>
+<pubDate>Thu, 31 Oct 2024 13:25:30 GMT</pubDate>
+</item>
+<item>
+<title>macOS 菜单栏日历小工具 Itsycal 更新 0.15.5 1️⃣ 修正了一个错误，即一周警报误差了9个小时。非常感谢 Michael 发现并修复了这个错误。 2️⃣ 新增*隐藏*设置...</title>
+<link>https://t.me/appinnfeed/12503</link>
+<guid>https://t.me/appinnfeed/12503</guid>
+<content:encoded><![CDATA[
+
+<p>macOS 菜单栏日历小工具 <a href="https://www.appinn.com/itsycal-for-mac/" rel="noopener" target="_blank">Itsycal</a> 更新 0.15.5<br /><br /><span class="emoji">1️⃣</span> 修正了一个错误，即一周警报误差了9个小时。非常感谢 Michael 发现并修复了这个错误。<br /><br /><span class="emoji">2️⃣</span> 新增*隐藏*设置，当你将鼠标悬停在日期上时，即可显示活动细节。<br /><br />要试用它，请打开 Terminal.app，然后输入默认设置：`write com.mowglii.ItsycalApp ShowEventPopoverOnHover -bool YES`<br /><br />要禁用，请输入相同的命令，但将 “YES ”改为 “NO”。</p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/itsycal-for-mac/">Itsycal - macOS 菜单栏上自定义显示日历与时间 - 小众软件</a></b><br /><p>青小蛙最近常常被问到截图里 macOS 菜单栏上的带边框的日期显示是什么软件，这次就来介绍一下可以在菜单栏自定义显示内容的开源小工具：Itsycal。@Appinn</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/XMzZ7F3_29jj0moBafhKXgeUWRMQC29T9YFWo11VBz266jQ2ugZkguftngzOonQjViqMiiqBdGLWKNFNrKe0HPlU_6gD2gxDvWtXBIVB46izOVrTFBAv9mWGxzDQsWFITLwSdXB9_yHpD5H0t_UnlI1ElyCj5tiY1VkURDq06N-ekYHpbQxJYP3SBOpulbKQSWbaoErfCuINS5a7QO8DoBlNePaj7jJR_BgY-Y3QIpWQWPsWBkoa69oP77yaFtyIiY3An7GwRRuAG__Hx4AP4KOMHaro70WmFzzA2Z7qAXACikCdWY3cEpURvkSjc8lReY3Qr6sotMHx7YsBvyWYQQ.jpg" width="0" /></blockquote>
+]]></content:encoded>
+<pubDate>Thu, 31 Oct 2024 13:25:15 GMT</pubDate>
+<pubDate>Thu, 31 Oct 2024 13:25:15 GMT</pubDate>
+</item>
+
+<item>
 <title>❓ #问题求助 求助DDNS-GO设置cloudflare问题 https://meta.appinn.net/t/topic/62605</title>
 <link>https://t.me/appinnfeed/12502</link>
 <guid>https://t.me/appinnfeed/12502</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12502?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />求助DDNS-GO设置cloudflare问题<br /><a href="https://meta.appinn.net/t/topic/62605" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/62605</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/62605">求助DDNS-GO设置cloudflare问题</a></b><br /><p>各位老板好！初到贵宝地，求助一个稍微复杂一点的问题；  先介绍下背景环境   家庭宽带，有公网IP，所以有DDNS需求； 我有台NAS，x86的威联通，docker部署了几个服务，然后做了阿里云的DDNS服务，把常用的几个服务目前用域名A（二级域名）+端口号的形式访问，同时也做了cloudflare代理，但是只代理了DNS，。同时我的域名有阿里云的邮件服务； 同时我有个阿里云服务器（centos+宝塔免费版），跑的是bitwarden密码服务，用我自己的域名B，在cloudflare上做了代理；  目前的问题…</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/ZVHu48rsPuxRB821QKwI1mBTfwyoanFQ2KBWDQ57smIPrcVwFFG2Mu4OsiLGUnSY-W2NYl758-N8GMZOM-Qv4YUwKbqJwQhR6f2dUl7eN8eu07XraN5VK4D-aTZn_ro3btRIysG4TageC7RXJtbtEtt1kjo87sDkcpg-E-_dkJwzdTD1Sx4JfWWGhEncImRFj_BA59uHf-ACvUrpEyI2YJ9VKrbWBtz_Gwzg-LuZN7fx2MYw1oPjRLsym3X41ZB5O4YebTLEJix06uaTTCcO5QtM8Cj6wkrifqku8xvLmCfMM7faCVa1e4_NTfnAPgrT315NmztyM1Kn7zttsN4G4w.jpg" width="0" /></blockquote>
 ]]></content:encoded>
-<pubDate>Thu, 31 Oct 2024 12:32:27 GMT</pubDate>
 <pubDate>Thu, 31 Oct 2024 12:32:27 GMT</pubDate>
 </item>
 <item>
@@ -20,10 +41,8 @@
 <link>https://t.me/appinnfeed/12501</link>
 <guid>https://t.me/appinnfeed/12501</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/12501?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />空气时钟 一款极简、多彩，但没啥用的时钟APP 【 iOS、iPadOS、macOS】<br /><a href="https://meta.appinn.net/t/topic/62603" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/62603</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/62603">空气时钟 一款极简、多彩，但没啥用的时钟APP 【 iOS、iPadOS、macOS】</a></b><br /><p>应用名称 空气时钟  应用平台 iOS  iPadOS  MacOS  推荐类型 [ 开发者自荐 ]  一句简介 极简、多彩，主题丰富，带有番茄时钟功能，多端共享但没啥用的时钟APP <span class="emoji">🤣</span>  应用介绍 应用商店找了很久没有钟意的，索性自己做了一个。不开会员依然可以享用绝大多数功能，要是想用的话评论区说一声或者私信，可以送你会员码。  交个朋友 <span class="emoji">🫂</span>  支持到iOS 14，有老手机的拿来当个摆件也不错。  应用特点  ◆ 绝对纯净，没有任何广告；   ◆ 大概有50多个漂亮有趣的主题和色彩风格，后面还会再更新；…</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/ZVHu48rsPuxRB821QKwI1mBTfwyoanFQ2KBWDQ57smIPrcVwFFG2Mu4OsiLGUnSY-W2NYl758-N8GMZOM-Qv4YUwKbqJwQhR6f2dUl7eN8eu07XraN5VK4D-aTZn_ro3btRIysG4TageC7RXJtbtEtt1kjo87sDkcpg-E-_dkJwzdTD1Sx4JfWWGhEncImRFj_BA59uHf-ACvUrpEyI2YJ9VKrbWBtz_Gwzg-LuZN7fx2MYw1oPjRLsym3X41ZB5O4YebTLEJix06uaTTCcO5QtM8Cj6wkrifqku8xvLmCfMM7faCVa1e4_NTfnAPgrT315NmztyM1Kn7zttsN4G4w.jpg" width="0" /></blockquote>
 ]]></content:encoded>
-<pubDate>Thu, 31 Oct 2024 12:25:57 GMT</pubDate>
 <pubDate>Thu, 31 Oct 2024 12:25:57 GMT</pubDate>
 </item>
 <item>
@@ -31,13 +50,10 @@
 <link>https://t.me/appinnfeed/12500</link>
 <guid>https://t.me/appinnfeed/12500</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12500?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />ffmpeg压静态帧多的影片时对动态部分丢帧过多<br /><a href="https://meta.appinn.net/t/topic/62604" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/62604</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/62604">ffmpeg压静态帧多的影片时对动态部分丢帧过多</a></b><br /><p>视频是ppt，几乎全是静态帧和少量的局部动画，还有更少的翻页动画  现在的问题是翻页动画的场景丢帧过多以至于看上去很不平滑，很卡  最开始用的参数只有-cq，发现单用cq的话会导致CFR  -c:v h264_nvenc        -cq               42  后来加了-vsync vfr 强制VFR也没改善  试过-r 60或是-fv fps=60，导致文件大小翻倍，得不偿失，而且压制时间明显增加了50%不止</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/ZVHu48rsPuxRB821QKwI1mBTfwyoanFQ2KBWDQ57smIPrcVwFFG2Mu4OsiLGUnSY-W2NYl758-N8GMZOM-Qv4YUwKbqJwQhR6f2dUl7eN8eu07XraN5VK4D-aTZn_ro3btRIysG4TageC7RXJtbtEtt1kjo87sDkcpg-E-_dkJwzdTD1Sx4JfWWGhEncImRFj_BA59uHf-ACvUrpEyI2YJ9VKrbWBtz_Gwzg-LuZN7fx2MYw1oPjRLsym3X41ZB5O4YebTLEJix06uaTTCcO5QtM8Cj6wkrifqku8xvLmCfMM7faCVa1e4_NTfnAPgrT315NmztyM1Kn7zttsN4G4w.jpg" width="0" /></blockquote>
 ]]></content:encoded>
 <pubDate>Thu, 31 Oct 2024 12:22:51 GMT</pubDate>
-<pubDate>Thu, 31 Oct 2024 12:22:51 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 初学python第一天，请教一个小问题 https://meta.appinn.net/t/topic/62591</title>
 <link>https://t.me/appinnfeed/12499</link>
@@ -9014,33 +9030,6 @@
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/11041?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />求助一个本地安装包，压缩包管理的方案<br /><br /><a href="https://meta.appinn.net/t/topic/57899" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/57899</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/57899">求助一个本地安装包，压缩包管理的方案</a></b><br /><p>求助一个本地安装包，压缩包管理的方案 收藏了几十个软件的安装包和压缩包，但是时间久了有些软件不知道是干什么的了，或者是不知道安装方法了。 没有什么方案可以为这些安装包，压缩包可视化，然后还可以添加备注信息</p><img src="https://cdn4.cdn-telegram.org/file/PuiDH87nOe7cJVLW5WeYaRSfDkT1OU50Xbvqvw2Z-70Mzr6I8UOXsypNpdhQwkxWi7z9pm8sruqovfcttV6ht01ctl-qD-1AeBZoD7Ek2dAQ8nPVSe8vuiws0pjHm-lZHC863SxrdDcmig5fJve3L2I2vB7dv-mgdqgPOZpjPatZZwjEj0MP1EkWu08Aqp_5Fjqgk8OiGVN0-HAW-8Vgn5Hc-_qHsmLyYBtUfVRAC1J1UtL2gVCjl9FRm2aqy1-r74myT84vANL6VmPhMjPDgZjk-8f8lud7ZNFxLYWfruroxlqiKo4cKZRV7GSq7gBxct6quPQLp5oVL3CELm0r2A.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Thu, 20 Jun 2024 07:12:01 GMT</pubDate>
-</item>
-<item>
-<title>将 3D 建模软件 Blender 移植到 诺基亚 Symbian s60v3 里。 https://github.com/Dante-Leoncini/Blendersito 来源：tk</title>
-<link>https://t.me/appinnfeed/11040</link>
-<guid>https://t.me/appinnfeed/11040</guid>
-<content:encoded><![CDATA[
-<p>将 3D 建模软件 Blender 移植到 诺基亚 Symbian s60v3 里。<br /><br /><a href="https://github.com/Dante-Leoncini/Blendersito" rel="noopener" target="_blank">https://github.com/Dante-Leoncini/Blendersito</a><br /><br />来源：<a href="https://weibo.com/6827625527/OjQXwykpO" rel="noopener" target="_blank">tk</a></p><blockquote><b>GitHub</b><br /><b><a href="https://github.com/Dante-Leoncini/Blendersito">GitHub - Dante-Leoncini/Blendersito: Una version de Blender creada desde cero para Symbian</a></b><br /><p>Una version de Blender creada desde cero para Symbian - Dante-Leoncini/Blendersito</p><img src="https://cdn4.cdn-telegram.org/file/XaYb_TK3YwCtvb4_rZvkx7xvsBBnzqI3ftCMAB3bD3kzZlnCQ5ICsJiHxklChg3c3p71YDfpG33TVcwfc9pvcaGlbz-u_uhB1GtHoUI0Te3oftTXnXpn9QzmMTUZgkfqCFY_-_UYqqzhL5kcg0bV_FdPpAqHhUQrg6N64zxDTiBt0QQ2FVCHCQDKUk1NA-Y4lNH-nZLP4Ce5f9rlgmOixqTIQq2H3iUwO2nf8ZdyxfVrjjqwBQ-Q82M3WZx1mO0Fg09z7vBgpbkpwuK0CO5TKiOrEj69qwZdzE5RIK-wgGOv4XdEu5kddSV_t3JwCo1IKyrc-Z4dChzKWvcTuIFqlg.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Thu, 20 Jun 2024 05:41:17 GMT</pubDate>
-</item>
-<item>
-<title>📣 #发现频道 【网站自荐】Midjourney Sref Codes精选库 https://meta.appinn.net/t/topic/57895</title>
-<link>https://t.me/appinnfeed/11039</link>
-<guid>https://t.me/appinnfeed/11039</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/11039?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />【网站自荐】Midjourney Sref Codes精选库<br /><br /><a href="https://meta.appinn.net/t/topic/57895" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/57895</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/57895">【网站自荐】Midjourney Sref Codes精选库</a></b><br /><p>在 Midjourney 的 prompt 输入 --sref xxx ，可以固定生成某种特定风格的图片。这对很多人来说非常方便，不用写一堆效果词，只要记住几位数字就可以。  但“–sref xxx”有大概 40 亿个左右，其中重复或者质量不佳的不在少数。因此做了一个网站把一些个人觉得不错的 sref code 收集起来并进行分类，方便新人或者设计师检索。  另外为了让设计师得到创意，所有的图片prompt免费开放！  欢迎大家使用并给我提建议～ https://midjourneysref.com/</p><img src="https://cdn4.cdn-telegram.org/file/PuiDH87nOe7cJVLW5WeYaRSfDkT1OU50Xbvqvw2Z-70Mzr6I8UOXsypNpdhQwkxWi7z9pm8sruqovfcttV6ht01ctl-qD-1AeBZoD7Ek2dAQ8nPVSe8vuiws0pjHm-lZHC863SxrdDcmig5fJve3L2I2vB7dv-mgdqgPOZpjPatZZwjEj0MP1EkWu08Aqp_5Fjqgk8OiGVN0-HAW-8Vgn5Hc-_qHsmLyYBtUfVRAC1J1UtL2gVCjl9FRm2aqy1-r74myT84vANL6VmPhMjPDgZjk-8f8lud7ZNFxLYWfruroxlqiKo4cKZRV7GSq7gBxct6quPQLp5oVL3CELm0r2A.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Thu, 20 Jun 2024 05:40:01 GMT</pubDate>
-</item>
-<item>
-<title>💧 #小众软件 果仁相册 – 免费的安卓相册：小、快 https://www.appinn.com/pipphotos/ Tags: #Android, #相册</title>
-<link>https://t.me/appinnfeed/11038</link>
-<guid>https://t.me/appinnfeed/11038</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">💧</span> <a href="https://t.me/appinnfeed/11038?q=%23%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6">#小众软件</a><br />果仁相册 – 免费的安卓相册：小、快<br /><br /><a href="https://www.appinn.com/pipphotos/" rel="noopener" target="_blank">https://www.appinn.com/pipphotos/</a><br /><br /><b>Tags</b>: <a href="https://t.me/appinnfeed/11038?q=%23Android">#Android</a>, <a href="https://t.me/appinnfeed/11038?q=%23%E7%9B%B8%E5%86%8C">#相册</a></p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/pipphotos/">果仁相册 - 免费的安卓相册：小、快 - 小众软件</a></b><br /><p>果仁相册是一款免费的安卓相册应用，主打特色：小、快。另外还支持百度盘和 WebDAV，还内置了一个加水印的小工具。@Appinn</p><img src="https://cdn4.cdn-telegram.org/file/XgU_S6wh7Z9Hn8s6Im2mCDq2q5GkI-EPKyvL99v_kjdb6LVzJ7oBVrFRvcXuE4Vmf_JloQ678xHZWyDtv3W5itmSWNBs15TrlIz1xe2fRBis-8eErIm2afzdWzTuzKlSkq--CyIrga_vUaDicx4QYeCtvp7i7Y-afO1YFE40lt6lI_1723dSI4pp1ytIjKP5m1X5gPQjn5fhN0wmJeZdtHeJJK2vOPXrnK278v3BAOlWvSi3qQ_PR046MSqt5T1iAvEo5OVp1tReqnm-q0rE2Bl8WkeoVzF3t3Tsr1_L7JFQANDlN5BuAzhwxCbGkbFD6o_kUCbg-cIGNMsZdImpBA.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Thu, 20 Jun 2024 05:36:02 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -4,15 +4,14 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>🖼 macOS 菜单栏日历小工具 Itsycal 更新 0.15.5 1️⃣ 修正了一个错误，即一周警报误差了9个小时。非常感谢 Michael 发现并修复了这个错误。 2️⃣ 新增*隐藏...</title>
 <link>https://t.me/appinnfeed/12504</link>
 <guid>https://t.me/appinnfeed/12504</guid>
 <content:encoded><![CDATA[
-
 <p>macOS 菜单栏日历小工具 <a href="https://www.appinn.com/itsycal-for-mac/" rel="noopener" target="_blank">Itsycal</a> 更新 0.15.5<br /><br /><span class="emoji">1️⃣</span> 修正了一个错误，即一周警报误差了9个小时。非常感谢 Michael 发现并修复了这个错误。<br /><br /><span class="emoji">2️⃣</span> 新增*隐藏*设置，当你将鼠标悬停在日期上时，即可显示活动细节。<br /><br />要试用它，请打开 Terminal.app，然后输入默认设置：`write com.mowglii.ItsycalApp ShowEventPopoverOnHover -bool YES`<br /><br />要禁用，请输入相同的命令，但将 “YES ”改为 “NO”。</p><img height="704.00" src="https://cdn5.cdn-telegram.org/file/kIveF53HfSL5e2IYtgwq2Ovt39v8eCvdWXciIJdhnzrFfHsf8_5FK1GfTFdbSoq9RFPrByUAFAIIRWx8W5jg19rvlAoFRTX5r1XQQjpSjsnu9vMpB1OtA1sZDT3F13j50iAIDKm5mJXxAU7ooBLvgVJ1N2LFqYp5WYn4C7KERyco3U7umvH-Pxr4tKTLnhkDCBoEBjsgz3RHd-okpdpXnmvoHNczk0W7Fp-uBu_RCmtntCXOKk5Matyk5bhH-wcxdCbbCeg5e7TFaWIdw7hfUB2qNk4O6tv4uXs0bYpyVvJjQWzBRaC4tbaQpDYZNqplOuI9M-MbqgoZym65SokkXg.jpg" width="624" />
 ]]></content:encoded>
-<pubDate>Thu, 31 Oct 2024 13:25:30 GMT</pubDate>
 <pubDate>Thu, 31 Oct 2024 13:25:30 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +19,10 @@
 <link>https://t.me/appinnfeed/12503</link>
 <guid>https://t.me/appinnfeed/12503</guid>
 <content:encoded><![CDATA[
-
 <p>macOS 菜单栏日历小工具 <a href="https://www.appinn.com/itsycal-for-mac/" rel="noopener" target="_blank">Itsycal</a> 更新 0.15.5<br /><br /><span class="emoji">1️⃣</span> 修正了一个错误，即一周警报误差了9个小时。非常感谢 Michael 发现并修复了这个错误。<br /><br /><span class="emoji">2️⃣</span> 新增*隐藏*设置，当你将鼠标悬停在日期上时，即可显示活动细节。<br /><br />要试用它，请打开 Terminal.app，然后输入默认设置：`write com.mowglii.ItsycalApp ShowEventPopoverOnHover -bool YES`<br /><br />要禁用，请输入相同的命令，但将 “YES ”改为 “NO”。</p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/itsycal-for-mac/">Itsycal - macOS 菜单栏上自定义显示日历与时间 - 小众软件</a></b><br /><p>青小蛙最近常常被问到截图里 macOS 菜单栏上的带边框的日期显示是什么软件，这次就来介绍一下可以在菜单栏自定义显示内容的开源小工具：Itsycal。@Appinn</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/XMzZ7F3_29jj0moBafhKXgeUWRMQC29T9YFWo11VBz266jQ2ugZkguftngzOonQjViqMiiqBdGLWKNFNrKe0HPlU_6gD2gxDvWtXBIVB46izOVrTFBAv9mWGxzDQsWFITLwSdXB9_yHpD5H0t_UnlI1ElyCj5tiY1VkURDq06N-ekYHpbQxJYP3SBOpulbKQSWbaoErfCuINS5a7QO8DoBlNePaj7jJR_BgY-Y3QIpWQWPsWBkoa69oP77yaFtyIiY3An7GwRRuAG__Hx4AP4KOMHaro70WmFzzA2Z7qAXACikCdWY3cEpURvkSjc8lReY3Qr6sotMHx7YsBvyWYQQ.jpg" width="0" /></blockquote>
 ]]></content:encoded>
 <pubDate>Thu, 31 Oct 2024 13:25:15 GMT</pubDate>
-<pubDate>Thu, 31 Oct 2024 13:25:15 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 求助DDNS-GO设置cloudflare问题 https://meta.appinn.net/t/topic/62605</title>
 <link>https://t.me/appinnfeed/12502</link>
@@ -9012,24 +9008,6 @@
 <p><span class="emoji">📣</span> <a href="https://t.me/appinnfeed/11043?q=%23%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">#发现频道</a><br />工具自荐】Mo 卡片：卡片形式轻松了解AI核心知识与技能的专业学习工具<br /><br /><a href="https://meta.appinn.net/t/topic/57910" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/57910</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/57910">工具自荐】Mo 卡片：卡片形式轻松了解AI核心知识与技能的专业学习工具</a></b><br /><p>简介 卡片就是力量，通过卡片形式轻松了解 AI 核心知识与应用，掌握时代思维，缓解个人焦虑。  网址 https://apps.apple.com/app/apple-store/id6475294942?pt=126747163&amp;ct=shenqiji&amp;mt=8  产品介绍 https://digitallab.yuque.com/qm3grq/wmavo1/evqs6zfgt67xpa90?singleDoc# 《Mo卡片App介绍》  产品功能   提供30套+、2k+张AI知识卡片（持续更新中），涵盖大模型、AI…</p><img src="https://cdn4.cdn-telegram.org/file/PuiDH87nOe7cJVLW5WeYaRSfDkT1OU50Xbvqvw2Z-70Mzr6I8UOXsypNpdhQwkxWi7z9pm8sruqovfcttV6ht01ctl-qD-1AeBZoD7Ek2dAQ8nPVSe8vuiws0pjHm-lZHC863SxrdDcmig5fJve3L2I2vB7dv-mgdqgPOZpjPatZZwjEj0MP1EkWu08Aqp_5Fjqgk8OiGVN0-HAW-8Vgn5Hc-_qHsmLyYBtUfVRAC1J1UtL2gVCjl9FRm2aqy1-r74myT84vANL6VmPhMjPDgZjk-8f8lud7ZNFxLYWfruroxlqiKo4cKZRV7GSq7gBxct6quPQLp5oVL3CELm0r2A.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Thu, 20 Jun 2024 09:20:01 GMT</pubDate>
-</item>
-<item>
-<title>❓ #问题求助 想自己做一块键盘，目前卡在模拟电路，请问如何看懂电路以及绘制PCB https://meta.appinn.net/t/topic/57909</title>
-<link>https://t.me/appinnfeed/11042</link>
-<guid>https://t.me/appinnfeed/11042</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/11042?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />想自己做一块键盘，目前卡在模拟电路，请问如何看懂电路以及绘制PCB<br /><br /><a href="https://meta.appinn.net/t/topic/57909" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/57909</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/57909">想自己做一块键盘，目前卡在模拟电路，请问如何看懂电路以及绘制PCB</a></b><br /><p>之前对客制键盘产生了兴趣，想自己做个左右分离的蓝牙键盘。在嘉立创EDA上搜到有现成的开源项目，但是还需要进一步修改以满足自己需求。  本人对电路仅限于初高中学过的基础电路，只能看懂串联并联啥的，对于开源项目中各个元器件的使用原因及电路原理并不了解，想了解开源项目的原理并进行一定的修改。请问有什么教程适合零基础的人看看。  PS：我的需求仅限于看懂开源项目然后自己能下手改改，不用非常专业到换工作哈。</p><img src="https://cdn4.cdn-telegram.org/file/PuiDH87nOe7cJVLW5WeYaRSfDkT1OU50Xbvqvw2Z-70Mzr6I8UOXsypNpdhQwkxWi7z9pm8sruqovfcttV6ht01ctl-qD-1AeBZoD7Ek2dAQ8nPVSe8vuiws0pjHm-lZHC863SxrdDcmig5fJve3L2I2vB7dv-mgdqgPOZpjPatZZwjEj0MP1EkWu08Aqp_5Fjqgk8OiGVN0-HAW-8Vgn5Hc-_qHsmLyYBtUfVRAC1J1UtL2gVCjl9FRm2aqy1-r74myT84vANL6VmPhMjPDgZjk-8f8lud7ZNFxLYWfruroxlqiKo4cKZRV7GSq7gBxct6quPQLp5oVL3CELm0r2A.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Thu, 20 Jun 2024 08:52:01 GMT</pubDate>
-</item>
-<item>
-<title>❓ #问题求助 求助一个本地安装包，压缩包管理的方案 https://meta.appinn.net/t/topic/57899</title>
-<link>https://t.me/appinnfeed/11041</link>
-<guid>https://t.me/appinnfeed/11041</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/11041?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />求助一个本地安装包，压缩包管理的方案<br /><br /><a href="https://meta.appinn.net/t/topic/57899" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/57899</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/57899">求助一个本地安装包，压缩包管理的方案</a></b><br /><p>求助一个本地安装包，压缩包管理的方案 收藏了几十个软件的安装包和压缩包，但是时间久了有些软件不知道是干什么的了，或者是不知道安装方法了。 没有什么方案可以为这些安装包，压缩包可视化，然后还可以添加备注信息</p><img src="https://cdn4.cdn-telegram.org/file/PuiDH87nOe7cJVLW5WeYaRSfDkT1OU50Xbvqvw2Z-70Mzr6I8UOXsypNpdhQwkxWi7z9pm8sruqovfcttV6ht01ctl-qD-1AeBZoD7Ek2dAQ8nPVSe8vuiws0pjHm-lZHC863SxrdDcmig5fJve3L2I2vB7dv-mgdqgPOZpjPatZZwjEj0MP1EkWu08Aqp_5Fjqgk8OiGVN0-HAW-8Vgn5Hc-_qHsmLyYBtUfVRAC1J1UtL2gVCjl9FRm2aqy1-r74myT84vANL6VmPhMjPDgZjk-8f8lud7ZNFxLYWfruroxlqiKo4cKZRV7GSq7gBxct6quPQLp5oVL3CELm0r2A.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Thu, 20 Jun 2024 07:12:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

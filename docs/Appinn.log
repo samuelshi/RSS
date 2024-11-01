@@ -55048,3 +55048,10 @@ Append: [💧 #小众软件 Parallels Desktop 20：在 Windows 上使用 Apple �
 Append: [❓ #问题求助 请问下安卓有自定义周期提醒的app吗？ https://meta.appinn.net/t/topic/62642](https://t.me/appinnfeed/12512)
 append_entries: 2
 Finish: 2024-11-01 15:01:42
+------------------------------------------------------
+Started: 2024-11-01 16:01:45
+Existing_entries: 1002
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 502
+append_entries: 0
+error when rendering xml, skip docs/Appinn

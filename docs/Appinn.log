@@ -55155,3 +55155,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Append: [❓ #问题求助 Win7换成win10，按钮分辨率的问题？ https://meta.appinn.net/t/topic/62674](https://t.me/appinnfeed/12520)
 append_entries: 1
 Finish: 2024-11-02 07:01:43
+------------------------------------------------------
+Started: 2024-11-02 08:03:42
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 530
+append_entries: 0
+error when rendering xml, skip docs/Appinn

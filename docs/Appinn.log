@@ -55367,3 +55367,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Append: [❓ #问题求助 问问有没有安卓可用的图片去重软件，实在不行win也可以 https://meta.appinn.net/t/topic/62704](https://t.me/appinnfeed/12531)
 append_entries: 1
 Finish: 2024-11-03 16:01:48
+------------------------------------------------------
+Started: 2024-11-03 17:01:22
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 502
+append_entries: 0
+error when rendering xml, skip docs/Appinn

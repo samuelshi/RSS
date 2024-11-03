@@ -55409,3 +55409,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 502
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-11-03 23:01:24
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [📣 #发现频道 【开发者自荐】藏趣云 - 已经运行三年的一款跨浏览器平台书签管理、网页剪藏、网页标注助手 https://meta.appinn.net/t/topic/62717](https://t.me/appinnfeed/12534)
+append_entries: 1
+Finish: 2024-11-03 23:01:25

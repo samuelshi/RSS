@@ -55423,3 +55423,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Append: [❓ #问题求助 求一个跳转浏览器拦截工具？ https://meta.appinn.net/t/topic/62720](https://t.me/appinnfeed/12535)
 append_entries: 1
 Finish: 2024-11-04 00:01:33
+------------------------------------------------------
+Started: 2024-11-04 01:01:18
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 530
+append_entries: 0
+error when rendering xml, skip docs/Appinn

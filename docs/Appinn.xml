@@ -4,6 +4,17 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>❓ #问题求助 有什么软件可以简单探测哪个按键被哪个app截取（屏蔽）？ https://meta.appinn.net/t/topic/62811</title>
+<link>https://t.me/appinnfeed/12557</link>
+<guid>https://t.me/appinnfeed/12557</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12557?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />有什么软件可以简单探测哪个按键被哪个app截取（屏蔽）？<br /><a href="https://meta.appinn.net/t/topic/62811" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/62811</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/62811">有什么软件可以简单探测哪个按键被哪个app截取（屏蔽）？</a></b><br /><p>最近有一个按键老是按不出来，一开始还以为是机械键盘坏了。  但是用键盘test软件，能够检测出来系统探知到了按键。  但是找不到截取的源头，排查了所有ahk脚本（其实就是关闭掉），还是发生问题。  试着用spy++按网上教程弄了一下，无果。  有什么可以推荐的吗？</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/K0-6HEKK_QhDd43vzkE-56qycIdcLBAsEHA1kMh-9x918zUuIwaT1e7LwpUaDqt0kLKIM2SmNwAXb4cLra7Z88Q8MS0br6hmsFYgHlaMsMfBS9ML6OJM5hGr-RFkI1krefyu8NEw-MCm2dtGySl9-CAqHXpZaRi3eLKfu-OI7tCgFxVGhDEgG4ODEK3UQ4F3XDMCQqhlSA3VIdgGnx1jJdCAlx_Bg-LpFd5ErHMrmgENSHjqHAnXae0PKpZljsfEEhPEt-Eu8_nzOsuwAUS67l6orgJIvl_vMvRWv_v8iPSOshFco3ZiRWBUW_IkWOZgyNmO9awL__R4fDP2QF_Jww.jpg" width="0" /></blockquote>
+]]></content:encoded>
+<pubDate>Tue, 05 Nov 2024 16:12:54 GMT</pubDate>
+<pubDate>Tue, 05 Nov 2024 16:12:54 GMT</pubDate>
+</item>
 
 <item>
 <title>🔁 FFmpeg 手写 AVX512 汇编代码性能提升最多 94 倍 2024-11-05 04:02 by 黑暗之潮 开源多媒体编解码器项目 FFmpeg 的开发者通过手写实现优化了 AVX-512 指令...</title>

@@ -55646,3 +55646,11 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 502
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-11-05 11:03:50
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [❓ #问题求助 安卓下有啥相机应用可以强制保存视频&照片为横向？ https://meta.appinn.net/t/topic/62785](https://t.me/appinnfeed/12549)
+Append: [❓ #问题求助 Follow.is 客户端登陆遇问题 https://meta.appinn.net/t/topic/62782](https://t.me/appinnfeed/12548)
+append_entries: 2
+Finish: 2024-11-05 11:03:50

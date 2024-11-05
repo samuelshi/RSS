@@ -4,6 +4,17 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>❓ #问题求助 Win11如何设置携带版软件为默认浏览器？ https://meta.appinn.net/t/topic/62813</title>
+<link>https://t.me/appinnfeed/12558</link>
+<guid>https://t.me/appinnfeed/12558</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12558?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />Win11如何设置携带版软件为默认浏览器？<br /><a href="https://meta.appinn.net/t/topic/62813" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/62813</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/62813">Win11如何设置携带版软件为默认浏览器？</a></b><br /><p>如题，也可以称之为绿色版软件，特征就是解压即用，不需要注册。  更进一步，这是我自己编译的exe文件，怎么把它设置为默认浏览器？  全网搜索居然没有一点有用信息。  win11的设置&gt;默认程序那里是不行的，根本不允许我选择自己的软件。  注册表  HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Shell\Associations\UrlAssociations\http\UserChoice  Hash: 一些字符串 ProgId: 一些软件名   无关的吐槽:…</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/K0-6HEKK_QhDd43vzkE-56qycIdcLBAsEHA1kMh-9x918zUuIwaT1e7LwpUaDqt0kLKIM2SmNwAXb4cLra7Z88Q8MS0br6hmsFYgHlaMsMfBS9ML6OJM5hGr-RFkI1krefyu8NEw-MCm2dtGySl9-CAqHXpZaRi3eLKfu-OI7tCgFxVGhDEgG4ODEK3UQ4F3XDMCQqhlSA3VIdgGnx1jJdCAlx_Bg-LpFd5ErHMrmgENSHjqHAnXae0PKpZljsfEEhPEt-Eu8_nzOsuwAUS67l6orgJIvl_vMvRWv_v8iPSOshFco3ZiRWBUW_IkWOZgyNmO9awL__R4fDP2QF_Jww.jpg" width="0" /></blockquote>
+]]></content:encoded>
+<pubDate>Tue, 05 Nov 2024 18:02:40 GMT</pubDate>
+<pubDate>Tue, 05 Nov 2024 18:02:40 GMT</pubDate>
+</item>
 
 <item>
 <title>❓ #问题求助 有什么软件可以简单探测哪个按键被哪个app截取（屏蔽）？ https://meta.appinn.net/t/topic/62811</title>

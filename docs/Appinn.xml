@@ -4,15 +4,14 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>🔁 FFmpeg 手写 AVX512 汇编代码性能提升最多 94 倍 2024-11-05 04:02 by 黑暗之潮 开源多媒体编解码器项目 FFmpeg 的开发者通过手写实现优化了 AVX-512 指令...</title>
 <link>https://t.me/appinnfeed/12556</link>
 <guid>https://t.me/appinnfeed/12556</guid>
 <content:encoded><![CDATA[
-
 <p>Forwarded From <b><a href="https://t.me/solidot/25579">Solidot</a></b></p><p><a href="https://www.solidot.org/story?sid=79684" rel="noopener" target="_blank"><b>FFmpeg 手写 AVX512 汇编代码性能提升最多 94 倍</b></a><br /><br />2024-11-05 04:02 by 黑暗之潮<br /><br />开源多媒体编解码器项目 FFmpeg 的开发者通过手写实现优化了 AVX-512 指令集的汇编代码路径，加速 FFmpeg 多媒体处理库中的特定功能，相比标准实现，性能提升了 3-94 倍。手写汇编代码路径在视频行业是相当少见的。AVX-512 支持使用 512 位寄存器并行处理大量数据，一次操作能处理最多 16 个单精度 FLOPS 或 8 个双精度 FLOPS，它对视频和图像处理等计算密集型任务很有用。英特尔 12 到 14 代酷睿处理器禁用了 AVX-512 指令集，目前完整支持 AVX-512 的消费者 CPU 是 AMD 最近上市的 Ryzen 9000 系列处理器。<br /><br /><a href="https://news.slashdot.org/story/24/11/04/2140206/ffmpeg-devs-boast-of-up-to-94x-performance-boost-after-implementing-handwritten-avx-512-assembly-code" rel="noopener" target="_blank">https://news.slashdot.org/story/24/11/04/2140206/ffmpeg-devs-boast-of-up-to-94x-performance-boost-after-implementing-handwritten-avx-512-assembly-code</a><br /><br /><a href="https://t.me/appinnfeed/12556?q=%23%E5%BC%80%E6%BA%90">#开源</a></p>
 ]]></content:encoded>
-<pubDate>Tue, 05 Nov 2024 09:30:07 GMT</pubDate>
 <pubDate>Tue, 05 Nov 2024 09:30:07 GMT</pubDate>
 </item>
 <item>
@@ -20,10 +19,8 @@
 <link>https://t.me/appinnfeed/12555</link>
 <guid>https://t.me/appinnfeed/12555</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">💧</span> <a href="https://t.me/appinnfeed/12555?q=%23%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6">#小众软件</a><br />PDF Expert 3 历史低价 7 折，出色的 PDF 编辑器<br /><a href="https://www.appinn.com/pdf-expert-3/" rel="noopener" target="_blank">https://www.appinn.com/pdf-expert-3/</a></p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/pdf-expert-3/">PDF Expert 3 历史低价 7 折，出色的 PDF 编辑器 - 小众软件</a></b><br /><p>PDF Expert 3 目前的售价如下表：</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/XU8wSR_PGcCGP86K_5ii-q45BOVRsdFaQTtMlG0A8sOK35rp5TVjcbyW2rlwcv3H6LGBSGMYoawyNbJ7AlfnBYGO8b4xR47JriTZQYcxNC9Z_Jdau7r-pmTLsdC0fYLFkqffNhcbEKX8j5gGlp7fitCXRFZn9czm6buCXKSJeQsTLnz8Tnagb3wWkyxS6CHXwEJQ7gDEXUCdS8gLrHQwTrHeEItWwpLLfOxHpc0brjNYNc4Jc3pQZ9aedrwglmHQ_WSOA_1mGf7wwp7Ai_5U_ywmbw10un6mDclDvWBlijOrCBRofeyzPZ1pFXqOap8yoJYa8FaOWg8SJ1AmsI9tJg.jpg" width="0" /></blockquote>
 ]]></content:encoded>
-<pubDate>Tue, 05 Nov 2024 09:18:46 GMT</pubDate>
 <pubDate>Tue, 05 Nov 2024 09:18:46 GMT</pubDate>
 </item>
 <item>
@@ -31,13 +28,10 @@
 <link>https://t.me/appinnfeed/12554</link>
 <guid>https://t.me/appinnfeed/12554</guid>
 <content:encoded><![CDATA[
-
 <p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12554?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />有什么办法方便快速的编辑.lnk的图标？<br /><a href="https://meta.appinn.net/t/topic/62804" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/62804</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/62804">有什么办法方便快速的编辑.lnk的图标？</a></b><br /><p>经常有一些文件需要随时访问  一般是右键拖动到任务栏建立一个快捷方式，但是图标太多不好分辨  最好是能在图标上面加一个覆盖的小图标或者文字，比如chrome的4大图标这种                                                                                     [Album] imgur.com</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/K0-6HEKK_QhDd43vzkE-56qycIdcLBAsEHA1kMh-9x918zUuIwaT1e7LwpUaDqt0kLKIM2SmNwAXb4cLra7Z88Q8MS0br6hmsFYgHlaMsMfBS9ML6OJM5hGr-RFkI1krefyu8NEw-MCm2dtGySl9-CAqHXpZaRi3eLKfu-OI7tCgFxVGhDEgG4ODEK3UQ4F3XDMCQqhlSA3VIdgGnx1jJdCAlx_Bg-LpFd5ErHMrmgENSHjqHAnXae0PKpZljsfEEhPEt-Eu8_nzOsuwAUS67l6orgJIvl_vMvRWv_v8iPSOshFco3ZiRWBUW_IkWOZgyNmO9awL__R4fDP2QF_Jww.jpg" width="0" /></blockquote>
 ]]></content:encoded>
 <pubDate>Tue, 05 Nov 2024 09:12:32 GMT</pubDate>
-<pubDate>Tue, 05 Nov 2024 09:12:32 GMT</pubDate>
 </item>
-
 <item>
 <title>🖼</title>
 <link>https://t.me/appinnfeed/12553</link>
@@ -9010,33 +9004,6 @@
 <p><span class="emoji">💧</span> <a href="https://t.me/appinnfeed/11095?q=%23%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6">#小众软件</a><br />酷产品：UniFi Express 开箱｜颜值大厂 Ubiquiti 新品 WiFi 6 双频路由器，漂亮是真漂亮<br /><br /><a href="https://www.appinn.com/unifi-express/" rel="noopener" target="_blank">https://www.appinn.com/unifi-express/</a><br /><br /><b>Tags</b>: <a href="https://t.me/appinnfeed/11095?q=%23%E6%99%BA%E8%83%BD%E7%A1%AC%E4%BB%B6">#智能硬件</a>, <a href="https://t.me/appinnfeed/11095?q=%23Ubiquiti">#Ubiquiti</a>, <a href="https://t.me/appinnfeed/11095?q=%23%E8%B7%AF%E7%94%B1%E5%99%A8">#路由器</a></p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/unifi-express/">酷产品：UniFi Express 开箱｜颜值大厂 Ubiquiti 新品 WiFi 6 双频路由器，漂亮是真漂亮 - 小众软件</a></b><br /><p>最近拿到了一款企业级的新品路由器产品 UniFi Express，这是一款由 Ubiquiti 推出的紧凑型多功能一体机，桌面式云网关主机，集成了控制器，即插机用，双频 WiFi 6 接入点，支持 Mesh 节点组网，可以快速无线拓展 Wi-Fi，一起来看一下吧。@Appinn</p><img src="https://cdn4.cdn-telegram.org/file/ADuEL4vdyr0-22XWI7_vnpbrotSfClu-YJNtcDJ2ksWXllWhlWVjQZFO-sOVD1WctPisOs9GldXfvrHo_HeixQom-Ot7fXDi2bKJIzvd2xIbUVmDU1xfKVBJlddYiIretvfgBL34NxFwYuAfzkR6eoNRJXGkrYIMiHwaNfwMo1ffY_h5_nic0oeG-IyG9UltJgIc6yxVcO9RY3icYbSdxIsbEsNjuPAjdJFe7EU4FgR1fFWf0Y22qxmibHtIQw6mLa7xjkWIm_0JvIVV23f3Vcn7h_dIbR8S84BeaPZVUemBxI213NFingtehXwE4raC0JA1R_ZPs_8d9o-79nZtwQ.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Thu, 27 Jun 2024 08:36:04 GMT</pubDate>
-</item>
-<item>
-<title>💧 #小众软件 四色定理的世纪谜题：为什么只用四种颜色就能绘制任何地图？ https://www.appinn.com/four-color-maps/ Tags: #游戏, #地图, #数学, #绘制, #颜...</title>
-<link>https://t.me/appinnfeed/11094</link>
-<guid>https://t.me/appinnfeed/11094</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">💧</span> <a href="https://t.me/appinnfeed/11094?q=%23%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6">#小众软件</a><br />四色定理的世纪谜题：为什么只用四种颜色就能绘制任何地图？<br /><br /><a href="https://www.appinn.com/four-color-maps/" rel="noopener" target="_blank">https://www.appinn.com/four-color-maps/</a><br /><br /><b>Tags</b>: <a href="https://t.me/appinnfeed/11094?q=%23%E6%B8%B8%E6%88%8F">#游戏</a>, <a href="https://t.me/appinnfeed/11094?q=%23%E5%9C%B0%E5%9B%BE">#地图</a>, <a href="https://t.me/appinnfeed/11094?q=%23%E6%95%B0%E5%AD%A6">#数学</a>, <a href="https://t.me/appinnfeed/11094?q=%23%E7%BB%98%E5%88%B6">#绘制</a>, <a href="https://t.me/appinnfeed/11094?q=%23%E9%A2%9C%E8%89%B2">#颜色</a></p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/four-color-maps/">四色定理的世纪谜题：为什么只用四种颜色就能绘制任何地图？ - 小众软件</a></b><br /><p>四色定理（英语：four color theorem）又称为四色地图定理（英语：four color map theorem），是一个数学定理：如果在平面上划出一些邻接的有限区域，那么可以用四种颜色来给这些区域染色，使得每两个邻接区域染的颜色都不一样。</p><img src="https://cdn4.cdn-telegram.org/file/Efcfk_e6prYc4xDCKhVbVSxbirgVOKLbjc5h9ktBF9_nJ3gSreaG7ZMfOgYt08OSa0YrkNZuz9acovkNWuhuZABzkBkF2JmgoLR3fJD8pnI3BA_4MluL1CcjPIZnKClLL6JwDplnOwC3dLIUwrv3bvccyrOR3rbnidblH1yc6q3zEV0gQ1y26QeUYIXB7kolafyu5oZmzCFSw6s6JKbUXifrRQxhOtyoX-kzKrgAXmZeVd9XzfhjS5R7zOPYClA_SDYYJRj7D5Krm_qMEIzWBoGJD4O1IP0IPOnHWaSkj48bz8kh1nKCNi8iPiCvn-gjHEKikA8WD9oOmw37rB03Mg.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Thu, 27 Jun 2024 05:36:01 GMT</pubDate>
-</item>
-<item>
-<title>❓ #问题求助 有没有带AI的文件复制软件? https://meta.appinn.net/t/topic/58118</title>
-<link>https://t.me/appinnfeed/11093</link>
-<guid>https://t.me/appinnfeed/11093</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/11093?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />有没有带AI的文件复制软件?<br /><br /><a href="https://meta.appinn.net/t/topic/58118" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/58118</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/58118">有没有带AI的文件复制软件?</a></b><br /><p>比如 我有以下类似文件, 想复制文件时自动改名:    2025年工作计划.docx —&gt; 2026年工作计划.docx    2024年12月报表.xls —&gt; 2025年1月报表.xls    20240627日志.txt —&gt; 20240628日志.txt    [2024.6.30]会议通知.docx —&gt; [2024.7.1]会议通知.docx    汇总001.xls —&gt; 汇总002.xls    也就是说, 它能自动识别日期或数字序列,并自动加一.</p><img src="https://cdn4.cdn-telegram.org/file/C01nB4D3ndA2JN5tFUb_kPEQXPAmi9ORYpu-LxuMKpBJtcOFCdAzuSJFl-Y8o9QYNuWscxUr9_YLyuWQ3v26rtNNQFpQK6IUWn-JM4asKvN2fpIN-F7iNBrEuoh_m1yh5NtOkEjxgFa3DIP9hHM_gcqvcHtUXwECH9oFi6zbqXJNQYclNO_SXnO0S3AsrID5KKV8iUcTaXt7wRE48erRnWe_tAtxWcdpJm1AvKAgFJKuLxoPNSf3GupSErM9qxUTqtzjumzM4DSTsgnlZEcfdkEKKy8BOuHkLOKx5bQkGcAIkiniufbVYgmffmmsY93xO5VqGMo1F-VgZKGA6wImpQ.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Thu, 27 Jun 2024 05:36:00 GMT</pubDate>
-</item>
-<item>
-<title>❓ #问题求助 如何清理「亲肤材质外壳」的产品？ https://meta.appinn.net/t/topic/58117</title>
-<link>https://t.me/appinnfeed/11092</link>
-<guid>https://t.me/appinnfeed/11092</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/11092?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />如何清理「亲肤材质外壳」的产品？<br /><br /><a href="https://meta.appinn.net/t/topic/58117" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/58117</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/58117">如何清理「亲肤材质外壳」的产品？</a></b><br /><p>就…有一些产品，新的时候摸起来很舒服，时间一长就悲剧了。  首先看起来就很脏，然后擦不掉，摸起来还会发黏。使劲用酒精会好一点点，但也不是完全好。  很恶心</p><img src="https://cdn4.cdn-telegram.org/file/C01nB4D3ndA2JN5tFUb_kPEQXPAmi9ORYpu-LxuMKpBJtcOFCdAzuSJFl-Y8o9QYNuWscxUr9_YLyuWQ3v26rtNNQFpQK6IUWn-JM4asKvN2fpIN-F7iNBrEuoh_m1yh5NtOkEjxgFa3DIP9hHM_gcqvcHtUXwECH9oFi6zbqXJNQYclNO_SXnO0S3AsrID5KKV8iUcTaXt7wRE48erRnWe_tAtxWcdpJm1AvKAgFJKuLxoPNSf3GupSErM9qxUTqtzjumzM4DSTsgnlZEcfdkEKKy8BOuHkLOKx5bQkGcAIkiniufbVYgmffmmsY93xO5VqGMo1F-VgZKGA6wImpQ.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Thu, 27 Jun 2024 04:44:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

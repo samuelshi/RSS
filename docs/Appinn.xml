@@ -4,6 +4,17 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>❓ #问题求助 Docker里的服务如何做到原样迁移？ https://meta.appinn.net/t/topic/62832</title>
+<link>https://t.me/appinnfeed/12563</link>
+<guid>https://t.me/appinnfeed/12563</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12563?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />Docker里的服务如何做到原样迁移？<br /><a href="https://meta.appinn.net/t/topic/62832" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/62832</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/62832">Docker里的服务如何做到原样迁移？</a></b><br /><p>最近想把一台服务器（服务器A）的docker里跑的一个服务原样迁移到另外一台服务器（服务器B）的docker里，两台服务器的系统版本、docker版本、docker compose版本都是完全一样的，可以说是两台条件完全相同的服务器。  使用docker ps -a命令得到如下回复（这么多容器之间互相是依赖和被依赖的关系）：  CONTAINER ID   IMAGE                                                   COMMAND           …</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/K0-6HEKK_QhDd43vzkE-56qycIdcLBAsEHA1kMh-9x918zUuIwaT1e7LwpUaDqt0kLKIM2SmNwAXb4cLra7Z88Q8MS0br6hmsFYgHlaMsMfBS9ML6OJM5hGr-RFkI1krefyu8NEw-MCm2dtGySl9-CAqHXpZaRi3eLKfu-OI7tCgFxVGhDEgG4ODEK3UQ4F3XDMCQqhlSA3VIdgGnx1jJdCAlx_Bg-LpFd5ErHMrmgENSHjqHAnXae0PKpZljsfEEhPEt-Eu8_nzOsuwAUS67l6orgJIvl_vMvRWv_v8iPSOshFco3ZiRWBUW_IkWOZgyNmO9awL__R4fDP2QF_Jww.jpg" width="0" /></blockquote>
+]]></content:encoded>
+<pubDate>Wed, 06 Nov 2024 05:27:30 GMT</pubDate>
+<pubDate>Wed, 06 Nov 2024 05:27:30 GMT</pubDate>
+</item>
 
 <item>
 <title>🖼 群晖 DSMVersion: 7.2.2-72806 Update 1 安全更新昨天发布。</title>

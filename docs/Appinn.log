@@ -56114,3 +56114,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Append: [❓ #问题求助 有没有好用的浏览器邮箱管理插件？ https://meta.appinn.net/t/topic/62913](https://t.me/appinnfeed/12580)
 append_entries: 1
 Finish: 2024-11-08 10:23:03
+------------------------------------------------------
+Started: 2024-11-08 11:04:13
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 502
+append_entries: 0
+error when rendering xml, skip docs/Appinn

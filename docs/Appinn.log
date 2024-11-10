@@ -56492,3 +56492,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Append: [💧 #小众软件 查找免费开源替代品：用 OpenAlternative 替换你的付费 SaaS 软件 https://www.appinn.com/openalternative/](https://t.me/appinnfeed/12599)
 append_entries: 1
 Finish: 2024-11-10 21:04:04
+------------------------------------------------------
+Started: 2024-11-10 22:01:26
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 530
+append_entries: 0
+error when rendering xml, skip docs/Appinn

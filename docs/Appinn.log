@@ -56616,3 +56616,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Append: [📣 #发现频道 【自荐】xHistory: 开源免费的 macOS 命令行历史记录管理工具 https://meta.appinn.net/t/topic/63011](https://t.me/appinnfeed/12607)
 append_entries: 1
 Finish: 2024-11-11 16:01:53
+------------------------------------------------------
+Started: 2024-11-11 17:01:39
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 530
+append_entries: 0
+error when rendering xml, skip docs/Appinn

@@ -56623,3 +56623,12 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 530
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-11-11 18:02:01
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [📣 #发现频道 【AI驱动的最佳计数APP】CountAnything https://meta.appinn.net/t/topic/63015](https://t.me/appinnfeed/12611)
+Append: [❓ #问题求助 「求助」从 Debian 复制到 Windows 文件夹和文件名中的中文变一条线 https://meta.appinn.net/t/topic/63014](https://t.me/appinnfeed/12610)
+Append: [📊 你们来决定，有个「成人播放器」要做推广 🙈](https://t.me/appinnfeed/12609)
+append_entries: 3
+Finish: 2024-11-11 18:02:03

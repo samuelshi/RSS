@@ -56770,3 +56770,10 @@ Append: [💧 #小众软件 双 11 榜单，哪些软件买的人最多 https://
 Append: [📣 #发现频道 sPDF：又一个在线PDF工具箱，但是没有付费功能限制 https://meta.appinn.net/t/topic/63043](https://t.me/appinnfeed/12621)
 append_entries: 2
 Finish: 2024-11-12 15:01:41
+------------------------------------------------------
+Started: 2024-11-12 16:01:39
+Existing_entries: 1002
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 502
+append_entries: 0
+error when rendering xml, skip docs/Appinn

@@ -56949,3 +56949,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Append: [📣 #发现频道 【自荐】VideoCaptioner - 基于 LLM 的智能视频字幕助手，支持生成、断句、优化、翻译全流程，一键高质量字幕视频合成！ https://meta.appinn.ne...](https://t.me/appinnfeed/12636)
 append_entries: 1
 Finish: 2024-11-13 18:02:00
+------------------------------------------------------
+Started: 2024-11-13 19:01:34
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 530
+append_entries: 0
+error when rendering xml, skip docs/Appinn

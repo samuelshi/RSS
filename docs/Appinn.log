@@ -57128,3 +57128,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 530
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-11-14 22:01:45
+Existing_entries: 1002
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [❓ #问题求助 安卓限制截屏图片体积 https://meta.appinn.net/t/topic/63135](https://t.me/appinnfeed/12647)
+append_entries: 1
+Finish: 2024-11-14 22:01:46

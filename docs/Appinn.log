@@ -57106,3 +57106,11 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 530
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-11-14 19:01:37
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [❓ #问题求助 2024-11-14 IDM不能捕捉视频了？ https://meta.appinn.net/t/topic/63133](https://t.me/appinnfeed/12646)
+Append: [我有一个想法，可以解决浏览器标签页看不完的问题。 就是发现一个有趣的东西，直接发到频道里（应该是一个新的频道），然后试一个，删一个。 这样就能把永远也关...](https://t.me/appinnfeed/12645)
+append_entries: 2
+Finish: 2024-11-14 19:01:38

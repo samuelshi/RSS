@@ -57070,3 +57070,10 @@ Append: [💧 #小众软件 Feed43 替代者 RssWebAll，抓取任意网页并�
 Append: [📣 #发现频道 【自荐】Certimate-开源的 SSL证书管理工具，可以帮助你自动申请、部署、续期 SSL 证书 https://meta.appinn.net/t/topic/62992](https://t.me/appinnfeed/12638)
 append_entries: 2
 Finish: 2024-11-14 13:01:40
+------------------------------------------------------
+Started: 2024-11-14 14:01:44
+Existing_entries: 1002
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [📣 #发现频道 OpenSearcher 开源的全文检索搜索器 https://meta.appinn.net/t/topic/63123](https://t.me/appinnfeed/12640)
+append_entries: 1
+Finish: 2024-11-14 14:01:45

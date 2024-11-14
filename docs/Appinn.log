@@ -57062,3 +57062,11 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 502
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-11-14 13:01:38
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [💧 #小众软件 Feed43 替代者 RssWebAll，抓取任意网页并生成 RSS 地址｜有一个具体的例子 https://www.appinn.com/rssweball/](https://t.me/appinnfeed/12639)
+Append: [📣 #发现频道 【自荐】Certimate-开源的 SSL证书管理工具，可以帮助你自动申请、部署、续期 SSL 证书 https://meta.appinn.net/t/topic/62992](https://t.me/appinnfeed/12638)
+append_entries: 2
+Finish: 2024-11-14 13:01:40

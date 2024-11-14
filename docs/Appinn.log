@@ -57048,3 +57048,10 @@ Existing_entries: 1000
 Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2024-11-14 10:23:55
+------------------------------------------------------
+Started: 2024-11-14 11:05:37
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [Google Ai Studio 发来邮件说 Gemini 1.0 Pro 的 API 将于2025 年 2 月 15 日停止，需要升级至 Gemini 1.5](https://t.me/appinnfeed/12637)
+append_entries: 1
+Finish: 2024-11-14 11:05:38

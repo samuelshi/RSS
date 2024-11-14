@@ -57099,3 +57099,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Append: [🔧 Appinn Feed pinned a photo](https://t.me/appinnfeed/12644)
 append_entries: 1
 Finish: 2024-11-14 17:01:54
+------------------------------------------------------
+Started: 2024-11-14 18:01:53
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 530
+append_entries: 0
+error when rendering xml, skip docs/Appinn

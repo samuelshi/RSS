@@ -57225,3 +57225,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 530
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-11-15 13:01:42
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [💧 #小众软件 脚本猫 – 开源用户脚本管理扩展，支持后台、定时脚本运行[Chrome/Firefox] https://www.appinn.com/scriptcat/](https://t.me/appinnfeed/12652)
+append_entries: 1
+Finish: 2024-11-15 13:01:43

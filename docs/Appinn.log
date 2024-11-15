@@ -57218,3 +57218,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Append: [❓ #问题求助 有没有可以反复截取屏幕固定位置和尺寸的区域并且自动保存的截屏软件？ https://meta.appinn.net/t/topic/63151](https://t.me/appinnfeed/12651)
 append_entries: 1
 Finish: 2024-11-15 11:10:54
+------------------------------------------------------
+Started: 2024-11-15 12:01:41
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 530
+append_entries: 0
+error when rendering xml, skip docs/Appinn

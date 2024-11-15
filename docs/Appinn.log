@@ -57266,3 +57266,10 @@ Append: [💧 #小众软件 微信 8.0.54 更新，WeChat 用户支持通行密�
 Append: [❓ #问题求助 求推荐大陆大公司的低价vps https://meta.appinn.net/t/topic/63168](https://t.me/appinnfeed/12656)
 append_entries: 2
 Finish: 2024-11-15 18:01:47
+------------------------------------------------------
+Started: 2024-11-15 19:01:28
+Existing_entries: 1002
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 502
+append_entries: 0
+error when rendering xml, skip docs/Appinn

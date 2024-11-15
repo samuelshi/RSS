@@ -57314,3 +57314,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 530
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-11-16 02:01:50
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [❓ #问题求助 有没有靠谱的国内外域名托管 https://meta.appinn.net/t/topic/63179](https://t.me/appinnfeed/12661)
+append_entries: 1
+Finish: 2024-11-16 02:01:52

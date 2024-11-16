@@ -57415,3 +57415,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Append: [❓ #问题求助 有哪些文本编辑器能够自动保存编辑现场（工作区）的 https://meta.appinn.net/t/topic/63195](https://t.me/appinnfeed/12663)
 append_entries: 1
 Finish: 2024-11-16 17:01:51
+------------------------------------------------------
+Started: 2024-11-16 18:01:44
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 530
+append_entries: 0
+error when rendering xml, skip docs/Appinn

@@ -57532,3 +57532,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Append: [🖼 有同学用 Cursor 写了一个简单的 todo 页面，通过 URL 就可以控制任务内容。 适合临时使用，当然没有状态保存功能，比较简陋 https://meta.appinn.net/t/to...](https://t.me/appinnfeed/12664)
 append_entries: 1
 Finish: 2024-11-17 12:01:49
+------------------------------------------------------
+Started: 2024-11-17 13:01:40
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 502
+append_entries: 0
+error when rendering xml, skip docs/Appinn

@@ -57668,3 +57668,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 502
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-11-18 10:27:43
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [❓ #问题求助 软件开机自启动的问题 - earlystart https://meta.appinn.net/t/topic/63224](https://t.me/appinnfeed/12673)
+append_entries: 1
+Finish: 2024-11-18 10:27:47

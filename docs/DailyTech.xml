@@ -5,14 +5,24 @@
 <link>https://t.me/s/AppleNuts</link>
 
 <item>
+<title>小米印度将预装 PhonePe 的应用商店 小米将从明年1月开始在印度用金融科技公司 PhonePe 的应用商店替代其自家的小米应用商店。这家印度排名第二的智能手机厂商上...</title>
+<link>https://t.me/xhqcankao/15124</link>
+<guid>https://t.me/xhqcankao/15124</guid>
+<content:encoded><![CDATA[
+
+<p><b>小米印度将预装 PhonePe 的应用商店</b><br /><br />小米将从明年1月开始在印度用金融科技公司 PhonePe 的应用商店替代其自家的小米应用商店。这家印度排名第二的智能手机厂商上周末通知客户，将自动向印度用户的设备推送更新，用 PhonePe 的 Indus AppStore 取代小米应用商店国际版。TechCrunch 看到的一份客户通知称：“小米应用商店国际团队将继续以 Indus Services App 的名义提供应用安装和支持服务。”PhonePe 公司在沃尔玛、泛大西洋资本集团和老虎全球等投资者的支持下，于今年二月推出了 Indus AppStore，试图挑战谷歌在印度市场的垄断地位。<br /><br />—— <a href="https://techcrunch.com/2024/11/18/xiaomi-taps-phonepe-indus-appstore-for-india-smartphones/" rel="noopener" target="_blank">TechCrunch</a></p>
+]]></content:encoded>
+<pubDate>Mon, 18 Nov 2024 12:57:51 GMT</pubDate>
+<pubDate>Mon, 18 Nov 2024 12:57:51 GMT</pubDate>
+</item>
+
+<item>
 <title>业内有“米其林死亡之吻”的说法，即评上米其林房租会暴涨，反而死得更快。 by @菁财资本-葛贤通Ksir #无用但有趣的冷知识</title>
 <link>https://t.me/jike_collection/10365</link>
 <guid>https://t.me/jike_collection/10365</guid>
 <content:encoded><![CDATA[
-
 <p>业内有“米其林死亡之吻”的说法，即评上米其林房租会暴涨，反而死得更快。<br /><br />by @菁财资本-葛贤通Ksir  <a href="https://t.me/jike_collection/10365?q=%23%E6%97%A0%E7%94%A8%E4%BD%86%E6%9C%89%E8%B6%A3%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86">#无用但有趣的冷知识</a></p>
 ]]></content:encoded>
-<pubDate>Mon, 18 Nov 2024 11:38:32 GMT</pubDate>
 <pubDate>Mon, 18 Nov 2024 11:38:32 GMT</pubDate>
 </item>
 <item>
@@ -20,10 +30,8 @@
 <link>https://t.me/xhqcankao/15123</link>
 <guid>https://t.me/xhqcankao/15123</guid>
 <content:encoded><![CDATA[
-
 <p><b>Temu 考虑推出平台模式 进一步放宽对商家的要求<br /></b><br />特朗普再度当选后，拜登时期美国政府针对跨境电商设立的限制政策很可能进一步加强。今年初，中国跨境电商将半托管视作最有效的应对模式：商家自行将货物成批运到美国，清关入仓，由平台负责定价、销售。<br /><br />Temu 最初完全采用 “全托管”，商家把货送到国内的仓库，平台接管后续的定价、销售、运输，将每个消费者的货物以邮政小包直接寄往目的地。现在增加更适配本地的半托管模式，Temu 也在考虑推出第三方平台模式，像淘宝一样，商家自主选品定价、开设经营店铺，发货到海外，平台收取交易佣金。如这一模式启用，Temu 未来将同时采用全托管、半托管、第三方平台三种模式。<br /><br />—— <a href="https://www.latepost.com/news/dj_detail?id=2628" rel="noopener" target="_blank">晚点 LatePost</a></p>
 ]]></content:encoded>
-<pubDate>Mon, 18 Nov 2024 11:36:46 GMT</pubDate>
 <pubDate>Mon, 18 Nov 2024 11:36:46 GMT</pubDate>
 </item>
 <item>
@@ -31,13 +39,10 @@
 <link>https://t.me/xhqcankao/15122</link>
 <guid>https://t.me/xhqcankao/15122</guid>
 <content:encoded><![CDATA[
-
 <p><b>苹果 M4 Mac 无法运行 Ventura 13.4 版本之前的 macOS 虚拟机<br /></b><br />用户报告和开发人员发现，基于 M4 芯片的新款 Mac 无法运行 macOS Ventura 13.4 之前的旧版 macOS 虚拟机，问题已在苹果反馈中记录。该问题影响了包括 UTM 在内的流行虚拟化软件，当尝试在 M4 Mac 上运行早期版本的 macOS 虚拟机时，用户会遇到黑屏，并且虚拟机完全无法启动。该限制似乎发生在内核启动的早期阶段，因为活动监视器显示，尽管分配了多个内核，但只有一个活动虚拟内核，这表明故障发生在 VM 内核能够初始化其它内核之前。由于问题发生在启动过程的早期阶段，<a href="https://eclecticlight.co/2024/11/14/m4-macs-cant-virtualise-older-macos/" rel="noopener" target="_blank">霍华德·奥克利报道称</a>，修复此问题可能需要苹果为旧版 macOS 版本发布新的 IPSW 文件，因此不太可能实现。<br /><br />—— <a href="https://www.macrumors.com/2024/11/18/m4-macs-do-not-run-early-macos-vms/" rel="noopener" target="_blank">Macrumors</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 18 Nov 2024 11:02:33 GMT</pubDate>
-<pubDate>Mon, 18 Nov 2024 11:02:33 GMT</pubDate>
 </item>
-
 <item>
 <title>小米SU7交付已超过10万台 全年将冲刺交付13万辆 11月18日，小米汽车官方微博刚刚在发文宣布，小米SU7交付已超过10万台，提前完成全年目标，同时将继续冲刺全年交...</title>
 <link>https://t.me/xhqcankao/15120</link>

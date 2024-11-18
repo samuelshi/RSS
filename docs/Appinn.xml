@@ -4,18 +4,16 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+
 <item>
 <title>🖼</title>
 <link>https://t.me/appinnfeed/12674</link>
 <guid>https://t.me/appinnfeed/12674</guid>
 <content:encoded><![CDATA[
-
 <img height="580.00" src="https://cdn5.cdn-telegram.org/file/vrZulZHHANvH8D43U9zLp19oBhD4wiWg7KSB8YU__gPXx_9w6rLbUGq13vJIb4aKzfnX8GjrRwQa7gmAlQbtHctkk97ckTLZCmYOKxOf8jnTSvPN6QJlBZErToATY4qnGHgrSQo1x4I1PoysYVFOR-a4PGJW5EeQAtoaA331qyAOwlzC1pScHikxlKtVw10lMiSYQyvCFTGO0Iu1wsLp5pwG6N7bG8RKeSIUOc3vWPU0w2CNr6b1BGrvIFl_yrMVdkyaRwW8ufVK7y8Sn9bR2qHItpoLE5iVZZPhjDYgfWvyEqwLKDA6COtVMglA7NHWjaeFtMzH7YK_rZhoBfHuDA.jpg" width="435" />
 ]]></content:encoded>
 <pubDate>Mon, 18 Nov 2024 08:01:44 GMT</pubDate>
-<pubDate>Mon, 18 Nov 2024 08:01:44 GMT</pubDate>
 </item>
-
 <item>
 <title>❓ #问题求助 软件开机自启动的问题 - earlystart https://meta.appinn.net/t/topic/63224</title>
 <link>https://t.me/appinnfeed/12673</link>
@@ -9006,15 +9004,6 @@
 <p><span class="emoji">💧</span> <a href="https://t.me/appinnfeed/11659?q=%23%E5%B0%8F%E4%BC%97%E8%BD%AF%E4%BB%B6">#小众软件</a><br />LocalSend v1.15.0 更新：局域网文件传输工具<br /><a href="https://www.appinn.com/localsend-v-1-15-0/" rel="noopener" target="_blank">https://www.appinn.com/localsend-v-1-15-0/</a></p><blockquote><b>小众软件</b><br /><b><a href="https://www.appinn.com/localsend-v-1-15-0/">LocalSend v1.15.0 更新：局域网文件传输工具 - 小众软件</a></b><br /><p>LocalSend 是知名的开源文件传输工具，它可以让你在本地局域网内安全的与其它设备互相传送文件、发送文本，无需互联网连接。几个小时以前更新了 v1.15.0 版本，主要更新有发送文件时可以保留文件时间戳、支持设置 PIN 码等功能。@Appinn</p><img src="https://cdn4.cdn-telegram.org/file/tJPIb1Qcs70LZNXJPuPKpbwPxkeZzSm-_wixrDXNuR2g2P1b-S9yAfZn4urZ5d0OXW7WXTm3GVhW_Ft_DrkWYfGhEw8pO11lGIK1203hyJybOchj9UEs8vVXMfhZkm1eZ8dX2-U1uIy361pbcQ5ayEePhyBtw1O7TJcsHcMGmfjrrIKCNuuS9r2q5LZGxyvLiTqrgA56dxGkTVY0BYesZjArnESE7WuGu0TO18Rulu9YP55sxZsgZYZR-p8-P5eQU7TMT94sOyZWP2oPpwM3ZfPDunaHJulophjgngJ-Ui2HezUKFfzyFj1NM9CUZvhv-3Me29UaicWO4OpQ5mdqtQ.jpg" /></blockquote>
 ]]></content:encoded>
 <pubDate>Mon, 15 Jul 2024 10:38:32 GMT</pubDate>
-</item>
-<item>
-<title>❓ #问题求助 Ubuntu 平台有什么将鼠标侧边按键改写为 alt + f4 的工具吗，求推荐 https://meta.appinn.net/t/topic/58333</title>
-<link>https://t.me/appinnfeed/11509</link>
-<guid>https://t.me/appinnfeed/11509</guid>
-<content:encoded><![CDATA[
-<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/11509?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />Ubuntu 平台有什么将鼠标侧边按键改写为 alt + f4 的工具吗，求推荐<br /><br /><a href="https://meta.appinn.net/t/topic/58333" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/58333</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/58333">Ubuntu 平台有什么将鼠标侧边按键改写为 alt + f4 的工具吗，求推荐</a></b><br /><p>买了个几十元英菲克多按键游戏鼠标，就是鼠标左侧带前进后退键这种。后面从 windows 转到了 ubuntu 平台。发现侧边按键除了在网页前进后退就没啥用了。  所以我想把后退键改写成快捷键 alt + f4。这样我点击一下就能关闭程序了。但是破鼠标在 linux 平台不提供鼠标键自定义设置。  找了一圈也没找到这种讲鼠标按键映射为键盘某个快捷键的方案，目前发现一个 Custom Keyboard in Linux/X11，看能不能实现这种效果。  如果有可行方案我就不找了，有推荐的吗。否则这个鼠标估计是废了。</p><img src="https://cdn4.cdn-telegram.org/file/X2jzWReherdbB-BNh-cROkBN69OFLZt0mOeU9jcvo7TbGO6D4O8eO_1WwrPTavloc7gfXbwTksTEvvBIEgxsNwVO-dW_CLgAdN6d_NlVgzpFosw33D-LbW6yQcCwmXqD3JcILwuKdPpVP_8lU4DTzUaIiVylmL5RpDksTSmHT3pDhZ3SvAQb_7TnoLkzg0nsKaXDXv2v6-x9no0VymaEnsPIS_Z1GvLU9x9QYJCSGvUzivZ1t-BAn43WkW4Yjx39ieyBW9m2bcBjSb1hY4LjhQCRu5Tnt_PcHkWRQ_JZGhFP8cAGaXrR7RSXfS7wIPT06VIL8Gebr_u-P2GR3_HP8A.jpg" /></blockquote>
-]]></content:encoded>
-<pubDate>Tue, 09 Jul 2024 14:56:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

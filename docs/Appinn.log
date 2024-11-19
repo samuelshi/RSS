@@ -57905,3 +57905,11 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 502
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-11-20 00:01:46
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [📣 #发现频道 体积小绿色免费Windows剪贴板管理工具 https://meta.appinn.net/t/topic/63279](https://t.me/appinnfeed/12686)
+Append: [❓ #问题求助 求助，12800HX笔记本system占用过高，温度监控曲线非常变态 https://meta.appinn.net/t/topic/63278](https://t.me/appinnfeed/12685)
+append_entries: 2
+Finish: 2024-11-20 00:01:47

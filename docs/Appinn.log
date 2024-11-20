@@ -57971,3 +57971,10 @@ Existing_entries: 1001
 Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2024-11-20 09:28:40
+------------------------------------------------------
+Started: 2024-11-20 10:26:35
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [Documind：一个利用 AI 从 PDF 中提取结构化数据的开源项目 https://github.com/DocumindHQ/documind 将 PDF 转换为图像以进行详细的 AI 处理。 使用 OpenAI 的 ...](https://t.me/appinnfeed/12688)
+append_entries: 1
+Finish: 2024-11-20 10:26:37

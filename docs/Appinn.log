@@ -57958,3 +57958,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 530
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-11-20 08:03:54
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [🔁📄 mytv-android-tv-2.2.5-all-sdk21@AWAvenue.apk - 4.8 MB](https://t.me/appinnfeed/12687)
+append_entries: 1
+Finish: 2024-11-20 08:03:55

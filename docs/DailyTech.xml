@@ -4,15 +4,14 @@
 <title> Apple Nuts - Telegram Channel</title>
 <link>https://t.me/s/AppleNuts</link>
 
+
 <item>
 <title>因为马斯克正和OpenAI打官司，很多本来不公开的私密邮件都被披露出来了，The Verge基于邮件对话记录，梳理出了OpenAI这家公司在做早期顶层设计的时间线，虽然口...</title>
 <link>https://t.me/jike_collection/10371</link>
 <guid>https://t.me/jike_collection/10371</guid>
 <content:encoded><![CDATA[
-
 <p>因为马斯克正和OpenAI打官司，很多本来不公开的私密邮件都被披露出来了，The Verge基于邮件对话记录，梳理出了OpenAI这家公司在做早期顶层设计的时间线，虽然口水话很多，但连起来看非常有意思，真实的商战就是这么朴实无华：<br /><br />- 2015年，OpenAI还没有出现，它的前身是Y Combinator的AI实验室，当时还是YC总裁的Sam Altman自掏1000万美金作为投资，然后开始到处招人；<br /><br />- 此时马斯克建议他要加募至少1亿美金，因为任何低于这个数字的资本都会被Google和Facebook轻易碾死<span class="emoji">😤</span>；<br /><br />- Sam Altman给马斯克发邮件掏心窝子，说自己一直在思考是不是应该为了人类而选择阻止AI的发展，如果实在拦不住，那么AI的领导权如果能够落在Google以外的公司手上，可能才是正确的；<br /><br />- 接着OpenAI独立出去，马斯克提出了一个先融10亿美金的小目标，让Sam Altman去尽可能的找钱，并承诺自己会补足最后的缺口；<br /><br />- 因为OpenAI当时在硅谷毫不起眼，完全招不到一流人才，Sam Altman设计了一份激进的薪酬方案：17.5万美金的基础年薪，加上每批0.25%的YC股权授予；<br /><br />- Sam Altman对马斯克说，这会是一个人工智能行业的「曼哈顿计划」，希望可以吸引50个顶级研究员加入，虽然公司保持非营利性质，但付出劳动的员工依然可以获得类似创业的回报；<br /><br />- 2016年，Google旗下的AI实验室DeepMind注意到了OpenAI的动作，开始给OpenAI联系的每一个人打电话，以成倍的薪酬进行截胡；<br /><br />- Sam Altman很慌<span class="emoji">😫</span>，又连忙给马斯克写邮件，希望批准自己把年薪在往上涨10万-20万美金，否则DeepMind就提前赢得了战争；<br /><br />- 马斯克同意了，早期团队都拿到了接近30万美金+浮动股权的薪水，马斯克甚至也贡献了SpaceX的等值股票用来填坑；<br /><br />- 有三个人例外，Greg（后任总裁）、Ilya（后任CTO）、Trevor（后任研究员），他们拿到了更高的薪水，但Sam Altman似乎没有把自己安排进去；<br /><br />- Ilya在2016年的收入超过了190万美元，这在一定程度上帮他抵抗了来自Google的招揽；<br /><br />- 马斯克对OpenAI在啥都没有的时候就这么出手阔绰的发工资表示赞同，「我们继续极尽所能的吸引头部人才，如果加钱就能解决问题，那再好不过了，只要不被DeepMind打败，我可以接受任何付出」；<br /><br />- 马斯克那会儿就对Google感到极度厌恶了，他告诉Sam Altman，只要想到DeepMind可能成为赢家，自己就精神压力爆炸，绝对不能让Google统治这个世界<span class="emoji">😠</span>；<br /><br />- 2016年，OpenAI依然缺钱，尤其是买不起芯片，Sam Altman去找微软，谈了一项用1000万美金换取相当于6000万美金算力资源的方案，条件是OpenAI使用微软的Azure云服务，并帮着在技术圈里宣传一下；<br /><br />- 马斯克告诉Sam Atlman，这tm太恶心了<span class="emoji">🤮</span>；<br /><br />- 没办法，Sam Altman又重新去和微软谈，新的offer是微软出资5000万美金，不带任何附加条件，合作可以随时中止，Sam Altman带有怨气的对马斯克说，「看起来不像是微软的舔狗了，满意了吗」<span class="emoji">😅</span>；<br /><br />- 马斯克不留情面的回邮件表示，还得要求微软不发新闻稿提这个事情，光是不当微软的舔狗，就值好几个5000万美金了；<br /><br />- 2017年，OpenAI正在筹备新一轮融资，马斯克安插的人——有一个后来给马斯克生了3个孩子的女性在董事会里——告诉马斯克，创始团队不太乐意马斯克来当CEO，因为他们觉得马斯克管理的公司太多了，没法投入100%的时间在OpenAI身上；<br /><br />- 那会儿正是特斯拉距离破产边缘没几步的时期，马斯克肉眼可见的焦头烂额，对于OpenAI的这些小心思毫无兴趣，给内鬼回邮件说「烦死了，让他们去办公司吧，我受够了」<span class="emoji">🤯</span>；<br /><br />- 没过多久，Ilya和Greg又不依不饶的推进破冰计划，写长邮件同时抄送Sam Altman和马斯克，说担心Sam altman对于CEO头衔的执着，怀疑他对AGI的理想是否忠诚，同时对马斯克解释，拒绝他当CEO的原因是知道他的性格一定会追求对AGI的绝对控制；<br /><br />- 换句话说，他们的疑虑核心在于，AI的风险固然巨大，但挑出一个人来掌控AI，这搞不好会有更大的风险，他们想要构思出一个更去中心化的治理结构；<br /><br />- 马斯克和Sam Altman此时的内心都是崩溃的，啥事儿都没做出来就搁这一顿分析，各种如何决定人类命运的宏大叙事，马斯克直接回复，表示讨论结束了，如果你们只是把我当成只出钱就够了的凯子，我就跑路；<br /><br />- Sam Altman表面上安抚了同事，说自己对公司的非营利性质充满信心，但私下则表示Greg和Ilya有时候太幼稚了，要休假想清楚到底还能不能信任他们不在背后捅刀子<span class="emoji">🫤</span>；<br /><br />- 2018年，马斯克判断OpenAI的进度已经完全落后于DeepMind，再次提议由自己来当CEO，否则不可能赢过Google，而OpenAI的创始团队还是拒绝了他，导致马斯克退出董事会，并停止了资本赠予；<br /><br />- 突然少了马斯克的钱，让OpenAI短暂陷入了被动，为了获得融资，OpenAI第一次改变公司，设计出了由非营利组织控制的有限营利公司这么一种结构；<br /><br />- 马斯克这时已经开始意识到保留未来诉讼需要的证据了，他给Sam Altman发邮件，要求对方明确证明自己（马斯克）在新的公司结构里没有任何利益回报，而Sam Altman也干净利落的回消息：「收到」<span class="emoji">🫡</span>；<br /><br />- The Verge的总结是，围绕OpenAI的权力斗争本质上来自两种方向迥异的愿景对撞，至少从邮件里表现出来的信息是，OpenAI能够逆风翻盘达到今天这样的高度，离不开Sam Altman提供的原动力，他总能不惜一切代价的获得自己想要的东西，而马斯克不缺权力，他希望报复一切轻视他的行为，并坚信自己才是AGI的大管家。<br /><br />by @阑夕ོ  <a href="https://t.me/jike_collection/10371?q=%23%E7%A7%91%E6%8A%80%E5%9C%88%E5%A4%A7%E5%B0%8F%E4%BA%8B">#科技圈大小事</a></p>
 ]]></content:encoded>
-<pubDate>Wed, 20 Nov 2024 12:31:58 GMT</pubDate>
 <pubDate>Wed, 20 Nov 2024 12:31:58 GMT</pubDate>
 </item>
 <item>
@@ -20,13 +19,10 @@
 <link>https://t.me/xhqcankao/15197</link>
 <guid>https://t.me/xhqcankao/15197</guid>
 <content:encoded><![CDATA[
-
 <p><b>英国启动可行性研究 拟禁止儿童使用社媒</b><br /><br />英国科学、创新和技术大臣彼得·凯尔接受记者采访时表示，英国政府不排除进一步加强现有的网络安全规定，包括可能效仿澳大利亚的做法，禁止16岁以下青少年使用社交媒体平台。周三，凯尔在采访时被问及政府是否会禁止16岁以下青少年使用社交媒体。他回答说：“任何措施都在考虑范围之内。”在儿童和社交媒体问题上，凯尔表示政府希望“审视证据”——他指出政府同时启动了一项“可行性研究”，并表示该研究将“审视缺乏证据的领域”。这项研究将“探索智能手机和社交媒体使用对儿童的影响，以帮助加强研究并加强建立更安全的网络世界所需的证据”。<br /><br />—— <a href="https://techcrunch.com/2024/11/20/uk-open-to-social-media-ban-for-kids-as-govt-kicks-off-feasibility-study/" rel="noopener" target="_blank">Techcrunch</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 20 Nov 2024 12:05:24 GMT</pubDate>
-<pubDate>Wed, 20 Nov 2024 12:05:24 GMT</pubDate>
 </item>
-
 <item>
 <title>钱钟书先生在《围城》中讲了这么一个观点，借书有利于男女之间的交往，因为借一次书，还一次书，至少就接触了两次。 那现如今借什么比较好呢🤔 by @菁财资本-...</title>
 <link>https://t.me/jike_collection/10370</link>

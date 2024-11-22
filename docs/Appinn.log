@@ -58328,3 +58328,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 502
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-11-22 17:02:15
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [❓ #问题求助 安卓 求一款基于系统闹钟的提醒软件 https://meta.appinn.net/t/topic/63382](https://t.me/appinnfeed/12712)
+append_entries: 1
+Finish: 2024-11-22 17:02:17

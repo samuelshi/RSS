@@ -4,6 +4,17 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>❓ #问题求助 在Windows系统上，如何强制让任意GUI软件在后台/最小化启动而不显示窗口？ https://meta.appinn.net/t/topic/63409</title>
+<link>https://t.me/appinnfeed/12719</link>
+<guid>https://t.me/appinnfeed/12719</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12719?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />在Windows系统上，如何强制让任意GUI软件在后台/最小化启动而不显示窗口？<br /><a href="https://meta.appinn.net/t/topic/63409" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/63409</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/63409">在Windows系统上，如何强制让任意GUI软件在后台/最小化启动而不显示窗口？</a></b><br /><p>如标题所述，在Windows系统上（win 10+），有什么办法让本身没有静默启动功能的GUI软件，能够在后台/最小化启动而不显示窗口？  例如：雷电模拟器  最简单的方法是用cmd命令start /min或者Start-Process -WindowStyle Minimized或者快捷方式属性-运行方式-最小化，但个别软件却会忽略这些参数，仍然在前台显示窗口。  当然还可以用像AHK之类的自动化工具或者用powershell调用winapi，启动软件然后自动点击窗口的最小化来实现。但这样会使得屏幕上短暂闪现窗口，仍然不够完美。…</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/ckPS9oeNSJ9N9oMKD9S8T4KOVyxYzxrLyiP8Ro5z39UJ1WmgqE1YteubabCN-t5w5-7evfMtcNSJgmEt38c_IAOwHLOAT432ClePzat9cOjYGNiJ3fz2zN5AGPemegfi91ITS1M3AUY_MHRYayHtaWEgHsMYDAxdiT7V86ODXjcbnnmYpkRqWywNopuylJ-fc4v5171ZrD7KbDbdWHYaGMroPGQZh6Mqwjup3czms2bpbt-EWabFPHeegm2Kdf-eqbjvdAS7-7bPW9cLTS6W9sTNaBcuCp5SAIajGAdbv85emuclVv_YbpMfzBsMWPZMS_hO_MPIakkr_pADZb_iPA.jpg" width="0" /></blockquote>
+]]></content:encoded>
+<pubDate>Sat, 23 Nov 2024 07:03:44 GMT</pubDate>
+<pubDate>Sat, 23 Nov 2024 07:03:44 GMT</pubDate>
+</item>
 
 <item>
 <title>一个有趣的项目： https://github.com/doxx/darkflare</title>

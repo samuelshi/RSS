@@ -4,6 +4,17 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>❓ #问题求助 如何使用Python的ctypes模块调用Windows的NtQueryInformationProcess函数(winternl.h)以获取应用程序的CommandLine参数？ https://meta.appinn.net...</title>
+<link>https://t.me/appinnfeed/12726</link>
+<guid>https://t.me/appinnfeed/12726</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12726?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />如何使用Python的ctypes模块调用Windows的NtQueryInformationProcess函数(winternl.h)以获取应用程序的CommandLine参数？<br /><a href="https://meta.appinn.net/t/topic/63438" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/63438</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/63438">如何使用Python的ctypes模块调用Windows的NtQueryInformationProcess函数(winternl.h)以获取应用程序的CommandLine参数？</a></b><br /><p>如题所述，很久前写了一个脚本，其中很重要的部分是获取A程序的Comdline参数，一直以来用的是subprocess去调用wmic命令，但是这个命令需要管理员权限，就很麻烦。  后面得知psutil库可以直接获取而不用管理员权限，就去看了源码想知道这个轮子是怎么造出来的，然而这部分实现是纯C实现的。  既然如此我想着用 ctypes 去实现，现在的问题是我能成功获取到PEB的内容，但是通过PEB访问RTL_USER_PROCESS_PARAMETERS的内容时整个脚本就无报错退出了，即使是加了异常处理后也是这样。…</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/H2NjbMDHXJU-fQfObe5I_25CZy7x7v7KD7fKTn7WIlOc5JmnjarbDGNOhoHwSUXD2pBtJ_8nOpHChl-iesqj9wMnl_Xedt0ZzIp4LpJNJVs88hXt6ZXmfn_hcwoLMhjwX1Wa7_k-bPtO8f3jgEgDUgrCsNMVLrobLzlto8v23IsbAtDSVQsHWrCnACkTHKs1nc9P1tBd9qqWIoKd-xsey7FzLJfrZs-Y4Z-MhQPg06-HD2_rcH9GBYDl4b0LjWgLUkR0CnVhDEDHdmCr_1YzQ3yZGQlrtcOD54aMV80CbTk2A29mMWV_IP9wa7HWbl7ecqRaLnvo7VnCvEOSo1PxUQ.jpg" width="0" /></blockquote>
+]]></content:encoded>
+<pubDate>Sun, 24 Nov 2024 12:52:41 GMT</pubDate>
+<pubDate>Sun, 24 Nov 2024 12:52:41 GMT</pubDate>
+</item>
 
 <item>
 <title>❓ #问题求助 有些文件 Everything 搜索不出来 https://meta.appinn.net/t/topic/63436</title>

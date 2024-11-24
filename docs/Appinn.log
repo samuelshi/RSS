@@ -58667,3 +58667,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Append: [❓ #问题求助 如何使用Python的ctypes模块调用Windows的NtQueryInformationProcess函数(winternl.h)以获取应用程序的CommandLine参数？ https://meta.appinn.net...](https://t.me/appinnfeed/12726)
 append_entries: 1
 Finish: 2024-11-24 21:05:21
+------------------------------------------------------
+Started: 2024-11-24 22:02:20
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 530
+append_entries: 0
+error when rendering xml, skip docs/Appinn

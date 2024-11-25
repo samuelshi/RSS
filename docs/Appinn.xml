@@ -4,6 +4,28 @@
 <title>Appinn Feed - Telegram Channel</title>
 <link>https://t.me/s/appinnfeed</link>
 
+<item>
+<title>❓ #问题求助 Hyper-V 虚拟机（windows/linux）全屏后，如何设置才能不遮挡宿主机（win11）的任务栏？ https://meta.appinn.net/t/topic/63448</title>
+<link>https://t.me/appinnfeed/12728</link>
+<guid>https://t.me/appinnfeed/12728</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12728?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />Hyper-V 虚拟机（windows/linux）全屏后，如何设置才能不遮挡宿主机（win11）的任务栏？ <br /><a href="https://meta.appinn.net/t/topic/63448" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/63448</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/63448">Hyper-V 虚拟机（windows/linux）全屏后，如何设置才能不遮挡宿主机（win11）的任务栏？</a></b><br /><p>有时需要来回在虚拟机和宿主机间切换，虚拟机全屏时退出的话，需要再点击任务栏还原虚拟机，略显麻烦。</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/H2NjbMDHXJU-fQfObe5I_25CZy7x7v7KD7fKTn7WIlOc5JmnjarbDGNOhoHwSUXD2pBtJ_8nOpHChl-iesqj9wMnl_Xedt0ZzIp4LpJNJVs88hXt6ZXmfn_hcwoLMhjwX1Wa7_k-bPtO8f3jgEgDUgrCsNMVLrobLzlto8v23IsbAtDSVQsHWrCnACkTHKs1nc9P1tBd9qqWIoKd-xsey7FzLJfrZs-Y4Z-MhQPg06-HD2_rcH9GBYDl4b0LjWgLUkR0CnVhDEDHdmCr_1YzQ3yZGQlrtcOD54aMV80CbTk2A29mMWV_IP9wa7HWbl7ecqRaLnvo7VnCvEOSo1PxUQ.jpg" width="0" /></blockquote>
+]]></content:encoded>
+<pubDate>Sun, 24 Nov 2024 23:33:12 GMT</pubDate>
+<pubDate>Sun, 24 Nov 2024 23:33:12 GMT</pubDate>
+</item>
+<item>
+<title>❓ #问题求助 通过WSL2跑深度学习模型，需要安装nvidia container toolkit吗？ https://meta.appinn.net/t/topic/63446</title>
+<link>https://t.me/appinnfeed/12727</link>
+<guid>https://t.me/appinnfeed/12727</guid>
+<content:encoded><![CDATA[
+
+<p><span class="emoji">❓</span> <a href="https://t.me/appinnfeed/12727?q=%23%E9%97%AE%E9%A2%98%E6%B1%82%E5%8A%A9">#问题求助</a><br />通过WSL2跑深度学习模型，需要安装nvidia container toolkit吗？ <br /><a href="https://meta.appinn.net/t/topic/63446" rel="noopener" target="_blank">https://meta.appinn.net/t/topic/63446</a></p><blockquote><b>小众软件官方论坛</b><br /><b><a href="https://meta.appinn.net/t/topic/63446">通过WSL2跑深度学习模型，需要安装nvidia container toolkit吗？</a></b><br /><p>宿主机是win11，安装了Docker Desktop，并设置将WSL2的linux子系统 作为默认（子系统直接使用宿主机的docker，未安装docker ce）。  Docker的教程上，没有提及需要在WSL2 的linux子系统中安装nvidia container toolkit，但nvidia container toolkit的github仓库中，issue板块有提及需要在linux子系统中安装。  有点糊涂，特意请教下？</p><img height="0.00" src="https://cdn4.cdn-telegram.org/file/H2NjbMDHXJU-fQfObe5I_25CZy7x7v7KD7fKTn7WIlOc5JmnjarbDGNOhoHwSUXD2pBtJ_8nOpHChl-iesqj9wMnl_Xedt0ZzIp4LpJNJVs88hXt6ZXmfn_hcwoLMhjwX1Wa7_k-bPtO8f3jgEgDUgrCsNMVLrobLzlto8v23IsbAtDSVQsHWrCnACkTHKs1nc9P1tBd9qqWIoKd-xsey7FzLJfrZs-Y4Z-MhQPg06-HD2_rcH9GBYDl4b0LjWgLUkR0CnVhDEDHdmCr_1YzQ3yZGQlrtcOD54aMV80CbTk2A29mMWV_IP9wa7HWbl7ecqRaLnvo7VnCvEOSo1PxUQ.jpg" width="0" /></blockquote>
+]]></content:encoded>
+<pubDate>Sun, 24 Nov 2024 23:33:11 GMT</pubDate>
+<pubDate>Sun, 24 Nov 2024 23:33:11 GMT</pubDate>
+</item>
 
 <item>
 <title>❓ #问题求助 如何使用Python的ctypes模块调用Windows的NtQueryInformationProcess函数(winternl.h)以获取应用程序的CommandLine参数？ https://meta.appinn.net...</title>

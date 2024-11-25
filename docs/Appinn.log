@@ -58730,3 +58730,11 @@ Existing_entries: 1000
 Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2024-11-25 07:01:52
+------------------------------------------------------
+Started: 2024-11-25 08:04:34
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [❓ #问题求助 Hyper-V 虚拟机（windows/linux）全屏后，如何设置才能不遮挡宿主机（win11）的任务栏？ https://meta.appinn.net/t/topic/63448](https://t.me/appinnfeed/12728)
+Append: [❓ #问题求助 通过WSL2跑深度学习模型，需要安装nvidia container toolkit吗？ https://meta.appinn.net/t/topic/63446](https://t.me/appinnfeed/12727)
+append_entries: 2
+Finish: 2024-11-25 08:04:35

@@ -58738,3 +58738,10 @@ Append: [❓ #问题求助 Hyper-V 虚拟机（windows/linux）全屏后，如�
 Append: [❓ #问题求助 通过WSL2跑深度学习模型，需要安装nvidia container toolkit吗？ https://meta.appinn.net/t/topic/63446](https://t.me/appinnfeed/12727)
 append_entries: 2
 Finish: 2024-11-25 08:04:35
+------------------------------------------------------
+Started: 2024-11-25 09:28:41
+Existing_entries: 1002
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 530
+append_entries: 0
+error when rendering xml, skip docs/Appinn

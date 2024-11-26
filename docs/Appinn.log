@@ -58951,3 +58951,11 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 502
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-11-26 18:02:16
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [SQLiteStudio：创建、编辑、浏览 SQLite 数据库 https://sqlitestudio.pl/](https://t.me/appinnfeed/12742)
+Append: [💧 #小众软件 Web Visual Editor – 实时可视化编辑 HTML 文件[VS Code 扩展] https://www.appinn.com/web-visual-editor-for-vscode/](https://t.me/appinnfeed/12741)
+append_entries: 2
+Finish: 2024-11-26 18:02:18

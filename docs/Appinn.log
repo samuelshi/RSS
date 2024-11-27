@@ -59125,3 +59125,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Append: [📣 #发现频道 [原创作品]FatbeansV1.0.5：TCP抓包改包与调试的瑞士军刀，融合了Wireshark、Fiddler、WPE https://meta.appinn.net/t/topic/63548](https://t.me/appinnfeed/12762)
 append_entries: 1
 Finish: 2024-11-27 18:01:48
+------------------------------------------------------
+Started: 2024-11-27 19:01:29
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 530
+append_entries: 0
+error when rendering xml, skip docs/Appinn

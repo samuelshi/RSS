@@ -59050,3 +59050,10 @@ Existing_entries: 1000
 Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 append_entries: 0
 Finish: 2024-11-27 08:04:13
+------------------------------------------------------
+Started: 2024-11-27 09:28:45
+Existing_entries: 1000
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 530
+append_entries: 0
+error when rendering xml, skip docs/Appinn

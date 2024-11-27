@@ -59088,3 +59088,10 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Append: [💧 #小众软件 SnippetsLab 免费了！程序员必备的 Mac 代码片段管理工具 https://www.appinn.com/snippetslab/](https://t.me/appinnfeed/12756)
 append_entries: 1
 Finish: 2024-11-27 13:01:42
+------------------------------------------------------
+Started: 2024-11-27 14:01:42
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Feed error: 502
+append_entries: 0
+error when rendering xml, skip docs/Appinn

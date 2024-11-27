@@ -59095,3 +59095,12 @@ Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
 Feed error: 502
 append_entries: 0
 error when rendering xml, skip docs/Appinn
+------------------------------------------------------
+Started: 2024-11-27 15:01:54
+Existing_entries: 1001
+Fetching from https://rsshub.bytegeniuses.com/telegram/channel/appinnfeed
+Append: [rmtrash 是一个小实用程序，可以将文件移至 macOS 的垃圾箱，而不是删除文件（如 rm 那样）。 https://github.com/TBXark/rmtrash](https://t.me/appinnfeed/12759)
+Append: [🖼 华盛顿邮报（付费墙）报道：在艺术家泄露访问权限以示抗议后，OpenAI 暂停了视频模型 Sora 的开发](https://t.me/appinnfeed/12758)
+Append: [🖼 有位同学晒出了ta的手机占用截图](https://t.me/appinnfeed/12757)
+append_entries: 3
+Finish: 2024-11-27 15:01:56
